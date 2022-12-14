@@ -1,0 +1,485 @@
+[
+    {
+        "nome": "Arco da Porta Nova",
+        "localizacao": {
+            "endereco": "R. Dom Diogo de Sousa 127",
+            "latitude": 41.550281,
+            "longitude": -8.429341
+        },
+        "descricao": "Referência Histórica",
+        "horaAbertura": "00:00",
+        "horaFecho": "24:00",
+        "website": " ",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "105.219.10.100": 4,
+                "81.115.192.30": 5,
+                "110.45.30.26": 2,
+                "202.203.145.154": 3,
+                "10.138.142.64": 3,
+                "178.24.50.45": 4
+            },
+            "media": 3.5
+        },
+        "gestor": "arcoportanova@gmail.com"
+    },
+    {
+        "nome": "Casa dos Crivos",
+        "localizacao": {
+            "endereco": "R. de São Marcos 37",
+            "latitude": 41.550542,
+            "longitude": -8.423426
+        },
+        "descricao": "Galeria",
+        "horaAbertura": "10:00",
+        "horaFecho": "18:00",
+        "website": "http://www.cm-braga.pt/pt/1201/viver/cultura-e-patrimonio/dinamizacao-cultura-espacos-culturais/item/item-1-494",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "143.14.12.125": 5,
+                "70.109.208.28": 2,
+                "192.168.1.10": 3,
+                "192.168.1.20": 1,
+                "192.168.1.11": 4,
+                "11.152.21.39": 3,
+                "199.81.146.82": 4,
+                "113.92.247.112": 1,
+                "233.37.125.188": 4
+            },
+            "media": 3.0
+        },
+        "gestor": "crivos@gmail.com"
+    },
+    {
+        "nome": "Museu dos Biscainhos",
+        "localizacao": {
+            "endereco": "R. dos Biscaínhos",
+            "latitude": 41.551145,
+            "longitude": -8.42943
+        },
+        "descricao": "Museu",
+        "horaAbertura": "10:00",
+        "horaFecho": "17:30",
+        "website": "http://www.museudosbiscainhos.gov.pt/",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "31.18.15.91": 3,
+                "41.125.140.226": 4,
+                "195.206.161.144": 2,
+                "110.122.32.176": 5,
+                "155.132.195.236": 4
+            },
+            "media": 3.6
+        },
+        "gestor": "biscainhos@gmail.com"
+    },
+    {
+        "nome": "Palácio do Raio",
+        "localizacao": {
+            "endereco": "Braga Norte 920",
+            "latitude": 41.548419,
+            "longitude": -8.422535
+        },
+        "descricao": "Palácio",
+        "horaAbertura": "10:00",
+        "horaFecho": "18:30",
+        "website": "http://www.scmbraga.pt/",
+        "eventos": {
+            "Visita Guiada": {
+                "nome": "Visita Guiada",
+                "descricao": "Visita Guiada pelo Dr.José no Palácio",
+                "dataHora": "2022-01-28T10:00:00"
+            }
+        },
+        "classificacoes": {
+            "classificacoes": {
+                "96.22.107.200": 4,
+                "118.213.41.28": 4,
+                "192.168.1.12": 4,
+                "192.168.1.11": 2,
+                "156.123.251.253": 3,
+                "122.192.125.200": 5,
+                "24.8.120.62": 3,
+                "152.141.0.201": 2
+            },
+            "media": 3.375
+        },
+        "gestor": "raio@gmail.com"
+    },
+    {
+        "nome": "Museu da Imagem",
+        "localizacao": {
+            "endereco": "Campo das Hortas 35",
+            "latitude": 41.550371,
+            "longitude": -8.429369
+        },
+        "descricao": "Museu",
+        "horaAbertura": "14:30",
+        "horaFecho": "18:30",
+        "website": "http://museudaimagem.blogspot.com/",
+        "eventos": {
+            "Visita Guiada": {
+                "nome": "Visita Guiada",
+                "descricao": "Visita Guiada ao Museu",
+                "dataHora": "2022-01-27T16:00:00"
+            }
+        },
+        "classificacoes": {
+            "classificacoes": {
+                "14.253.204.236": 5,
+                "165.169.181.195": 3,
+                "74.149.9.236": 2,
+                "174.91.96.130": 3
+            },
+            "media": 3.25
+        },
+        "gestor": "museudaimagem@gmail.com"
+    },
+    {
+        "nome": "Praça do Município",
+        "localizacao": {
+            "endereco": "Jardim da Praça do Município",
+            "latitude": 41.551193,
+            "longitude": -8.427759
+        },
+        "descricao": "Jardim Público",
+        "horaAbertura": "00:00",
+        "horaFecho": "24:00",
+        "website": " ",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "123.239.29.177": 4,
+                "134.154.61.127": 5,
+                "37.146.228.62": 5,
+                "133.62.95.6": 4,
+                "188.65.143.164": 3
+            },
+            "media": 4.2
+        },
+        "gestor": "jardimmunicipio@gmail.com"
+    },
+    {
+        "nome": "Tesouro-Museu da Sé de Braga",
+        "localizacao": {
+            "endereco": "Sé",
+            "latitude": 41.55038,
+            "longitude": -8.427576
+        },
+        "descricao": "Museu",
+        "horaAbertura": "08:00",
+        "horaFecho": "19:00",
+        "website": "http://se-braga.pt/",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "133.11.176.211": 4,
+                "188.22.131.150": 3,
+                "237.18.247.132": 4,
+                "175.253.243.87": 5,
+                "107.247.32.128": 5,
+                "151.189.221.8": 2,
+                "216.237.164.132": 4,
+                "220.146.8.177": 5,
+                "235.33.127.6": 5
+            },
+            "media": 4.111111111111111
+        },
+        "gestor": "museuse@gmail.com"
+    },
+    {
+        "nome": "Chafariz do Castelo",
+        "localizacao": {
+            "endereco": "Largo do Paço",
+            "latitude": 41.550774,
+            "longitude": -8.426345
+        },
+        "descricao": "Referência Histórica",
+        "horaAbertura": "00:00",
+        "horaFecho": "24:00",
+        "website": " ",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "243.148.87.248": 4,
+                "29.0.219.74": 3,
+                "24.160.11.236": 5,
+                "75.167.171.57": 3
+            },
+            "media": 3.75
+        },
+        "gestor": "chafarizcastelo@gmail.com"
+    },
+    {
+        "nome": "Antigo Paço Arquiepiscopal",
+        "localizacao": {
+            "endereco": "Praça Mun.",
+            "latitude": 41.550844,
+            "longitude": -8.427059
+        },
+        "descricao": "Referência Histórica",
+        "horaAbertura": "09:00",
+        "horaFecho": "19:30",
+        "website": "http://www.cm-braga.pt/",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "70.120.49.160": 3,
+                "194.25.77.29": 3,
+                "84.70.68.163": 2
+            },
+            "media": 2.6666666666666665
+        },
+        "gestor": "pacoarqui@gmail.com"
+    },
+    {
+        "nome": "Termas Romanas do Alto da Cividade",
+        "localizacao": {
+            "endereco": "R. Dr. Rocha Peixoto 13",
+            "latitude": 41.546324,
+            "longitude": -8.429455
+        },
+        "descricao": "Ruínas escavadas de vasto complexo de banhos públicos romano, ativo entre os séculos I e III a.C.",
+        "horaAbertura": "11:00",
+        "horaFecho": "17:30",
+        "website": "http://www.patrimoniocultural.pt/pt/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/69713/",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "159.211.30.162": 3,
+                "178.234.70.96": 4,
+                "177.47.100.170": 5,
+                "153.218.95.105": 5,
+                "211.212.165.12": 4,
+                "29.67.26.255": 4
+            },
+            "media": 4.166666666666667
+        },
+        "gestor": "termas@gmail.com"
+    },
+    {
+        "nome": "Theatro Circo",
+        "localizacao": {
+            "endereco": "Av. da Liberdade 697",
+            "latitude": 41.549778,
+            "longitude": -8.422373
+        },
+        "descricao": "Teatro",
+        "horaAbertura": "08:00",
+        "horaFecho": "20:00",
+        "website": "http://www.theatrocirco.com/",
+        "eventos": {
+            "Auto da Barca do Inferno - Gil Vicente": {
+                "nome": "Auto da Barca do Inferno - Gil Vicente",
+                "descricao": "Peça de Teatro de Gil Vicente",
+                "dataHora": "2022-01-30T17:30:00"
+            },
+            "Frei Luís de Sousa - Almeida Garrett": {
+                "nome": "Frei Luís de Sousa - Almeida Garrett",
+                "descricao": "Peça de Teatro adaptada da obra Frei Luís de Sousa",
+                "dataHora": "2022-01-30T15:40:00"
+            }
+        },
+        "classificacoes": {
+            "classificacoes": {
+                "146.119.191.137": 4,
+                "63.171.237.167": 4,
+                "14.68.115.234": 5,
+                "35.72.208.22": 2,
+                "117.153.80.47": 4,
+                "93.252.188.52": 5,
+                "148.114.165.59": 2,
+                "120.72.205.196": 3
+            },
+            "media": 3.625
+        },
+        "gestor": "joseoliveira@gmail.com"
+    },
+    {
+        "nome": "Museu Pio XII",
+        "localizacao": {
+            "endereco": "Largo de Santiago 47",
+            "latitude": 41.548634,
+            "longitude": -8.425702
+        },
+        "descricao": "Museu",
+        "horaAbertura": "09:30",
+        "horaFecho": "18:00",
+        "website": "http://www.museupioxii.com/",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "228.236.139.193": 5,
+                "0.218.248.150": 3
+            },
+            "media": 4.0
+        },
+        "gestor": "pioxii@gmail.com"
+    },
+    {
+        "nome": "Jardim de Santa Barbara",
+        "localizacao": {
+            "endereco": "R. Eça de Queirós",
+            "latitude": 41.551363,
+            "longitude": -8.42585
+        },
+        "descricao": "Jardim Público",
+        "horaAbertura": "00:00",
+        "horaFecho": "24:00",
+        "website": " ",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "228.88.4.170": 4,
+                "147.4.243.254": 2,
+                "182.217.84.179": 3,
+                "11.94.59.222": 4,
+                "218.167.12.206": 3,
+                "0.70.102.27": 5,
+                "68.81.20.27": 5
+            },
+            "media": 3.7142857142857144
+        },
+        "gestor": "jardimsantabarbara@gmail.com"
+    },
+    {
+        "nome": "Museu do Traje Dr. Gonçalo Sampaio",
+        "localizacao": {
+            "endereco": "Rua do Raio, nº2",
+            "latitude": 41.548463,
+            "longitude": -8.422241
+        },
+        "descricao": "Museu",
+        "horaAbertura": "14:30",
+        "horaFecho": "17:30",
+        "website": "https://www.facebook.com/pages/Museu-do-Traje-Dr-Gon%C3%A7alo-Sampaio/624787914249513?sk=timeline&ref=page_internal",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "227.60.81.179": 2,
+                "125.226.43.9": 3,
+                "32.212.53.35": 4,
+                "26.67.63.81": 4
+            },
+            "media": 3.25
+        },
+        "gestor": "sampaio@gmail.com"
+    },
+    {
+        "nome": "Nogueira da Silva Museum",
+        "localizacao": {
+            "endereco": "Av. Central 61",
+            "latitude": 41.552023,
+            "longitude": -8.421801
+        },
+        "descricao": "Museu",
+        "horaAbertura": "09:00",
+        "horaFecho": "18:00",
+        "website": "http://www.mns.uminho.pt/",
+        "eventos": {
+            "Visita Guiada": {
+                "nome": "Visita Guiada",
+                "descricao": "Visita Guiada ao Museu",
+                "dataHora": "2022-01-24T15:30:00"
+            }
+        },
+        "classificacoes": {
+            "classificacoes": {
+                "4.239.49.39": 4,
+                "216.57.99.82": 4,
+                "79.51.197.242": 5
+            },
+            "media": 4.333333333333333
+        },
+        "gestor": "nogueirasilva@gmail.com"
+    },
+    {
+        "nome": "Museu de Arqueologia D. Diogo de Sousa",
+        "localizacao": {
+            "endereco": "R. dos Bombeiros Voluntários",
+            "latitude": 41.546118,
+            "longitude": -8.427217
+        },
+        "descricao": "Museu com uma variedade de itens escavados utilizados entre o Paleolítico e a Idade Média.",
+        "horaAbertura": "10:00",
+        "horaFecho": "17:30",
+        "website": "https://www.museuddiogodesousa.gov.pt/",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "129.115.51.32": 4,
+                "2.22.126.102": 4,
+                "161.26.100.228": 4,
+                "74.238.56.195": 5,
+                "193.79.244.132": 5,
+                "127.24.161.120": 5,
+                "176.1.6.183": 3
+            },
+            "media": 4.285714285714286
+        },
+        "gestor": "diogosousa@gmail.com"
+    },
+    {
+        "nome": "Antigo Castelo de Braga/Torre de Menagem",
+        "localizacao": {
+            "endereco": "R. do Castelo 19",
+            "latitude": 41.551355,
+            "longitude": -8.423939
+        },
+        "descricao": "Referência Histórica",
+        "horaAbertura": "10:00",
+        "horaFecho": "18:00",
+        "website": "https://www.cm-braga.pt/pt/1201/conhecer/historia-e-patrimonio/patrimonio-cultural/patrimonio-edificado/item/item-1-612",
+        "eventos": {
+            "Visita Guiada": {
+                "nome": "Visita Guiada",
+                "descricao": "Visita Guiada ao Museu",
+                "dataHora": "2022-01-26T11:30:00"
+            }
+        },
+        "classificacoes": {
+            "classificacoes": {
+                "188.138.80.194": 4,
+                "136.184.88.12": 4,
+                "159.40.26.170": 3,
+                "66.147.231.99": 4,
+                "123.228.138.97": 5,
+                "177.105.55.37": 5
+            },
+            "media": 4.166666666666667
+        },
+        "gestor": "castelobraga@gmail.com"
+    },
+    {
+        "nome": "Fonte do Ídolo",
+        "localizacao": {
+            "endereco": "R. do Raio 379",
+            "latitude": 41.548672,
+            "longitude": -8.421942
+        },
+        "descricao": "Referência Histórica",
+        "horaAbertura": "11:00",
+        "horaFecho": "17:30",
+        "website": "http://www.cm-braga.pt/",
+        "eventos": {},
+        "classificacoes": {
+            "classificacoes": {
+                "225.68.153.161": 3,
+                "21.195.91.182": 2,
+                "209.118.98.40": 5,
+                "245.123.191.52": 5,
+                "246.188.22.165": 4,
+                "190.9.197.28": 4,
+                "156.46.18.208": 5,
+                "255.219.184.58": 3,
+                "56.72.240.183": 5,
+                "36.4.65.142": 4
+            },
+            "media": 4.0
+        },
+        "gestor": "idolo@gmail.com"
+    }
+]

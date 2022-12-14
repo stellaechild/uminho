@@ -1,0 +1,77 @@
+Este TXT reflete todas as mudancas efetuadas à especificação original ao longo do projeto.
+
+
+---------ADICAO DA CLASSE LOCALIZACAO-----------
+String não funcionava como localização, classe criada, contem endereco, latitude e longitude.
+-Local: variavel localizacao: String -> Localizacao
+-IColereFacede: pesquisarLocais: 1arg String -> Localizacao
+-ColereFacede: pesquisarLocais: 1arg String -> Localizacao
+
+
+---------INTERFACE / FACADE -----------------------
+Método pedirPercurso não contém argumentos para executar as comparações dependendo do critétio.
+Se receber o critério "distancia", não há a localizacao do utilizador fornecida. ou por "avaliacao" nao contem o minimo estrelas
+-Método pedirPercusoDistancia adicionado
+-Método pedirPercursoAvaliação adicionado
+-Método editarLocal adicionado
+-Método editarEvento adicionado
+-Método privado getLocalGestor adicionado
+-Método pedirPercurso apagado. 
+
+
+Métodos que necessitam atirar exceções
+-Método avaliarLocal "throws" LocalInexistente
+-Método consultaLocal "throws" LocalInexistente
+-Método login "throws" GestorInexistente
+-Método adicionarEvento "throws" GestorInexistente, LocalInexistente e EventoJaExiste
+-Método removerEvento "throws" GestorInexistente, LocalInexistente e EventoInexistente
+
+
+Método adicionarEvento chama método inexistente. (Diagrama de Sequência)
+Falta argumentos para identificar o gestor, assim como informação do evento
+-Método adicionarEvento +args String email, LocalDateTime data, String descricao 
+
+Método removerEvento necessita argumento para identificar o gestor. Retorna Evento o que é desnecessário
+-Método removerEvento +args String email
+-Return Evento -> Void
+
+
+
+----------CLASSE GESTOR-------------------------------
+Métodos Descartados (Redundantes ou a serem implementados na Interface)
+-obterEvento 
+-removerEvento
+-adicionaEvento 
+-adicionaInfoEvento 
+-consultarLocal 
+-obterEventos 
+-editarEventos
+-editarLocal
+
+Método adicionado
+-getLocal
+
+
+----------CLASSE LOCAL------------------------------------
+Método adicionaEvento e addInfo mixed. (Adicionar evento requer toda a info)
+
+Método adicionado
+-Método puEvento (substitui adicionaEvento, tbm faz "edit")
+-Método editar (Editar o local)
+
+Métodos que necessitam atirar exceções
+//-procuraEvento throws "EventoInexistente" <- Método inutil  (Comentado)
+-removerEvento throws "EventoInexistente"
+
+
+
+----------CLASSE EVENTO-------------------------------------
+Métodos adicionados
+-getNome
+-getDescricao
+-getDataHora (Substitiu obterData)
+
+
+----------CLASSE CLASSIFICACOES-------------------------------------
+"IP" Interpretado como String
+Método calcula média privado 

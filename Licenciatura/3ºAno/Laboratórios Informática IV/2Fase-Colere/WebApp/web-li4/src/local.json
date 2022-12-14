@@ -1,0 +1,25 @@
+{
+    "nome": "Arco da Porta Nova",
+    "localizacao": {
+        "endereco": "R. Dom Diogo de Sousa 127",
+        "latitude": 41.550281,
+        "longitude": -8.429341
+    },
+    "descricao": "Referência Histórica",
+    "horaAbertura": "00:00",
+    "horaFecho": "24:00",
+    "website": " ",
+    "eventos": {},
+    "classificacoes": {
+        "classificacoes": {
+            "105.219.10.100": 4,
+            "81.115.192.30": 5,
+            "110.45.30.26": 2,
+            "202.203.145.154": 3,
+            "10.138.142.64": 3,
+            "178.24.50.45": 4
+        },
+        "media": 3.5
+    },
+    "gestor": "arcoportanova@gmail.com"
+}
