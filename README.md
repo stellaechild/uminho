@@ -1,4 +1,4 @@
-# **Universidade do Minho - MIEI (LEI + MEI) **
+# Universidade do Minho - MIEI (LEI + MEI) 
 
 Repositório de todos os projetos realizados no decorrer da [Licenciatura](#licenciatura) do curso de Engenharia Informática, completos com a nota obtida em cada um desses.
 
