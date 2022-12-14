@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Colere"},{"l":"Colere.Exceptions"},{"l":"grupo19.colereLNServer"}];updateSearchResults();
