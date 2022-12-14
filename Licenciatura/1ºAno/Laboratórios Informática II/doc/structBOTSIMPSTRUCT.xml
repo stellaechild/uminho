@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="structBOTSIMPSTRUCT" kind="struct" language="C++" prot="public">
+    <compoundname>BOTSIMPSTRUCT</compoundname>
+    <includes refid="botsimples_8h" local="no">botsimples.h</includes>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structBOTSIMPSTRUCT_1a2a7f4cedf2424083b50e92bca7c558fa" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int BOTSIMPSTRUCT::rating</definition>
+        <argsstring></argsstring>
+        <name>rating</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botsimples.h" line="18" column="1" bodyfile="projeto/botsimples.h" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structBOTSIMPSTRUCT_1a148a12d197b52aa5f551d129ea85b9fc" prot="public" static="no" mutable="no">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA BOTSIMPSTRUCT::casa</definition>
+        <argsstring></argsstring>
+        <name>casa</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botsimples.h" line="19" column="1" bodyfile="projeto/botsimples.h" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Estrutura de dados usada pelo bot simples. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="8">
+        <label>COORDENADA</label>
+        <link refid="structCOORDENADA"/>
+      </node>
+      <node id="7">
+        <label>BOTSIMPSTRUCT</label>
+        <link refid="structBOTSIMPSTRUCT"/>
+        <childnode refid="8" relation="usage">
+          <edgelabel>casa</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="projeto/botsimples.h" line="17" column="1" bodyfile="projeto/botsimples.h" bodystart="17" bodyend="20"/>
+    <listofallmembers>
+      <member refid="structBOTSIMPSTRUCT_1a148a12d197b52aa5f551d129ea85b9fc" prot="public" virt="non-virtual"><scope>BOTSIMPSTRUCT</scope><name>casa</name></member>
+      <member refid="structBOTSIMPSTRUCT_1a2a7f4cedf2424083b50e92bca7c558fa" prot="public" virt="non-virtual"><scope>BOTSIMPSTRUCT</scope><name>rating</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

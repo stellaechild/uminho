@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="logicaprograma_8c" kind="file" language="C++">
+    <compoundname>logicaprograma.c</compoundname>
+    <includes refid="camadadados_8h" local="yes">camadadados.h</includes>
+    <includes refid="logicaprograma_8h" local="yes">logicaprograma.h</includes>
+    <incdepgraph>
+      <node id="69">
+        <label>camadadados.h</label>
+        <link refid="camadadados_8h"/>
+      </node>
+      <node id="68">
+        <label>projeto/logicaprograma.c</label>
+        <link refid="logicaprograma_8c"/>
+        <childnode refid="69" relation="include">
+        </childnode>
+        <childnode refid="70" relation="include">
+        </childnode>
+      </node>
+      <node id="70">
+        <label>logicaprograma.h</label>
+        <link refid="logicaprograma_8h"/>
+      </node>
+    </incdepgraph>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="logicaprograma_8c_1ac313d7e553b1e2b5f266acb9bfff8141" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int jogar</definition>
+        <argsstring>(ESTADO *e, COORDENADA c)</argsstring>
+        <name>jogar</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>estado</declname>
+          <defname>e</defname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Função que executa uma jogada. Avalia se é válida e executa-a. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada a ser jogada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Indicador de sucesso. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.c" line="4" column="1" bodyfile="projeto/logicaprograma.c" bodystart="4" bodyend="11"/>
+      </memberdef>
+      <memberdef kind="function" id="logicaprograma_8c_1ab1160bacb55fe9977b2a60e615c2e627" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int jogada_valida</definition>
+        <argsstring>(ESTADO *e, COORDENADA c)</argsstring>
+        <name>jogada_valida</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Esta função testa se uma dada jogada é válida, dado um estado e uma certa coordenada. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Indicador de sucesso. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.c" line="13" column="1" bodyfile="projeto/logicaprograma.c" bodystart="13" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="logicaprograma_8c_1a6c63fcd686850cc8465daf4801440752" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref></type>
+        <definition>FIM jogo_terminado</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>jogo_terminado</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Esta função verifica se o jogo acabou, e se sim, qual o jogador que o ganhou. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Dado FIM que indica se o jogo acabou. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.c" line="26" column="1" bodyfile="projeto/logicaprograma.c" bodystart="26" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="logicaprograma_8c_1a09c3460a598371bd099e7ec6d7659323" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref></type>
+        <definition>FIM verifica_a_volta</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>verifica_a_volta</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Função que verifica as casas à volta da peça BRANCA (procura por peças não PRETAS). </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Retorna um dado FIM. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.c" line="44" column="1" bodyfile="projeto/logicaprograma.c" bodystart="44" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="logicaprograma_8c_1ab319d0212266003957c1fd38524a89fc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA pos_coordenada</definition>
+        <argsstring>(COORDENADA jog, int pos)</argsstring>
+        <name>pos_coordenada</name>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>jog</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pos</declname>
+        </param>
+        <briefdescription>
+<para>Função auxiliar. Recebendo uma coordenada e uma posição relativa, devolve a coordenada da casa alvo. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>jog</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pos</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Posição relativa a ser testada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Coordenada pretendida. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.c" line="57" column="1" bodyfile="projeto/logicaprograma.c" bodystart="57" bodyend="63"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#include<sp/>&quot;<ref refid="camadadados_8h" kindref="compound">camadadados.h</ref>&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&quot;<ref refid="logicaprograma_8h" kindref="compound">logicaprograma.h</ref>&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="logicaprograma_8h_1a53472e75f056ceb02b5387193021838a" kindref="member">jogar</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c)<sp/>{</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>r=6;</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="logicaprograma_8h_1ab1160bacb55fe9977b2a60e615c2e627" kindref="member">jogada_valida</ref>(e,c)<sp/>==<sp/>1)<sp/>{</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a598b3397540e456ea6bfb1326e6fc6c5" kindref="member">atualiza_estado</ref>(e,c);</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>r=1;</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>r;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"></highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="logicaprograma_8h_1ab1160bacb55fe9977b2a60e615c2e627" kindref="member">jogada_valida</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c){</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>val,difLin,difCol;</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>tmp<sp/>=<sp/><ref refid="camadadados_8h_1a40555aff97afc67bd1866f2785111310" kindref="member">obter_ultima_jogada</ref>(e);</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>val<sp/>=<sp/>1;</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="camadadados_8h_1a6faa68373203923729ed38657aa0f768" kindref="member">obter_estado_casa</ref>(e,c)<sp/>==<sp/>PRETA)<sp/>val<sp/>=<sp/>0;</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>difLin<sp/>=<sp/>tmp.linha<sp/>-<sp/>c.linha;</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>difCol<sp/>=<sp/><sp/>tmp.coluna<sp/>-<sp/>c.coluna;</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>((difCol<sp/>==<sp/>0<sp/>&amp;&amp;<sp/>difLin<sp/>==<sp/>0)<sp/>||<sp/>(difCol<sp/>&gt;<sp/>1<sp/>||<sp/>difCol<sp/>&lt;<sp/>-1)<sp/>||<sp/>(difLin<sp/>&gt;<sp/>1<sp/>||<sp/>difLin<sp/>&lt;<sp/>-1))<sp/>val<sp/>=<sp/>0;</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>val;</highlight></codeline>
+<codeline lineno="24"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/><ref refid="logicaprograma_8h_1a6c63fcd686850cc8465daf4801440752" kindref="member">jogo_terminado</ref><sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/><sp/>*e){<sp/></highlight><highlight class="comment">//<sp/>0<sp/>-<sp/>Jogo<sp/>não<sp/>acabou.<sp/><sp/><sp/><sp/>1<sp/>-<sp/>Jogador1<sp/>ganha.<sp/><sp/><sp/><sp/><sp/><sp/>2<sp/>-<sp/>Jogador2<sp/>ganha.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>col,lin;</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/>terminado;</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>tmp<sp/>=<sp/><ref refid="camadadados_8h_1a40555aff97afc67bd1866f2785111310" kindref="member">obter_ultima_jogada</ref>(e);</highlight></codeline>
+<codeline lineno="30"><highlight class="normal"><sp/><sp/><sp/><sp/>lin<sp/>=<sp/>tmp.linha;</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"><sp/><sp/><sp/><sp/>col<sp/>=<sp/>tmp.coluna;</highlight></codeline>
+<codeline lineno="32"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(lin<sp/>==<sp/>0<sp/>&amp;&amp;<sp/>col<sp/>==<sp/>7)<sp/>terminado<sp/>=<sp/>JOG2GANHA;</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(lin<sp/>==<sp/>7<sp/>&amp;&amp;<sp/>col<sp/>==<sp/>0)<sp/>terminado<sp/>=<sp/>JOG1GANHA;</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>terminado<sp/>=<sp/><ref refid="logicaprograma_8h_1a09c3460a598371bd099e7ec6d7659323" kindref="member">verifica_a_volta</ref>(e);</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(terminado<sp/>==<sp/>SEMJOGADAS){</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="camadadados_8h_1ad6e326e4ffa57ca1ae0c75377ecefc8c" kindref="member">obter_jogador_atual</ref>(e)<sp/>==<sp/>2)<sp/>terminado<sp/>=<sp/>JOG1GANHA;</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>terminado<sp/>=<sp/>JOG2GANHA;</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>terminado;</highlight></codeline>
+<codeline lineno="42"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"></highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/><ref refid="logicaprograma_8h_1a09c3460a598371bd099e7ec6d7659323" kindref="member">verifica_a_volta</ref><sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e){</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref><sp/>r;</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/>terminado;</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c;</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/>terminado<sp/>=<sp/>SEMJOGADAS;</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>aux<sp/>=<sp/>1;<sp/>aux<sp/>&lt;9;aux++){</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>c<sp/>=<sp/><ref refid="logicaprograma_8h_1ab319d0212266003957c1fd38524a89fc" kindref="member">pos_coordenada</ref>(<ref refid="camadadados_8h_1a40555aff97afc67bd1866f2785111310" kindref="member">obter_ultima_jogada</ref>(e),aux);</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>r<sp/>=<sp/><ref refid="camadadados_8h_1a6faa68373203923729ed38657aa0f768" kindref="member">obter_estado_casa</ref>(e,c);</highlight></codeline>
+<codeline lineno="52"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(r<sp/>!=<sp/>PRETA)<sp/>terminado<sp/>=<sp/>ONGOING;</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>terminado;</highlight></codeline>
+<codeline lineno="55"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"></highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="logicaprograma_8h_1ab319d0212266003957c1fd38524a89fc" kindref="member">pos_coordenada</ref>(<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="botsimples_8h_1aecb278d6ba863d840e20615b9fdb9fde" kindref="member">jog</ref>,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1ac9cec04d46e346878b3a0d46bfbbd12a" kindref="member">pos</ref>){</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(pos&gt;=2<sp/>&amp;&amp;<sp/>pos<sp/>&lt;=<sp/>4)<sp/>jog.coluna++;</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(pos&gt;=6<sp/>&amp;&amp;<sp/>pos<sp/>&lt;=<sp/>8)<sp/>jog.coluna--;</highlight></codeline>
+<codeline lineno="60"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(pos==<sp/>1<sp/>||<sp/>pos<sp/>==<sp/>8<sp/>||<sp/>pos<sp/>==2)<sp/>jog.linha--;</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(pos&gt;=4<sp/>&amp;&amp;<sp/>pos<sp/>&lt;=<sp/>6)<sp/>jog.linha++;</highlight></codeline>
+<codeline lineno="62"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/><ref refid="botsimples_8h_1aecb278d6ba863d840e20615b9fdb9fde" kindref="member">jog</ref>;</highlight></codeline>
+<codeline lineno="63"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="projeto/logicaprograma.c"/>
+  </compounddef>
+</doxygen>

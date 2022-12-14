@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="logicaprograma_8h" kind="file" language="C++">
+    <compoundname>logicaprograma.h</compoundname>
+    <includedby refid="botavancado_8c" local="yes">projeto/botavancado.c</includedby>
+    <includedby refid="botsimples_8c" local="yes">projeto/botsimples.c</includedby>
+    <includedby refid="camadainterface_8c" local="yes">projeto/camadainterface.c</includedby>
+    <includedby refid="gestaodeficheiros_8c" local="yes">projeto/gestaodeficheiros.c</includedby>
+    <includedby refid="logicaprograma_8c" local="yes">projeto/logicaprograma.c</includedby>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="logicaprograma_8h_1a53472e75f056ceb02b5387193021838a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int jogar</definition>
+        <argsstring>(ESTADO *estado, COORDENADA c)</argsstring>
+        <name>jogar</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>estado</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Função que executa uma jogada. Avalia se é válida e executa-a. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada a ser jogada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Indicador de sucesso. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.h" line="14" column="1" bodyfile="projeto/logicaprograma.c" bodystart="4" bodyend="11"/>
+      </memberdef>
+      <memberdef kind="function" id="logicaprograma_8h_1ab1160bacb55fe9977b2a60e615c2e627" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int jogada_valida</definition>
+        <argsstring>(ESTADO *e, COORDENADA c)</argsstring>
+        <name>jogada_valida</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Esta função testa se uma dada jogada é válida, dado um estado e uma certa coordenada. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Indicador de sucesso. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.h" line="21" column="1" bodyfile="projeto/logicaprograma.c" bodystart="13" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="logicaprograma_8h_1a6c63fcd686850cc8465daf4801440752" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref></type>
+        <definition>FIM jogo_terminado</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>jogo_terminado</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Esta função verifica se o jogo acabou, e se sim, qual o jogador que o ganhou. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Dado FIM que indica se o jogo acabou. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.h" line="28" column="1" bodyfile="projeto/logicaprograma.c" bodystart="26" bodyend="42"/>
+      </memberdef>
+      <memberdef kind="function" id="logicaprograma_8h_1a09c3460a598371bd099e7ec6d7659323" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref></type>
+        <definition>FIM verifica_a_volta</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>verifica_a_volta</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Função que verifica as casas à volta da peça BRANCA (procura por peças não PRETAS). </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Retorna um dado FIM. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.h" line="35" column="1" bodyfile="projeto/logicaprograma.c" bodystart="44" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="logicaprograma_8h_1ab319d0212266003957c1fd38524a89fc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA pos_coordenada</definition>
+        <argsstring>(COORDENADA jog, int pos)</argsstring>
+        <name>pos_coordenada</name>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>jog</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pos</declname>
+        </param>
+        <briefdescription>
+<para>Função auxiliar. Recebendo uma coordenada e uma posição relativa, devolve a coordenada da casa alvo. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>jog</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pos</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Posição relativa a ser testada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Coordenada pretendida. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/logicaprograma.h" line="43" column="1" bodyfile="projeto/logicaprograma.c" bodystart="57" bodyend="63"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Módulo utilizado para a inteligência do programa. Esta faz jogadas, avalia o estado e é responsável pela inteligência artifical. </para>    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#ifndef<sp/>LOGICA</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>LOGICA</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="14"><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="logicaprograma_8h_1a53472e75f056ceb02b5387193021838a" kindref="member">jogar</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*estado,<sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c);</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"></highlight></codeline>
+<codeline lineno="21"><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="logicaprograma_8h_1ab1160bacb55fe9977b2a60e615c2e627" kindref="member">jogada_valida</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c);</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/><ref refid="logicaprograma_8h_1a6c63fcd686850cc8465daf4801440752" kindref="member">jogo_terminado</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e);</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/><ref refid="logicaprograma_8h_1a09c3460a598371bd099e7ec6d7659323" kindref="member">verifica_a_volta</ref><sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e);</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="logicaprograma_8h_1ab319d0212266003957c1fd38524a89fc" kindref="member">pos_coordenada</ref>(<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="botsimples_8h_1aecb278d6ba863d840e20615b9fdb9fde" kindref="member">jog</ref>,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1ac9cec04d46e346878b3a0d46bfbbd12a" kindref="member">pos</ref>);</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45"><highlight class="normal"></highlight><highlight class="preprocessor">#endif</highlight></codeline>
+    </programlisting>
+    <location file="projeto/logicaprograma.h"/>
+  </compounddef>
+</doxygen>

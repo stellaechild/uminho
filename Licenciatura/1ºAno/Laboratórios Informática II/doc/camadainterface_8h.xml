@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="camadainterface_8h" kind="file" language="C++">
+    <compoundname>camadainterface.h</compoundname>
+    <includes local="no">stdio.h</includes>
+    <includedby refid="camadainterface_8c" local="yes">projeto/camadainterface.c</includedby>
+    <includedby refid="gestaodeficheiros_8c" local="yes">projeto/gestaodeficheiros.c</includedby>
+    <includedby refid="main_8c" local="yes">projeto/main.c</includedby>
+    <incdepgraph>
+      <node id="45">
+        <label>projeto/camadainterface.h</label>
+        <link refid="camadainterface_8h"/>
+        <childnode refid="46" relation="include">
+        </childnode>
+      </node>
+      <node id="46">
+        <label>stdio.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="47">
+        <label>projeto/camadainterface.h</label>
+        <link refid="camadainterface_8h"/>
+        <childnode refid="48" relation="include">
+        </childnode>
+      </node>
+      <node id="48">
+        <label>projeto/main.c</label>
+        <link refid="main_8c"/>
+      </node>
+    </invincdepgraph>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="camadainterface_8h_1a50c0f407745ed164afdce3bfdee5c836" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void mostrar_tabuleiro</definition>
+        <argsstring>(ESTADO estado, FILE *nome)</argsstring>
+        <name>mostrar_tabuleiro</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref></type>
+          <declname>estado</declname>
+        </param>
+        <param>
+          <type>FILE *</type>
+          <declname>nome</declname>
+        </param>
+        <briefdescription>
+<para>Esta função desenha, dependendo do nome do ficheiro, na consola ou num ficheiro o tabuleiro atual. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>estado</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>O estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>*nome</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Nome do ficheiro onde é gravado. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadainterface.h" line="15" column="1" bodyfile="projeto/camadainterface.c" bodystart="11" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="function" id="camadainterface_8h_1a24da95ebeede4a540e37790ce8be359b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int interpretador</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>interpretador</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Função principal do projeto. Esta está num ciclo constante de interpretação de comandos e execução dos mesmos. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo previamente inicializado. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Retorna 1 se terminado. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadainterface.h" line="22" column="1" bodyfile="projeto/camadainterface.c" bodystart="33" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="function" id="camadainterface_8h_1afe016817e5d2ab60c349288e19025aec" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void escreve_mensagem</definition>
+        <argsstring>(int mensagem)</argsstring>
+        <name>escreve_mensagem</name>
+        <param>
+          <type>int</type>
+          <declname>mensagem</declname>
+        </param>
+        <briefdescription>
+<para>Função para escrita de mensagens de estado do jogo para o user. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>mensagem</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Número da mensagem a ser escrito. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadainterface.h" line="28" column="1" bodyfile="projeto/camadainterface.c" bodystart="112" bodyend="138"/>
+      </memberdef>
+      <memberdef kind="function" id="camadainterface_8h_1a9040e641a0d3c7049d2b4a4484d6c810" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int interpreta_comando</definition>
+        <argsstring>(char linha[], FIM *terminado, ESTADO *e)</argsstring>
+        <name>interpreta_comando</name>
+        <param>
+          <type>char</type>
+          <declname>linha</declname>
+          <array>[]</array>
+        </param>
+        <param>
+          <type><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref> *</type>
+          <declname>terminado</declname>
+        </param>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Função usada na interpretação de comandos. Caso o comando não seja uma jogada esta função é chamada para interpretar. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>linha[]</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>String de input (comando). </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>*terminado</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Tipo de dado FIM para este ser alterado. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado do jogo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadainterface.h" line="36" column="1" bodyfile="projeto/camadainterface.c" bodystart="64" bodyend="110"/>
+      </memberdef>
+      <memberdef kind="function" id="camadainterface_8h_1a88673dc3ebd26b914fe5a2409be682f8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void imprime_lista_de_jogadas</definition>
+        <argsstring>(ESTADO *e, FILE *jogo)</argsstring>
+        <name>imprime_lista_de_jogadas</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>FILE *</type>
+          <declname>jogo</declname>
+        </param>
+        <briefdescription>
+<para>Desenha num ficheiro ou na consola a lista de jogadas do estado atual. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>*jogo</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Nome do ficheiro. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadainterface.h" line="43" column="1" bodyfile="projeto/camadainterface.c" bodystart="140" bodyend="159"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Este módulo contém as funções utilizadas para os vários comandos do jogo. </para>    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#ifndef<sp/>INTERFACE</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>INTERFACE</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;stdio.h&gt;</highlight></codeline>
+<codeline lineno="15"><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadainterface_8h_1a50c0f407745ed164afdce3bfdee5c836" kindref="member">mostrar_tabuleiro</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>estado,FILE<sp/>*nome);</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="22"><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadainterface_8h_1a24da95ebeede4a540e37790ce8be359b" kindref="member">interpretador</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e);</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"></highlight></codeline>
+<codeline lineno="28"><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadainterface_8h_1afe016817e5d2ab60c349288e19025aec" kindref="member">escreve_mensagem</ref>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mensagem);</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"></highlight></codeline>
+<codeline lineno="36"><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadainterface_8h_1a9040e641a0d3c7049d2b4a4484d6c810" kindref="member">interpreta_comando</ref>(</highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>linha[],<ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/>*terminado,<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e);</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43"><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadainterface_8h_1a88673dc3ebd26b914fe5a2409be682f8" kindref="member">imprime_lista_de_jogadas</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,FILE<sp/>*jogo);</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"></highlight></codeline>
+<codeline lineno="45"><highlight class="normal"></highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight><highlight class="preprocessor">#endif</highlight></codeline>
+    </programlisting>
+    <location file="projeto/camadainterface.h"/>
+  </compounddef>
+</doxygen>

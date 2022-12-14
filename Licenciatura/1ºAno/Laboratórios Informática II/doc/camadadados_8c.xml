@@ -1,0 +1,902 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="camadadados_8c" kind="file" language="C++">
+    <compoundname>camadadados.c</compoundname>
+    <includes local="no">stdlib.h</includes>
+    <includes refid="camadadados_8h" local="yes">camadadados.h</includes>
+    <incdepgraph>
+      <node id="24">
+        <label>stdlib.h</label>
+      </node>
+      <node id="23">
+        <label>projeto/camadadados.c</label>
+        <link refid="camadadados_8c"/>
+        <childnode refid="24" relation="include">
+        </childnode>
+        <childnode refid="25" relation="include">
+        </childnode>
+      </node>
+      <node id="25">
+        <label>camadadados.h</label>
+        <link refid="camadadados_8h"/>
+      </node>
+    </incdepgraph>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="camadadados_8c_1a7e0c7e26fb685d9ab501e19b05e6954f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+        <definition>ESTADO* inicializar_estado</definition>
+        <argsstring>()</argsstring>
+        <name>inicializar_estado</name>
+        <briefdescription>
+<para>Esta função inicializa o estado de jogo para o seu estado inicial. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>o estado inicializado. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="4" column="1" bodyfile="projeto/camadadados.c" bodystart="4" bodyend="24"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1ad6e326e4ffa57ca1ae0c75377ecefc8c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int obter_jogador_atual</definition>
+        <argsstring>(ESTADO *estado)</argsstring>
+        <name>obter_jogador_atual</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>estado</declname>
+        </param>
+        <briefdescription>
+<para>Retorna o jogador atual de um estado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*estado</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>O número do jogador atual. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="26" column="1" bodyfile="projeto/camadadados.c" bodystart="26" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a6cd0b387bdee9e18003c78852394aa63" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int obter_numero_de_jogadas</definition>
+        <argsstring>(ESTADO *estado)</argsstring>
+        <name>obter_numero_de_jogadas</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>estado</declname>
+        </param>
+        <briefdescription>
+<para>Retorna o número de jogadas de um estado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*estado</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>O número de jogadas. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="32" column="1" bodyfile="projeto/camadadados.c" bodystart="32" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a6faa68373203923729ed38657aa0f768" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref></type>
+        <definition>CASA obter_estado_casa</definition>
+        <argsstring>(ESTADO *e, COORDENADA c)</argsstring>
+        <name>obter_estado_casa</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Retorna o estado da casa apontada pela coordenada. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada da casa. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Estado da casa. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="38" column="1" bodyfile="projeto/camadadados.c" bodystart="38" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a40555aff97afc67bd1866f2785111310" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA obter_ultima_jogada</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>obter_ultima_jogada</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Obtem a coordenada da última jogada do Estado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Última jogada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="48" column="1" bodyfile="projeto/camadadados.c" bodystart="48" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1aac54b3bd8fcd746520a1d8da01b9d0b1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA obter_jogada_alvo</definition>
+        <argsstring>(ESTADO *e, int alvo)</argsstring>
+        <name>obter_jogada_alvo</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>alvo</declname>
+        </param>
+        <briefdescription>
+<para>Obtem a coordenada do elemento especificado da lista de jogadas. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>alvo</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Número da jogada a retirar. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Coordenada correspondente. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="54" column="1" bodyfile="projeto/camadadados.c" bodystart="54" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1aaaf8f8a27e78dc470b2295c4e9942f4b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_jogador_atual</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>altera_jogador_atual</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Alterna o valor do jogador_atual. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado Alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="62" column="1" bodyfile="projeto/camadadados.c" bodystart="62" bodyend="66"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a414f513e44f330864680acbc54cadd2f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_jogador_atual_alvo</definition>
+        <argsstring>(ESTADO *e, int alvo)</argsstring>
+        <name>altera_jogador_atual_alvo</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>alvo</declname>
+        </param>
+        <briefdescription>
+<para>Altera o valor do jogador_atual para um valor específico. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>alvo</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Número do jogador. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="68" column="1" bodyfile="projeto/camadadados.c" bodystart="68" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a54508222a071f56de31de0320db03369" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_numero_de_jogadas</definition>
+        <argsstring>(ESTADO *e, int alvo)</argsstring>
+        <name>altera_numero_de_jogadas</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>alvo</declname>
+        </param>
+        <briefdescription>
+<para>Altera o valor do número de jogadas para um valor específico. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado Alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>alvo</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Número da jogada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="72" column="1" bodyfile="projeto/camadadados.c" bodystart="72" bodyend="74"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a6de82c5f178b7bca3b2152b4173ccfb3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int incrementa_numero_de_jogadas</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>incrementa_numero_de_jogadas</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Incrementa o número de jogadas. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="76" column="1" bodyfile="projeto/camadadados.c" bodystart="76" bodyend="79"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a0f325cc2d2afbeb2b8668b419f3b0a68" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int decrementa_numero_de_jogadas</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>decrementa_numero_de_jogadas</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Decrementa o número de jogadas. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="81" column="1" bodyfile="projeto/camadadados.c" bodystart="81" bodyend="84"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1ae53335d17a539cb2625e7e93868e13f5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_estado_casa</definition>
+        <argsstring>(ESTADO *e, COORDENADA c, CASA casa)</argsstring>
+        <name>altera_estado_casa</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <param>
+          <type><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref></type>
+          <declname>casa</declname>
+        </param>
+        <briefdescription>
+<para>Altera o estado de uma casa, dado a coordenada e a casa para a qual vai modificar. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada no tabuleiro a ser alterada. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>casa</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Casa para a qual a coordenada vai modificar. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="86" column="1" bodyfile="projeto/camadadados.c" bodystart="86" bodyend="88"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1ac513714cdb4fb130ad6115e4cf4f6564" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_ultima_jogada</definition>
+        <argsstring>(ESTADO *e, COORDENADA c)</argsstring>
+        <name>altera_ultima_jogada</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Altera o valor do dado ultima jogada, dado a coordenada. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada a ser alterada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="90" column="1" bodyfile="projeto/camadadados.c" bodystart="90" bodyend="92"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a0fc95fa91ed746430860572aeb9d54e5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_jogada</definition>
+        <argsstring>(ESTADO *e, COORDENADA alvo)</argsstring>
+        <name>altera_jogada</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>alvo</declname>
+        </param>
+        <briefdescription>
+<para>Altera a coordenada atual na lista de jogadas. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>alvo</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada a ser alterada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="94" column="1" bodyfile="projeto/camadadados.c" bodystart="94" bodyend="99"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a36db3d014cdc090aa2ed980fe904d5f4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref></type>
+        <definition>CASA converte_char_para_casa</definition>
+        <argsstring>(char casa)</argsstring>
+        <name>converte_char_para_casa</name>
+        <param>
+          <type>char</type>
+          <declname>casa</declname>
+        </param>
+        <briefdescription>
+<para>Converte um char específico para um dado CASA. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>casa</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Char a ser convertido. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Casa convertida. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="101" column="1" bodyfile="projeto/camadadados.c" bodystart="101" bodyend="117"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a88989674950e961e1eae9f981d3e6bd6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA converte_chars_para_coordenada</definition>
+        <argsstring>(char lin, char col)</argsstring>
+        <name>converte_chars_para_coordenada</name>
+        <param>
+          <type>char</type>
+          <declname>lin</declname>
+        </param>
+        <param>
+          <type>char</type>
+          <declname>col</declname>
+        </param>
+        <briefdescription>
+<para>Converte um par de chars para uma coordenada. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>lin</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Char da linha a ser convertido. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>col</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Char da coluna a ser convertido. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Coordenada convertida. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="119" column="1" bodyfile="projeto/camadadados.c" bodystart="119" bodyend="124"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a9c3e62557c44261382a0f5658915ba6d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void converte_coordenada_para_char</definition>
+        <argsstring>(COORDENADA c, char *lin, char *col)</argsstring>
+        <name>converte_coordenada_para_char</name>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <param>
+          <type>char *</type>
+          <declname>lin</declname>
+        </param>
+        <param>
+          <type>char *</type>
+          <declname>col</declname>
+        </param>
+        <briefdescription>
+<para>Converte uma coordenada para dois chars correspondentes. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada a ser convertida. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>lin</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Char da linha convertido. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>col</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Char da coluna convertido. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="126" column="1" bodyfile="projeto/camadadados.c" bodystart="126" bodyend="131"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a598b3397540e456ea6bfb1326e6fc6c5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void atualiza_estado</definition>
+        <argsstring>(ESTADO *e, COORDENADA c)</argsstring>
+        <name>atualiza_estado</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Atualiza o estado atual com a coordenada Jogada. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado a ser alterado. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A coordenada Jogada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="133" column="1" bodyfile="projeto/camadadados.c" bodystart="133" bodyend="145"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1ac9cec04d46e346878b3a0d46bfbbd12a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int pos</definition>
+        <argsstring>(ESTADO *e, int n)</argsstring>
+        <name>pos</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>n</declname>
+        </param>
+        <briefdescription>
+<para>Função utilizada no comando &apos;pos&apos;. Esta retrocede o jogo para uma jogada específica. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>n</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Número da jogada a retroceder. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Indicador de sucesso (0 = Sucesso). </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="147" column="1" bodyfile="projeto/camadadados.c" bodystart="147" bodyend="158"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a6270c75c79f5c3342ac2dc916a934bcb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void retrocede_num_passos</definition>
+        <argsstring>(ESTADO *e, int n)</argsstring>
+        <name>retrocede_num_passos</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>n</declname>
+        </param>
+        <briefdescription>
+<para>Função auxiliar da função &apos;pos&apos;. Esta recebe o número de jogadas a ser retrocedido. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>n</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Número de jogadas retrocedidas. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="160" column="1" bodyfile="projeto/camadadados.c" bodystart="160" bodyend="176"/>
+      </memberdef>
+      <memberdef kind="function" id="camadadados_8c_1a83dfc6a0cb08174e55dcdcf48a65fd91" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+        <definition>ESTADO* estado_temporario</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>estado_temporario</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Função utilizada com o comando &apos;jog&apos;. Esta serve para criar um estado temporário (a ser modificado) igual ao estado alvo. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Estado temporário. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/camadadados.c" line="178" column="1" bodyfile="projeto/camadadados.c" bodystart="178" bodyend="191"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#include<sp/>&lt;stdlib.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&quot;<ref refid="camadadados_8h" kindref="compound">camadadados.h</ref>&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"><ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*<ref refid="camadadados_8h_1a7e0c7e26fb685d9ab501e19b05e6954f" kindref="member">inicializar_estado</ref>(){</highlight></codeline>
+<codeline lineno="5"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e<sp/>=<sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*)<sp/>malloc(</highlight><highlight class="keyword">sizeof</highlight><highlight class="normal">(<ref refid="structESTADO" kindref="compound">ESTADO</ref>));</highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a414f513e44f330864680acbc54cadd2f" kindref="member">altera_jogador_atual_alvo</ref>(e,1);</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a54508222a071f56de31de0320db03369" kindref="member">altera_numero_de_jogadas</ref>(e,0);</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>tmp;</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>lin<sp/>=<sp/>0;lin<sp/>&lt;=<sp/>7;lin++){</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tmp.linha<sp/>=<sp/>lin;</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>col<sp/>=<sp/>0;col<sp/>&lt;=<sp/>7;col++){</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tmp.coluna<sp/>=<sp/>col;</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(e,tmp,VAZIO);</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="15"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp.linha=3;tmp.coluna=4;</highlight></codeline>
+<codeline lineno="17"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ac513714cdb4fb130ad6115e4cf4f6564" kindref="member">altera_ultima_jogada</ref>(e,tmp);</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(e,tmp,BRANCA);</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp.linha=0;tmp.coluna=7;</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(e,tmp,JOG2);</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp.linha=7;tmp.coluna=0;</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(e,tmp,JOG1);</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>e;</highlight></codeline>
+<codeline lineno="24"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"></highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1ad6e326e4ffa57ca1ae0c75377ecefc8c" kindref="member">obter_jogador_atual</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*estado){</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i;</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/>i=<sp/>estado-&gt;jogador_atual;</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>i;</highlight></codeline>
+<codeline lineno="30"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a6cd0b387bdee9e18003c78852394aa63" kindref="member">obter_numero_de_jogadas</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*estado){</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i;</highlight></codeline>
+<codeline lineno="34"><highlight class="normal"><sp/><sp/><sp/><sp/>i=<sp/>estado-&gt;num_jogadas;</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>i;</highlight></codeline>
+<codeline lineno="36"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="37"><highlight class="normal"></highlight></codeline>
+<codeline lineno="38"><highlight class="normal"><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref><sp/><ref refid="camadadados_8h_1a6faa68373203923729ed38657aa0f768" kindref="member">obter_estado_casa</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c)<sp/>{</highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>col,<sp/>lin;</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref><sp/>casa;</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"><sp/><sp/><sp/><sp/>col<sp/>=<sp/>c.coluna;</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"><sp/><sp/><sp/><sp/>lin<sp/>=<sp/>c.linha;</highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(col<sp/>&gt;<sp/>7<sp/>||<sp/>col<sp/>&lt;<sp/>0<sp/>||<sp/>lin<sp/>&gt;<sp/>7<sp/>||<sp/>lin<sp/>&lt;<sp/>0)<sp/>casa<sp/>=<sp/>PRETA;</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>casa<sp/>=<sp/>e-&gt;tab[lin][col];</highlight></codeline>
+<codeline lineno="45"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>casa;</highlight></codeline>
+<codeline lineno="46"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="47"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="camadadados_8h_1a40555aff97afc67bd1866f2785111310" kindref="member">obter_ultima_jogada</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e){</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>tmp;</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp<sp/>=<sp/>e-&gt;ultima_jogada;</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>tmp;</highlight></codeline>
+<codeline lineno="52"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"></highlight></codeline>
+<codeline lineno="54"><highlight class="normal"><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="camadadados_8h_1aac54b3bd8fcd746520a1d8da01b9d0b1" kindref="member">obter_jogada_alvo</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>alvo){</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>tmp;</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>aux<sp/>=<sp/>(alvo-1)/2;</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(alvo<sp/>%<sp/>2<sp/>==<sp/>0)<sp/>tmp<sp/>=<sp/>e-&gt;jogadas[aux].jogador2;</highlight></codeline>
+<codeline lineno="58"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>tmp<sp/>=<sp/>e-&gt;jogadas[aux].jogador1;</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>tmp;</highlight></codeline>
+<codeline lineno="60"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"></highlight></codeline>
+<codeline lineno="62"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1aaaf8f8a27e78dc470b2295c4e9942f4b" kindref="member">altera_jogador_atual</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e){</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="botsimples_8h_1aecb278d6ba863d840e20615b9fdb9fde" kindref="member">jog</ref><sp/>=<sp/>e-&gt;jogador_atual;</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(jog<sp/>==<sp/>1)<sp/>e-&gt;jogador_atual<sp/>=<sp/>2;</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>e-&gt;jogador_atual<sp/>=<sp/>1;</highlight></codeline>
+<codeline lineno="66"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"></highlight></codeline>
+<codeline lineno="68"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a414f513e44f330864680acbc54cadd2f" kindref="member">altera_jogador_atual_alvo</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>alvo){</highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/>e-&gt;jogador_atual<sp/>=<sp/>alvo;</highlight></codeline>
+<codeline lineno="70"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="71"><highlight class="normal"></highlight></codeline>
+<codeline lineno="72"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a54508222a071f56de31de0320db03369" kindref="member">altera_numero_de_jogadas</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>alvo){</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"><sp/><sp/><sp/><sp/>e-&gt;num_jogadas<sp/>=<sp/>alvo;</highlight></codeline>
+<codeline lineno="74"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="75"><highlight class="normal"></highlight></codeline>
+<codeline lineno="76"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a6de82c5f178b7bca3b2152b4173ccfb3" kindref="member">incrementa_numero_de_jogadas</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e){</highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/><sp/><sp/>e-&gt;num_jogadas++;</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>e-&gt;num_jogadas;</highlight></codeline>
+<codeline lineno="79"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="80"><highlight class="normal"></highlight></codeline>
+<codeline lineno="81"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a0f325cc2d2afbeb2b8668b419f3b0a68" kindref="member">decrementa_numero_de_jogadas</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e){</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"><sp/><sp/><sp/><sp/>e-&gt;num_jogadas--;</highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>e-&gt;num_jogadas;</highlight></codeline>
+<codeline lineno="84"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"></highlight></codeline>
+<codeline lineno="86"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><sp/>c,<ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref><sp/>casa){</highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/>e-&gt;tab[c.linha][c.coluna]<sp/>=<sp/>casa;</highlight></codeline>
+<codeline lineno="88"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="89"><highlight class="normal"></highlight></codeline>
+<codeline lineno="90"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1ac513714cdb4fb130ad6115e4cf4f6564" kindref="member">altera_ultima_jogada</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c){</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"><sp/><sp/><sp/><sp/>e-&gt;ultima_jogada<sp/>=<sp/>c;</highlight></codeline>
+<codeline lineno="92"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"></highlight></codeline>
+<codeline lineno="94"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a0fc95fa91ed746430860572aeb9d54e5" kindref="member">altera_jogada</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>alvo){</highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>num_jogadas<sp/>=<sp/><ref refid="camadadados_8h_1a6cd0b387bdee9e18003c78852394aa63" kindref="member">obter_numero_de_jogadas</ref>(e);</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>aux<sp/>=<sp/>(num_jogadas-1)/2;</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(num_jogadas<sp/>%<sp/>2<sp/>==<sp/>0)<sp/>e-&gt;jogadas[aux].jogador2<sp/>=<sp/>alvo;</highlight></codeline>
+<codeline lineno="98"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>e-&gt;jogadas[aux].jogador1<sp/>=<sp/>alvo;</highlight></codeline>
+<codeline lineno="99"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"></highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref><sp/><ref refid="camadadados_8h_1a36db3d014cdc090aa2ed980fe904d5f4" kindref="member">converte_char_para_casa</ref>(</highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>casa){</highlight></codeline>
+<codeline lineno="102"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref><sp/>r;</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(casa)<sp/>{</highlight></codeline>
+<codeline lineno="104"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/></highlight><highlight class="charliteral">&apos;#&apos;</highlight><highlight class="normal">:r=PRETA;</highlight></codeline>
+<codeline lineno="105"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/></highlight><highlight class="charliteral">&apos;*&apos;</highlight><highlight class="normal">:r=BRANCA;</highlight></codeline>
+<codeline lineno="107"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/></highlight><highlight class="charliteral">&apos;.&apos;</highlight><highlight class="normal">:r=VAZIO;</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/></highlight><highlight class="charliteral">&apos;1&apos;</highlight><highlight class="normal">:r=JOG1;</highlight></codeline>
+<codeline lineno="111"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="112"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/></highlight><highlight class="charliteral">&apos;2&apos;</highlight><highlight class="normal">:r=JOG2;</highlight></codeline>
+<codeline lineno="113"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="114"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:<sp/>r=PRETA;</highlight></codeline>
+<codeline lineno="115"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="116"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>r;</highlight></codeline>
+<codeline lineno="117"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="118"><highlight class="normal"></highlight></codeline>
+<codeline lineno="119"><highlight class="normal"><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="camadadados_8h_1a88989674950e961e1eae9f981d3e6bd6" kindref="member">converte_chars_para_coordenada</ref>(</highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>lin,</highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>col){</highlight></codeline>
+<codeline lineno="120"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>tmp;</highlight></codeline>
+<codeline lineno="121"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp.linha<sp/>=<sp/>lin<sp/>*<sp/>(-1)<sp/>+<sp/>56;</highlight></codeline>
+<codeline lineno="122"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp.coluna<sp/>=<sp/>col<sp/>-<sp/></highlight><highlight class="charliteral">&apos;a&apos;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="123"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>tmp;</highlight></codeline>
+<codeline lineno="124"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="125"><highlight class="normal"></highlight></codeline>
+<codeline lineno="126"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a9c3e62557c44261382a0f5658915ba6d" kindref="member">converte_coordenada_para_char</ref>(<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c,</highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>*lin,</highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>*col){</highlight></codeline>
+<codeline lineno="127"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>li<sp/>=<sp/>c.linha<sp/>*<sp/>(-1)<sp/>+<sp/>56;</highlight></codeline>
+<codeline lineno="128"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>co<sp/>=<sp/>c.coluna<sp/>+<sp/></highlight><highlight class="charliteral">&apos;a&apos;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline lineno="129"><highlight class="normal"><sp/><sp/><sp/><sp/>*lin<sp/>=<sp/>(char)li;</highlight></codeline>
+<codeline lineno="130"><highlight class="normal"><sp/><sp/><sp/><sp/>*col<sp/>=<sp/>(char)co;</highlight></codeline>
+<codeline lineno="131"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="132"><highlight class="normal"></highlight></codeline>
+<codeline lineno="133"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a598b3397540e456ea6bfb1326e6fc6c5" kindref="member">atualiza_estado</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c){</highlight></codeline>
+<codeline lineno="134"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Posição<sp/>da<sp/>BRANCA<sp/>e<sp/>coloca<sp/>peça<sp/>PRETA.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="135"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(e,c,BRANCA);</highlight></codeline>
+<codeline lineno="136"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(e,<ref refid="camadadados_8h_1a40555aff97afc67bd1866f2785111310" kindref="member">obter_ultima_jogada</ref>(e),PRETA);</highlight></codeline>
+<codeline lineno="137"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Número<sp/>de<sp/>jogadas</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="138"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a6de82c5f178b7bca3b2152b4173ccfb3" kindref="member">incrementa_numero_de_jogadas</ref>(e);</highlight></codeline>
+<codeline lineno="139"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Array</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="140"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a0fc95fa91ed746430860572aeb9d54e5" kindref="member">altera_jogada</ref>(e,c);</highlight></codeline>
+<codeline lineno="141"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Última<sp/>jogada.</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="142"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ac513714cdb4fb130ad6115e4cf4f6564" kindref="member">altera_ultima_jogada</ref>(e,c);</highlight></codeline>
+<codeline lineno="143"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Número<sp/>de<sp/>Jogador</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="144"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1aaaf8f8a27e78dc470b2295c4e9942f4b" kindref="member">altera_jogador_atual</ref>(e);</highlight></codeline>
+<codeline lineno="145"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="146"><highlight class="normal"></highlight></codeline>
+<codeline lineno="147"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1ac9cec04d46e346878b3a0d46bfbbd12a" kindref="member">pos</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>n){</highlight></codeline>
+<codeline lineno="148"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>num_jogs,r,passos;</highlight></codeline>
+<codeline lineno="149"><highlight class="normal"><sp/><sp/><sp/><sp/>r=4;</highlight></codeline>
+<codeline lineno="150"><highlight class="normal"><sp/><sp/><sp/><sp/>num_jogs=<ref refid="camadadados_8h_1a6cd0b387bdee9e18003c78852394aa63" kindref="member">obter_numero_de_jogadas</ref>(e);</highlight></codeline>
+<codeline lineno="151"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(n&gt;=0&amp;&amp;n&lt;num_jogs){</highlight></codeline>
+<codeline lineno="152"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>passos<sp/>=<sp/>num_jogs<sp/>-<sp/>n*2;</highlight></codeline>
+<codeline lineno="153"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a6270c75c79f5c3342ac2dc916a934bcb" kindref="member">retrocede_num_passos</ref>(e,passos);</highlight></codeline>
+<codeline lineno="154"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a414f513e44f330864680acbc54cadd2f" kindref="member">altera_jogador_atual_alvo</ref>(e,1);</highlight></codeline>
+<codeline lineno="155"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="156"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>r=8;</highlight></codeline>
+<codeline lineno="157"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>r;</highlight></codeline>
+<codeline lineno="158"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="159"><highlight class="normal"></highlight></codeline>
+<codeline lineno="160"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1a6270c75c79f5c3342ac2dc916a934bcb" kindref="member">retrocede_num_passos</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>n){</highlight></codeline>
+<codeline lineno="161"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>tmp;</highlight></codeline>
+<codeline lineno="162"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>num_jogada<sp/>=<sp/><ref refid="camadadados_8h_1a6cd0b387bdee9e18003c78852394aa63" kindref="member">obter_numero_de_jogadas</ref>(e);</highlight></codeline>
+<codeline lineno="163"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Ciclo<sp/>de<sp/>retrocedimento</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="164"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(;n&gt;0;n--)<sp/>{</highlight></codeline>
+<codeline lineno="165"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(e,<ref refid="camadadados_8h_1aac54b3bd8fcd746520a1d8da01b9d0b1" kindref="member">obter_jogada_alvo</ref>(e,num_jogada),VAZIO);</highlight></codeline>
+<codeline lineno="166"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a0f325cc2d2afbeb2b8668b419f3b0a68" kindref="member">decrementa_numero_de_jogadas</ref>(e);</highlight></codeline>
+<codeline lineno="167"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>num_jogada<sp/>=<sp/><ref refid="camadadados_8h_1a6cd0b387bdee9e18003c78852394aa63" kindref="member">obter_numero_de_jogadas</ref>(e);</highlight></codeline>
+<codeline lineno="168"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="169"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//Finalização</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="170"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(num_jogada<sp/>==<sp/>0){</highlight></codeline>
+<codeline lineno="171"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tmp.linha<sp/>=<sp/>3;tmp.coluna<sp/>=<sp/>4;</highlight></codeline>
+<codeline lineno="172"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="173"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>tmp<sp/>=<sp/><ref refid="camadadados_8h_1aac54b3bd8fcd746520a1d8da01b9d0b1" kindref="member">obter_jogada_alvo</ref>(e,num_jogada);</highlight></codeline>
+<codeline lineno="174"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(e,tmp,BRANCA);</highlight></codeline>
+<codeline lineno="175"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ac513714cdb4fb130ad6115e4cf4f6564" kindref="member">altera_ultima_jogada</ref>(e,tmp);</highlight></codeline>
+<codeline lineno="176"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="177"><highlight class="normal"></highlight></codeline>
+<codeline lineno="178"><highlight class="normal"><ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*<ref refid="camadadados_8h_1a83dfc6a0cb08174e55dcdcf48a65fd91" kindref="member">estado_temporario</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e){</highlight></codeline>
+<codeline lineno="179"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*tmp<sp/>=<sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*)<sp/>malloc(</highlight><highlight class="keyword">sizeof</highlight><highlight class="normal">(<ref refid="structESTADO" kindref="compound">ESTADO</ref>));</highlight></codeline>
+<codeline lineno="180"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a414f513e44f330864680acbc54cadd2f" kindref="member">altera_jogador_atual_alvo</ref>(tmp,<ref refid="camadadados_8h_1ad6e326e4ffa57ca1ae0c75377ecefc8c" kindref="member">obter_jogador_atual</ref>(e));</highlight></codeline>
+<codeline lineno="181"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ac513714cdb4fb130ad6115e4cf4f6564" kindref="member">altera_ultima_jogada</ref>(tmp,<ref refid="camadadados_8h_1a40555aff97afc67bd1866f2785111310" kindref="member">obter_ultima_jogada</ref>(e));</highlight></codeline>
+<codeline lineno="182"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c;</highlight></codeline>
+<codeline lineno="183"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>lin<sp/>=<sp/>0;lin<sp/>&lt;<sp/>8;lin++)<sp/>{</highlight></codeline>
+<codeline lineno="184"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>c.linha<sp/>=<sp/>lin;</highlight></codeline>
+<codeline lineno="185"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>col<sp/>=<sp/>0;col<sp/>&lt;<sp/>8;col++){</highlight></codeline>
+<codeline lineno="186"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>c.coluna<sp/>=<sp/>col;</highlight></codeline>
+<codeline lineno="187"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1ae53335d17a539cb2625e7e93868e13f5" kindref="member">altera_estado_casa</ref>(tmp,c,<ref refid="camadadados_8h_1a6faa68373203923729ed38657aa0f768" kindref="member">obter_estado_casa</ref>(e,c));</highlight></codeline>
+<codeline lineno="188"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="189"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="190"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>tmp;</highlight></codeline>
+<codeline lineno="191"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="projeto/camadadados.c"/>
+  </compounddef>
+</doxygen>

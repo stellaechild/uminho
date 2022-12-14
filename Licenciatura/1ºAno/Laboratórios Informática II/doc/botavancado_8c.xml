@@ -1,0 +1,837 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="botavancado_8c" kind="file" language="C++">
+    <compoundname>botavancado.c</compoundname>
+    <includes refid="botavancado_8h" local="yes">botavancado.h</includes>
+    <includes local="no">stdlib.h</includes>
+    <includes refid="logicaprograma_8h" local="yes">logicaprograma.h</includes>
+    <incdepgraph>
+      <node id="4">
+        <label>stdlib.h</label>
+      </node>
+      <node id="2">
+        <label>camadadados.h</label>
+        <link refid="camadadados_8h"/>
+      </node>
+      <node id="5">
+        <label>logicaprograma.h</label>
+        <link refid="logicaprograma_8h"/>
+      </node>
+      <node id="0">
+        <label>projeto/botavancado.c</label>
+        <link refid="botavancado_8c"/>
+        <childnode refid="1" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>botavancado.h</label>
+        <link refid="botavancado_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>listasgenerica.h</label>
+        <link refid="listasgenerica_8h_source"/>
+      </node>
+    </incdepgraph>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="botavancado_8c_1a65e73a159d2b2aaa785ff11f10720569" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+        <definition>BOTAVANCADOSTRUCT* cria_struct_pronta</definition>
+        <argsstring>(ESTADO *e, COORDENADA c)</argsstring>
+        <name>cria_struct_pronta</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Função que aloca,cria e prepara ,com uma coordenada e rating, uma nova estrutura para o bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado a ser replicado. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A coordenada jogada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Apontador para a estrutura criada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="6" column="1" bodyfile="projeto/botavancado.c" bodystart="6" bodyend="15"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a829a3995e04d067935edc9d5535410fe" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void liberta_bot_struct</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *bot)</argsstring>
+        <name>liberta_bot_struct</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>bot</declname>
+        </param>
+        <briefdescription>
+<para>Função que liberta todos os elementos da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bot</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura do bot avançado. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="17" column="1" bodyfile="projeto/botavancado.c" bodystart="17" bodyend="30"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1aab4ec99c149909071fc835033e47ee11" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int obter_rating</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *tmp)</argsstring>
+        <name>obter_rating</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>tmp</declname>
+        </param>
+        <briefdescription>
+<para>Retorna o rating da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*tmp</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>O rating. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="32" column="1" bodyfile="projeto/botavancado.c" bodystart="32" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1ad7482767a69aee7ba4e6b24e8b646a03" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA obter_coordenada_botstruct</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *tmp)</argsstring>
+        <name>obter_coordenada_botstruct</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>tmp</declname>
+        </param>
+        <briefdescription>
+<para>Retorna a coordenada da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*tmp</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>A coordenada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="35" column="1" bodyfile="projeto/botavancado.c" bodystart="35" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a9525ed0701ecfc6faf25c8efac411583" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+        <definition>ESTADO* obter_estado</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *tmp)</argsstring>
+        <name>obter_estado</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>tmp</declname>
+        </param>
+        <briefdescription>
+<para>Retorna o estado da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*tmp</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Pointer para o estado. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="39" column="1" bodyfile="projeto/botavancado.c" bodystart="39" bodyend="41"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a81834f5c7042f72c32e6b805b8d243b2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA obter_lista_da_struct</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *tmp)</argsstring>
+        <name>obter_lista_da_struct</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>tmp</declname>
+        </param>
+        <briefdescription>
+<para>Retorna a lista dos elementos seguintes da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*tmp</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>A lista. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="43" column="1" bodyfile="projeto/botavancado.c" bodystart="43" bodyend="45"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a82df6381f5b8f9b400ba527bd6ad1a2a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_rating</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *tmp, int rating)</argsstring>
+        <name>altera_rating</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>tmp</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>rating</declname>
+        </param>
+        <briefdescription>
+<para>Altera o rating da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*tmp</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>rat</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Rating a ser implementado. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="47" column="1" bodyfile="projeto/botavancado.c" bodystart="47" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a89cb275d08b760b7f2f7c3150accc060" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_coordenada_botstruct</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *tmp, COORDENADA c)</argsstring>
+        <name>altera_coordenada_botstruct</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>tmp</declname>
+        </param>
+        <param>
+          <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+          <declname>c</declname>
+        </param>
+        <briefdescription>
+<para>Altera a coordenada da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*tmp</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>c</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Coordenada a ser implementada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="50" column="1" bodyfile="projeto/botavancado.c" bodystart="50" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a06df24bcfb2824cacb6d5a5df0b31546" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_estado</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *tmp, ESTADO *estado)</argsstring>
+        <name>altera_estado</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>tmp</declname>
+        </param>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>estado</declname>
+        </param>
+        <briefdescription>
+<para>Altera o estado da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*tmp</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>estado</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado a ser implementado. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="54" column="1" bodyfile="projeto/botavancado.c" bodystart="54" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1ae1d1ae1109bb32e14235d53215d0e7de" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void altera_lista_na_struct</definition>
+        <argsstring>(BOTAVANCADOSTRUCT *tmp, LISTA L)</argsstring>
+        <name>altera_lista_na_struct</name>
+        <param>
+          <type><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref> *</type>
+          <declname>tmp</declname>
+        </param>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Altera a lista da estrutura do bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*tmp</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para a estrutura alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser implementado. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="58" column="1" bodyfile="projeto/botavancado.c" bodystart="58" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1aaa3e39899d2606b3fba60936c2c728e5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int jog2</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>jog2</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Função utilizada no comando &apos;jog2&apos;. Esta avalia várias jogadas possíveis e possíveis desfechos. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Indicador de sucesso. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="62" column="1" bodyfile="projeto/botavancado.c" bodystart="62" bodyend="70"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a577047bada3a6b4dcd0c20ed88e140e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA avalia_jogadas_seguintes</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>avalia_jogadas_seguintes</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Função auxiliar do comando &apos;jog2&apos;. Esta avalia vários possíveis desfechos futuros e escolhe a melhor coordenada. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista de jogadas possíveis diretas. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Coordenada recomendada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="72" column="1" bodyfile="projeto/botavancado.c" bodystart="72" bodyend="102"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a193a3bd3a59cd409ad7d8d632c20abaa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void apaga_memoria</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>apaga_memoria</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Apaga todos os dados criados pelo bot avançado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A lista a ser apagada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="104" column="1" bodyfile="projeto/botavancado.c" bodystart="104" bodyend="115"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a9dbf6956b91fda3c0de2268f770ea8ac" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA adiciona_jogadas_a_volta</definition>
+        <argsstring>(ESTADO *e, LISTA L)</argsstring>
+        <name>adiciona_jogadas_a_volta</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Função que cria estruturas para as jogadas possíveis ao redor. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado alvo. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista de gravação. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Lista completa. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="117" column="1" bodyfile="projeto/botavancado.c" bodystart="117" bodyend="129"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a95e0fc65c86e348e156d0c58bedfaba3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int avalia_jogada_melhor_inimigo</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>avalia_jogada_melhor_inimigo</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Função que avalia a melhor jogada possível para o inimigo. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser avaliada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Retorna a posição na lista da melhor jogada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="131" column="1" bodyfile="projeto/botavancado.c" bodystart="131" bodyend="145"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1abd5075b5a685176d4cff1e3e53f5a8b9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int avalia_jogada_maxima</definition>
+        <argsstring>(LISTA L, int med)</argsstring>
+        <name>avalia_jogada_maxima</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>med</declname>
+        </param>
+        <briefdescription>
+<para>Função que avalia a melhor jogada para o bot (tendo sempre em conta uma decisão inteligente do inimigo). </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser avaliada. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>med</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Valor do rating da decisão anterior. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Retorna o rating máximo. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="147" column="1" bodyfile="projeto/botavancado.c" bodystart="147" bodyend="162"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a21869bd081818ae11a3733d99ef5f278" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA avalia_jogada_melhor_final</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>avalia_jogada_melhor_final</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Depois de avaliadas todas as situações, esta função toma a decisão final para a jogada. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser avaliada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>A melhor coordenada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="164" column="1" bodyfile="projeto/botavancado.c" bodystart="164" bodyend="179"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a5bfd08799af70225840b71fcf2a5b466" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA apaga_membros_menores</definition>
+        <argsstring>(LISTA L, int pos)</argsstring>
+        <name>apaga_membros_menores</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <param>
+          <type>int</type>
+          <declname>pos</declname>
+        </param>
+        <briefdescription>
+<para>Função que liberta jogadas desnecessárias do inimigo. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser avaliada. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>pos</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A posição onde está a melhor jogada do inimigo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>A lista (com membros apagados). </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="181" column="1" bodyfile="projeto/botavancado.c" bodystart="181" bodyend="189"/>
+      </memberdef>
+      <memberdef kind="function" id="botavancado_8c_1a8aa498b8092aaef3a788c0c7049eee2e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int avalia_tabuleiro_avancado</definition>
+        <argsstring>(ESTADO *e)</argsstring>
+        <name>avalia_tabuleiro_avancado</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+<para>Função utilizada para pontuação de um dado tabuleiro. Esta avalia a proximidade à casa alvo. Também tem em conta fim de jogos. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador do estado alvo. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Pontuação do tabuleiro. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.c" line="191" column="1" bodyfile="projeto/botavancado.c" bodystart="191" bodyend="208"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#include<sp/>&quot;<ref refid="botavancado_8h" kindref="compound">botavancado.h</ref>&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;stdlib.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&quot;<ref refid="logicaprograma_8h" kindref="compound">logicaprograma.h</ref>&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*<ref refid="botavancado_8h_1a65e73a159d2b2aaa785ff11f10720569" kindref="member">cria_struct_pronta</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c){</highlight></codeline>
+<codeline lineno="7"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot<sp/>=<sp/>malloc(</highlight><highlight class="keyword">sizeof</highlight><highlight class="normal">(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref>));</highlight></codeline>
+<codeline lineno="8"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1a89cb275d08b760b7f2f7c3150accc060" kindref="member">altera_coordenada_botstruct</ref>(bot,c);</highlight></codeline>
+<codeline lineno="9"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*tmp<sp/>=<sp/><ref refid="camadadados_8h_1a83dfc6a0cb08174e55dcdcf48a65fd91" kindref="member">estado_temporario</ref>(e);</highlight></codeline>
+<codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="logicaprograma_8h_1a53472e75f056ceb02b5387193021838a" kindref="member">jogar</ref>(tmp,<sp/>c);</highlight></codeline>
+<codeline lineno="11"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1a06df24bcfb2824cacb6d5a5df0b31546" kindref="member">altera_estado</ref>(bot,tmp);</highlight></codeline>
+<codeline lineno="12"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1a82df6381f5b8f9b400ba527bd6ad1a2a" kindref="member">altera_rating</ref>(bot,<ref refid="botavancado_8h_1a8aa498b8092aaef3a788c0c7049eee2e" kindref="member">avalia_tabuleiro_avancado</ref>(tmp));</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1ae1d1ae1109bb32e14235d53215d0e7de" kindref="member">altera_lista_na_struct</ref>(bot,cria_lista());</highlight></codeline>
+<codeline lineno="14"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>bot;</highlight></codeline>
+<codeline lineno="15"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="16"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1a829a3995e04d067935edc9d5535410fe" kindref="member">liberta_bot_struct</ref>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot){</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*n;</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structnodo" kindref="compound">LISTA</ref><sp/>aux<sp/>=<sp/><ref refid="botavancado_8h_1a81834f5c7042f72c32e6b805b8d243b2" kindref="member">obter_lista_da_struct</ref>(bot);</highlight></codeline>
+<codeline lineno="20"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structnodo" kindref="compound">LISTA</ref><sp/>tmp;</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(lista_esta_vazia(aux)<sp/>!=<sp/>0){</highlight></codeline>
+<codeline lineno="22"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>n<sp/>=<sp/>devolve_cabeca(aux);</highlight></codeline>
+<codeline lineno="23"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1a829a3995e04d067935edc9d5535410fe" kindref="member">liberta_bot_struct</ref>(n);</highlight></codeline>
+<codeline lineno="24"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tmp<sp/>=<sp/>aux;</highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>aux<sp/>=<sp/>proximo(aux);</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>free(tmp);</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="28"><highlight class="normal"><sp/><sp/><sp/><sp/>free(aux);</highlight></codeline>
+<codeline lineno="29"><highlight class="normal"><sp/><sp/><sp/><sp/>free(<ref refid="botavancado_8h_1a9525ed0701ecfc6faf25c8efac411583" kindref="member">obter_estado</ref>(bot));</highlight></codeline>
+<codeline lineno="30"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="31"><highlight class="normal"></highlight></codeline>
+<codeline lineno="32"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1aab4ec99c149909071fc835033e47ee11" kindref="member">obter_rating</ref><sp/>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*tmp){</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>tmp-&gt;rating;</highlight></codeline>
+<codeline lineno="34"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="botavancado_8h_1ad7482767a69aee7ba4e6b24e8b646a03" kindref="member">obter_coordenada_botstruct</ref><sp/>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*tmp){</highlight></codeline>
+<codeline lineno="36"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>tmp-&gt;jogada;</highlight></codeline>
+<codeline lineno="37"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="38"><highlight class="normal"></highlight></codeline>
+<codeline lineno="39"><highlight class="normal"><ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*<ref refid="botavancado_8h_1a9525ed0701ecfc6faf25c8efac411583" kindref="member">obter_estado</ref><sp/>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*tmp){</highlight></codeline>
+<codeline lineno="40"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>tmp-&gt;e;</highlight></codeline>
+<codeline lineno="41"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="43"><highlight class="normal"><ref refid="structnodo" kindref="compound">LISTA</ref><sp/><ref refid="botavancado_8h_1a81834f5c7042f72c32e6b805b8d243b2" kindref="member">obter_lista_da_struct</ref>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*tmp){</highlight></codeline>
+<codeline lineno="44"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>tmp-&gt;jogadasPossiveis;</highlight></codeline>
+<codeline lineno="45"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="46"><highlight class="normal"></highlight></codeline>
+<codeline lineno="47"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1a82df6381f5b8f9b400ba527bd6ad1a2a" kindref="member">altera_rating</ref><sp/>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*tmp,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>rating){</highlight></codeline>
+<codeline lineno="48"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp-&gt;rating<sp/>=<sp/>rating;</highlight></codeline>
+<codeline lineno="49"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="50"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1a89cb275d08b760b7f2f7c3150accc060" kindref="member">altera_coordenada_botstruct</ref><sp/>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*tmp,<ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c){</highlight></codeline>
+<codeline lineno="51"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp-&gt;jogada<sp/>=<sp/>c;</highlight></codeline>
+<codeline lineno="52"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="53"><highlight class="normal"></highlight></codeline>
+<codeline lineno="54"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1a06df24bcfb2824cacb6d5a5df0b31546" kindref="member">altera_estado</ref><sp/>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*tmp,<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*estado){</highlight></codeline>
+<codeline lineno="55"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp-&gt;e<sp/>=<sp/>estado;</highlight></codeline>
+<codeline lineno="56"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="57"><highlight class="normal"></highlight></codeline>
+<codeline lineno="58"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1ae1d1ae1109bb32e14235d53215d0e7de" kindref="member">altera_lista_na_struct</ref><sp/>(<ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*tmp,<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L){</highlight></codeline>
+<codeline lineno="59"><highlight class="normal"><sp/><sp/><sp/><sp/>tmp-&gt;jogadasPossiveis<sp/>=<sp/>L;</highlight></codeline>
+<codeline lineno="60"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="61"><highlight class="normal"></highlight></codeline>
+<codeline lineno="62"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1aaa3e39899d2606b3fba60936c2c728e5" kindref="member">jog2</ref><sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e){</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>r;</highlight></codeline>
+<codeline lineno="64"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L<sp/>=<sp/>cria_lista();</highlight></codeline>
+<codeline lineno="65"><highlight class="normal"><sp/><sp/><sp/><sp/>L<sp/>=<sp/><ref refid="botavancado_8h_1a9dbf6956b91fda3c0de2268f770ea8ac" kindref="member">adiciona_jogadas_a_volta</ref>(e,L);</highlight></codeline>
+<codeline lineno="66"><highlight class="normal"><sp/><sp/><sp/><sp/>r<sp/>=<sp/><ref refid="logicaprograma_8h_1a53472e75f056ceb02b5387193021838a" kindref="member">jogar</ref>(e,<ref refid="botavancado_8h_1a577047bada3a6b4dcd0c20ed88e140e3" kindref="member">avalia_jogadas_seguintes</ref>(L));</highlight></codeline>
+<codeline lineno="67"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(r<sp/>==<sp/>1)<sp/>r=5;</highlight></codeline>
+<codeline lineno="68"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1a193a3bd3a59cd409ad7d8d632c20abaa" kindref="member">apaga_memoria</ref>(L);</highlight></codeline>
+<codeline lineno="69"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>r;</highlight></codeline>
+<codeline lineno="70"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="71"><highlight class="normal"></highlight></codeline>
+<codeline lineno="72"><highlight class="normal"><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="botavancado_8h_1a577047bada3a6b4dcd0c20ed88e140e3" kindref="member">avalia_jogadas_seguintes</ref><sp/>(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L){</highlight></codeline>
+<codeline lineno="73"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>terminado<sp/>=<sp/>0;</highlight></codeline>
+<codeline lineno="74"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot<sp/>=<sp/>NULL;</highlight></codeline>
+<codeline lineno="75"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*temp<sp/>=<sp/>NULL;</highlight></codeline>
+<codeline lineno="76"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c;</highlight></codeline>
+<codeline lineno="77"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1ac9cec04d46e346878b3a0d46bfbbd12a" kindref="member">pos</ref>,rat;</highlight></codeline>
+<codeline lineno="78"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>dopio<sp/>=<sp/>L;lista_esta_vazia(dopio)!=0<sp/>&amp;&amp;<sp/>terminado<sp/>==<sp/>0;dopio=proximo(dopio)){</highlight></codeline>
+<codeline lineno="79"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>bot<sp/>=<sp/>devolve_cabeca(dopio);</highlight></codeline>
+<codeline lineno="80"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="botavancado_8h_1aab4ec99c149909071fc835033e47ee11" kindref="member">obter_rating</ref>(bot)<sp/>!=<sp/>1000){</highlight></codeline>
+<codeline lineno="81"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="structnodo" kindref="compound">LISTA</ref><sp/>aux1<sp/>=<sp/><ref refid="botavancado_8h_1a81834f5c7042f72c32e6b805b8d243b2" kindref="member">obter_lista_da_struct</ref>(bot);</highlight></codeline>
+<codeline lineno="82"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>aux1<sp/>=<sp/><ref refid="botavancado_8h_1a9dbf6956b91fda3c0de2268f770ea8ac" kindref="member">adiciona_jogadas_a_volta</ref>(<ref refid="botavancado_8h_1a9525ed0701ecfc6faf25c8efac411583" kindref="member">obter_estado</ref>(bot),aux1);</highlight></codeline>
+<codeline lineno="83"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pos<sp/>=<sp/><ref refid="botavancado_8h_1a95e0fc65c86e348e156d0c58bedfaba3" kindref="member">avalia_jogada_melhor_inimigo</ref>(aux1);</highlight></codeline>
+<codeline lineno="84"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>aux1<sp/>=<sp/><ref refid="botavancado_8h_1a5bfd08799af70225840b71fcf2a5b466" kindref="member">apaga_membros_menores</ref>(aux1,pos);</highlight></codeline>
+<codeline lineno="85"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(lista_esta_vazia(aux1)<sp/>!=<sp/>0){</highlight></codeline>
+<codeline lineno="86"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>temp<sp/>=<sp/>devolve_cabeca(aux1);</highlight></codeline>
+<codeline lineno="87"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="botavancado_8h_1aab4ec99c149909071fc835033e47ee11" kindref="member">obter_rating</ref>(temp)==1000)<sp/><ref refid="botavancado_8h_1a82df6381f5b8f9b400ba527bd6ad1a2a" kindref="member">altera_rating</ref>(bot,-1000);</highlight></codeline>
+<codeline lineno="88"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="structnodo" kindref="compound">LISTA</ref><sp/>aux2<sp/>=<sp/><ref refid="botavancado_8h_1a81834f5c7042f72c32e6b805b8d243b2" kindref="member">obter_lista_da_struct</ref>(temp);</highlight></codeline>
+<codeline lineno="89"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>aux2<sp/>=<sp/><ref refid="botavancado_8h_1a9dbf6956b91fda3c0de2268f770ea8ac" kindref="member">adiciona_jogadas_a_volta</ref>(<ref refid="botavancado_8h_1a9525ed0701ecfc6faf25c8efac411583" kindref="member">obter_estado</ref>(temp),aux2);</highlight></codeline>
+<codeline lineno="90"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>rat<sp/>=<sp/><ref refid="botavancado_8h_1aab4ec99c149909071fc835033e47ee11" kindref="member">obter_rating</ref>(bot);</highlight></codeline>
+<codeline lineno="91"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(rat<sp/>==<sp/>1000)<sp/>terminado<sp/>=<sp/>1;</highlight></codeline>
+<codeline lineno="92"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1a82df6381f5b8f9b400ba527bd6ad1a2a" kindref="member">altera_rating</ref>(bot,<ref refid="botavancado_8h_1abd5075b5a685176d4cff1e3e53f5a8b9" kindref="member">avalia_jogada_maxima</ref>(aux2,rat));</highlight></codeline>
+<codeline lineno="93"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="94"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="95"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>terminado<sp/>=<sp/>1;</highlight></codeline>
+<codeline lineno="96"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="97"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(terminado<sp/>==<sp/>0)<sp/>c<sp/>=<sp/><ref refid="botavancado_8h_1a21869bd081818ae11a3733d99ef5f278" kindref="member">avalia_jogada_melhor_final</ref>(L);</highlight></codeline>
+<codeline lineno="98"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>c<sp/>=<sp/><ref refid="botavancado_8h_1ad7482767a69aee7ba4e6b24e8b646a03" kindref="member">obter_coordenada_botstruct</ref>(bot);</highlight></codeline>
+<codeline lineno="99"><highlight class="normal"><sp/><sp/><sp/><sp/>free(bot);</highlight></codeline>
+<codeline lineno="100"><highlight class="normal"><sp/><sp/><sp/><sp/>free(temp);</highlight></codeline>
+<codeline lineno="101"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>c;</highlight></codeline>
+<codeline lineno="102"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="103"><highlight class="normal"></highlight></codeline>
+<codeline lineno="104"><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1a193a3bd3a59cd409ad7d8d632c20abaa" kindref="member">apaga_memoria</ref>(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L){</highlight></codeline>
+<codeline lineno="105"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot;</highlight></codeline>
+<codeline lineno="106"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structnodo" kindref="compound">LISTA</ref><sp/>tmp;</highlight></codeline>
+<codeline lineno="107"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(lista_esta_vazia(L)<sp/>!=<sp/>0){</highlight></codeline>
+<codeline lineno="108"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>bot<sp/>=<sp/>devolve_cabeca(L);</highlight></codeline>
+<codeline lineno="109"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1a829a3995e04d067935edc9d5535410fe" kindref="member">liberta_bot_struct</ref>(bot);</highlight></codeline>
+<codeline lineno="110"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tmp<sp/>=<sp/>L;</highlight></codeline>
+<codeline lineno="111"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>L<sp/>=<sp/>proximo(L);</highlight></codeline>
+<codeline lineno="112"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>free(tmp);</highlight></codeline>
+<codeline lineno="113"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="114"><highlight class="normal"><sp/><sp/><sp/><sp/>free(L);</highlight></codeline>
+<codeline lineno="115"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="116"><highlight class="normal"></highlight></codeline>
+<codeline lineno="117"><highlight class="normal"><ref refid="structnodo" kindref="compound">LISTA</ref><sp/><ref refid="botavancado_8h_1a9dbf6956b91fda3c0de2268f770ea8ac" kindref="member">adiciona_jogadas_a_volta</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L){</highlight></codeline>
+<codeline lineno="118"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c;</highlight></codeline>
+<codeline lineno="119"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1aba91601f16d4c485b2d9b8c429f27039" kindref="member">CASA</ref><sp/>teste;</highlight></codeline>
+<codeline lineno="120"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>pos<sp/>=<sp/>1;pos<sp/>&lt;<sp/>9;pos++)<sp/>{</highlight></codeline>
+<codeline lineno="121"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>c<sp/>=<sp/><ref refid="logicaprograma_8h_1ab319d0212266003957c1fd38524a89fc" kindref="member">pos_coordenada</ref>(<ref refid="camadadados_8h_1a40555aff97afc67bd1866f2785111310" kindref="member">obter_ultima_jogada</ref>(e),<sp/>pos);</highlight></codeline>
+<codeline lineno="122"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>teste<sp/>=<sp/><ref refid="camadadados_8h_1a6faa68373203923729ed38657aa0f768" kindref="member">obter_estado_casa</ref>(e,<sp/>c);</highlight></codeline>
+<codeline lineno="123"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(teste<sp/>!=<sp/>PRETA)<sp/>{</highlight></codeline>
+<codeline lineno="124"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot<sp/>=<sp/><ref refid="botavancado_8h_1a65e73a159d2b2aaa785ff11f10720569" kindref="member">cria_struct_pronta</ref>(e,c);</highlight></codeline>
+<codeline lineno="125"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>L<sp/>=<sp/>insere_cabeca(L,bot);</highlight></codeline>
+<codeline lineno="126"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="127"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="128"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>L;</highlight></codeline>
+<codeline lineno="129"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="130"><highlight class="normal"></highlight></codeline>
+<codeline lineno="131"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1a95e0fc65c86e348e156d0c58bedfaba3" kindref="member">avalia_jogada_melhor_inimigo</ref>(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L){</highlight></codeline>
+<codeline lineno="132"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>max,cont,<ref refid="camadadados_8h_1ac9cec04d46e346878b3a0d46bfbbd12a" kindref="member">pos</ref>,rat;</highlight></codeline>
+<codeline lineno="133"><highlight class="normal"><sp/><sp/><sp/><sp/>pos<sp/>=<sp/>0;cont<sp/>=<sp/>0;max<sp/>=-1001;</highlight></codeline>
+<codeline lineno="134"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot;</highlight></codeline>
+<codeline lineno="135"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal">(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>dopio<sp/>=<sp/>L;lista_esta_vazia(dopio)!=0;dopio=proximo(dopio)){</highlight></codeline>
+<codeline lineno="136"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>bot<sp/>=<sp/>devolve_cabeca(dopio);</highlight></codeline>
+<codeline lineno="137"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>rat<sp/>=<sp/><ref refid="botavancado_8h_1aab4ec99c149909071fc835033e47ee11" kindref="member">obter_rating</ref>(bot);</highlight></codeline>
+<codeline lineno="138"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(rat<sp/>&gt;<sp/>max){</highlight></codeline>
+<codeline lineno="139"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>max<sp/>=<sp/>rat;</highlight></codeline>
+<codeline lineno="140"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pos<sp/>=<sp/>cont;</highlight></codeline>
+<codeline lineno="141"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="142"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cont++;</highlight></codeline>
+<codeline lineno="143"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="144"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/><ref refid="camadadados_8h_1ac9cec04d46e346878b3a0d46bfbbd12a" kindref="member">pos</ref>;</highlight></codeline>
+<codeline lineno="145"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="146"><highlight class="normal"></highlight></codeline>
+<codeline lineno="147"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1abd5075b5a685176d4cff1e3e53f5a8b9" kindref="member">avalia_jogada_maxima</ref>(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>med){</highlight></codeline>
+<codeline lineno="148"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>r=med;</highlight></codeline>
+<codeline lineno="149"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(r<sp/>!=<sp/>-1000<sp/>&amp;&amp;<sp/>r<sp/>!=<sp/>1000)<sp/>{</highlight></codeline>
+<codeline lineno="150"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>cont;</highlight></codeline>
+<codeline lineno="151"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>r=<sp/>0;</highlight></codeline>
+<codeline lineno="152"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot;</highlight></codeline>
+<codeline lineno="153"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>dopio<sp/>=<sp/>L;<sp/>lista_esta_vazia(dopio)<sp/>!=<sp/>0;<sp/>dopio<sp/>=<sp/>proximo(dopio))<sp/>{</highlight></codeline>
+<codeline lineno="154"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>bot<sp/>=<sp/>devolve_cabeca(dopio);</highlight></codeline>
+<codeline lineno="155"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cont<sp/>=<sp/><ref refid="botavancado_8h_1aab4ec99c149909071fc835033e47ee11" kindref="member">obter_rating</ref>(bot);</highlight></codeline>
+<codeline lineno="156"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(cont<sp/>&gt;<sp/>r){</highlight></codeline>
+<codeline lineno="157"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>r=cont;</highlight></codeline>
+<codeline lineno="158"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="159"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="160"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="161"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>r;</highlight></codeline>
+<codeline lineno="162"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="163"><highlight class="normal"></highlight></codeline>
+<codeline lineno="164"><highlight class="normal"><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/><ref refid="botavancado_8h_1a21869bd081818ae11a3733d99ef5f278" kindref="member">avalia_jogada_melhor_final</ref>(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L){</highlight></codeline>
+<codeline lineno="165"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>max,rat;</highlight></codeline>
+<codeline lineno="166"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>c;</highlight></codeline>
+<codeline lineno="167"><highlight class="normal"><sp/><sp/><sp/><sp/>c.linha<sp/>=<sp/>-1;<sp/>c.coluna=-1;</highlight></codeline>
+<codeline lineno="168"><highlight class="normal"><sp/><sp/><sp/><sp/>max<sp/>=<sp/>-1001;</highlight></codeline>
+<codeline lineno="169"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot;</highlight></codeline>
+<codeline lineno="170"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal">(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>dopio<sp/>=<sp/>L;lista_esta_vazia(dopio)!=0;dopio=proximo(dopio)){</highlight></codeline>
+<codeline lineno="171"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>bot<sp/>=<sp/>devolve_cabeca(dopio);</highlight></codeline>
+<codeline lineno="172"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>rat<sp/>=<sp/><ref refid="botavancado_8h_1aab4ec99c149909071fc835033e47ee11" kindref="member">obter_rating</ref>(bot);</highlight></codeline>
+<codeline lineno="173"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(rat<sp/>&gt;<sp/>max){</highlight></codeline>
+<codeline lineno="174"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>max<sp/>=<sp/>rat;</highlight></codeline>
+<codeline lineno="175"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>c<sp/>=<sp/><ref refid="botavancado_8h_1ad7482767a69aee7ba4e6b24e8b646a03" kindref="member">obter_coordenada_botstruct</ref>(bot);</highlight></codeline>
+<codeline lineno="176"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="177"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="178"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>c;</highlight></codeline>
+<codeline lineno="179"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="180"><highlight class="normal"></highlight></codeline>
+<codeline lineno="181"><highlight class="normal"><ref refid="structnodo" kindref="compound">LISTA</ref><sp/><ref refid="botavancado_8h_1a5bfd08799af70225840b71fcf2a5b466" kindref="member">apaga_membros_menores</ref>(<ref refid="structnodo" kindref="compound">LISTA</ref><sp/>L,</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>pos){</highlight></codeline>
+<codeline lineno="182"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structBOTAVANCADOSTRUCT" kindref="compound">BOTAVANCADOSTRUCT</ref><sp/>*bot;</highlight></codeline>
+<codeline lineno="183"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>aux<sp/>=<sp/>0;aux<sp/>!=<sp/><ref refid="camadadados_8h_1ac9cec04d46e346878b3a0d46bfbbd12a" kindref="member">pos</ref>;aux++){</highlight></codeline>
+<codeline lineno="184"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>bot<sp/>=<sp/>devolve_cabeca(L);</highlight></codeline>
+<codeline lineno="185"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="botavancado_8h_1a829a3995e04d067935edc9d5535410fe" kindref="member">liberta_bot_struct</ref>(bot);</highlight></codeline>
+<codeline lineno="186"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>L<sp/>=<sp/>remove_cabeca(L);</highlight></codeline>
+<codeline lineno="187"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="188"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>L;</highlight></codeline>
+<codeline lineno="189"><highlight class="normal">}</highlight></codeline>
+<codeline lineno="190"><highlight class="normal"></highlight></codeline>
+<codeline lineno="191"><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="botavancado_8h_1a8aa498b8092aaef3a788c0c7049eee2e" kindref="member">avalia_tabuleiro_avancado</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e){</highlight></codeline>
+<codeline lineno="192"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>col,lin,rating;</highlight></codeline>
+<codeline lineno="193"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/>terminado;</highlight></codeline>
+<codeline lineno="194"><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref><sp/>tmp<sp/>=<sp/><ref refid="camadadados_8h_1a40555aff97afc67bd1866f2785111310" kindref="member">obter_ultima_jogada</ref>(e);</highlight></codeline>
+<codeline lineno="195"><highlight class="normal"><sp/><sp/><sp/><sp/>col<sp/>=<sp/>tmp.coluna;</highlight></codeline>
+<codeline lineno="196"><highlight class="normal"><sp/><sp/><sp/><sp/>lin<sp/>=<sp/>tmp.linha<sp/>*<sp/>(-1)<sp/>+<sp/>7;</highlight></codeline>
+<codeline lineno="197"><highlight class="normal"><sp/><sp/><sp/><sp/>rating<sp/>=<sp/>col+lin;</highlight></codeline>
+<codeline lineno="198"><highlight class="normal"><sp/><sp/><sp/><sp/>terminado<sp/>=<sp/><ref refid="logicaprograma_8h_1a6c63fcd686850cc8465daf4801440752" kindref="member">jogo_terminado</ref>(e);</highlight></codeline>
+<codeline lineno="199"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(terminado<sp/>!=<sp/>ONGOING){</highlight></codeline>
+<codeline lineno="200"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(terminado<sp/>==<sp/>JOG2GANHA)<sp/>rating<sp/>=<sp/>1000;</highlight></codeline>
+<codeline lineno="201"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>rating<sp/>=<sp/>-1000;</highlight></codeline>
+<codeline lineno="202"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="camadadados_8h_1ad6e326e4ffa57ca1ae0c75377ecefc8c" kindref="member">obter_jogador_atual</ref>(e)<sp/>==<sp/>2)<sp/>rating<sp/>=<sp/>(-rating);</highlight></codeline>
+<codeline lineno="203"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="204"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/>{</highlight></codeline>
+<codeline lineno="205"><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="camadadados_8h_1ad6e326e4ffa57ca1ae0c75377ecefc8c" kindref="member">obter_jogador_atual</ref>(e)<sp/>==<sp/>2)<sp/>rating<sp/>=<sp/>14-rating;</highlight></codeline>
+<codeline lineno="206"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline lineno="207"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>rating;</highlight></codeline>
+<codeline lineno="208"><highlight class="normal">}</highlight></codeline>
+    </programlisting>
+    <location file="projeto/botavancado.c"/>
+  </compounddef>
+</doxygen>

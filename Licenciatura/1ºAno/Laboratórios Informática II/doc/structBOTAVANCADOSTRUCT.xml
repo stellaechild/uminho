@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="structBOTAVANCADOSTRUCT" kind="struct" language="C++" prot="public">
+    <compoundname>BOTAVANCADOSTRUCT</compoundname>
+    <includes refid="botavancado_8h" local="no">botavancado.h</includes>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structBOTAVANCADOSTRUCT_1a6804275df1b98599af49e28eeb4026ea" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int BOTAVANCADOSTRUCT::depth</definition>
+        <argsstring></argsstring>
+        <name>depth</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.h" line="16" column="1" bodyfile="projeto/botavancado.h" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structBOTAVANCADOSTRUCT_1afe441e40cb7d52e1be6006ee510f1143" prot="public" static="no" mutable="no">
+        <type><ref refid="structCOORDENADA" kindref="compound">COORDENADA</ref></type>
+        <definition>COORDENADA BOTAVANCADOSTRUCT::jogada</definition>
+        <argsstring></argsstring>
+        <name>jogada</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.h" line="17" column="1" bodyfile="projeto/botavancado.h" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structBOTAVANCADOSTRUCT_1a93a77d64a849c97193244b6f9c70ccc2" prot="public" static="no" mutable="no">
+        <type>int</type>
+        <definition>int BOTAVANCADOSTRUCT::rating</definition>
+        <argsstring></argsstring>
+        <name>rating</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.h" line="18" column="1" bodyfile="projeto/botavancado.h" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structBOTAVANCADOSTRUCT_1ac7dea78974c1542581b91b0b2f16023e" prot="public" static="no" mutable="no">
+        <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+        <definition>ESTADO* BOTAVANCADOSTRUCT::e</definition>
+        <argsstring></argsstring>
+        <name>e</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.h" line="19" column="1" bodyfile="projeto/botavancado.h" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structBOTAVANCADOSTRUCT_1a97a6ed3c0ccdad71507a9d9618b4694e" prot="public" static="no" mutable="no">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA BOTAVANCADOSTRUCT::jogadasPossiveis</definition>
+        <argsstring></argsstring>
+        <name>jogadasPossiveis</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/botavancado.h" line="20" column="1" bodyfile="projeto/botavancado.h" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Estrutura de dados usada pelo bot avançado. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="5">
+        <label>nodo</label>
+        <link refid="structnodo"/>
+        <childnode refid="5" relation="usage">
+          <edgelabel>proximo</edgelabel>
+        </childnode>
+      </node>
+      <node id="4">
+        <label>JOGADA</label>
+        <link refid="structJOGADA"/>
+        <childnode refid="3" relation="usage">
+          <edgelabel>jogador1</edgelabel>
+          <edgelabel>jogador2</edgelabel>
+        </childnode>
+      </node>
+      <node id="3">
+        <label>COORDENADA</label>
+        <link refid="structCOORDENADA"/>
+      </node>
+      <node id="1">
+        <label>BOTAVANCADOSTRUCT</label>
+        <link refid="structBOTAVANCADOSTRUCT"/>
+        <childnode refid="2" relation="usage">
+          <edgelabel>e</edgelabel>
+        </childnode>
+        <childnode refid="3" relation="usage">
+          <edgelabel>jogada</edgelabel>
+        </childnode>
+        <childnode refid="5" relation="usage">
+          <edgelabel>jogadasPossiveis</edgelabel>
+        </childnode>
+      </node>
+      <node id="2">
+        <label>ESTADO</label>
+        <link refid="structESTADO"/>
+        <childnode refid="3" relation="usage">
+          <edgelabel>ultima_jogada</edgelabel>
+        </childnode>
+        <childnode refid="4" relation="usage">
+          <edgelabel>jogadas</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="projeto/botavancado.h" line="15" column="1" bodyfile="projeto/botavancado.h" bodystart="15" bodyend="21"/>
+    <listofallmembers>
+      <member refid="structBOTAVANCADOSTRUCT_1a6804275df1b98599af49e28eeb4026ea" prot="public" virt="non-virtual"><scope>BOTAVANCADOSTRUCT</scope><name>depth</name></member>
+      <member refid="structBOTAVANCADOSTRUCT_1ac7dea78974c1542581b91b0b2f16023e" prot="public" virt="non-virtual"><scope>BOTAVANCADOSTRUCT</scope><name>e</name></member>
+      <member refid="structBOTAVANCADOSTRUCT_1afe441e40cb7d52e1be6006ee510f1143" prot="public" virt="non-virtual"><scope>BOTAVANCADOSTRUCT</scope><name>jogada</name></member>
+      <member refid="structBOTAVANCADOSTRUCT_1a97a6ed3c0ccdad71507a9d9618b4694e" prot="public" virt="non-virtual"><scope>BOTAVANCADOSTRUCT</scope><name>jogadasPossiveis</name></member>
+      <member refid="structBOTAVANCADOSTRUCT_1a93a77d64a849c97193244b6f9c70ccc2" prot="public" virt="non-virtual"><scope>BOTAVANCADOSTRUCT</scope><name>rating</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

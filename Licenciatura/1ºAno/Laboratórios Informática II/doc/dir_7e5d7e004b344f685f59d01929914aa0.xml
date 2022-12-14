@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="dir_7e5d7e004b344f685f59d01929914aa0" kind="dir">
+    <compoundname>projeto</compoundname>
+    <innerfile refid="botavancado_8c">botavancado.c</innerfile>
+    <innerfile refid="botavancado_8h">botavancado.h</innerfile>
+    <innerfile refid="botsimples_8c">botsimples.c</innerfile>
+    <innerfile refid="botsimples_8h">botsimples.h</innerfile>
+    <innerfile refid="camadadados_8c">camadadados.c</innerfile>
+    <innerfile refid="camadadados_8h">camadadados.h</innerfile>
+    <innerfile refid="camadainterface_8c">camadainterface.c</innerfile>
+    <innerfile refid="camadainterface_8h">camadainterface.h</innerfile>
+    <innerfile refid="gestaodeficheiros_8c">gestaodeficheiros.c</innerfile>
+    <innerfile refid="gestaodeficheiros_8h">gestaodeficheiros.h</innerfile>
+    <innerfile refid="listasgenerica_8c">listasgenerica.c</innerfile>
+    <innerfile refid="listasgenerica_8h">listasgenerica.h</innerfile>
+    <innerfile refid="logicaprograma_8c">logicaprograma.c</innerfile>
+    <innerfile refid="logicaprograma_8h">logicaprograma.h</innerfile>
+    <innerfile refid="main_8c">main.c</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="projeto/"/>
+  </compounddef>
+</doxygen>

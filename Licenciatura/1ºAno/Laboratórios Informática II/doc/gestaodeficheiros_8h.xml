@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="gestaodeficheiros_8h" kind="file" language="C++">
+    <compoundname>gestaodeficheiros.h</compoundname>
+    <includes local="no">stdio.h</includes>
+    <includes refid="camadadados_8h" local="yes">camadadados.h</includes>
+    <includedby refid="camadainterface_8c" local="yes">projeto/camadainterface.c</includedby>
+    <includedby refid="gestaodeficheiros_8c" local="yes">projeto/gestaodeficheiros.c</includedby>
+    <incdepgraph>
+      <node id="58">
+        <label>camadadados.h</label>
+        <link refid="camadadados_8h"/>
+      </node>
+      <node id="57">
+        <label>stdio.h</label>
+      </node>
+      <node id="56">
+        <label>projeto/gestaodeficheiros.h</label>
+        <link refid="gestaodeficheiros_8h"/>
+        <childnode refid="57" relation="include">
+        </childnode>
+        <childnode refid="58" relation="include">
+        </childnode>
+      </node>
+    </incdepgraph>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="gestaodeficheiros_8h_1a42c508fef9bc8d48bb60f6679abbe45f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int gravar</definition>
+        <argsstring>(ESTADO *e, char nome[])</argsstring>
+        <name>gravar</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>char</type>
+          <declname>nome</declname>
+          <array>[]</array>
+        </param>
+        <briefdescription>
+<para>Comando gravar. Grava o estado atual num ficheiro. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado a ser gravado. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>nome[]</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Nome do ficheiro. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/gestaodeficheiros.h" line="17" column="1" bodyfile="projeto/gestaodeficheiros.c" bodystart="7" bodyend="14"/>
+      </memberdef>
+      <memberdef kind="function" id="gestaodeficheiros_8h_1a675212badeee3f8da42dddaebf44973b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref></type>
+        <definition>FIM ler</definition>
+        <argsstring>(ESTADO *e, char nome[], int *mensagem)</argsstring>
+        <name>ler</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>char</type>
+          <declname>nome</declname>
+          <array>[]</array>
+        </param>
+        <param>
+          <type>int *</type>
+          <declname>mensagem</declname>
+        </param>
+        <briefdescription>
+<para>Comando ler. Lê de um ficheiro e interpreta para um estado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado onde vai ser gravado a informação do ficheiro. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>nome[]</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Nome do ficheiro a ser lido. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Indicador de sucesso. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/gestaodeficheiros.h" line="25" column="1" bodyfile="projeto/gestaodeficheiros.c" bodystart="16" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="function" id="gestaodeficheiros_8h_1ae3c1843addd5b4dd05c5e9e172cd1bd1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void le_tabuleiro</definition>
+        <argsstring>(ESTADO *e, FILE *jogo)</argsstring>
+        <name>le_tabuleiro</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>FILE *</type>
+          <declname>jogo</declname>
+        </param>
+        <briefdescription>
+<para>Auxiliar da função ler. Lê de um ficheiro o tabuleiro e interpreta para um estado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado onde vai ser gravado a informação do ficheiro. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>nome[]</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Nome do ficheiro a ser lido. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/gestaodeficheiros.h" line="32" column="1" bodyfile="projeto/gestaodeficheiros.c" bodystart="42" bodyend="56"/>
+      </memberdef>
+      <memberdef kind="function" id="gestaodeficheiros_8h_1af9ea4eb78f57674ce4d1f881623480a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int le_lista_de_jogadas</definition>
+        <argsstring>(ESTADO *e, FILE *jogo)</argsstring>
+        <name>le_lista_de_jogadas</name>
+        <param>
+          <type><ref refid="structESTADO" kindref="compound">ESTADO</ref> *</type>
+          <declname>e</declname>
+        </param>
+        <param>
+          <type>FILE *</type>
+          <declname>jogo</declname>
+        </param>
+        <briefdescription>
+<para>Auxiliar da função ler. Lê de um ficheiro a lista de jogadas e interpreta para um estado. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>*e</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o estado onde vai ser gravado a informação do ficheiro. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>nome[]</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Nome do ficheiro a ser lido. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Indicador de sucesso. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/gestaodeficheiros.h" line="40" column="1" bodyfile="projeto/gestaodeficheiros.c" bodystart="58" bodyend="79"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Este módulo é utilizado para as funções de gravação e leitura de ficheiros. </para>    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#ifndef<sp/>LI2PL11_GESTAODEFICHEIROS_H</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>LI2PL11_GESTAODEFICHEIROS_H</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="4"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&lt;stdio.h&gt;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="5"><highlight class="normal"></highlight><highlight class="preprocessor">#include<sp/>&quot;<ref refid="camadadados_8h" kindref="compound">camadadados.h</ref>&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="6"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17"><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="gestaodeficheiros_8h_1a42c508fef9bc8d48bb60f6679abbe45f" kindref="member">gravar</ref><sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,<sp/></highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>nome[]);</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"></highlight></codeline>
+<codeline lineno="25"><highlight class="normal"><ref refid="camadadados_8h_1a619c7778c2083a8e8c59b4e81cf8abe1" kindref="member">FIM</ref><sp/><ref refid="gestaodeficheiros_8h_1a675212badeee3f8da42dddaebf44973b" kindref="member">ler</ref><sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,</highlight><highlight class="keywordtype">char</highlight><highlight class="normal"><sp/>nome[],</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>*mensagem);</highlight></codeline>
+<codeline lineno="26"><highlight class="normal"></highlight></codeline>
+<codeline lineno="32"><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="gestaodeficheiros_8h_1ae3c1843addd5b4dd05c5e9e172cd1bd1" kindref="member">le_tabuleiro</ref><sp/>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,FILE<sp/>*jogo);</highlight></codeline>
+<codeline lineno="33"><highlight class="normal"></highlight></codeline>
+<codeline lineno="40"><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/><ref refid="gestaodeficheiros_8h_1af9ea4eb78f57674ce4d1f881623480a7" kindref="member">le_lista_de_jogadas</ref>(<ref refid="structESTADO" kindref="compound">ESTADO</ref><sp/>*e,FILE<sp/>*jogo);</highlight></codeline>
+<codeline lineno="41"><highlight class="normal"></highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight><highlight class="preprocessor">#endif<sp/>//LI2PL11_GESTAODEFICHEIROS_H</highlight></codeline>
+    </programlisting>
+    <location file="projeto/gestaodeficheiros.h"/>
+  </compounddef>
+</doxygen>

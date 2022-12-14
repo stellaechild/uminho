@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="listasgenerica_8h" kind="file" language="C++">
+    <compoundname>listasgenerica.h</compoundname>
+    <includedby refid="botavancado_8h" local="yes">projeto/botavancado.h</includedby>
+    <includedby refid="botsimples_8h" local="yes">projeto/botsimples.h</includedby>
+    <includedby refid="listasgenerica_8c" local="yes">projeto/listasgenerica.c</includedby>
+    <invincdepgraph>
+      <node id="67">
+        <label>projeto/botsimples.h</label>
+        <link refid="botsimples_8h"/>
+      </node>
+      <node id="66">
+        <label>projeto/botavancado.h</label>
+        <link refid="botavancado_8h"/>
+      </node>
+      <node id="65">
+        <label>projeto/listasgenerica.h</label>
+        <link refid="listasgenerica_8h"/>
+        <childnode refid="66" relation="include">
+        </childnode>
+        <childnode refid="67" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <innerclass refid="structnodo" prot="public">nodo</innerclass>
+      <sectiondef kind="typedef">
+      <memberdef kind="typedef" id="listasgenerica_8h_1a5a5447a03bcb835183312f000a1d12bc" prot="public" static="no">
+        <type>struct <ref refid="structnodo" kindref="compound">nodo</ref> *</type>
+        <definition>typedef struct nodo* LISTA</definition>
+        <argsstring></argsstring>
+        <name>LISTA</name>
+        <briefdescription>
+<para>Define LISTA como um apontador para a estrutura da lista. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="12" column="1" bodyfile="projeto/listasgenerica.h" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="listasgenerica_8h_1a562139d4f8346894fa191c6aa9650ce7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA cria_lista</definition>
+        <argsstring>()</argsstring>
+        <name>cria_lista</name>
+        <briefdescription>
+<para>Função que inicializa uma lista vazia. </para>        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Lista criada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="26" column="1" bodyfile="projeto/listasgenerica.c" bodystart="4" bodyend="10"/>
+      </memberdef>
+      <memberdef kind="function" id="listasgenerica_8h_1a37ba5fc3cfddb6bc94d4b54b00bc696e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA insere_cabeca</definition>
+        <argsstring>(LISTA L, void *valor)</argsstring>
+        <name>insere_cabeca</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <param>
+          <type>void *</type>
+          <declname>valor</declname>
+        </param>
+        <briefdescription>
+<para>Função para inserir elementos na cabeça da lista. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser atualizada. </para></parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>*valor</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Apontador para o valor a ser adicionado à lista. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Lista atualizada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="34" column="1" bodyfile="projeto/listasgenerica.c" bodystart="12" bodyend="17"/>
+      </memberdef>
+      <memberdef kind="function" id="listasgenerica_8h_1abfcb205f3eb670157be0d1221021714b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void *</type>
+        <definition>void* devolve_cabeca</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>devolve_cabeca</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Função que devolve a cabeça de uma lista. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser analisada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Apontador para o valor da cabeça da lista. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="41" column="1" bodyfile="projeto/listasgenerica.c" bodystart="19" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="listasgenerica_8h_1ad9380152361127432c55c1c6067e05ae" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA proximo</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>proximo</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Função que avança a lista para o seu elemento seguinte. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser modificada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Lista modificada. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="48" column="1" bodyfile="projeto/listasgenerica.c" bodystart="24" bodyend="26"/>
+      </memberdef>
+      <memberdef kind="function" id="listasgenerica_8h_1a9026a681a68322b5ec7f07137b864cbd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA remove_cabeca</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>remove_cabeca</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Função que remove a cabeça de uma lista devolvendo o elemento seguinte. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser modificada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Lista sem o elemento à cabeça. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="55" column="1" bodyfile="projeto/listasgenerica.c" bodystart="28" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="function" id="listasgenerica_8h_1a4c10928f7acaa4e3de3760cea0dfd9c0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int</type>
+        <definition>int lista_esta_vazia</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>lista_esta_vazia</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Função que avalia se uma lista se encontra vazia (0 = Vazia). </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser testada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Valor boleano. </para></simplesect>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="62" column="1" bodyfile="projeto/listasgenerica.c" bodystart="35" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="function" id="listasgenerica_8h_1a52aacaf5667ce10178978c0807eb492d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void liberta_lista</definition>
+        <argsstring>(LISTA L)</argsstring>
+        <name>liberta_lista</name>
+        <param>
+          <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+          <declname>L</declname>
+        </param>
+        <briefdescription>
+<para>Função que liberta todos os elementos da lista, apagando esta da memória. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>L</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Lista a ser libertada. </para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="68" column="1" bodyfile="projeto/listasgenerica.c" bodystart="40" bodyend="45"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline lineno="1"><highlight class="preprocessor">#ifndef<sp/>LI2PL11_LISTASGENERICA_H</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="2"><highlight class="normal"></highlight><highlight class="preprocessor">#define<sp/>LI2PL11_LISTASGENERICA_H</highlight><highlight class="normal"></highlight></codeline>
+<codeline lineno="3"><highlight class="normal"></highlight></codeline>
+<codeline lineno="12"><highlight class="keyword">typedef</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">struct<sp/></highlight><highlight class="normal"><ref refid="structnodo" kindref="compound">nodo</ref>*<sp/><ref refid="structnodo" kindref="compound">LISTA</ref>;</highlight></codeline>
+<codeline lineno="13"><highlight class="normal"></highlight></codeline>
+<codeline lineno="17" refid="structnodo" refkind="compound"><highlight class="keyword">struct<sp/></highlight><highlight class="normal"><ref refid="structnodo" kindref="compound">nodo</ref><sp/>{</highlight></codeline>
+<codeline lineno="18"><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>*val;</highlight></codeline>
+<codeline lineno="19"><highlight class="normal"><sp/><sp/><sp/><sp/>LISTA<sp/>proximo;</highlight></codeline>
+<codeline lineno="20"><highlight class="normal">};</highlight></codeline>
+<codeline lineno="21"><highlight class="normal"></highlight></codeline>
+<codeline lineno="26"><highlight class="normal">LISTA<sp/>cria_lista();</highlight></codeline>
+<codeline lineno="27"><highlight class="normal"></highlight></codeline>
+<codeline lineno="34"><highlight class="normal">LISTA<sp/>insere_cabeca(LISTA<sp/>L,<sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>*valor);</highlight></codeline>
+<codeline lineno="35"><highlight class="normal"></highlight></codeline>
+<codeline lineno="41"><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>*devolve_cabeca(LISTA<sp/>L);</highlight></codeline>
+<codeline lineno="42"><highlight class="normal"></highlight></codeline>
+<codeline lineno="48"><highlight class="normal">LISTA<sp/>proximo(LISTA<sp/>L);</highlight></codeline>
+<codeline lineno="49"><highlight class="normal"></highlight></codeline>
+<codeline lineno="55"><highlight class="normal">LISTA<sp/>remove_cabeca(LISTA<sp/>L);</highlight></codeline>
+<codeline lineno="56"><highlight class="normal"></highlight></codeline>
+<codeline lineno="62"><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>lista_esta_vazia(LISTA<sp/>L);</highlight></codeline>
+<codeline lineno="63"><highlight class="normal"></highlight></codeline>
+<codeline lineno="68"><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>liberta_lista(LISTA<sp/>L);</highlight></codeline>
+<codeline lineno="69"><highlight class="normal"></highlight></codeline>
+<codeline lineno="70"><highlight class="normal"></highlight><highlight class="preprocessor">#endif<sp/>//LI2PL11_LISTASGENERICA_H</highlight></codeline>
+    </programlisting>
+    <location file="projeto/listasgenerica.h"/>
+  </compounddef>
+</doxygen>

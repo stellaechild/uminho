@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.13">
+  <compounddef id="structnodo" kind="struct" language="C++" prot="public">
+    <compoundname>nodo</compoundname>
+    <includes refid="listasgenerica_8h" local="no">listasgenerica.h</includes>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="structnodo_1af23df6f7ba00fc742dc2dbd4aac56723" prot="public" static="no" mutable="no">
+        <type>void *</type>
+        <definition>void* nodo::val</definition>
+        <argsstring></argsstring>
+        <name>val</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="18" column="1" bodyfile="projeto/listasgenerica.h" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="structnodo_1a71edf2343baa7fa6defe12ec3b6a7769" prot="public" static="no" mutable="no">
+        <type><ref refid="structnodo" kindref="compound">LISTA</ref></type>
+        <definition>LISTA nodo::proximo</definition>
+        <argsstring></argsstring>
+        <name>proximo</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="projeto/listasgenerica.h" line="19" column="1" bodyfile="projeto/listasgenerica.h" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Estrutura da lista genérica. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="19">
+        <label>nodo</label>
+        <link refid="structnodo"/>
+        <childnode refid="19" relation="usage">
+          <edgelabel>proximo</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="projeto/listasgenerica.h" line="17" column="1" bodyfile="projeto/listasgenerica.h" bodystart="17" bodyend="20"/>
+    <listofallmembers>
+      <member refid="structnodo_1a71edf2343baa7fa6defe12ec3b6a7769" prot="public" virt="non-virtual"><scope>nodo</scope><name>proximo</name></member>
+      <member refid="structnodo_1af23df6f7ba00fc742dc2dbd4aac56723" prot="public" virt="non-virtual"><scope>nodo</scope><name>val</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
