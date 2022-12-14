@@ -1,0 +1,11 @@
+entrega(1,6,1).
+entrega(2,8,8).
+entrega(3,4,7).
+
+
+
+
+
+info(1,7,42,15,[2021,8,1,14,26],4.4,1,7,'Rua António Ferreira Rito',20,16).
+info(2,9,101,15,[2021,4,30,10,16],0.2,0,4,'Rua Conselheiro Januário',20,25).
+info(3,5,61,15,[2021,11,15,21,55],1.8,0,2,'Largo de São Pedro',20,16).
