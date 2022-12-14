@@ -24,7 +24,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 - (19) [Investigação Operacional](https://github.com/stellaechild/uminho/tree/main/Licenciatura/2%C2%BAAno/Investiga%C3%A7%C3%A3o%20Operacional)
 
 
-### **3º Ano - 3º Semestre**
+### **3º Ano - 1º Semestre**
 - (11) [Cálculo de Programas](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/C%C3%A1lculo%20Programas)
 
 - (18) [Comunicações por Computador](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/Comunica%C3%A7%C3%B5es%20Computador)
