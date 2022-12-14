@@ -1,0 +1,6 @@
+main: [2022-01-14 17-50-49] Log Started
+main: [2022-01-14 17-50-49] Initialzing UserRegistry: 'Users.csv'
+main: [2022-01-14 17-50-49] Initizaling FlightRegistry: 'Flights.csv'
+Thread-0: [2022-01-14 17-51-16] ID:Nxxxxx $ Login
+Thread-0: [2022-01-14 17-51-16] User Logged in, ID: Ahyohp
+Thread-0: [2022-01-14 17-51-44] ID:Ahyohp $ ReservarVoo
