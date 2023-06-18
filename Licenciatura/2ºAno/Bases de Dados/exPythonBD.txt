@@ -1,0 +1,3 @@
+morada#2,Rua de baixo n 134
+contato#4,999999999
+tipo#11,Para roupa,7
