@@ -1,0 +1,468 @@
+<world>
+    <!-- PLANETS: SPHERE 1 32 16 1-->
+    <!-- COMETS: TEAPOT (10 TESSELATION) -->
+    <!-- ASTEROIDS: ASTEROIDS 200 30 32 16 asteroidBelt.3d -->
+    <!-- RING: TORUS 4 1 32 2 ring.3d-->
+    <window width="1024" height="1024" />
+    <camera>
+        <position x="-280" y="300" z="-640" />
+        <lookAt x="0" y="0" z="0" />
+        <up x="0" y="1" z="0" />
+        <projection fov="65" near="1" far="2000" />
+    </camera>
+    <lights>
+        <light type="point" posx="0" posy="0" posz="0"/>
+    </lights>
+
+    <!-- MILKY WAY  -->
+    <group>
+        <models>
+            <model file="models/sphereInward.3d">
+                <texture file="textures/2k_stars_milky_way.jpg"/>
+            </model>
+        </models>
+    </group>
+    
+    <!-- SUN  -->
+    <group>
+        <transform>
+            <rotate x="0" y="1" z="0" time="1"/>
+            <scale x="30" y="30" z="30" />
+        </transform>
+        <models>
+            <model file="models/sphere.3d">
+                <texture file="textures/2k_sun.jpg"/>
+                <color>
+                    <emissive R="253" G="184" B="19" />
+                </color>
+            </model>
+        </models>
+    </group>
+
+    <!-- Mercury  -->
+    <group>
+        <transform>
+            <translate z="55" time="3">
+                <point x="0"      y="0" z="0" />
+                <point x="38.88"  y="0" z="-16.12"/>
+				<point x="55"    y="0" z="-55"/>
+                <point x="38.88"  y="0" z="-92.88"/>
+				<point x="0"      y="0" z="-110" />
+                <point x="-38.88" y="0" z="-92.88"/>
+				<point x="-55"   y="0" z="-55" />
+                <point x="-38.88" y="0" z="-16.12"/>
+            </translate>
+            <rotate x="0" y="1" z="0" time="2"/>
+        </transform>
+        <models>
+            <model file="models/sphere.3d">
+                <texture file="textures/2k_mercury.jpg"/>
+            </model>
+        </models>
+    </group>
+
+    <!-- Venus  -->
+    <group>
+        <transform>
+            <translate z="80" time="7.5">
+                <point x="0"      y="0" z="0" />
+                <point x="56.56"  y="0" z="-23.44"/>
+				<point x="80"    y="0" z="-80"/>
+                <point x="56.56"  y="0" z="-136.56"/>
+				<point x="0"      y="0" z="-160" />
+                <point x="-56.56" y="0" z="-136.56"/>
+				<point x="-80"   y="0" z="-80" />
+                <point x="-56.56" y="0" z="-23.44"/>
+            </translate>
+            <rotate x="0" y="1" z="0" time="-8"/>
+            <scale x="2.8" y="2.8" z="2.8" />
+        </transform>
+        <models>
+            <model file="models/sphere.3d">
+                <texture file="textures/2k_venus.jpg"/>
+            </model>
+        </models>
+    </group>
+
+    <!-- Earth  -->
+    <group>
+        <transform>
+            <translate z="105" time="12">
+                <point x="0"      y="0" z="0" />
+                <point x="74.26"  y="0" z="-30.74"/>
+				<point x="105"    y="0" z="-105"/>
+                <point x="74.26"  y="0" z="-179.26"/>
+				<point x="0"      y="0" z="-210" />
+                <point x="-74.26" y="0" z="-179.26"/>
+				<point x="-105"   y="0" z="-105" />
+                <point x="-74.26" y="0" z="-30.74"/>
+            </translate>
+        </transform>
+
+        <group>
+            <transform>
+                <rotate x="1" y="0" z="0" angle="23.5"/>
+            </transform>
+            <group>
+                <transform>
+                    <rotate x="0" y="1" z="0" time="0.033333"/>
+                    <scale x="3" y="3" z="3" /> 
+                </transform>        
+                <models>
+                    <model file="models/sphere.3d">
+                        <texture file="textures/2k_earth.jpg"/>
+                    </model>
+                </models>
+            </group>
+        </group>
+
+        <!-- Moon  -->
+        <group>
+            <transform>
+                <translate z="6" time="1">
+                    <point x="0"      y="0" z="0" />
+                    <point x="4.24"  y="0" z="-1.76"/>
+				    <point x="6"    y="0" z="-6"/>
+                    <point x="4.24"  y="0" z="-10.24"/>
+				    <point x="0"      y="0" z="-12" />
+                    <point x="-4.24" y="0" z="-10.24"/>
+				    <point x="-6"   y="0" z="-6" />
+                    <point x="-4.24" y="0" z="-1.76"/>
+                </translate>
+                <rotate x="0" y="1" z="0" time="1"/>
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_moon.jpg"/>
+                </model>
+            </models>
+        </group>
+    </group>
+
+    <!-- Mars  -->
+    <group>
+        <transform>
+            <translate z="150" time="23">
+                <point x="0"      y="0" z="0" />
+                <point x="106.05"  y="0" z="-43.95"/>
+				<point x="150"    y="0" z="-150"/>
+                <point x="106.05"  y="0" z="-256.05"/>
+				<point x="0"      y="0" z="-300" />
+                <point x="-106.05" y="0" z="-256.05"/>
+				<point x="-150"   y="0" z="-150" />
+                <point x="-106.05" y="0" z="-43.95"/>
+            </translate>
+            <rotate x="0" y="1" z="0" time="0.033333"/>
+            <scale x="2" y="2" z="2" />
+        </transform>
+        <models>
+            <model file="models/sphere.3d">
+                <texture file="textures/2k_mars.jpg"/>
+            </model>
+        </models>
+    </group>
+
+    <!-- Jupiter  -->
+    <group>
+        <transform>
+            <translate z="280" time="144">
+                <point x="0"      y="0" z="0" />
+                <point x="197.96"  y="0" z="-82.04"/>
+				<point x="280"    y="0" z="-280"/>
+                <point x="197.96"  y="0" z="-477.96"/>
+				<point x="0"      y="0" z="-560" />
+                <point x="-197.96" y="0" z="-477.96"/>
+				<point x="-280"   y="0" z="-280" />
+                <point x="-197.96" y="0" z="-82.04"/>
+            </translate>
+            <scale x="8" y="8" z="8" />
+        </transform>
+        <group>
+            <transform>
+                <rotate x="0" y="1" z="0" time="0.013888"/>
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_jupiter.jpg"/>
+                </model>
+            </models>
+        </group>
+        
+        <!-- Io  -->
+        <group>
+            <transform>
+                <translate z="1.5" time="0.06">
+                    <point x="0"      y="0" z="0" />
+                    <point x="1.06"  y="0" z="-0.44"/>
+				    <point x="1.5"    y="0" z="-1.5"/>
+                    <point x="1.06"  y="0" z="-2.56"/>
+				    <point x="0"      y="0" z="-3" />
+                    <point x="-1.06" y="0" z="-2.56"/>
+				    <point x="-1.5"   y="0" z="-1.5" />
+                    <point x="-1.06" y="0" z="-0.44"/>
+                </translate>
+                <rotate x="0" y="1" z="0" time="0.6"/>
+                <scale x="0.2" y="0.2" z="0.2" />
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_eris_fictional.jpg"/>
+                </model>
+            </models>
+        </group>
+        <!-- Europa  -->
+        <group>
+            <transform>
+                <translate z="2" time="0.1">
+                    <point x="0"      y="0" z="0" />
+                    <point x="1.41"  y="0" z="-0.59"/>
+				    <point x="2"    y="0" z="-2"/>
+                    <point x="1.41"  y="0" z="-3.41"/>
+				    <point x="0"      y="0" z="-4" />
+                    <point x="-1.41" y="0" z="-3.41"/>
+				    <point x="-2"   y="0" z="-2" />
+                    <point x="-1.41" y="0" z="-0.59"/>
+                </translate>
+                <rotate x="0" y="1" z="0" time="0.11805"/>
+                <scale x="0.125" y="0.125" z="0.125" />
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_makemake_fictional.jpg"/>
+                </model>
+            </models>
+        </group>
+        <!-- Ganymede  -->
+        <group>
+            <transform>
+                <translate z="2.8" time="0.24">
+                    <point x="0"      y="0" z="0" />
+                    <point x="1.98"  y="0" z="-1"/>
+				    <point x="2.8"    y="0" z="-2.8"/>
+                    <point x="1.98"  y="0" z="-4.96"/>
+				    <point x="0"      y="0" z="-5.6" />
+                    <point x="-1.98" y="0" z="-4.96"/>
+				    <point x="-2.8"   y="0" z="-2.8" />
+                    <point x="-1.98" y="0" z="-1"/>
+                </translate>
+                <rotate x="0" y="1" z="0" time="0.24"/>
+                <scale x="0.32" y="0.32" z="0.32" />
+            </transform>
+            <models>
+                <model file="models/sphere.3d" >
+                    <texture file="textures/2k_haumea_fictional.jpg"/>
+                </model>
+            </models>
+        </group>
+        <!-- Callisto  -->
+        <group>
+            <transform>
+                <translate z="3.6" time="0.55">
+                    <point x="0"      y="0" z="0" />
+                    <point x="2.54"  y="0" z="-1.06"/>
+				    <point x="3.6"    y="0" z="-3.6"/>
+                    <point x="2.54"  y="0" z="-6.14"/>
+				    <point x="0"      y="0" z="-7.2" />
+                    <point x="-2.54" y="0" z="-6.14"/>
+				    <point x="-3.6"   y="0" z="-3.6" />
+                    <point x="-2.54" y="0" z="-1.06"/>
+                </translate>
+                <rotate x="0" y="1" z="0" time="0.55"/>
+                <scale x="0.28" y="0.28" z="0.28" />
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_makemake_fictional.jpg"/>
+                </model>
+            </models>
+        </group>
+    </group>
+
+    <!-- Saturn  -->
+    <group>
+        <transform>
+            <translate z="320" time="358">
+                <point x="0"      y="0" z="0" />
+                <point x="226.24"  y="0" z="-93.76"/>
+				<point x="320"    y="0" z="-320"/>
+                <point x="226.24"  y="0" z="-546.24"/>
+				<point x="0"      y="0" z="-640" />
+                <point x="-226.24" y="0" z="-546.24"/>
+				<point x="-320"   y="0" z="-320" />
+                <point x="-226.24" y="0" z="-93.76"/>
+            </translate>
+            <scale x="7" y="7" z="7" />
+        </transform>
+        <group>
+            <transform>
+                <rotate x="0" y="1" z="0" time="0.01486"/>
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_saturn.jpg"/>
+                </model>
+            </models>
+        </group>
+
+        <!-- Ring  -->
+        <group>
+            <transform>
+                <scale x="0.42" y="0.42" z="0.42" />
+            </transform>
+            <models>
+                <model file="models/ring.3d">
+                    <texture file="textures/2k_saturn_ring_alpha.jpg"/>
+                </model>
+            </models>
+        </group>
+        <!-- Titan  -->
+        <group>
+            <transform>
+                <translate z="1.8" time="3">
+                    <point x="0"      y="0" z="0" />
+                    <point x="1.27"  y="0" z="-0.53"/>
+                    <point x="1.8"    y="0" z="-1.8"/>
+                    <point x="1.27"  y="0" z="-3.07"/>
+                    <point x="0"      y="0" z="-3.6" />
+                    <point x="-1.27" y="0" z="-3.07"/>
+                    <point x="-1.8"   y="0" z="-1.8" />
+                    <point x="-1.27" y="0" z="-0.53"/>
+                </translate>
+                <rotate x="0" y="1" z="0" time="-0.21"/>
+                <scale x="0.34" y="0.34" z="0.34" />
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_eris_fictional.jpg"/>
+                </model>
+            </models>
+        </group>
+    </group>
+
+    <!-- Uranus  -->
+    <group>
+        <transform>
+            <translate z="380" time="1020">
+                <point x="0"      y="0" z="0" />
+                <point x="268.66"  y="0" z="-111.34"/>
+				<point x="380"    y="0" z="-380"/>
+                <point x="268.66"  y="0" z="-648.66"/>
+				<point x="0"      y="0" z="-760" />
+                <point x="-268.66" y="0" z="-648.66"/>
+				<point x="-380"   y="0" z="-380" />
+                <point x="-268.66" y="0" z="-111.34"/>
+            </translate>
+            <rotate x="0.2" y="0" z="1" angle="-90"/>
+            <scale x="5" y="5" z="5" />
+        </transform>
+        <group>
+            <transform>
+                <rotate x="0" y="1" z="0" time="0.023611"/>
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_uranus.jpg"/>
+                </model>
+            </models>
+        </group>
+    </group>
+
+    <!-- Neptune  -->
+    <group>
+        <transform>
+            <translate z="420" time="1993">
+                <point x="0"      y="0" z="0" />
+                <point x="296.94"  y="0" z="-123.06"/>
+				<point x="420"    y="0" z="-420"/>
+                <point x="296.94"  y="0" z="-716.94"/>
+				<point x="0"      y="0" z="-840" />
+                <point x="-296.94" y="0" z="-716.94"/>
+				<point x="-420"   y="0" z="-420" />
+                <point x="-296.94" y="0" z="-123.06"/>
+            </translate>
+            <scale x="5" y="5" z="5" />
+        </transform>
+        <group>
+            <transform>
+                <rotate x="0" y="1" z="0" time="0.02236"/>
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_neptune.jpg"/>
+                </model>
+            </models>
+        </group>
+        
+        <!-- Triton  -->
+        <group>
+            <transform>
+                <translate z="1.8" time="0.2">
+                    <point x="0"      y="0" z="0" />
+                    <point x="1.27"  y="0" z="-0.53"/>
+                    <point x="1.8"    y="0" z="-1.8"/>
+                    <point x="1.27"  y="0" z="-3.07"/>
+                    <point x="0"      y="0" z="-3.6" />
+                    <point x="-1.27" y="0" z="-3.07"/>
+                    <point x="-1.8"   y="0" z="-1.8" />
+                    <point x="-1.27" y="0" z="-0.53"/>
+                </translate>
+                <rotate x="0" y="1" z="0" time="-0.2"/>
+                <scale x="0.16" y="0.16" z="0.16" />
+            </transform>
+            <models>
+                <model file="models/sphere.3d">
+                    <texture file="textures/2k_haumea_fictional.jpg"/>
+                </model>
+            </models>
+        </group>
+    </group>
+    <!-- Halley  -->
+    <group>
+        <transform>
+            <translate z="450" time="924" align="True">
+                <point x="0"      y="-60" z="0" />
+                <point x="-80"    y="-45" z="-100"/>
+                <point x="-100"   y="-20" z="-260"/>
+                <point x="-80"    y="5"   z="-420"/>
+                <point x="0"      y="20"  z="-520"/>
+                <point x="80"     y="5"   z="-420"/>
+                <point x="100"    y="-20" z="-260"/>
+                <point x="80"     y="-45" z="-100"/>
+            </translate>
+            <rotate x="1" y="0" z="0" angle="-90"/>
+        </transform>
+        <models>
+            <model file="models/teapot.3d">
+                <texture file="textures/2k_eris_fictional.jpg"/>
+            </model>
+        </models>
+    </group>
+    <!-- Random Comet  -->
+    <group>
+        <transform>
+            <translate time="24" align="True">
+                <point x="-80"    y="80"  z="-100" />
+                <point x="-60"    y="-60" z="60"/>
+                <point x="60"     y="40"  z="40"/>
+                <point x="0"      y="-20" z="-80"/>
+            </translate>
+            <rotate x="1" y="0" z="0" angle="-90"/>
+        </transform>
+        <models>
+            <model file="models/teapot.3d">
+                <texture file="textures/2k_eris_fictional.jpg"/>
+            </model>
+        </models>
+    </group>
+    <!-- Asteroid Belt  -->
+    <group>
+        <transform>
+            <rotate x="0" y="1" z="0" time="48"/>
+        </transform> 
+        <models>
+            <model file="models/asteroidBelt.3d">
+                <texture file="textures/2k_asteroid.jpg"/>
+            </model>
+        </models>
+    </group>
+</world>
