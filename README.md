@@ -27,8 +27,6 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 ### **3º Ano - 1º Semestre**
 - (11) [Cálculo de Programas](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/C%C3%A1lculo%20Programas)
 
-- (17) [Computação Gráfica](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/Computa%C3%A7%C3%A3o%20Gr%C3%A1fica)
-
 - (18) [Comunicações por Computador](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/Comunica%C3%A7%C3%B5es%20Computador)
 
 - (11) [Desenvolvimento de Sistemas de Software](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/Desenvolvimento%20Sistemas%20Software)
@@ -45,6 +43,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 
 - (15) [Aprendizagem e Decisão Inteligentes](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/Aprendizagem%20Decis%C3%B5es%20Inteligentes)
 
+- (17) [Computação Gráfica](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/Computa%C3%A7%C3%A3o%20Gr%C3%A1fica)
 
 
 <!---
