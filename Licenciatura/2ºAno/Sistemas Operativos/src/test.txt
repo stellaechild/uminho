@@ -1,0 +1,14 @@
+This is a TEXT file for testing purposes.
+It contains multiple lines of TEXT and text, each with different patterns.
+TEXT and text are both important elements for testing.
+The case sensitivity of TEXT and text should be considered.
+This line contains only lowercase text.
+While this line contains only uppercase TEXT.
+Some lines have both TEXT and text.
+Others may have neither TEXT nor text.
+This line starts with TEXT.
+text appears in the middle of this line.
+This line ends with text.
+Both TEXT and text are essential for testing.
+There's a TEXT here, and also some text.
+TEXT, text, TEXT, text, TEXT, text, TEXT, text, TEXT, text.
