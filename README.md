@@ -23,6 +23,10 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 
 - (19) [Investigação Operacional](https://github.com/stellaechild/uminho/tree/main/Licenciatura/2%C2%BAAno/Investiga%C3%A7%C3%A3o%20Operacional)
 
+- (15) [Sistemas Operativos](https://github.com/stellaechild/uminho/tree/main/Licenciatura/2ºAno/Sistemas%20Operativos)
+
+- (19) [Otica]
+
 
 ### **3º Ano - 1º Semestre**
 - (11) [Cálculo de Programas](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/C%C3%A1lculo%20Programas)
@@ -46,11 +50,18 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 - (17) [Computação Gráfica](https://github.com/stellaechild/uminho/tree/main/Licenciatura/3%C2%BAAno/Computa%C3%A7%C3%A3o%20Gr%C3%A1fica)
 
 
-<!---
+
 #
 ## <a id="mestrado"> </a> **Mestrado**
 
---->
+### **1º Ano - 1º Semestre**
+- (10) [ADI]()
+- () [CP]
+
+### **1º Ano - 2º Semestre** 
+- () [PCF]()
+
+
 
 
 
