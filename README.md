@@ -63,7 +63,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 
 ### **1º Ano - 2º Semestre** 
 - (18) [RPCW]()
-- () [EG]()
+- (16) [EG]()
 - () [SPLN]()
 - (14) [PCF]()
 
