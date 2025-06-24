@@ -68,7 +68,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 - (14) [PCF]()
 
 ### **2º Ano - 1º Semestre** 
-- (16) [PEI]()
+- (16) [PEI] - projeto privado para empresas OmniumAI/MyPharma
 
 
 
