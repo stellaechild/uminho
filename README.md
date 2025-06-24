@@ -57,7 +57,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 ### **1º Ano - 1º Semestre**
 - (10) [ADI]()
 - (10) [CP]
-- (14,8) [RAS] ()
+- (15) [RAS] ()
 - (16) [ESR] ()
 - (13) [ASCN] ()
 
@@ -68,7 +68,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 - (14) [PCF]()
 
 ### **2º Ano - 1º Semestre** 
-- (16,3) [PEI]()
+- (16) [PEI]()
 
 
 
