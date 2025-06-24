@@ -56,10 +56,10 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 
 ### **1º Ano - 1º Semestre**
 - (10) [ADI]()
-- (10) [CP]
-- (15) [RAS] ()
-- (16) [ESR] ()
-- (13) [ASCN] ()
+- (10) [CP]()
+- (15) [RAS]()
+- (16) [ESR]()
+- (13) [ASCN]()
 
 ### **1º Ano - 2º Semestre** 
 - (18) [RPCW]()
@@ -68,7 +68,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 - (14) [PCF]()
 
 ### **2º Ano - 1º Semestre** 
-- (16) [PEI] - projeto privado para empresas OmniumAI/MyPharma
+- (16) [PEI]() - projeto privado para empresas OmniumAI/MyPharma
 
 
 
