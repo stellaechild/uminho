@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE nta PUBLIC '-//Uppaal Team//DTD Flat System 1.6//EN' 'http://www.it.uu.se/research/group/darts/uppaal/flat-1_6.dtd'>
+<nta>
+	<declaration>// Place global declarations here.
+chan arrivePrinc,arriveSec, leavePrinc,leaveSec;
+clock y;
+</declaration>
+	<template>
+		<name>Sensor</name>
+		<location id="id0" x="-382" y="-42">
+			<name x="-416" y="-25">Inactive</name>
+		</location>
+		<location id="id1" x="-68" y="-42">
+			<name x="-111" y="-25">ArriveHold</name>
+		</location>
+		<location id="id2" x="246" y="-42">
+			<name x="220" y="-25">Active</name>
+		</location>
+		<location id="id3" x="-76" y="-204">
+			<name x="-119" y="-238">LeaveHold</name>
+		</location>
+		<init ref="id0"/>
+		<transition id="id4">
+			<source ref="id3"/>
+			<target ref="id0"/>
+			<label kind="synchronisation" x="-204" y="-136">leavePrinc?</label>
+		</transition>
+		<transition id="id5">
+			<source ref="id2"/>
+			<target ref="id3"/>
+			<label kind="synchronisation" x="-34" y="-136">leaveSec?</label>
+		</transition>
+		<transition id="id6">
+			<source ref="id1"/>
+			<target ref="id2"/>
+			<label kind="synchronisation" x="42" y="-34">arriveSec!</label>
+		</transition>
+		<transition id="id7">
+			<source ref="id0"/>
+			<target ref="id1"/>
+			<label kind="synchronisation" x="-280" y="-34">arrivePrinc!</label>
+		</transition>
+	</template>
+	<template>
+		<name>SemSec</name>
+		<location id="id8" x="-306" y="136">
+			<name x="-340" y="153">Vermelho</name>
+			<label kind="invariant" x="-331" y="170">y&lt;=30</label>
+		</location>
+		<location id="id9" x="263" y="-246">
+			<name x="237" y="-289">Amarelo</name>
+			<label kind="invariant" x="280" y="-255">y&lt;=5</label>
+		</location>
+		<location id="id10" x="263" y="136">
+			<name x="246" y="153">Verde</name>
+			<label kind="invariant" x="246" y="178">y&lt;=30</label>
+		</location>
+		<location id="id11" x="-297" y="-255">
+			<name x="-340" y="-289">DelayVA</name>
+			<label kind="invariant" x="-348" y="-263">y&lt;=1</label>
+		</location>
+		<location id="id12" x="263" y="-68">
+			<name x="289" y="-76">DelayAV</name>
+			<label kind="invariant" x="297" y="-59">y&lt;=1</label>
+		</location>
+		<location id="id13" x="-17" y="136">
+			<name x="-51" y="153">DelayVV</name>
+			<label kind="invariant" x="-25" y="170">y&lt;=1</label>
+		</location>
+		<init ref="id8"/>
+		<transition id="id14">
+			<source ref="id13"/>
+			<target ref="id8"/>
+			<label kind="guard" x="-187" y="102">y==1</label>
+			<label kind="assignment" x="-187" y="144">y:=0</label>
+		</transition>
+		<transition id="id15">
+			<source ref="id12"/>
+			<target ref="id10"/>
+			<label kind="guard" x="272" y="0">y==1</label>
+			<label kind="assignment" x="221" y="0">y:=0</label>
+		</transition>
+		<transition id="id16">
+			<source ref="id11"/>
+			<target ref="id9"/>
+			<label kind="guard" x="-34" y="-272">y==1</label>
+			<label kind="assignment" x="-34" y="-246">y:=0</label>
+		</transition>
+		<transition id="id17">
+			<source ref="id10"/>
+			<target ref="id13"/>
+			<label kind="guard" x="110" y="102">5&lt;=y and y &lt;=30</label>
+			<label kind="synchronisation" x="0" y="102">leaveSec!</label>
+			<label kind="assignment" x="102" y="153">y:=0</label>
+			<nail x="93" y="136"/>
+			<nail x="59" y="136"/>
+		</transition>
+		<transition id="id18">
+			<source ref="id9"/>
+			<target ref="id12"/>
+			<label kind="guard" x="272" y="-178">y==5</label>
+			<label kind="assignment" x="221" y="-178">y:=0</label>
+			<nail x="263" y="-153"/>
+			<nail x="263" y="-102"/>
+		</transition>
+		<transition id="id19">
+			<source ref="id8"/>
+			<target ref="id11"/>
+			<label kind="guard" x="-365" y="-68">y&gt;=30</label>
+			<label kind="synchronisation" x="-391" y="-144">arriveSec?</label>
+			<label kind="assignment" x="-297" y="-93">y:=0</label>
+		</transition>
+	</template>
+	<template>
+		<name x="5" y="5">SemPrinc</name>
+		<declaration>// Place local declarations here.
+</declaration>
+		<location id="id20" x="-102" y="0">
+			<name x="-212" y="-8">VerdePrinc</name>
+			<label kind="invariant" x="-187" y="17">y&lt;=30</label>
+		</location>
+		<location id="id21" x="297" y="-187">
+			<name x="246" y="-221">AmareloPrinc</name>
+			<label kind="invariant" x="287" y="-170">y&lt;=5</label>
+		</location>
+		<location id="id22" x="680" y="0">
+			<name x="646" y="25">VermelhoPrinc</name>
+			<label kind="invariant" x="663" y="51">y&lt;=30</label>
+		</location>
+		<location id="id23" x="93" y="-93">
+			<name x="76" y="-67">DelayVAPrinc</name>
+			<label kind="invariant" x="76" y="-135">y&lt;=1</label>
+		</location>
+		<location id="id24" x="476" y="-102">
+			<name x="408" y="-85">DelayAVPinc</name>
+			<label kind="invariant" x="484" y="-136">y&lt;=1</label>
+		</location>
+		<location id="id25" x="289" y="212">
+			<name x="238" y="229">DelayVVPrinc</name>
+			<label kind="invariant" x="280" y="255">y&lt;=1</label>
+		</location>
+		<init ref="id20"/>
+		<transition id="id26">
+			<source ref="id25"/>
+			<target ref="id20"/>
+			<label kind="guard" x="119" y="102">y==1</label>
+			<label kind="assignment" x="85" y="127">y:=0</label>
+		</transition>
+		<transition id="id27">
+			<source ref="id24"/>
+			<target ref="id22"/>
+			<label kind="guard" x="561" y="-76">y==1</label>
+			<label kind="assignment" x="535" y="-51">y:=0</label>
+		</transition>
+		<transition id="id28">
+			<source ref="id23"/>
+			<target ref="id21"/>
+			<label kind="guard" x="153" y="-161">y==1</label>
+			<label kind="assignment" x="187" y="-127">y:=0</label>
+		</transition>
+		<transition id="id29">
+			<source ref="id22"/>
+			<target ref="id25"/>
+			<label kind="guard" x="459" y="34">5&lt;=y and y&lt;=30</label>
+			<label kind="synchronisation" x="340" y="119">leavePrinc!</label>
+			<label kind="assignment" x="501" y="110">y:=0</label>
+			<nail x="637" y="25"/>
+			<nail x="357" y="178"/>
+		</transition>
+		<transition id="id30">
+			<source ref="id21"/>
+			<target ref="id24"/>
+			<label kind="guard" x="331" y="-136">y==5</label>
+			<label kind="assignment" x="382" y="-170">y:=0</label>
+		</transition>
+		<transition id="id31">
+			<source ref="id20"/>
+			<target ref="id23"/>
+			<label kind="guard" x="-85" y="-42">y&gt;=30</label>
+			<label kind="synchronisation" x="-42" y="-93">arrivePrinc?</label>
+			<label kind="assignment" x="-8" y="-42">y:=0</label>
+		</transition>
+	</template>
+	<system>// List one or more processes to be composed into a system.
+
+system SemPrinc,SemSec,Sensor;
+
+</system>
+	<queries>
+		<query>
+			<formula>E&lt;&gt; SemSec.Verde</formula>
+			<comment>(1) the minor-road light can go green</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:10:47 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>E&lt;&gt; SemPrinc.VermelhoPrinc</formula>
+			<comment>(2) the major road light can go red</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:11:25 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>A[] not deadlock</formula>
+			<comment>(3) the system never enters in a deadlock state</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:11:50 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>A[] not (SemPrinc.VerdePrinc and SemSec.Verde)</formula>
+			<comment>(4) the minor-road and major-road lights cannot be green at the same time</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-27 15:08:06 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>Sensor.Active --&gt; SemSec.Verde</formula>
+			<comment>(5) if there are cars waiting they will eventually have green light.</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:17:50 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>Sensor.Inactive --&gt;  SemPrinc.VerdePrinc</formula>
+			<comment>(5) if there are cars waiting they will eventually have green light.</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:18:22 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>E&lt;&gt; SemSec.Amarelo</formula>
+			<comment>(additional) minor road light can go yellow</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:18:56 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>E&lt;&gt; SemPrinc.AmareloPrinc</formula>
+			<comment>(additional) major road light can go yellow</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:19:21 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>E&lt;&gt; not (Sensor.ArriveHold and y&lt;30 and SemPrinc.VerdePrinc)</formula>
+			<comment>(additional) cars will not have to wait if the clock hasn't reached 30 seconds and the major road light is green</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:29:35 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>Sensor.Inactive and y&gt;30 --&gt; SemPrinc.VerdePrinc</formula>
+			<comment>(additional) no cars picked up by sensor on the minor road and the clock has exceeded 30 seconds will eventually lead to the major road light to go green</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:26:10 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>E&lt;&gt; not(SemSec.Vermelho and SemPrinc.VermelhoPrinc and Sensor.Active)</formula>
+			<comment>(additional) if the sensor picks up on the presence of cars then road lights won't remain red</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:29:34 +0000">
+			</result>
+		</query>
+		<query>
+			<formula>E&lt;&gt; SemPrinc.VerdePrinc</formula>
+			<comment>(additional) major road light can go green</comment>
+			<result outcome="success" type="quality" timestamp="2024-03-25 16:29:05 +0000">
+			</result>
+		</query>
+	</queries>
+</nta>
