@@ -1,0 +1,35 @@
+<html><body><h1>Análise de Programa LPI</h1><pre>
+    int x
+    int y
+    array int numeros
+    int primeiro
+    string m
+    array int numeros
+    function dobro(int n): int
+        return n * 2
+    end
+    function aumenta(int a): string
+        string mensagem
+        while dobro(a) > a do
+            if ( a / 2 ) == 0 then
+                a = a + 2
+            else
+                a = a + 3
+            end
+        end 
+        mensagem = "Aumentei a"
+        return mensagem
+    end
+
+    
+    numeros[0] = x
+    if not numeros == [ ] then
+        if in(3, numeros) then
+            write("3 está na coleção")
+        end
+    end
+    primeiro = head(numeros)
+    y = dobro(segundo)
+    mensagem = aumenta(y)
+    </pre><h3>1. Gestão de Variáveis</h3><p>Variavéis Redeclaradas: <i>numeros</i></p><p>Variavéis Não Declaradas: <i>mensagem [global]</i>, <i>segundo</i></p><p>Variavéis Usadas Mas Não Inicializadas: <i>x</i></p><p>Variavéis Declaradas Mas Não Mencionadas: <i>m</i></p><h3>2. Classificação por Tipos de Dados</h3><table border='1' cellspacing='0' cellpadding='5'><thead><tr><th>Tipo</th><th>Variáveis Declaradas</th><th>Total</th></tr></thead><tbody><tr><td>int</td><td><i>x</i>, <i>y</i>, <i>primeiro</i></td><td>3</td></tr><tr><td>array int</td><td><i>numeros</i></td><td>1</td></tr><tr><td>string</td><td><i>m</i>, <i>mensagem [função: aumenta]</i></td><td>2</td></tr></tbody></table><h3>3. Estatísticas do Código</h3><li>Atribuicoes: 7</li><li>Leituras: 0</li><li>Escritas: 1</li><li>Condicionais: 3</li><li>Ciclicas: 1</li></ul><h3>4. Estruturas Aninhadas</h3><p>Total de situações em que estruturas surgem aninhadas: 2</p><h3>5. Oportunidades de Otimização</h3><p>Ifs aninhados que podem ser substituídos por um só if:</p><ul><li><pre>if not numeros == [ ] then
+    if in(3, numeros) then</pre><small>Pode ser substituído por</small><pre>if not numeros == [ ] and in(3, numeros) then</pre></li></ul></body></html>

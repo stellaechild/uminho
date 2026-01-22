@@ -1,0 +1,83 @@
+start: decls insts
+
+// Declarações
+decls: (decl)+
+decl: simple_decl | collection_decl | function_decl
+simple_decl: BASIC_TYPE NAME
+collection_decl: COLLECTION_TYPE BASIC_TYPE NAME
+function_decl: "function" NAME "(" param_list? ")" ":" BASIC_TYPE function_body
+function_body: decls_func? insts "end"
+decls_func: (simple_decl | collection_decl)+
+param_list: param ("," param)*
+param: BASIC_TYPE NAME | "array" BASIC_TYPE NAME
+
+// Instruções
+insts: (inst)*
+inst: assign | input | output | selection | repetition | function_call | return_stmt
+
+// Atribuição
+assign: assignable "=" expr
+assignable: NAME | array_access | tuple_access
+
+// Entrada/Saída
+input: "read" "(" NAME ")"
+output: "write" "(" expr ")"
+
+// Funções
+function_call: NAME "(" arg_list? ")"
+arg_list: expr ("," expr)*
+return_stmt: "return" expr
+
+// Seleção
+selection: if_stmt | case_stmt
+if_stmt: "if" condition "then" insts ("else" insts)? "end"
+case_stmt: "case" NAME "of" (case_option)+ "end"
+case_option: expr ":" insts
+
+// Repetição
+repetition: while_loop | repeat_until | for_loop
+while_loop: "while" condition "do" insts "end"
+repeat_until: "repeat" insts "until" condition
+for_loop: "for" NAME "from" expr "to" expr ("step" expr)? "do" insts "end"
+
+condition: expr COMPARISON expr | expr | NOT condition  
+COMPARISON: "==" | "!=" | "<" | ">" | "<=" | ">="
+NOT: "not"
+
+// Expressões
+expr: term (("+" | "-") term)*
+term: factor (("*" | "/" | "%") factor)*
+factor: atom | "(" expr ")" | collection_op | function_call
+atom: INT | STRING | BOOLEAN | NAME | array_access | tuple_access | empty_collection
+
+// Operações em Coleções
+collection_op: head_op | tail_op | in_op | cons_op | snoc_op
+head_op: "head" "(" expr ")"
+tail_op: "tail" "(" expr ")"
+in_op: "in" "(" expr "," expr ")"
+cons_op: "cons" "(" expr "," expr ")"
+snoc_op: "snoc" "(" expr "," expr ")"
+
+// Acesso a Arrays e Tuplos
+array_access: NAME LBRACKET expr RBRACKET
+tuple_access: NAME "." NAME
+
+// Arrays e Tuplos Vazios
+empty_collection: empty_array | empty_tuple_set
+empty_array: LBRACKET RBRACKET
+empty_tuple_set: LPAREN RPAREN
+
+// Tokens
+BASIC_TYPE: "int" | "string" | "bool"
+COLLECTION_TYPE: "array" | "set" | "tuple"
+BOOLEAN: "True" | "False" | "true" | "false"
+LBRACKET: "["
+RBRACKET: "]"
+LPAREN: "("
+RPAREN: ")"
+%import common.CNAME -> NAME
+%import common.INT
+%import common.ESCAPED_STRING -> STRING
+%import common.WS
+%ignore WS
+
