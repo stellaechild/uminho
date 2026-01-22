@@ -25,7 +25,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 
 - (15) [Sistemas Operativos](https://github.com/stellaechild/uminho/tree/main/Licenciatura/2ºAno/Sistemas%20Operativos)
 
-- (19) [Otica](https://github.com/stellaechild/uminho/tree/main/Licenciatura/2%C2%BAAno/%C3%93tica)
+- (19) [Ótica](https://github.com/stellaechild/uminho/tree/main/Licenciatura/2%C2%BAAno/%C3%93tica)
 
 
 ### **3º Ano - 1º Semestre**
