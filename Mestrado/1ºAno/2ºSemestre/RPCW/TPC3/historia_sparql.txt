@@ -1,0 +1,75 @@
+1. # Quantos triplos existem na Ontologia?
+Select (count(*) as ?n) where{
+    ?s ?p ?o.
+}
+
+2. # Que classes estão definidas?
+3. # Que propriedades tem a classe "Rei"?
+
+4. # Quantos reis aparecem na ontologia?
+Select (count(?s) as ?n) where{
+    ?s a :Rei.
+}
+
+5. # Calcula uma tabela com o seu nome, data de nascimento e cognome.
+Select ?n ?d ?cgn where{
+    ?s a :Rei;
+       :nome ?n;
+       :nascimento ?d;
+       :cognomes ?cgn .
+}
+
+6. # Acrescenta à tabela anterior a dinastia em que cada rei reinou.
+Select ?n ?d ?cgn ?dnome where{
+    ?s a :Rei;
+       :nome ?n;
+       :nascimento ?d;
+       :cognomes ?cgn .
+    ?reinado :temMonarca ?s;
+             :dinastia ?dinastia .
+    ?dinastia :nome ?dnome .
+}
+
+7. # Qual a distribuição de reis pelas 4 dinastias?
+Select ?dinastia (count(?monarca) as ?nmonarca) where{
+    ?monarca a :Rei .
+    ?monarca :temReinado/:dinastia ?dinastia
+}
+group by ?dinastia 
+
+8. #  Lista os descobrimentos (sua descrição) por ordem cronológica.
+select ?d ?desc ?data where{
+    ?d a :Descobrimento;
+        :notas ?desc;
+        :data ?data .
+}
+order by ?data
+
+9. # Lista as várias conquistas, nome e data, juntamento com o nome que 
+reinava no momento.
+
+10. # Calcula uma tabela com o nome, data de nascimento e número de 
+mandatos de todos os presidentes portugueses.
+select ?n ?d (count(?mandato) as ?nmandato) where{
+    ?p a :Presidente;
+        :nome ?n;
+        :nascimento ?d;
+        :mandato ?mandato .
+}
+group by ?p ?n ?d
+
+11. # Quantos mandatos teve o presidente Sidónio Pais? 
+Em que datas iniciaram e terminaram esses mandatos?
+
+12. # Quais os nomes dos partidos políticos presentes na ontologia?
+
+13. # Qual a distribuição dos militantes por cada partido político?
+select ?n (count(?militante) as ?nmilitante) where {
+    ?p a :Partido;
+        :nome ?n;
+        :temMilitante ?militante .
+}
+group by ?p ?n
+
+14. # Qual o partido com maior número de presidentes militantes?
+

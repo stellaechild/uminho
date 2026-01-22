@@ -1,0 +1,124 @@
+@prefix : <http://mirtilo/rpcw.di.uminho.pt/2025/EMD/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://rpcw.di.uminho.pt/2025/EMD/> .
+
+<http://mirtilo/rpcw.di.uminho.pt/2025/EMD> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#pratica
+:pratica rdf:type owl:ObjectProperty ;
+         owl:inverseOf :ePraticadaPor ;
+         rdfs:domain :Pessoa ;
+         rdfs:range :Modalidade .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#realiza
+:realiza rdf:type owl:ObjectProperty ;
+         owl:inverseOf :eRealizadoPor ;
+         rdfs:domain :Pessoa ;
+         rdfs:range :Exame .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#relativoA
+:relativoA rdf:type owl:ObjectProperty ;
+           owl:inverseOf :temExame ;
+           rdfs:domain :Exame ;
+           rdfs:range :Modalidade .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#temAtleta
+:temAtleta rdf:type owl:ObjectProperty ;
+           owl:inverseOf :eAtletaDe .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#temExame
+:temExame rdf:type owl:ObjectProperty .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#temModalidade
+:temModalidade rdf:type owl:ObjectProperty ;
+               owl:inverseOf :ePraticadaEm ;
+               rdfs:domain :Clube ;
+               rdfs:range :Modalidade .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#eAtletaDe
+:eAtletaDe rdf:type owl:ObjectProperty ;
+           rdfs:domain :Pessoa ;
+           rdfs:range :Clube .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#ePraticadaEm
+:ePraticadaEm rdf:type owl:ObjectProperty .
+
+
+###  http://miritlo/rpcw.di.uminho.pt/2025/EMD#ePraticadaPor
+:ePraticadaPor rdf:type owl:ObjectProperty .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#eRealizadoPor
+:eRealizadoPor rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#dataEMD
+:dataEMD rdf:type owl:DatatypeProperty .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#email
+:email rdf:type owl:DatatypeProperty .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#genero
+:genero rdf:type owl:DatatypeProperty .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#idade
+:idade rdf:type owl:DatatypeProperty .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#morada
+:morada rdf:type owl:DatatypeProperty .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#nome
+:nome rdf:type owl:DatatypeProperty .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#resultado
+:resultado rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#Clube
+:Clube rdf:type owl:Class .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#Exame
+:Exame rdf:type owl:Class .
+
+
+###  http://mirtilo/rpcw.di.uminho.pt/2025/EMD#Modalidade
+:Modalidade rdf:type owl:Class .
+
+
+###  http://miritlo/rpcw.di.uminho.pt/2025/EMD#Pessoa
+:Pessoa rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################

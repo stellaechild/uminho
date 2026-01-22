@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Culture Compass Quiz</title>
+</head>
+<body>
+    <h1>Culture Compass Quiz</h1>
+    <p>Score: {{ session.get('score', 0) }}</p>
+    <form method="POST" action="/quiz">
+        <p><strong>{{ question.question }}</strong></p>
+        {% for option in question.options %}
+            <label>
+                <input type="radio" name="answer" value="{{ option }}" required>
+                {{ option }}
+            </label><br>
+        {% endfor %}
+        <input type="hidden" name="answerCorrect" value="{{ question.answer }}"/>
+        <button type="submit">Submit Answer</button>
+    </form>
+</body>
+</html>
