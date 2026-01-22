@@ -55,27 +55,27 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 ## <a id="mestrado"> </a> **Mestrado**
 
 ### **1º Ano - 1º Semestre**
-- (10) [ADI](https://github.com/AN-DRE4/DadosAprendizagemAutomatica)
+- (10) [Dados e Aprendizagem Automática](https://github.com/AN-DRE4/DadosAprendizagemAutomatica)
   
-- (10) [CP](https://github.com/stellaechild/CPar-202324)
+- (10) [Computação Paralela](https://github.com/stellaechild/CPar-202324)
   
-- (15) [RAS](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/RAS)
+- (15) [Requisitos e Arquiteturas de Software](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/RAS)
   
-- (16) [ESR](https://github.com/stellaechild/uminho/upload/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/ESR)
+- (16) [Engenharia de Serviços em Rede](https://github.com/stellaechild/uminho/upload/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/ESR)
   
-- (13) [ASCN](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/ASCN)
+- (13) [Aplicações e Serviços de Computação em Nuvem](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/ASCN)
 
 ### **1º Ano - 2º Semestre** 
-- (18) [RPCW](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/RPCW)
+- (18) [Representação e Processamento de Conhecimento na Web](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/RPCW)
   
-- (16) [EG](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/EG)
+- (16) [Engenharia Gramatical](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/EG)
   
-- (13) [SPLN](https://github.com/stellaechild/Projeto-SPLN)
+- (15) [Scripting no Processamento de Linguagem Natural](https://github.com/stellaechild/Projeto-SPLN)
   
-- (14) [PCF](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/PCF)
+- (14) [Programação Ciber-Física](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/PCF)
 
 ### **2º Ano - 1º Semestre** 
-- (16) [PEI]() - projeto privado para empresas OmniumAI/MyPharma
+- (16) [Projeto de Informática]() - projeto privado para empresas OmniumAI/MyPharma
 
 
 
