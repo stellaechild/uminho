@@ -1,0 +1,1410 @@
+[
+    {
+        "movieTitle": "Lock, Stock and Two Smoking Barrels",
+        "revenue": "28356188"
+    },
+    {
+        "movieTitle": "I'm Still Here",
+        "revenue": "35741532"
+    },
+    {
+        "movieTitle": "The Kid",
+        "revenue": "2500000"
+    },
+    {
+        "movieTitle": "L\u00e9on: The Professional",
+        "revenue": "45284974"
+    },
+    {
+        "movieTitle": "There's Still Tomorrow",
+        "revenue": "50121593"
+    },
+    {
+        "movieTitle": "Taxi Driver",
+        "revenue": "28579636"
+    },
+    {
+        "movieTitle": "The Hunt",
+        "revenue": "18300000"
+    },
+    {
+        "movieTitle": "The Legend of 1900",
+        "revenue": "21057208"
+    },
+    {
+        "movieTitle": "The Iron Giant",
+        "revenue": "23300000"
+    },
+    {
+        "movieTitle": "Raise the Red Lantern",
+        "revenue": "16600000"
+    },
+    {
+        "movieTitle": "Perfect Blue",
+        "revenue": "112536"
+    },
+    {
+        "movieTitle": "Back to the Future",
+        "revenue": "381109762"
+    },
+    {
+        "movieTitle": "Castle in the Sky",
+        "revenue": "5228752"
+    },
+    {
+        "movieTitle": "Radical",
+        "revenue": "21761164"
+    },
+    {
+        "movieTitle": "The Hidden Fortress",
+        "revenue": "57673"
+    },
+    {
+        "movieTitle": "Memoir of a Snail",
+        "revenue": "6780428"
+    },
+    {
+        "movieTitle": "The Wolf of Wall Street",
+        "revenue": "407038432"
+    },
+    {
+        "movieTitle": "Mulan",
+        "revenue": "304320254"
+    },
+    {
+        "movieTitle": "WALL\u00b7E",
+        "revenue": "521311860"
+    },
+    {
+        "movieTitle": "The Count of Monte Cristo",
+        "revenue": "75360860"
+    },
+    {
+        "movieTitle": "The Thing",
+        "revenue": "19629760"
+    },
+    {
+        "movieTitle": "The Third Man",
+        "revenue": "1226098"
+    },
+    {
+        "movieTitle": "Farewell My Concubine",
+        "revenue": "6400000"
+    },
+    {
+        "movieTitle": "Star Wars",
+        "revenue": "775398007"
+    },
+    {
+        "movieTitle": "Three Colors: Red",
+        "revenue": "4127033"
+    },
+    {
+        "movieTitle": "The Postman",
+        "revenue": "33000000"
+    },
+    {
+        "movieTitle": "The Notebook",
+        "revenue": "115600000"
+    },
+    {
+        "movieTitle": "Song of the Sea",
+        "revenue": "857522"
+    },
+    {
+        "movieTitle": "Wolf Children",
+        "revenue": "55060661"
+    },
+    {
+        "movieTitle": "Scarface",
+        "revenue": "66023329"
+    },
+    {
+        "movieTitle": "Cinema Paradiso",
+        "revenue": "11990401"
+    },
+    {
+        "movieTitle": "The Prestige",
+        "revenue": "109676311"
+    },
+    {
+        "movieTitle": "Paper Moon",
+        "revenue": "30900000"
+    },
+    {
+        "movieTitle": "Shutter Island",
+        "revenue": "294804195"
+    },
+    {
+        "movieTitle": "Memories of Murder",
+        "revenue": "26000000"
+    },
+    {
+        "movieTitle": "TAYLOR SWIFT | THE ERAS TOUR",
+        "revenue": "261656269"
+    },
+    {
+        "movieTitle": "The Miracle Worker",
+        "revenue": "2500000"
+    },
+    {
+        "movieTitle": "Ran",
+        "revenue": "11859533"
+    },
+    {
+        "movieTitle": "The Best of Youth",
+        "revenue": "2693053"
+    },
+    {
+        "movieTitle": "The Deer Hunter",
+        "revenue": "49000000"
+    },
+    {
+        "movieTitle": "Guardians of the Galaxy",
+        "revenue": "772776600"
+    },
+    {
+        "movieTitle": "The Wild Robot",
+        "revenue": "331982078"
+    },
+    {
+        "movieTitle": "The Lord of the Rings: The Fellowship of the Ring",
+        "revenue": "871368364"
+    },
+    {
+        "movieTitle": "The Grand Budapest Hotel",
+        "revenue": "174600318"
+    },
+    {
+        "movieTitle": "The Lord of the Rings: The Two Towers",
+        "revenue": "926287400"
+    },
+    {
+        "movieTitle": "Pink Floyd: The Wall",
+        "revenue": "22244207"
+    },
+    {
+        "movieTitle": "The Lord of the Rings: The Return of the King",
+        "revenue": "1118888979"
+    },
+    {
+        "movieTitle": "About Time",
+        "revenue": "87100449"
+    },
+    {
+        "movieTitle": "Look Back",
+        "revenue": "12648664"
+    },
+    {
+        "movieTitle": "Harry Potter and the Deathly Hallows: Part 2",
+        "revenue": "1341511219"
+    },
+    {
+        "movieTitle": "Grave of the Fireflies",
+        "revenue": "516962"
+    },
+    {
+        "movieTitle": "Princess Mononoke",
+        "revenue": "176506186"
+    },
+    {
+        "movieTitle": "Spirited Away",
+        "revenue": "274925095"
+    },
+    {
+        "movieTitle": "Forrest Gump",
+        "revenue": "677387716"
+    },
+    {
+        "movieTitle": "Gran Torino",
+        "revenue": "270000000"
+    },
+    {
+        "movieTitle": "Tokyo Godfathers",
+        "revenue": "148355"
+    },
+    {
+        "movieTitle": "Mirror",
+        "revenue": "124367"
+    },
+    {
+        "movieTitle": "American Beauty",
+        "revenue": "356296601"
+    },
+    {
+        "movieTitle": "The Pursuit of Happyness",
+        "revenue": "307077295"
+    },
+    {
+        "movieTitle": "Up",
+        "revenue": "735099082"
+    },
+    {
+        "movieTitle": "The Departed",
+        "revenue": "291465000"
+    },
+    {
+        "movieTitle": "Prisoners",
+        "revenue": "122126687"
+    },
+    {
+        "movieTitle": "Coraline",
+        "revenue": "185860104"
+    },
+    {
+        "movieTitle": "Akira",
+        "revenue": "49000000"
+    },
+    {
+        "movieTitle": "The Tale of The Princess Kaguya",
+        "revenue": "24366656"
+    },
+    {
+        "movieTitle": "Citizen Kane",
+        "revenue": "23218000"
+    },
+    {
+        "movieTitle": "Inside Out",
+        "revenue": "857611174"
+    },
+    {
+        "movieTitle": "Dallas Buyers Club",
+        "revenue": "55736588"
+    },
+    {
+        "movieTitle": "Army of Shadows",
+        "revenue": "906133"
+    },
+    {
+        "movieTitle": "The Dark Knight",
+        "revenue": "1004558444"
+    },
+    {
+        "movieTitle": "Interstellar",
+        "revenue": "746606706"
+    },
+    {
+        "movieTitle": "Raging Bull",
+        "revenue": "23380203"
+    },
+    {
+        "movieTitle": "Rope",
+        "revenue": "2200000"
+    },
+    {
+        "movieTitle": "Miracle in Cell No. 7",
+        "revenue": "80300000"
+    },
+    {
+        "movieTitle": "It's a Wonderful Life",
+        "revenue": "9644124"
+    },
+    {
+        "movieTitle": "Dancer in the Dark",
+        "revenue": "40061153"
+    },
+    {
+        "movieTitle": "A Bronx Tale",
+        "revenue": "17287898"
+    },
+    {
+        "movieTitle": "Freedom Writers",
+        "revenue": "43095175"
+    },
+    {
+        "movieTitle": "Inglourious Basterds",
+        "revenue": "321457747"
+    },
+    {
+        "movieTitle": "The Battle of Algiers",
+        "revenue": "964028"
+    },
+    {
+        "movieTitle": "We Are the Nobles",
+        "revenue": "26433651"
+    },
+    {
+        "movieTitle": "Neon Genesis Evangelion: The End of Evangelion",
+        "revenue": "20563523"
+    },
+    {
+        "movieTitle": "A Clockwork Orange",
+        "revenue": "27033812"
+    },
+    {
+        "movieTitle": "The Empire Strikes Back",
+        "revenue": "538400000"
+    },
+    {
+        "movieTitle": "Return of the Jedi",
+        "revenue": "572700000"
+    },
+    {
+        "movieTitle": "Metropolis",
+        "revenue": "1350322"
+    },
+    {
+        "movieTitle": "Am\u00e9lie",
+        "revenue": "173921954"
+    },
+    {
+        "movieTitle": "Dilwale Dulhania Le Jayenge",
+        "revenue": "100000000"
+    },
+    {
+        "movieTitle": "Nights of Cabiria",
+        "revenue": "752045"
+    },
+    {
+        "movieTitle": "The Elephant Man",
+        "revenue": "26000000"
+    },
+    {
+        "movieTitle": "Braveheart",
+        "revenue": "213216216"
+    },
+    {
+        "movieTitle": "3 Idiots",
+        "revenue": "70000000"
+    },
+    {
+        "movieTitle": "The Imitation Game",
+        "revenue": "233555708"
+    },
+    {
+        "movieTitle": "Dead Poets Society",
+        "revenue": "235900000"
+    },
+    {
+        "movieTitle": "Innocent Voices",
+        "revenue": "837000"
+    },
+    {
+        "movieTitle": "Gone Girl",
+        "revenue": "370890259"
+    },
+    {
+        "movieTitle": "North by Northwest",
+        "revenue": "13275000"
+    },
+    {
+        "movieTitle": "Children of Heaven",
+        "revenue": "925402"
+    },
+    {
+        "movieTitle": "Rebecca",
+        "revenue": "7592465"
+    },
+    {
+        "movieTitle": "Werckmeister Harmonies",
+        "revenue": "64974"
+    },
+    {
+        "movieTitle": "The Cabinet of Dr. Caligari",
+        "revenue": "8811"
+    },
+    {
+        "movieTitle": "The Way He Looks",
+        "revenue": "1207841"
+    },
+    {
+        "movieTitle": "The Godfather",
+        "revenue": "245066411"
+    },
+    {
+        "movieTitle": "Some Like It Hot",
+        "revenue": "25000000"
+    },
+    {
+        "movieTitle": "Kill Bill: Vol. 1",
+        "revenue": "180906076"
+    },
+    {
+        "movieTitle": "The Godfather Part II",
+        "revenue": "102600000"
+    },
+    {
+        "movieTitle": "Mary and Max",
+        "revenue": "1740429"
+    },
+    {
+        "movieTitle": "When Marnie Was There",
+        "revenue": "34949567"
+    },
+    {
+        "movieTitle": "Whiplash",
+        "revenue": "50307484"
+    },
+    {
+        "movieTitle": "Children of Paradise",
+        "revenue": "1457"
+    },
+    {
+        "movieTitle": "Come and See",
+        "revenue": "20929648"
+    },
+    {
+        "movieTitle": "The Secret in Their Eyes",
+        "revenue": "33965843"
+    },
+    {
+        "movieTitle": "My Name Is Khan",
+        "revenue": "42345360"
+    },
+    {
+        "movieTitle": "Room",
+        "revenue": "35401758"
+    },
+    {
+        "movieTitle": "Mommy",
+        "revenue": "3494070"
+    },
+    {
+        "movieTitle": "Wild Tales",
+        "revenue": "31478893"
+    },
+    {
+        "movieTitle": "Inception",
+        "revenue": "839030630"
+    },
+    {
+        "movieTitle": "The Silence of the Lambs",
+        "revenue": "272742922"
+    },
+    {
+        "movieTitle": "The Shawshank Redemption",
+        "revenue": "28341469"
+    },
+    {
+        "movieTitle": "Amadeus",
+        "revenue": "90007557"
+    },
+    {
+        "movieTitle": "Apocalypse Now",
+        "revenue": "150000000"
+    },
+    {
+        "movieTitle": "Terminator 2: Judgment Day",
+        "revenue": "520000000"
+    },
+    {
+        "movieTitle": "Hachi: A Dog's Tale",
+        "revenue": "46800000"
+    },
+    {
+        "movieTitle": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "revenue": "93882453"
+    },
+    {
+        "movieTitle": "The Apartment",
+        "revenue": "25000000"
+    },
+    {
+        "movieTitle": "Casablanca",
+        "revenue": "10462500"
+    },
+    {
+        "movieTitle": "Limelight",
+        "revenue": "1000000"
+    },
+    {
+        "movieTitle": "The Handmaiden",
+        "revenue": "38600000"
+    },
+    {
+        "movieTitle": "Le Trou",
+        "revenue": "33187"
+    },
+    {
+        "movieTitle": "Me Before You",
+        "revenue": "207945075"
+    },
+    {
+        "movieTitle": "Avengers: Endgame",
+        "revenue": "2799439100"
+    },
+    {
+        "movieTitle": "Avengers: Infinity War",
+        "revenue": "2052415039"
+    },
+    {
+        "movieTitle": "Young Frankenstein",
+        "revenue": "86273333"
+    },
+    {
+        "movieTitle": "Rome, Open City",
+        "revenue": "1000000"
+    },
+    {
+        "movieTitle": "Modern Times",
+        "revenue": "1800000"
+    },
+    {
+        "movieTitle": "The Treasure of the Sierra Madre",
+        "revenue": "4307000"
+    },
+    {
+        "movieTitle": "Once Upon a Time in America",
+        "revenue": "5500000"
+    },
+    {
+        "movieTitle": "Doctor Who: The Day of the Doctor",
+        "revenue": "10000000"
+    },
+    {
+        "movieTitle": "La La Land",
+        "revenue": "509183536"
+    },
+    {
+        "movieTitle": "Puss in Boots: The Last Wish",
+        "revenue": "484700000"
+    },
+    {
+        "movieTitle": "The Boy and the Beast",
+        "revenue": "49714378"
+    },
+    {
+        "movieTitle": "The Greatest Showman",
+        "revenue": "459066134"
+    },
+    {
+        "movieTitle": "Barry Lyndon",
+        "revenue": "31500000"
+    },
+    {
+        "movieTitle": "Hacksaw Ridge",
+        "revenue": "175302354"
+    },
+    {
+        "movieTitle": "Spider-Man: Into the Spider-Verse",
+        "revenue": "384298736"
+    },
+    {
+        "movieTitle": "Jurassic Park",
+        "revenue": "920100000"
+    },
+    {
+        "movieTitle": "Unforgiven",
+        "revenue": "159157447"
+    },
+    {
+        "movieTitle": "Little Women",
+        "revenue": "216600000"
+    },
+    {
+        "movieTitle": "Captain Fantastic",
+        "revenue": "23123592"
+    },
+    {
+        "movieTitle": "Lion",
+        "revenue": "140312928"
+    },
+    {
+        "movieTitle": "Once Upon a Time in the West",
+        "revenue": "5380118"
+    },
+    {
+        "movieTitle": "Cruella",
+        "revenue": "233503234"
+    },
+    {
+        "movieTitle": "Loving Vincent",
+        "revenue": "42187665"
+    },
+    {
+        "movieTitle": "Seven Samurai",
+        "revenue": "105000000"
+    },
+    {
+        "movieTitle": "Alien",
+        "revenue": "104931801"
+    },
+    {
+        "movieTitle": "Coco",
+        "revenue": "807816196"
+    },
+    {
+        "movieTitle": "Ford v Ferrari",
+        "revenue": "225508210"
+    },
+    {
+        "movieTitle": "Three Billboards Outside Ebbing, Missouri",
+        "revenue": "162729321"
+    },
+    {
+        "movieTitle": "Dangal",
+        "revenue": "311000000"
+    },
+    {
+        "movieTitle": "Top Gun: Maverick",
+        "revenue": "1488732821"
+    },
+    {
+        "movieTitle": "Sing Street",
+        "revenue": "13624522"
+    },
+    {
+        "movieTitle": "The Truman Show",
+        "revenue": "264100000"
+    },
+    {
+        "movieTitle": "Your Name.",
+        "revenue": "358000000"
+    },
+    {
+        "movieTitle": "Witness for the Prosecution",
+        "revenue": "9000000"
+    },
+    {
+        "movieTitle": "Dou kyu sei \u2013 Classmates",
+        "revenue": "1397526"
+    },
+    {
+        "movieTitle": "Throne of Blood",
+        "revenue": "13422"
+    },
+    {
+        "movieTitle": "A Silent Voice: The Movie",
+        "revenue": "30819442"
+    },
+    {
+        "movieTitle": "In This Corner of the World",
+        "revenue": "19496308"
+    },
+    {
+        "movieTitle": "Ikiru",
+        "revenue": "55240"
+    },
+    {
+        "movieTitle": "Eternal Sunshine of the Spotless Mind",
+        "revenue": "72258126"
+    },
+    {
+        "movieTitle": "Hidden Figures",
+        "revenue": "235957472"
+    },
+    {
+        "movieTitle": "Perfect Strangers",
+        "revenue": "32207491"
+    },
+    {
+        "movieTitle": "Das Boot",
+        "revenue": "85000000"
+    },
+    {
+        "movieTitle": "12 Angry Men",
+        "revenue": "4360000"
+    },
+    {
+        "movieTitle": "Kill Bill: Vol. 2",
+        "revenue": "152159461"
+    },
+    {
+        "movieTitle": "Along with the Gods: The Two Worlds",
+        "revenue": "125983972"
+    },
+    {
+        "movieTitle": "Call Me by Your Name",
+        "revenue": "43143046"
+    },
+    {
+        "movieTitle": "Gifted",
+        "revenue": "40300000"
+    },
+    {
+        "movieTitle": "A Dog's Will",
+        "revenue": "4903192"
+    },
+    {
+        "movieTitle": "A Street Cat Named Bob",
+        "revenue": "17900000"
+    },
+    {
+        "movieTitle": "La Haine",
+        "revenue": "15300000"
+    },
+    {
+        "movieTitle": "Wonder",
+        "revenue": "315025930"
+    },
+    {
+        "movieTitle": "The Invisible Guest",
+        "revenue": "30000000"
+    },
+    {
+        "movieTitle": "The Pianist",
+        "revenue": "120098945"
+    },
+    {
+        "movieTitle": "Schindler's List",
+        "revenue": "321365567"
+    },
+    {
+        "movieTitle": "Bohemian Rhapsody",
+        "revenue": "910813521"
+    },
+    {
+        "movieTitle": "Vertigo",
+        "revenue": "7808900"
+    },
+    {
+        "movieTitle": "Where Hands Touch",
+        "revenue": "128269"
+    },
+    {
+        "movieTitle": "The Good, the Bad and the Ugly",
+        "revenue": "38900000"
+    },
+    {
+        "movieTitle": "Pride & Prejudice",
+        "revenue": "124604345"
+    },
+    {
+        "movieTitle": "A Taxi Driver",
+        "revenue": "81927980"
+    },
+    {
+        "movieTitle": "La Dolce Vita",
+        "revenue": "19647000"
+    },
+    {
+        "movieTitle": "Flipped",
+        "revenue": "4324817"
+    },
+    {
+        "movieTitle": "Wolfwalkers",
+        "revenue": "1310720"
+    },
+    {
+        "movieTitle": "Guardians of the Galaxy Vol. 3",
+        "revenue": "845600000"
+    },
+    {
+        "movieTitle": "Love, Simon",
+        "revenue": "66316289"
+    },
+    {
+        "movieTitle": "A Beautiful Mind",
+        "revenue": "316791257"
+    },
+    {
+        "movieTitle": "Bad Genius",
+        "revenue": "42350000"
+    },
+    {
+        "movieTitle": "Remi, Nobody's Boy",
+        "revenue": "7434840"
+    },
+    {
+        "movieTitle": "Incendies",
+        "revenue": "6788659"
+    },
+    {
+        "movieTitle": "The Hate U Give",
+        "revenue": "34934009"
+    },
+    {
+        "movieTitle": "Ayla: The Daughter of War",
+        "revenue": "21107423"
+    },
+    {
+        "movieTitle": "Joker",
+        "revenue": "1078958629"
+    },
+    {
+        "movieTitle": "Maquia: When the Promised Flower Blooms",
+        "revenue": "4345395"
+    },
+    {
+        "movieTitle": "Ron's Gone Wrong",
+        "revenue": "60692022"
+    },
+    {
+        "movieTitle": "Forgotten",
+        "revenue": "9968972"
+    },
+    {
+        "movieTitle": "Good Will Hunting",
+        "revenue": "225900000"
+    },
+    {
+        "movieTitle": "The Seventh Seal",
+        "revenue": "311212"
+    },
+    {
+        "movieTitle": "Green Book",
+        "revenue": "321752656"
+    },
+    {
+        "movieTitle": "Howl's Moving Castle",
+        "revenue": "236049757"
+    },
+    {
+        "movieTitle": "Parasite",
+        "revenue": "257591776"
+    },
+    {
+        "movieTitle": "The Green Mile",
+        "revenue": "286801374"
+    },
+    {
+        "movieTitle": "Reservoir Dogs",
+        "revenue": "2859750"
+    },
+    {
+        "movieTitle": "The Help",
+        "revenue": "216600000"
+    },
+    {
+        "movieTitle": "Dragon Ball Super: Broly",
+        "revenue": "125002821"
+    },
+    {
+        "movieTitle": "I Want to Eat Your Pancreas",
+        "revenue": "33748006"
+    },
+    {
+        "movieTitle": "My Hero Academia: Two Heroes",
+        "revenue": "27507549"
+    },
+    {
+        "movieTitle": "Soul",
+        "revenue": "121977511"
+    },
+    {
+        "movieTitle": "One Flew Over the Cuckoo's Nest",
+        "revenue": "108981275"
+    },
+    {
+        "movieTitle": "Jojo Rabbit",
+        "revenue": "82468705"
+    },
+    {
+        "movieTitle": "Bicycle Thieves",
+        "revenue": "450159"
+    },
+    {
+        "movieTitle": "Capernaum",
+        "revenue": "64978931"
+    },
+    {
+        "movieTitle": "Along with the Gods: The Last 49 Days",
+        "revenue": "112790210"
+    },
+    {
+        "movieTitle": "Dial M for Murder",
+        "revenue": "3000000"
+    },
+    {
+        "movieTitle": "Just Mercy",
+        "revenue": "50401502"
+    },
+    {
+        "movieTitle": "A Dog's Journey",
+        "revenue": "78871079"
+    },
+    {
+        "movieTitle": "The Art of Racing in the Rain",
+        "revenue": "33800000"
+    },
+    {
+        "movieTitle": "Casino",
+        "revenue": "116112375"
+    },
+    {
+        "movieTitle": "El Infierno",
+        "revenue": "6703873"
+    },
+    {
+        "movieTitle": "Five Feet Apart",
+        "revenue": "92600000"
+    },
+    {
+        "movieTitle": "The Witch: Part 1. The Subversion",
+        "revenue": "24340302"
+    },
+    {
+        "movieTitle": "1917",
+        "revenue": "394638258"
+    },
+    {
+        "movieTitle": "Portrait of a Lady on Fire",
+        "revenue": "9923127"
+    },
+    {
+        "movieTitle": "KONOSUBA \u2013 God's blessing on this wonderful world! Legend of Crimson",
+        "revenue": "5078942"
+    },
+    {
+        "movieTitle": "Violet Evergarden: The Movie",
+        "revenue": "20339624"
+    },
+    {
+        "movieTitle": "Psycho",
+        "revenue": "50048065"
+    },
+    {
+        "movieTitle": "Rashomon",
+        "revenue": "117668"
+    },
+    {
+        "movieTitle": "Fight Club",
+        "revenue": "100853753"
+    },
+    {
+        "movieTitle": "Wish Dragon",
+        "revenue": "25860000"
+    },
+    {
+        "movieTitle": "No manches, Frida 2: para\u00edso destruido",
+        "revenue": "26500000"
+    },
+    {
+        "movieTitle": "Rear Window",
+        "revenue": "37042336"
+    },
+    {
+        "movieTitle": "Weathering with You",
+        "revenue": "186965409"
+    },
+    {
+        "movieTitle": "Spider-Man: Across the Spider-Verse",
+        "revenue": "690897910"
+    },
+    {
+        "movieTitle": "An Egg Rescue",
+        "revenue": "4093345"
+    },
+    {
+        "movieTitle": "Better Days",
+        "revenue": "225879065"
+    },
+    {
+        "movieTitle": "Pather Panchali",
+        "revenue": "536364"
+    },
+    {
+        "movieTitle": "The Lives of Others",
+        "revenue": "77672685"
+    },
+    {
+        "movieTitle": "My Hero Academia: Heroes Rising",
+        "revenue": "30017163"
+    },
+    {
+        "movieTitle": "The Great Escape",
+        "revenue": "11700000"
+    },
+    {
+        "movieTitle": "To Kill a Mockingbird",
+        "revenue": "13129846"
+    },
+    {
+        "movieTitle": "Titanic",
+        "revenue": "2264162353"
+    },
+    {
+        "movieTitle": "City of God",
+        "revenue": "30641770"
+    },
+    {
+        "movieTitle": "Sunset Boulevard",
+        "revenue": "5000000"
+    },
+    {
+        "movieTitle": "Full Metal Jacket",
+        "revenue": "46357676"
+    },
+    {
+        "movieTitle": "The Father",
+        "revenue": "21029340"
+    },
+    {
+        "movieTitle": "A Separation",
+        "revenue": "24426169"
+    },
+    {
+        "movieTitle": "The Matrix",
+        "revenue": "463517383"
+    },
+    {
+        "movieTitle": "Dragon Ball Super: Super Hero",
+        "revenue": "86600000"
+    },
+    {
+        "movieTitle": "Violet Evergarden: Eternity and the Auto Memory Doll",
+        "revenue": "10841702"
+    },
+    {
+        "movieTitle": "Downfall",
+        "revenue": "92181574"
+    },
+    {
+        "movieTitle": "Nobody",
+        "revenue": "61779301"
+    },
+    {
+        "movieTitle": "2001: A Space Odyssey",
+        "revenue": "71923560"
+    },
+    {
+        "movieTitle": "The Legend of Hei",
+        "revenue": "48045728"
+    },
+    {
+        "movieTitle": "My Mom Is a Character 3",
+        "revenue": "39273021"
+    },
+    {
+        "movieTitle": "Trainspotting",
+        "revenue": "71981823"
+    },
+    {
+        "movieTitle": "The Usual Suspects",
+        "revenue": "23300000"
+    },
+    {
+        "movieTitle": "Spider-Man: No Way Home",
+        "revenue": "1921847111"
+    },
+    {
+        "movieTitle": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "revenue": "507119058"
+    },
+    {
+        "movieTitle": "Life Is Beautiful",
+        "revenue": "230098753"
+    },
+    {
+        "movieTitle": "Miracle in Cell No. 7",
+        "revenue": "28000000"
+    },
+    {
+        "movieTitle": "Catch Me If You Can",
+        "revenue": "352114312"
+    },
+    {
+        "movieTitle": "Me Against You: Mr. S's Vendetta",
+        "revenue": "9500000"
+    },
+    {
+        "movieTitle": "Requiem for a Dream",
+        "revenue": "7390108"
+    },
+    {
+        "movieTitle": "Dedicated to my ex",
+        "revenue": "1315376"
+    },
+    {
+        "movieTitle": "On the Waterfront",
+        "revenue": "960000"
+    },
+    {
+        "movieTitle": "Paris, Texas",
+        "revenue": "2181987"
+    },
+    {
+        "movieTitle": "New Gods: Nezha Reborn",
+        "revenue": "70000000"
+    },
+    {
+        "movieTitle": "Ben-Hur",
+        "revenue": "164000000"
+    },
+    {
+        "movieTitle": "Central Station",
+        "revenue": "5596708"
+    },
+    {
+        "movieTitle": "Oldboy",
+        "revenue": "17500000"
+    },
+    {
+        "movieTitle": "Harry Potter and the Philosopher's Stone",
+        "revenue": "976475550"
+    },
+    {
+        "movieTitle": "The Cure",
+        "revenue": "2568235"
+    },
+    {
+        "movieTitle": "Harry Potter and the Prisoner of Azkaban",
+        "revenue": "789804554"
+    },
+    {
+        "movieTitle": "Sound of Freedom",
+        "revenue": "250600000"
+    },
+    {
+        "movieTitle": "Aliens",
+        "revenue": "183316455"
+    },
+    {
+        "movieTitle": "Pulp Fiction",
+        "revenue": "213928762"
+    },
+    {
+        "movieTitle": "Django Unchained",
+        "revenue": "425368238"
+    },
+    {
+        "movieTitle": "Dune: Part Two",
+        "revenue": "714444358"
+    },
+    {
+        "movieTitle": "The Shining",
+        "revenue": "44781695"
+    },
+    {
+        "movieTitle": "No Country for Old Men",
+        "revenue": "171627166"
+    },
+    {
+        "movieTitle": "Transformers One",
+        "revenue": "128888103"
+    },
+    {
+        "movieTitle": "Million Dollar Baby",
+        "revenue": "216763646"
+    },
+    {
+        "movieTitle": "All About Eve",
+        "revenue": "8400000"
+    },
+    {
+        "movieTitle": "American History X",
+        "revenue": "23900000"
+    },
+    {
+        "movieTitle": "There Will Be Blood",
+        "revenue": "77208711"
+    },
+    {
+        "movieTitle": "Elite Squad",
+        "revenue": "14759148"
+    },
+    {
+        "movieTitle": "The Sixth Sense",
+        "revenue": "672800000"
+    },
+    {
+        "movieTitle": "Like Stars on Earth",
+        "revenue": "28430000"
+    },
+    {
+        "movieTitle": "V for Vendetta",
+        "revenue": "134686457"
+    },
+    {
+        "movieTitle": "Before Sunrise",
+        "revenue": "5987386"
+    },
+    {
+        "movieTitle": "Sword Art Online the Movie \u2013 Progressive \u2013 Aria of a Starless Night",
+        "revenue": "14037060"
+    },
+    {
+        "movieTitle": "12 Years a Slave",
+        "revenue": "187000000"
+    },
+    {
+        "movieTitle": "GoodFellas",
+        "revenue": "46800000"
+    },
+    {
+        "movieTitle": "Memento",
+        "revenue": "40047236"
+    },
+    {
+        "movieTitle": "Gone with the Wind",
+        "revenue": "402352579"
+    },
+    {
+        "movieTitle": "The Intouchables",
+        "revenue": "426590315"
+    },
+    {
+        "movieTitle": "Young Woman and the Sea",
+        "revenue": "581725"
+    },
+    {
+        "movieTitle": "CODA",
+        "revenue": "1905058"
+    },
+    {
+        "movieTitle": "Grand Illusion",
+        "revenue": "172885"
+    },
+    {
+        "movieTitle": "Blade Runner",
+        "revenue": "41722424"
+    },
+    {
+        "movieTitle": "The Passion of Joan of Arc",
+        "revenue": "18121"
+    },
+    {
+        "movieTitle": "Green Snake",
+        "revenue": "87212911"
+    },
+    {
+        "movieTitle": "In the Name of the Father",
+        "revenue": "65796862"
+    },
+    {
+        "movieTitle": "Roman Holiday",
+        "revenue": "12000000"
+    },
+    {
+        "movieTitle": "Se7en",
+        "revenue": "327311859"
+    },
+    {
+        "movieTitle": "Nausica\u00e4 of the Valley of the Wind",
+        "revenue": "9016411"
+    },
+    {
+        "movieTitle": "Jujutsu Kaisen 0",
+        "revenue": "195870885"
+    },
+    {
+        "movieTitle": "Silenced",
+        "revenue": "31500000"
+    },
+    {
+        "movieTitle": "The Quintessential Quintuplets Movie",
+        "revenue": "17288993"
+    },
+    {
+        "movieTitle": "Judgment at Nuremberg",
+        "revenue": "10000000"
+    },
+    {
+        "movieTitle": "Flow",
+        "revenue": "17660107"
+    },
+    {
+        "movieTitle": "Chinatown",
+        "revenue": "30000000"
+    },
+    {
+        "movieTitle": "M",
+        "revenue": "35274"
+    },
+    {
+        "movieTitle": "Umberto D.",
+        "revenue": "71461"
+    },
+    {
+        "movieTitle": "Robot Dreams",
+        "revenue": "4656348"
+    },
+    {
+        "movieTitle": "My Neighbor Totoro",
+        "revenue": "41000000"
+    },
+    {
+        "movieTitle": "In the Mood for Love",
+        "revenue": "14204632"
+    },
+    {
+        "movieTitle": "Raiders of the Lost Ark",
+        "revenue": "389925971"
+    },
+    {
+        "movieTitle": "Saving Private Ryan",
+        "revenue": "481840909"
+    },
+    {
+        "movieTitle": "The Lion King",
+        "revenue": "763455561"
+    },
+    {
+        "movieTitle": "Toy Story",
+        "revenue": "394436586"
+    },
+    {
+        "movieTitle": "Singin' in the Rain",
+        "revenue": "7200000"
+    },
+    {
+        "movieTitle": "Oppenheimer",
+        "revenue": "952000000"
+    },
+    {
+        "movieTitle": "Andrei Rublev",
+        "revenue": "24173"
+    },
+    {
+        "movieTitle": "City Lights",
+        "revenue": "4250000"
+    },
+    {
+        "movieTitle": "Society of the Snow",
+        "revenue": "1281"
+    },
+    {
+        "movieTitle": "The Great Dictator",
+        "revenue": "11000000"
+    },
+    {
+        "movieTitle": "Suzume",
+        "revenue": "323638107"
+    },
+    {
+        "movieTitle": "The Sting",
+        "revenue": "159616327"
+    },
+    {
+        "movieTitle": "Ghost in the Shell",
+        "revenue": "10000000"
+    },
+    {
+        "movieTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "revenue": "9500000"
+    },
+    {
+        "movieTitle": "For a Few Dollars More",
+        "revenue": "15000000"
+    },
+    {
+        "movieTitle": "My Way",
+        "revenue": "16653488"
+    },
+    {
+        "movieTitle": "Dogman",
+        "revenue": "4082217"
+    },
+    {
+        "movieTitle": "Lawrence of Arabia",
+        "revenue": "69995385"
+    },
+    {
+        "movieTitle": "Heat",
+        "revenue": "187400000"
+    },
+    {
+        "movieTitle": "The General",
+        "revenue": "1000000"
+    },
+    {
+        "movieTitle": "The Gold Rush",
+        "revenue": "4000000"
+    },
+    {
+        "movieTitle": "Bound by Honor",
+        "revenue": "4500000"
+    },
+    {
+        "movieTitle": "Paths of Glory",
+        "revenue": "1200000"
+    },
+    {
+        "movieTitle": "Gladiator",
+        "revenue": "465516248"
+    },
+    {
+        "movieTitle": "Double Indemnity",
+        "revenue": "2500000"
+    }
+]

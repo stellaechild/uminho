@@ -1,0 +1,3206 @@
+[
+    {
+        "pokemon": "Bulbasaur",
+        "habilidades": "Chlorophyll; Overgrow"
+    },
+    {
+        "pokemon": "Caterpie",
+        "habilidades": "Run_away; Shield_dust"
+    },
+    {
+        "pokemon": "Voltorb",
+        "habilidades": "Aftermath; Soundproof; Static"
+    },
+    {
+        "pokemon": "Electrode",
+        "habilidades": "Aftermath; Soundproof; Static"
+    },
+    {
+        "pokemon": "Exeggcute",
+        "habilidades": "Chlorophyll; Harvest"
+    },
+    {
+        "pokemon": "Exeggutor",
+        "habilidades": "Chlorophyll; Frisk; Harvest"
+    },
+    {
+        "pokemon": "Cubone",
+        "habilidades": "Battle_armor; Lightningrod; Rock_head"
+    },
+    {
+        "pokemon": "Marowak",
+        "habilidades": "Battle_armor; Cursed_body; Lightningrod; Rock_head"
+    },
+    {
+        "pokemon": "Hitmonlee",
+        "habilidades": "Limber; Reckless; Unburden"
+    },
+    {
+        "pokemon": "Hitmonchan",
+        "habilidades": "Inner_focus; Iron_fist; Keen_eye"
+    },
+    {
+        "pokemon": "Lickitung",
+        "habilidades": "Cloud_nine; Oblivious; Own_tempo"
+    },
+    {
+        "pokemon": "Koffing",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Metapod",
+        "habilidades": "Shed_skin"
+    },
+    {
+        "pokemon": "Weezing",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Rhyhorn",
+        "habilidades": "Lightningrod; Reckless; Rock_head"
+    },
+    {
+        "pokemon": "Rhydon",
+        "habilidades": "Lightningrod; Reckless; Rock_head"
+    },
+    {
+        "pokemon": "Chansey",
+        "habilidades": "Healer; Natural_cure; Serene_grace"
+    },
+    {
+        "pokemon": "Tangela",
+        "habilidades": "Chlorophyll; Leaf_guard; Regenerator"
+    },
+    {
+        "pokemon": "Kangaskhan",
+        "habilidades": "Early_bird; Inner_focus; Scrappy"
+    },
+    {
+        "pokemon": "Horsea",
+        "habilidades": "Damp; Sniper; Swift_swim"
+    },
+    {
+        "pokemon": "Seadra",
+        "habilidades": "Damp; Poison_point; Sniper"
+    },
+    {
+        "pokemon": "Goldeen",
+        "habilidades": "Lightningrod; Swift_swim; Water_veil"
+    },
+    {
+        "pokemon": "Seaking",
+        "habilidades": "Lightningrod; Swift_swim; Water_veil"
+    },
+    {
+        "pokemon": "Butterfree",
+        "habilidades": "Compoundeyes; Tinted_lens"
+    },
+    {
+        "pokemon": "Staryu",
+        "habilidades": "Analytic; Illuminate; Natural_cure"
+    },
+    {
+        "pokemon": "Starmie",
+        "habilidades": "Analytic; Illuminate; Natural_cure"
+    },
+    {
+        "pokemon": "Mr. Mime",
+        "habilidades": "Filter; Soundproof; Technician"
+    },
+    {
+        "pokemon": "Scyther",
+        "habilidades": "Steadfast; Swarm; Technician"
+    },
+    {
+        "pokemon": "Jynx",
+        "habilidades": "Dry_skin; Forewarn; Oblivious"
+    },
+    {
+        "pokemon": "Electabuzz",
+        "habilidades": "Static; Vital_spirit"
+    },
+    {
+        "pokemon": "Magmar",
+        "habilidades": "Flame_body; Vital_spirit"
+    },
+    {
+        "pokemon": "Pinsir",
+        "habilidades": "Hyper_cutter; Mold_breaker; Moxie"
+    },
+    {
+        "pokemon": "Tauros",
+        "habilidades": "Anger_point; Intimidate; Sheer_force"
+    },
+    {
+        "pokemon": "Magikarp",
+        "habilidades": "Rattled; Swift_swim"
+    },
+    {
+        "pokemon": "Weedle",
+        "habilidades": "Run_away; Shield_dust"
+    },
+    {
+        "pokemon": "Gyarados",
+        "habilidades": "Intimidate; Moxie"
+    },
+    {
+        "pokemon": "Lapras",
+        "habilidades": "Hydration; Shell_armor; Water_absorb"
+    },
+    {
+        "pokemon": "Ditto",
+        "habilidades": "Imposter; Limber"
+    },
+    {
+        "pokemon": "Eevee",
+        "habilidades": "Adaptability; Anticipation; Run_away"
+    },
+    {
+        "pokemon": "Vaporeon",
+        "habilidades": "Hydration; Water_absorb"
+    },
+    {
+        "pokemon": "Jolteon",
+        "habilidades": "Quick_feet; Volt_absorb"
+    },
+    {
+        "pokemon": "Flareon",
+        "habilidades": "Flash_fire; Guts"
+    },
+    {
+        "pokemon": "Porygon",
+        "habilidades": "Analytic; Download; Trace"
+    },
+    {
+        "pokemon": "Omanyte",
+        "habilidades": "Shell_armor; Swift_swim; Weak_armor"
+    },
+    {
+        "pokemon": "Omastar",
+        "habilidades": "Shell_armor; Swift_swim; Weak_armor"
+    },
+    {
+        "pokemon": "Kakuna",
+        "habilidades": "Shed_skin"
+    },
+    {
+        "pokemon": "Kabuto",
+        "habilidades": "Battle_armor; Swift_swim; Weak_armor"
+    },
+    {
+        "pokemon": "Kabutops",
+        "habilidades": "Battle_armor; Swift_swim; Weak_armor"
+    },
+    {
+        "pokemon": "Aerodactyl",
+        "habilidades": "Pressure; Rock_head; Unnerve"
+    },
+    {
+        "pokemon": "Snorlax",
+        "habilidades": "Gluttony; Immunity; Thick_fat"
+    },
+    {
+        "pokemon": "Articuno",
+        "habilidades": "Pressure; Snow_cloak"
+    },
+    {
+        "pokemon": "Zapdos",
+        "habilidades": "Pressure; Static"
+    },
+    {
+        "pokemon": "Moltres",
+        "habilidades": "Flame_body; Pressure"
+    },
+    {
+        "pokemon": "Dratini",
+        "habilidades": "Marvel_scale; Shed_skin"
+    },
+    {
+        "pokemon": "Dragonair",
+        "habilidades": "Marvel_scale; Shed_skin"
+    },
+    {
+        "pokemon": "Dragonite",
+        "habilidades": "Inner_focus; Multiscale"
+    },
+    {
+        "pokemon": "Beedrill",
+        "habilidades": "Sniper; Swarm"
+    },
+    {
+        "pokemon": "Mewtwo",
+        "habilidades": "Pressure; Unnerve"
+    },
+    {
+        "pokemon": "Mew",
+        "habilidades": "Synchronize"
+    },
+    {
+        "pokemon": "Chikorita",
+        "habilidades": "Leaf_guard; Overgrow"
+    },
+    {
+        "pokemon": "Bayleef",
+        "habilidades": "Leaf_guard; Overgrow"
+    },
+    {
+        "pokemon": "Meganium",
+        "habilidades": "Leaf_guard; Overgrow"
+    },
+    {
+        "pokemon": "Cyndaquil",
+        "habilidades": "Blaze; Flash_fire"
+    },
+    {
+        "pokemon": "Quilava",
+        "habilidades": "Blaze; Flash_fire"
+    },
+    {
+        "pokemon": "Typhlosion",
+        "habilidades": "Blaze; Flash_fire"
+    },
+    {
+        "pokemon": "Totodile",
+        "habilidades": "Sheer_force; Torrent"
+    },
+    {
+        "pokemon": "Croconaw",
+        "habilidades": "Sheer_force; Torrent"
+    },
+    {
+        "pokemon": "Pidgey",
+        "habilidades": "Big_pecks; Keen_eye; Tangled_feet"
+    },
+    {
+        "pokemon": "Feraligatr",
+        "habilidades": "Sheer_force; Torrent"
+    },
+    {
+        "pokemon": "Sentret",
+        "habilidades": "Frisk; Keen_eye; Run_away"
+    },
+    {
+        "pokemon": "Furret",
+        "habilidades": "Frisk; Keen_eye; Run_away"
+    },
+    {
+        "pokemon": "Hoothoot",
+        "habilidades": "Insomnia; Keen_eye; Tinted_lens"
+    },
+    {
+        "pokemon": "Noctowl",
+        "habilidades": "Insomnia; Keen_eye; Tinted_lens"
+    },
+    {
+        "pokemon": "Ledyba",
+        "habilidades": "Early_bird; Rattled; Swarm"
+    },
+    {
+        "pokemon": "Ledian",
+        "habilidades": "Early_bird; Iron_fist; Swarm"
+    },
+    {
+        "pokemon": "Spinarak",
+        "habilidades": "Insomnia; Sniper; Swarm"
+    },
+    {
+        "pokemon": "Ariados",
+        "habilidades": "Insomnia; Sniper; Swarm"
+    },
+    {
+        "pokemon": "Crobat",
+        "habilidades": "Infiltrator; Inner_focus"
+    },
+    {
+        "pokemon": "Pidgeotto",
+        "habilidades": "Big_pecks; Keen_eye; Tangled_feet"
+    },
+    {
+        "pokemon": "Chinchou",
+        "habilidades": "Illuminate; Volt_absorb; Water_absorb"
+    },
+    {
+        "pokemon": "Lanturn",
+        "habilidades": "Illuminate; Volt_absorb; Water_absorb"
+    },
+    {
+        "pokemon": "Pichu",
+        "habilidades": "Lightningrod; Static"
+    },
+    {
+        "pokemon": "Cleffa",
+        "habilidades": "Cute_charm; Friend_guard; Magic_guard"
+    },
+    {
+        "pokemon": "Igglybuff",
+        "habilidades": "Competitive; Cute_charm; Friend_guard"
+    },
+    {
+        "pokemon": "Togepi",
+        "habilidades": "Hustle; Serene_grace; Super_luck"
+    },
+    {
+        "pokemon": "Togetic",
+        "habilidades": "Hustle; Serene_grace; Super_luck"
+    },
+    {
+        "pokemon": "Natu",
+        "habilidades": "Early_bird; Magic_bounce; Synchronize"
+    },
+    {
+        "pokemon": "Xatu",
+        "habilidades": "Early_bird; Magic_bounce; Synchronize"
+    },
+    {
+        "pokemon": "Mareep",
+        "habilidades": "Plus; Static"
+    },
+    {
+        "pokemon": "Pidgeot",
+        "habilidades": "Big_pecks; Keen_eye; Tangled_feet"
+    },
+    {
+        "pokemon": "Flaaffy",
+        "habilidades": "Plus; Static"
+    },
+    {
+        "pokemon": "Ampharos",
+        "habilidades": "Plus; Static"
+    },
+    {
+        "pokemon": "Bellossom",
+        "habilidades": "Chlorophyll; Healer"
+    },
+    {
+        "pokemon": "Marill",
+        "habilidades": "Huge_power; Sap_sipper; Thick_fat"
+    },
+    {
+        "pokemon": "Azumarill",
+        "habilidades": "Huge_power; Sap_sipper; Thick_fat"
+    },
+    {
+        "pokemon": "Sudowoodo",
+        "habilidades": "Rattled; Rock_head; Sturdy"
+    },
+    {
+        "pokemon": "Politoed",
+        "habilidades": "Damp; Drizzle; Water_absorb"
+    },
+    {
+        "pokemon": "Hoppip",
+        "habilidades": "Chlorophyll; Infiltrator; Leaf_guard"
+    },
+    {
+        "pokemon": "Skiploom",
+        "habilidades": "Chlorophyll; Infiltrator; Leaf_guard"
+    },
+    {
+        "pokemon": "Jumpluff",
+        "habilidades": "Chlorophyll; Infiltrator; Leaf_guard"
+    },
+    {
+        "pokemon": "Rattata",
+        "habilidades": "Gluttony; Guts; Hustle; Run_away; Thick_fat"
+    },
+    {
+        "pokemon": "Aipom",
+        "habilidades": "Pickup; Run_away; Skill_link"
+    },
+    {
+        "pokemon": "Sunkern",
+        "habilidades": "Chlorophyll; Early_bird; Solar_power"
+    },
+    {
+        "pokemon": "Sunflora",
+        "habilidades": "Chlorophyll; Early_bird; Solar_power"
+    },
+    {
+        "pokemon": "Yanma",
+        "habilidades": "Compoundeyes; Frisk; Speed_boost"
+    },
+    {
+        "pokemon": "Wooper",
+        "habilidades": "Damp; Unaware; Water_absorb"
+    },
+    {
+        "pokemon": "Quagsire",
+        "habilidades": "Damp; Unaware; Water_absorb"
+    },
+    {
+        "pokemon": "Espeon",
+        "habilidades": "Magic_bounce; Synchronize"
+    },
+    {
+        "pokemon": "Umbreon",
+        "habilidades": "Inner_focus; Synchronize"
+    },
+    {
+        "pokemon": "Murkrow",
+        "habilidades": "Insomnia; Prankster; Super_luck"
+    },
+    {
+        "pokemon": "Slowking",
+        "habilidades": "Oblivious; Own_tempo; Regenerator"
+    },
+    {
+        "pokemon": "Ivysaur",
+        "habilidades": "Chlorophyll; Overgrow"
+    },
+    {
+        "pokemon": "Raticate",
+        "habilidades": "Gluttony; Guts; Hustle; Run_away; Thick_fat"
+    },
+    {
+        "pokemon": "Misdreavus",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Unown",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Wobbuffet",
+        "habilidades": "Shadow_tag; Telepathy"
+    },
+    {
+        "pokemon": "Girafarig",
+        "habilidades": "Early_bird; Inner_focus; Sap_sipper"
+    },
+    {
+        "pokemon": "Pineco",
+        "habilidades": "Overcoat; Sturdy"
+    },
+    {
+        "pokemon": "Forretress",
+        "habilidades": "Overcoat; Sturdy"
+    },
+    {
+        "pokemon": "Dunsparce",
+        "habilidades": "Rattled; Run_away; Serene_grace"
+    },
+    {
+        "pokemon": "Gligar",
+        "habilidades": "Hyper_cutter; Immunity; Sand_veil"
+    },
+    {
+        "pokemon": "Steelix",
+        "habilidades": "Rock_head; Sheer_force; Sturdy"
+    },
+    {
+        "pokemon": "Snubbull",
+        "habilidades": "Intimidate; Rattled; Run_away"
+    },
+    {
+        "pokemon": "Spearow",
+        "habilidades": "Keen_eye; Sniper"
+    },
+    {
+        "pokemon": "Granbull",
+        "habilidades": "Intimidate; Quick_feet; Rattled"
+    },
+    {
+        "pokemon": "Qwilfish",
+        "habilidades": "Intimidate; Poison_point; Swift_swim"
+    },
+    {
+        "pokemon": "Scizor",
+        "habilidades": "Light_metal; Swarm; Technician"
+    },
+    {
+        "pokemon": "Shuckle",
+        "habilidades": "Contrary; Gluttony; Sturdy"
+    },
+    {
+        "pokemon": "Heracross",
+        "habilidades": "Guts; Moxie; Swarm"
+    },
+    {
+        "pokemon": "Sneasel",
+        "habilidades": "Inner_focus; Keen_eye; Pickpocket"
+    },
+    {
+        "pokemon": "Teddiursa",
+        "habilidades": "Honey_gather; Pickup; Quick_feet"
+    },
+    {
+        "pokemon": "Ursaring",
+        "habilidades": "Guts; Quick_feet; Unnerve"
+    },
+    {
+        "pokemon": "Slugma",
+        "habilidades": "Flame_body; Magma_armor; Weak_armor"
+    },
+    {
+        "pokemon": "Magcargo",
+        "habilidades": "Flame_body; Magma_armor; Weak_armor"
+    },
+    {
+        "pokemon": "Fearow",
+        "habilidades": "Keen_eye; Sniper"
+    },
+    {
+        "pokemon": "Swinub",
+        "habilidades": "Oblivious; Snow_cloak; Thick_fat"
+    },
+    {
+        "pokemon": "Piloswine",
+        "habilidades": "Oblivious; Snow_cloak; Thick_fat"
+    },
+    {
+        "pokemon": "Corsola",
+        "habilidades": "Hustle; Natural_cure; Regenerator"
+    },
+    {
+        "pokemon": "Remoraid",
+        "habilidades": "Hustle; Moody; Sniper"
+    },
+    {
+        "pokemon": "Octillery",
+        "habilidades": "Moody; Sniper; Suction_cups"
+    },
+    {
+        "pokemon": "Delibird",
+        "habilidades": "Hustle; Insomnia; Vital_spirit"
+    },
+    {
+        "pokemon": "Mantine",
+        "habilidades": "Swift_swim; Water_absorb; Water_veil"
+    },
+    {
+        "pokemon": "Skarmory",
+        "habilidades": "Keen_eye; Sturdy; Weak_armor"
+    },
+    {
+        "pokemon": "Houndour",
+        "habilidades": "Early_bird; Flash_fire; Unnerve"
+    },
+    {
+        "pokemon": "Houndoom",
+        "habilidades": "Early_bird; Flash_fire; Unnerve"
+    },
+    {
+        "pokemon": "Ekans",
+        "habilidades": "Intimidate; Shed_skin; Unnerve"
+    },
+    {
+        "pokemon": "Kingdra",
+        "habilidades": "Damp; Sniper; Swift_swim"
+    },
+    {
+        "pokemon": "Phanpy",
+        "habilidades": "Pickup; Sand_veil"
+    },
+    {
+        "pokemon": "Donphan",
+        "habilidades": "Sand_veil; Sturdy"
+    },
+    {
+        "pokemon": "Porygon2",
+        "habilidades": "Analytic; Download; Trace"
+    },
+    {
+        "pokemon": "Stantler",
+        "habilidades": "Frisk; Intimidate; Sap_sipper"
+    },
+    {
+        "pokemon": "Smeargle",
+        "habilidades": "Moody; Own_tempo; Technician"
+    },
+    {
+        "pokemon": "Tyrogue",
+        "habilidades": "Guts; Steadfast; Vital_spirit"
+    },
+    {
+        "pokemon": "Hitmontop",
+        "habilidades": "Intimidate; Steadfast; Technician"
+    },
+    {
+        "pokemon": "Smoochum",
+        "habilidades": "Forewarn; Hydration; Oblivious"
+    },
+    {
+        "pokemon": "Elekid",
+        "habilidades": "Static; Vital_spirit"
+    },
+    {
+        "pokemon": "Arbok",
+        "habilidades": "Intimidate; Shed_skin; Unnerve"
+    },
+    {
+        "pokemon": "Magby",
+        "habilidades": "Flame_body; Vital_spirit"
+    },
+    {
+        "pokemon": "Miltank",
+        "habilidades": "Sap_sipper; Scrappy; Thick_fat"
+    },
+    {
+        "pokemon": "Blissey",
+        "habilidades": "Healer; Natural_cure; Serene_grace"
+    },
+    {
+        "pokemon": "Raikou",
+        "habilidades": "Inner_focus; Pressure"
+    },
+    {
+        "pokemon": "Entei",
+        "habilidades": "Inner_focus; Pressure"
+    },
+    {
+        "pokemon": "Suicune",
+        "habilidades": "Inner_focus; Pressure"
+    },
+    {
+        "pokemon": "Larvitar",
+        "habilidades": "Guts; Sand_veil"
+    },
+    {
+        "pokemon": "Pupitar",
+        "habilidades": "Shed_skin"
+    },
+    {
+        "pokemon": "Tyranitar",
+        "habilidades": "Sand_stream; Unnerve"
+    },
+    {
+        "pokemon": "Lugia",
+        "habilidades": "Multiscale; Pressure"
+    },
+    {
+        "pokemon": "Pikachu",
+        "habilidades": "Lightningrod; Static"
+    },
+    {
+        "pokemon": "Ho-Oh",
+        "habilidades": "Pressure; Regenerator"
+    },
+    {
+        "pokemon": "Celebi",
+        "habilidades": "Natural_cure"
+    },
+    {
+        "pokemon": "Treecko",
+        "habilidades": "Overgrow; Unburden"
+    },
+    {
+        "pokemon": "Grovyle",
+        "habilidades": "Overgrow; Unburden"
+    },
+    {
+        "pokemon": "Sceptile",
+        "habilidades": "Overgrow; Unburden"
+    },
+    {
+        "pokemon": "Torchic",
+        "habilidades": "Blaze; Speed_boost"
+    },
+    {
+        "pokemon": "Combusken",
+        "habilidades": "Blaze; Speed_boost"
+    },
+    {
+        "pokemon": "Blaziken",
+        "habilidades": "Blaze; Speed_boost"
+    },
+    {
+        "pokemon": "Mudkip",
+        "habilidades": "Damp; Torrent"
+    },
+    {
+        "pokemon": "Marshtomp",
+        "habilidades": "Damp; Torrent"
+    },
+    {
+        "pokemon": "Raichu",
+        "habilidades": "Lightningrod; Static; Surge_surfer"
+    },
+    {
+        "pokemon": "Swampert",
+        "habilidades": "Damp; Torrent"
+    },
+    {
+        "pokemon": "Poochyena",
+        "habilidades": "Quick_feet; Rattled; Run_away"
+    },
+    {
+        "pokemon": "Mightyena",
+        "habilidades": "Intimidate; Moxie; Quick_feet"
+    },
+    {
+        "pokemon": "Zigzagoon",
+        "habilidades": "Gluttony; Pickup; Quick_feet"
+    },
+    {
+        "pokemon": "Linoone",
+        "habilidades": "Gluttony; Pickup; Quick_feet"
+    },
+    {
+        "pokemon": "Wurmple",
+        "habilidades": "Run_away; Shield_dust"
+    },
+    {
+        "pokemon": "Silcoon",
+        "habilidades": "Shed_skin"
+    },
+    {
+        "pokemon": "Beautifly",
+        "habilidades": "Rivalry; Swarm"
+    },
+    {
+        "pokemon": "Cascoon",
+        "habilidades": "Shed_skin"
+    },
+    {
+        "pokemon": "Dustox",
+        "habilidades": "Compoundeyes; Shield_dust"
+    },
+    {
+        "pokemon": "Sandshrew",
+        "habilidades": "Sand_rush; Sand_veil; Slush_rush; Snow_cloak"
+    },
+    {
+        "pokemon": "Lotad",
+        "habilidades": "Own_tempo; Rain_dish; Swift_swim"
+    },
+    {
+        "pokemon": "Lombre",
+        "habilidades": "Own_tempo; Rain_dish; Swift_swim"
+    },
+    {
+        "pokemon": "Ludicolo",
+        "habilidades": "Own_tempo; Rain_dish; Swift_swim"
+    },
+    {
+        "pokemon": "Seedot",
+        "habilidades": "Chlorophyll; Early_bird; Pickpocket"
+    },
+    {
+        "pokemon": "Nuzleaf",
+        "habilidades": "Chlorophyll; Early_bird; Pickpocket"
+    },
+    {
+        "pokemon": "Shiftry",
+        "habilidades": "Chlorophyll; Early_bird; Pickpocket"
+    },
+    {
+        "pokemon": "Taillow",
+        "habilidades": "Guts; Scrappy"
+    },
+    {
+        "pokemon": "Swellow",
+        "habilidades": "Guts; Scrappy"
+    },
+    {
+        "pokemon": "Wingull",
+        "habilidades": "Hydration; Keen_eye; Rain_dish"
+    },
+    {
+        "pokemon": "Pelipper",
+        "habilidades": "Drizzle; Keen_eye; Rain_dish"
+    },
+    {
+        "pokemon": "Sandslash",
+        "habilidades": "Sand_rush; Sand_veil; Slush_rush; Snow_cloak"
+    },
+    {
+        "pokemon": "Ralts",
+        "habilidades": "Synchronize; Telepathy; Trace"
+    },
+    {
+        "pokemon": "Kirlia",
+        "habilidades": "Synchronize; Telepathy; Trace"
+    },
+    {
+        "pokemon": "Gardevoir",
+        "habilidades": "Synchronize; Telepathy; Trace"
+    },
+    {
+        "pokemon": "Surskit",
+        "habilidades": "Rain_dish; Swift_swim"
+    },
+    {
+        "pokemon": "Masquerain",
+        "habilidades": "Intimidate; Unnerve"
+    },
+    {
+        "pokemon": "Shroomish",
+        "habilidades": "Effect_spore; Poison_heal; Quick_feet"
+    },
+    {
+        "pokemon": "Breloom",
+        "habilidades": "Effect_spore; Poison_heal; Technician"
+    },
+    {
+        "pokemon": "Slakoth",
+        "habilidades": "Truant"
+    },
+    {
+        "pokemon": "Vigoroth",
+        "habilidades": "Vital_spirit"
+    },
+    {
+        "pokemon": "Slaking",
+        "habilidades": "Truant"
+    },
+    {
+        "pokemon": "Nidoran\u2640",
+        "habilidades": "Hustle; Poison_point; Rivalry"
+    },
+    {
+        "pokemon": "Nincada",
+        "habilidades": "Compoundeyes; Run_away"
+    },
+    {
+        "pokemon": "Ninjask",
+        "habilidades": "Infiltrator; Speed_boost"
+    },
+    {
+        "pokemon": "Shedinja",
+        "habilidades": "Wonder_guard"
+    },
+    {
+        "pokemon": "Whismur",
+        "habilidades": "Rattled; Soundproof"
+    },
+    {
+        "pokemon": "Loudred",
+        "habilidades": "Scrappy; Soundproof"
+    },
+    {
+        "pokemon": "Exploud",
+        "habilidades": "Scrappy; Soundproof"
+    },
+    {
+        "pokemon": "Makuhita",
+        "habilidades": "Guts; Sheer_force; Thick_fat"
+    },
+    {
+        "pokemon": "Hariyama",
+        "habilidades": "Guts; Sheer_force; Thick_fat"
+    },
+    {
+        "pokemon": "Azurill",
+        "habilidades": "Huge_power; Sap_sipper; Thick_fat"
+    },
+    {
+        "pokemon": "Nosepass",
+        "habilidades": "Magnet_pull; Sand_force; Sturdy"
+    },
+    {
+        "pokemon": "Venusaur",
+        "habilidades": "Chlorophyll; Overgrow"
+    },
+    {
+        "pokemon": "Nidorina",
+        "habilidades": "Hustle; Poison_point; Rivalry"
+    },
+    {
+        "pokemon": "Skitty",
+        "habilidades": "Cute_charm; Normalize; Wonder_skin"
+    },
+    {
+        "pokemon": "Delcatty",
+        "habilidades": "Cute_charm; Normalize; Wonder_skin"
+    },
+    {
+        "pokemon": "Sableye",
+        "habilidades": "Keen_eye; Prankster; Stall"
+    },
+    {
+        "pokemon": "Mawile",
+        "habilidades": "Hyper_cutter; Intimidate; Sheer_force"
+    },
+    {
+        "pokemon": "Aron",
+        "habilidades": "Heavy_metal; Rock_head; Sturdy"
+    },
+    {
+        "pokemon": "Lairon",
+        "habilidades": "Heavy_metal; Rock_head; Sturdy"
+    },
+    {
+        "pokemon": "Aggron",
+        "habilidades": "Heavy_metal; Rock_head; Sturdy"
+    },
+    {
+        "pokemon": "Meditite",
+        "habilidades": "Pure_power; Telepathy"
+    },
+    {
+        "pokemon": "Medicham",
+        "habilidades": "Pure_power; Telepathy"
+    },
+    {
+        "pokemon": "Electrike",
+        "habilidades": "Lightningrod; Minus; Static"
+    },
+    {
+        "pokemon": "Nidoqueen",
+        "habilidades": "Poison_point; Rivalry; Sheer_force"
+    },
+    {
+        "pokemon": "Manectric",
+        "habilidades": "Lightningrod; Minus; Static"
+    },
+    {
+        "pokemon": "Plusle",
+        "habilidades": "Lightningrod; Plus"
+    },
+    {
+        "pokemon": "Minun",
+        "habilidades": "Minus; Volt_absorb"
+    },
+    {
+        "pokemon": "Volbeat",
+        "habilidades": "Illuminate; Prankster; Swarm"
+    },
+    {
+        "pokemon": "Illumise",
+        "habilidades": "Oblivious; Prankster; Tinted_lens"
+    },
+    {
+        "pokemon": "Roselia",
+        "habilidades": "Leaf_guard; Natural_cure; Poison_point"
+    },
+    {
+        "pokemon": "Gulpin",
+        "habilidades": "Gluttony; Liquid_ooze; Sticky_hold"
+    },
+    {
+        "pokemon": "Swalot",
+        "habilidades": "Gluttony; Liquid_ooze; Sticky_hold"
+    },
+    {
+        "pokemon": "Carvanha",
+        "habilidades": "Rough_skin; Speed_boost"
+    },
+    {
+        "pokemon": "Sharpedo",
+        "habilidades": "Rough_skin; Speed_boost"
+    },
+    {
+        "pokemon": "Nidoran\u2642",
+        "habilidades": "Hustle; Poison_point; Rivalry"
+    },
+    {
+        "pokemon": "Wailmer",
+        "habilidades": "Oblivious; Pressure; Water_veil"
+    },
+    {
+        "pokemon": "Wailord",
+        "habilidades": "Oblivious; Pressure; Water_veil"
+    },
+    {
+        "pokemon": "Numel",
+        "habilidades": "Oblivious; Own_tempo; Simple"
+    },
+    {
+        "pokemon": "Camerupt",
+        "habilidades": "Anger_point; Magma_armor; Solid_rock"
+    },
+    {
+        "pokemon": "Torkoal",
+        "habilidades": "Drought; Shell_armor; White_smoke"
+    },
+    {
+        "pokemon": "Spoink",
+        "habilidades": "Gluttony; Own_tempo; Thick_fat"
+    },
+    {
+        "pokemon": "Grumpig",
+        "habilidades": "Gluttony; Own_tempo; Thick_fat"
+    },
+    {
+        "pokemon": "Spinda",
+        "habilidades": "Contrary; Own_tempo; Tangled_feet"
+    },
+    {
+        "pokemon": "Trapinch",
+        "habilidades": "Arena_trap; Hyper_cutter; Sheer_force"
+    },
+    {
+        "pokemon": "Vibrava",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Nidorino",
+        "habilidades": "Hustle; Poison_point; Rivalry"
+    },
+    {
+        "pokemon": "Flygon",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Cacnea",
+        "habilidades": "Sand_veil; Water_absorb"
+    },
+    {
+        "pokemon": "Cacturne",
+        "habilidades": "Sand_veil; Water_absorb"
+    },
+    {
+        "pokemon": "Swablu",
+        "habilidades": "Cloud_nine; Natural_cure"
+    },
+    {
+        "pokemon": "Altaria",
+        "habilidades": "Cloud_nine; Natural_cure"
+    },
+    {
+        "pokemon": "Zangoose",
+        "habilidades": "Immunity; Toxic_boost"
+    },
+    {
+        "pokemon": "Seviper",
+        "habilidades": "Infiltrator; Shed_skin"
+    },
+    {
+        "pokemon": "Lunatone",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Solrock",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Barboach",
+        "habilidades": "Anticipation; Hydration; Oblivious"
+    },
+    {
+        "pokemon": "Nidoking",
+        "habilidades": "Poison_point; Rivalry; Sheer_force"
+    },
+    {
+        "pokemon": "Whiscash",
+        "habilidades": "Anticipation; Hydration; Oblivious"
+    },
+    {
+        "pokemon": "Corphish",
+        "habilidades": "Adaptability; Hyper_cutter; Shell_armor"
+    },
+    {
+        "pokemon": "Crawdaunt",
+        "habilidades": "Adaptability; Hyper_cutter; Shell_armor"
+    },
+    {
+        "pokemon": "Baltoy",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Claydol",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Lileep",
+        "habilidades": "Storm_drain; Suction_cups"
+    },
+    {
+        "pokemon": "Cradily",
+        "habilidades": "Storm_drain; Suction_cups"
+    },
+    {
+        "pokemon": "Anorith",
+        "habilidades": "Battle_armor; Swift_swim"
+    },
+    {
+        "pokemon": "Armaldo",
+        "habilidades": "Battle_armor; Swift_swim"
+    },
+    {
+        "pokemon": "Feebas",
+        "habilidades": "Adaptability; Oblivious; Swift_swim"
+    },
+    {
+        "pokemon": "Clefairy",
+        "habilidades": "Cute_charm; Friend_guard; Magic_guard"
+    },
+    {
+        "pokemon": "Milotic",
+        "habilidades": "Competitive; Cute_charm; Marvel_scale"
+    },
+    {
+        "pokemon": "Castform",
+        "habilidades": "Forecast"
+    },
+    {
+        "pokemon": "Kecleon",
+        "habilidades": "Color_change; Protean"
+    },
+    {
+        "pokemon": "Shuppet",
+        "habilidades": "Cursed_body; Frisk; Insomnia"
+    },
+    {
+        "pokemon": "Banette",
+        "habilidades": "Cursed_body; Frisk; Insomnia"
+    },
+    {
+        "pokemon": "Duskull",
+        "habilidades": "Frisk; Levitate"
+    },
+    {
+        "pokemon": "Dusclops",
+        "habilidades": "Frisk; Pressure"
+    },
+    {
+        "pokemon": "Tropius",
+        "habilidades": "Chlorophyll; Harvest; Solar_power"
+    },
+    {
+        "pokemon": "Chimecho",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Absol",
+        "habilidades": "Justified; Pressure; Super_luck"
+    },
+    {
+        "pokemon": "Clefable",
+        "habilidades": "Cute_charm; Magic_guard; Unaware"
+    },
+    {
+        "pokemon": "Wynaut",
+        "habilidades": "Shadow_tag; Telepathy"
+    },
+    {
+        "pokemon": "Snorunt",
+        "habilidades": "Ice_body; Inner_focus; Moody"
+    },
+    {
+        "pokemon": "Glalie",
+        "habilidades": "Ice_body; Inner_focus; Moody"
+    },
+    {
+        "pokemon": "Spheal",
+        "habilidades": "Ice_body; Oblivious; Thick_fat"
+    },
+    {
+        "pokemon": "Sealeo",
+        "habilidades": "Ice_body; Oblivious; Thick_fat"
+    },
+    {
+        "pokemon": "Walrein",
+        "habilidades": "Ice_body; Oblivious; Thick_fat"
+    },
+    {
+        "pokemon": "Clamperl",
+        "habilidades": "Rattled; Shell_armor"
+    },
+    {
+        "pokemon": "Huntail",
+        "habilidades": "Swift_swim; Water_veil"
+    },
+    {
+        "pokemon": "Gorebyss",
+        "habilidades": "Hydration; Swift_swim"
+    },
+    {
+        "pokemon": "Relicanth",
+        "habilidades": "Rock_head; Sturdy; Swift_swim"
+    },
+    {
+        "pokemon": "Vulpix",
+        "habilidades": "Drought; Flash_fire; Snow_cloak; Snow_warning"
+    },
+    {
+        "pokemon": "Luvdisc",
+        "habilidades": "Hydration; Swift_swim"
+    },
+    {
+        "pokemon": "Bagon",
+        "habilidades": "Rock_head; Sheer_force"
+    },
+    {
+        "pokemon": "Shelgon",
+        "habilidades": "Overcoat; Rock_head"
+    },
+    {
+        "pokemon": "Salamence",
+        "habilidades": "Intimidate; Moxie"
+    },
+    {
+        "pokemon": "Beldum",
+        "habilidades": "Clear_body; Light_metal"
+    },
+    {
+        "pokemon": "Metang",
+        "habilidades": "Clear_body; Light_metal"
+    },
+    {
+        "pokemon": "Metagross",
+        "habilidades": "Clear_body; Light_metal"
+    },
+    {
+        "pokemon": "Regirock",
+        "habilidades": "Clear_body; Sturdy"
+    },
+    {
+        "pokemon": "Regice",
+        "habilidades": "Clear_body; Ice_body"
+    },
+    {
+        "pokemon": "Registeel",
+        "habilidades": "Clear_body; Light_metal"
+    },
+    {
+        "pokemon": "Ninetales",
+        "habilidades": "Drought; Flash_fire; Snow_cloak; Snow_warning"
+    },
+    {
+        "pokemon": "Latias",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Latios",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Kyogre",
+        "habilidades": "Drizzle"
+    },
+    {
+        "pokemon": "Groudon",
+        "habilidades": "Drought"
+    },
+    {
+        "pokemon": "Rayquaza",
+        "habilidades": "Air_lock"
+    },
+    {
+        "pokemon": "Jirachi",
+        "habilidades": "Serene_grace"
+    },
+    {
+        "pokemon": "Deoxys",
+        "habilidades": "Pressure"
+    },
+    {
+        "pokemon": "Turtwig",
+        "habilidades": "Overgrow; Shell_armor"
+    },
+    {
+        "pokemon": "Grotle",
+        "habilidades": "Overgrow; Shell_armor"
+    },
+    {
+        "pokemon": "Torterra",
+        "habilidades": "Overgrow; Shell_armor"
+    },
+    {
+        "pokemon": "Jigglypuff",
+        "habilidades": "Competitive; Cute_charm; Friend_guard"
+    },
+    {
+        "pokemon": "Chimchar",
+        "habilidades": "Blaze; Iron_fist"
+    },
+    {
+        "pokemon": "Monferno",
+        "habilidades": "Blaze; Iron_fist"
+    },
+    {
+        "pokemon": "Infernape",
+        "habilidades": "Blaze; Iron_fist"
+    },
+    {
+        "pokemon": "Piplup",
+        "habilidades": "Defiant; Torrent"
+    },
+    {
+        "pokemon": "Prinplup",
+        "habilidades": "Defiant; Torrent"
+    },
+    {
+        "pokemon": "Empoleon",
+        "habilidades": "Defiant; Torrent"
+    },
+    {
+        "pokemon": "Starly",
+        "habilidades": "Keen_eye; Reckless"
+    },
+    {
+        "pokemon": "Staravia",
+        "habilidades": "Intimidate; Reckless"
+    },
+    {
+        "pokemon": "Staraptor",
+        "habilidades": "Intimidate; Reckless"
+    },
+    {
+        "pokemon": "Bidoof",
+        "habilidades": "Moody; Simple; Unaware"
+    },
+    {
+        "pokemon": "Charmander",
+        "habilidades": "Blaze; Solar_power"
+    },
+    {
+        "pokemon": "Wigglytuff",
+        "habilidades": "Competitive; Cute_charm; Frisk"
+    },
+    {
+        "pokemon": "Bibarel",
+        "habilidades": "Moody; Simple; Unaware"
+    },
+    {
+        "pokemon": "Kricketot",
+        "habilidades": "Run_away; Shed_skin"
+    },
+    {
+        "pokemon": "Kricketune",
+        "habilidades": "Swarm; Technician"
+    },
+    {
+        "pokemon": "Shinx",
+        "habilidades": "Guts; Intimidate; Rivalry"
+    },
+    {
+        "pokemon": "Luxio",
+        "habilidades": "Guts; Intimidate; Rivalry"
+    },
+    {
+        "pokemon": "Luxray",
+        "habilidades": "Guts; Intimidate; Rivalry"
+    },
+    {
+        "pokemon": "Budew",
+        "habilidades": "Leaf_guard; Natural_cure; Poison_point"
+    },
+    {
+        "pokemon": "Roserade",
+        "habilidades": "Natural_cure; Poison_point; Technician"
+    },
+    {
+        "pokemon": "Cranidos",
+        "habilidades": "Mold_breaker; Sheer_force"
+    },
+    {
+        "pokemon": "Rampardos",
+        "habilidades": "Mold_breaker; Sheer_force"
+    },
+    {
+        "pokemon": "Zubat",
+        "habilidades": "Infiltrator; Inner_focus"
+    },
+    {
+        "pokemon": "Shieldon",
+        "habilidades": "Soundproof; Sturdy"
+    },
+    {
+        "pokemon": "Bastiodon",
+        "habilidades": "Soundproof; Sturdy"
+    },
+    {
+        "pokemon": "Burmy",
+        "habilidades": "Overcoat; Shed_skin"
+    },
+    {
+        "pokemon": "Wormadam",
+        "habilidades": "Anticipation; Overcoat"
+    },
+    {
+        "pokemon": "Mothim",
+        "habilidades": "Swarm; Tinted_lens"
+    },
+    {
+        "pokemon": "Combee",
+        "habilidades": "Honey_gather; Hustle"
+    },
+    {
+        "pokemon": "Vespiquen",
+        "habilidades": "Pressure; Unnerve"
+    },
+    {
+        "pokemon": "Pachirisu",
+        "habilidades": "Pickup; Run_away; Volt_absorb"
+    },
+    {
+        "pokemon": "Buizel",
+        "habilidades": "Swift_swim; Water_veil"
+    },
+    {
+        "pokemon": "Floatzel",
+        "habilidades": "Swift_swim; Water_veil"
+    },
+    {
+        "pokemon": "Golbat",
+        "habilidades": "Infiltrator; Inner_focus"
+    },
+    {
+        "pokemon": "Cherubi",
+        "habilidades": "Chlorophyll"
+    },
+    {
+        "pokemon": "Cherrim",
+        "habilidades": "Flower_gift"
+    },
+    {
+        "pokemon": "Shellos",
+        "habilidades": "Sand_force; Sticky_hold; Storm_drain"
+    },
+    {
+        "pokemon": "Gastrodon",
+        "habilidades": "Sand_force; Sticky_hold; Storm_drain"
+    },
+    {
+        "pokemon": "Ambipom",
+        "habilidades": "Pickup; Skill_link; Technician"
+    },
+    {
+        "pokemon": "Drifloon",
+        "habilidades": "Aftermath; Flare_boost; Unburden"
+    },
+    {
+        "pokemon": "Drifblim",
+        "habilidades": "Aftermath; Flare_boost; Unburden"
+    },
+    {
+        "pokemon": "Buneary",
+        "habilidades": "Klutz; Limber; Run_away"
+    },
+    {
+        "pokemon": "Lopunny",
+        "habilidades": "Cute_charm; Klutz; Limber"
+    },
+    {
+        "pokemon": "Mismagius",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Oddish",
+        "habilidades": "Chlorophyll; Run_away"
+    },
+    {
+        "pokemon": "Honchkrow",
+        "habilidades": "Insomnia; Moxie; Super_luck"
+    },
+    {
+        "pokemon": "Glameow",
+        "habilidades": "Keen_eye; Limber; Own_tempo"
+    },
+    {
+        "pokemon": "Purugly",
+        "habilidades": "Defiant; Own_tempo; Thick_fat"
+    },
+    {
+        "pokemon": "Chingling",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Stunky",
+        "habilidades": "Aftermath; Keen_eye; Stench"
+    },
+    {
+        "pokemon": "Skuntank",
+        "habilidades": "Aftermath; Keen_eye; Stench"
+    },
+    {
+        "pokemon": "Bronzor",
+        "habilidades": "Heatproof; Heavy_metal; Levitate"
+    },
+    {
+        "pokemon": "Bronzong",
+        "habilidades": "Heatproof; Heavy_metal; Levitate"
+    },
+    {
+        "pokemon": "Bonsly",
+        "habilidades": "Rattled; Rock_head; Sturdy"
+    },
+    {
+        "pokemon": "Mime Jr.",
+        "habilidades": "Filter; Soundproof; Technician"
+    },
+    {
+        "pokemon": "Gloom",
+        "habilidades": "Chlorophyll; Stench"
+    },
+    {
+        "pokemon": "Happiny",
+        "habilidades": "Friend_guard; Natural_cure; Serene_grace"
+    },
+    {
+        "pokemon": "Chatot",
+        "habilidades": "Big_pecks; Keen_eye; Tangled_feet"
+    },
+    {
+        "pokemon": "Spiritomb",
+        "habilidades": "Infiltrator; Pressure"
+    },
+    {
+        "pokemon": "Gible",
+        "habilidades": "Rough_skin; Sand_veil"
+    },
+    {
+        "pokemon": "Gabite",
+        "habilidades": "Rough_skin; Sand_veil"
+    },
+    {
+        "pokemon": "Garchomp",
+        "habilidades": "Rough_skin; Sand_veil"
+    },
+    {
+        "pokemon": "Munchlax",
+        "habilidades": "Gluttony; Pickup; Thick_fat"
+    },
+    {
+        "pokemon": "Riolu",
+        "habilidades": "Inner_focus; Prankster; Steadfast"
+    },
+    {
+        "pokemon": "Lucario",
+        "habilidades": "Inner_focus; Justified; Steadfast"
+    },
+    {
+        "pokemon": "Hippopotas",
+        "habilidades": "Sand_force; Sand_stream"
+    },
+    {
+        "pokemon": "Vileplume",
+        "habilidades": "Chlorophyll; Effect_spore"
+    },
+    {
+        "pokemon": "Hippowdon",
+        "habilidades": "Sand_force; Sand_stream"
+    },
+    {
+        "pokemon": "Skorupi",
+        "habilidades": "Battle_armor; Keen_eye; Sniper"
+    },
+    {
+        "pokemon": "Drapion",
+        "habilidades": "Battle_armor; Keen_eye; Sniper"
+    },
+    {
+        "pokemon": "Croagunk",
+        "habilidades": "Anticipation; Dry_skin; Poison_touch"
+    },
+    {
+        "pokemon": "Toxicroak",
+        "habilidades": "Anticipation; Dry_skin; Poison_touch"
+    },
+    {
+        "pokemon": "Carnivine",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Finneon",
+        "habilidades": "Storm_drain; Swift_swim; Water_veil"
+    },
+    {
+        "pokemon": "Lumineon",
+        "habilidades": "Storm_drain; Swift_swim; Water_veil"
+    },
+    {
+        "pokemon": "Mantyke",
+        "habilidades": "Swift_swim; Water_absorb; Water_veil"
+    },
+    {
+        "pokemon": "Snover",
+        "habilidades": "Snow_warning; Soundproof"
+    },
+    {
+        "pokemon": "Paras",
+        "habilidades": "Damp; Dry_skin; Effect_spore"
+    },
+    {
+        "pokemon": "Abomasnow",
+        "habilidades": "Snow_warning; Soundproof"
+    },
+    {
+        "pokemon": "Weavile",
+        "habilidades": "Pickpocket; Pressure"
+    },
+    {
+        "pokemon": "Magnezone",
+        "habilidades": "Analytic; Magnet_pull; Sturdy"
+    },
+    {
+        "pokemon": "Lickilicky",
+        "habilidades": "Cloud_nine; Oblivious; Own_tempo"
+    },
+    {
+        "pokemon": "Rhyperior",
+        "habilidades": "Lightningrod; Reckless; Solid_rock"
+    },
+    {
+        "pokemon": "Tangrowth",
+        "habilidades": "Chlorophyll; Leaf_guard; Regenerator"
+    },
+    {
+        "pokemon": "Electivire",
+        "habilidades": "Motor_drive; Vital_spirit"
+    },
+    {
+        "pokemon": "Magmortar",
+        "habilidades": "Flame_body; Vital_spirit"
+    },
+    {
+        "pokemon": "Togekiss",
+        "habilidades": "Hustle; Serene_grace; Super_luck"
+    },
+    {
+        "pokemon": "Yanmega",
+        "habilidades": "Frisk; Speed_boost; Tinted_lens"
+    },
+    {
+        "pokemon": "Parasect",
+        "habilidades": "Damp; Dry_skin; Effect_spore"
+    },
+    {
+        "pokemon": "Leafeon",
+        "habilidades": "Chlorophyll; Leaf_guard"
+    },
+    {
+        "pokemon": "Glaceon",
+        "habilidades": "Ice_body; Snow_cloak"
+    },
+    {
+        "pokemon": "Gliscor",
+        "habilidades": "Hyper_cutter; Poison_heal; Sand_veil"
+    },
+    {
+        "pokemon": "Mamoswine",
+        "habilidades": "Oblivious; Snow_cloak; Thick_fat"
+    },
+    {
+        "pokemon": "Porygon-Z",
+        "habilidades": "Adaptability; Analytic; Download"
+    },
+    {
+        "pokemon": "Gallade",
+        "habilidades": "Justified; Steadfast"
+    },
+    {
+        "pokemon": "Probopass",
+        "habilidades": "Magnet_pull; Sand_force; Sturdy"
+    },
+    {
+        "pokemon": "Dusknoir",
+        "habilidades": "Frisk; Pressure"
+    },
+    {
+        "pokemon": "Froslass",
+        "habilidades": "Cursed_body; Snow_cloak"
+    },
+    {
+        "pokemon": "Rotom",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Venonat",
+        "habilidades": "Compoundeyes; Run_away; Tinted_lens"
+    },
+    {
+        "pokemon": "Uxie",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Mesprit",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Azelf",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Dialga",
+        "habilidades": "Pressure; Telepathy"
+    },
+    {
+        "pokemon": "Palkia",
+        "habilidades": "Pressure; Telepathy"
+    },
+    {
+        "pokemon": "Heatran",
+        "habilidades": "Flame_body; Flash_fire"
+    },
+    {
+        "pokemon": "Regigigas",
+        "habilidades": "Slow_start"
+    },
+    {
+        "pokemon": "Giratina",
+        "habilidades": "Levitate; Pressure; Telepathy"
+    },
+    {
+        "pokemon": "Cresselia",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Phione",
+        "habilidades": "Hydration"
+    },
+    {
+        "pokemon": "Venomoth",
+        "habilidades": "Shield_dust; Tinted_lens; Wonder_skin"
+    },
+    {
+        "pokemon": "Manaphy",
+        "habilidades": "Hydration"
+    },
+    {
+        "pokemon": "Darkrai",
+        "habilidades": "Bad_dreams"
+    },
+    {
+        "pokemon": "Shaymin",
+        "habilidades": "Natural_cure; Serene_grace"
+    },
+    {
+        "pokemon": "Arceus",
+        "habilidades": "Multitype"
+    },
+    {
+        "pokemon": "Victini",
+        "habilidades": "Victory_star"
+    },
+    {
+        "pokemon": "Snivy",
+        "habilidades": "Contrary; Overgrow"
+    },
+    {
+        "pokemon": "Servine",
+        "habilidades": "Contrary; Overgrow"
+    },
+    {
+        "pokemon": "Serperior",
+        "habilidades": "Contrary; Overgrow"
+    },
+    {
+        "pokemon": "Tepig",
+        "habilidades": "Blaze; Thick_fat"
+    },
+    {
+        "pokemon": "Pignite",
+        "habilidades": "Blaze; Thick_fat"
+    },
+    {
+        "pokemon": "Charmeleon",
+        "habilidades": "Blaze; Solar_power"
+    },
+    {
+        "pokemon": "Diglett",
+        "habilidades": "Arena_trap; Sand_force; Sand_veil; Tangling_hair"
+    },
+    {
+        "pokemon": "Emboar",
+        "habilidades": "Blaze; Reckless"
+    },
+    {
+        "pokemon": "Oshawott",
+        "habilidades": "Shell_armor; Torrent"
+    },
+    {
+        "pokemon": "Dewott",
+        "habilidades": "Shell_armor; Torrent"
+    },
+    {
+        "pokemon": "Samurott",
+        "habilidades": "Shell_armor; Torrent"
+    },
+    {
+        "pokemon": "Patrat",
+        "habilidades": "Analytic; Keen_eye; Run_away"
+    },
+    {
+        "pokemon": "Watchog",
+        "habilidades": "Analytic; Illuminate; Keen_eye"
+    },
+    {
+        "pokemon": "Lillipup",
+        "habilidades": "Pickup; Run_away; Vital_spirit"
+    },
+    {
+        "pokemon": "Herdier",
+        "habilidades": "Intimidate; Sand_rush; Scrappy"
+    },
+    {
+        "pokemon": "Stoutland",
+        "habilidades": "Intimidate; Sand_rush; Scrappy"
+    },
+    {
+        "pokemon": "Purrloin",
+        "habilidades": "Limber; Prankster; Unburden"
+    },
+    {
+        "pokemon": "Dugtrio",
+        "habilidades": "Arena_trap; Sand_force; Sand_veil; Tangling_hair"
+    },
+    {
+        "pokemon": "Liepard",
+        "habilidades": "Limber; Prankster; Unburden"
+    },
+    {
+        "pokemon": "Pansage",
+        "habilidades": "Gluttony; Overgrow"
+    },
+    {
+        "pokemon": "Simisage",
+        "habilidades": "Gluttony; Overgrow"
+    },
+    {
+        "pokemon": "Pansear",
+        "habilidades": "Blaze; Gluttony"
+    },
+    {
+        "pokemon": "Simisear",
+        "habilidades": "Blaze; Gluttony"
+    },
+    {
+        "pokemon": "Panpour",
+        "habilidades": "Gluttony; Torrent"
+    },
+    {
+        "pokemon": "Simipour",
+        "habilidades": "Gluttony; Torrent"
+    },
+    {
+        "pokemon": "Munna",
+        "habilidades": "Forewarn; Synchronize; Telepathy"
+    },
+    {
+        "pokemon": "Musharna",
+        "habilidades": "Forewarn; Synchronize; Telepathy"
+    },
+    {
+        "pokemon": "Pidove",
+        "habilidades": "Big_pecks; Rivalry; Super_luck"
+    },
+    {
+        "pokemon": "Meowth",
+        "habilidades": "Pickup; Rattled; Technician; Unnerve"
+    },
+    {
+        "pokemon": "Tranquill",
+        "habilidades": "Big_pecks; Rivalry; Super_luck"
+    },
+    {
+        "pokemon": "Unfezant",
+        "habilidades": "Big_pecks; Rivalry; Super_luck"
+    },
+    {
+        "pokemon": "Blitzle",
+        "habilidades": "Lightningrod; Motor_drive; Sap_sipper"
+    },
+    {
+        "pokemon": "Zebstrika",
+        "habilidades": "Lightningrod; Motor_drive; Sap_sipper"
+    },
+    {
+        "pokemon": "Roggenrola",
+        "habilidades": "Sand_force; Sturdy; Weak_armor"
+    },
+    {
+        "pokemon": "Boldore",
+        "habilidades": "Sand_force; Sturdy; Weak_armor"
+    },
+    {
+        "pokemon": "Gigalith",
+        "habilidades": "Sand_force; Sand_stream; Sturdy"
+    },
+    {
+        "pokemon": "Woobat",
+        "habilidades": "Klutz; Simple; Unaware"
+    },
+    {
+        "pokemon": "Swoobat",
+        "habilidades": "Klutz; Simple; Unaware"
+    },
+    {
+        "pokemon": "Drilbur",
+        "habilidades": "Mold_breaker; Sand_force; Sand_rush"
+    },
+    {
+        "pokemon": "Persian",
+        "habilidades": "Fur_coat; Limber; Rattled; Technician; Unnerve"
+    },
+    {
+        "pokemon": "Excadrill",
+        "habilidades": "Mold_breaker; Sand_force; Sand_rush"
+    },
+    {
+        "pokemon": "Audino",
+        "habilidades": "Healer; Klutz; Regenerator"
+    },
+    {
+        "pokemon": "Timburr",
+        "habilidades": "Guts; Iron_fist; Sheer_force"
+    },
+    {
+        "pokemon": "Gurdurr",
+        "habilidades": "Guts; Iron_fist; Sheer_force"
+    },
+    {
+        "pokemon": "Conkeldurr",
+        "habilidades": "Guts; Iron_fist; Sheer_force"
+    },
+    {
+        "pokemon": "Tympole",
+        "habilidades": "Hydration; Swift_swim; Water_absorb"
+    },
+    {
+        "pokemon": "Palpitoad",
+        "habilidades": "Hydration; Swift_swim; Water_absorb"
+    },
+    {
+        "pokemon": "Seismitoad",
+        "habilidades": "Poison_touch; Swift_swim; Water_absorb"
+    },
+    {
+        "pokemon": "Throh",
+        "habilidades": "Guts; Inner_focus; Mold_breaker"
+    },
+    {
+        "pokemon": "Sawk",
+        "habilidades": "Inner_focus; Mold_breaker; Sturdy"
+    },
+    {
+        "pokemon": "Psyduck",
+        "habilidades": "Cloud_nine; Damp; Swift_swim"
+    },
+    {
+        "pokemon": "Sewaddle",
+        "habilidades": "Chlorophyll; Overcoat; Swarm"
+    },
+    {
+        "pokemon": "Swadloon",
+        "habilidades": "Chlorophyll; Leaf_guard; Overcoat"
+    },
+    {
+        "pokemon": "Leavanny",
+        "habilidades": "Chlorophyll; Overcoat; Swarm"
+    },
+    {
+        "pokemon": "Venipede",
+        "habilidades": "Poison_point; Speed_boost; Swarm"
+    },
+    {
+        "pokemon": "Whirlipede",
+        "habilidades": "Poison_point; Speed_boost; Swarm"
+    },
+    {
+        "pokemon": "Scolipede",
+        "habilidades": "Poison_point; Speed_boost; Swarm"
+    },
+    {
+        "pokemon": "Cottonee",
+        "habilidades": "Chlorophyll; Infiltrator; Prankster"
+    },
+    {
+        "pokemon": "Whimsicott",
+        "habilidades": "Chlorophyll; Infiltrator; Prankster"
+    },
+    {
+        "pokemon": "Petilil",
+        "habilidades": "Chlorophyll; Leaf_guard; Own_tempo"
+    },
+    {
+        "pokemon": "Lilligant",
+        "habilidades": "Chlorophyll; Leaf_guard; Own_tempo"
+    },
+    {
+        "pokemon": "Golduck",
+        "habilidades": "Cloud_nine; Damp; Swift_swim"
+    },
+    {
+        "pokemon": "Basculin",
+        "habilidades": "Adaptability; Mold_breaker; Reckless; Rock_head"
+    },
+    {
+        "pokemon": "Sandile",
+        "habilidades": "Anger_point; Intimidate; Moxie"
+    },
+    {
+        "pokemon": "Krokorok",
+        "habilidades": "Anger_point; Intimidate; Moxie"
+    },
+    {
+        "pokemon": "Krookodile",
+        "habilidades": "Anger_point; Intimidate; Moxie"
+    },
+    {
+        "pokemon": "Darumaka",
+        "habilidades": "Hustle; Inner_focus"
+    },
+    {
+        "pokemon": "Darmanitan",
+        "habilidades": "Sheer_force; Zen_mode"
+    },
+    {
+        "pokemon": "Maractus",
+        "habilidades": "Chlorophyll; Storm_drain; Water_absorb"
+    },
+    {
+        "pokemon": "Dwebble",
+        "habilidades": "Shell_armor; Sturdy; Weak_armor"
+    },
+    {
+        "pokemon": "Crustle",
+        "habilidades": "Shell_armor; Sturdy; Weak_armor"
+    },
+    {
+        "pokemon": "Scraggy",
+        "habilidades": "Intimidate; Moxie; Shed_skin"
+    },
+    {
+        "pokemon": "Mankey",
+        "habilidades": "Anger_point; Defiant; Vital_spirit"
+    },
+    {
+        "pokemon": "Scrafty",
+        "habilidades": "Intimidate; Moxie; Shed_skin"
+    },
+    {
+        "pokemon": "Sigilyph",
+        "habilidades": "Magic_guard; Tinted_lens; Wonder_skin"
+    },
+    {
+        "pokemon": "Yamask",
+        "habilidades": "Mummy"
+    },
+    {
+        "pokemon": "Cofagrigus",
+        "habilidades": "Mummy"
+    },
+    {
+        "pokemon": "Tirtouga",
+        "habilidades": "Solid_rock; Sturdy; Swift_swim"
+    },
+    {
+        "pokemon": "Carracosta",
+        "habilidades": "Solid_rock; Sturdy; Swift_swim"
+    },
+    {
+        "pokemon": "Archen",
+        "habilidades": "Defeatist"
+    },
+    {
+        "pokemon": "Archeops",
+        "habilidades": "Defeatist"
+    },
+    {
+        "pokemon": "Trubbish",
+        "habilidades": "Aftermath; Stench; Sticky_hold"
+    },
+    {
+        "pokemon": "Garbodor",
+        "habilidades": "Aftermath; Stench; Weak_armor"
+    },
+    {
+        "pokemon": "Primeape",
+        "habilidades": "Anger_point; Defiant; Vital_spirit"
+    },
+    {
+        "pokemon": "Zorua",
+        "habilidades": "Illusion"
+    },
+    {
+        "pokemon": "Zoroark",
+        "habilidades": "Illusion"
+    },
+    {
+        "pokemon": "Minccino",
+        "habilidades": "Cute_charm; Skill_link; Technician"
+    },
+    {
+        "pokemon": "Cinccino",
+        "habilidades": "Cute_charm; Skill_link; Technician"
+    },
+    {
+        "pokemon": "Gothita",
+        "habilidades": "Competitive; Frisk; Shadow_tag"
+    },
+    {
+        "pokemon": "Gothorita",
+        "habilidades": "Competitive; Frisk; Shadow_tag"
+    },
+    {
+        "pokemon": "Gothitelle",
+        "habilidades": "Competitive; Frisk; Shadow_tag"
+    },
+    {
+        "pokemon": "Solosis",
+        "habilidades": "Magic_guard; Overcoat; Regenerator"
+    },
+    {
+        "pokemon": "Duosion",
+        "habilidades": "Magic_guard; Overcoat; Regenerator"
+    },
+    {
+        "pokemon": "Reuniclus",
+        "habilidades": "Magic_guard; Overcoat; Regenerator"
+    },
+    {
+        "pokemon": "Growlithe",
+        "habilidades": "Flash_fire; Intimidate; Justified"
+    },
+    {
+        "pokemon": "Ducklett",
+        "habilidades": "Big_pecks; Hydration; Keen_eye"
+    },
+    {
+        "pokemon": "Swanna",
+        "habilidades": "Big_pecks; Hydration; Keen_eye"
+    },
+    {
+        "pokemon": "Vanillite",
+        "habilidades": "Ice_body; Snow_cloak; Weak_armor"
+    },
+    {
+        "pokemon": "Vanillish",
+        "habilidades": "Ice_body; Snow_cloak; Weak_armor"
+    },
+    {
+        "pokemon": "Vanilluxe",
+        "habilidades": "Ice_body; Snow_warning; Weak_armor"
+    },
+    {
+        "pokemon": "Deerling",
+        "habilidades": "Chlorophyll; Sap_sipper; Serene_grace"
+    },
+    {
+        "pokemon": "Sawsbuck",
+        "habilidades": "Chlorophyll; Sap_sipper; Serene_grace"
+    },
+    {
+        "pokemon": "Emolga",
+        "habilidades": "Motor_drive; Static"
+    },
+    {
+        "pokemon": "Karrablast",
+        "habilidades": "No_guard; Shed_skin; Swarm"
+    },
+    {
+        "pokemon": "Escavalier",
+        "habilidades": "Overcoat; Shell_armor; Swarm"
+    },
+    {
+        "pokemon": "Arcanine",
+        "habilidades": "Flash_fire; Intimidate; Justified"
+    },
+    {
+        "pokemon": "Foongus",
+        "habilidades": "Effect_spore; Regenerator"
+    },
+    {
+        "pokemon": "Amoonguss",
+        "habilidades": "Effect_spore; Regenerator"
+    },
+    {
+        "pokemon": "Frillish",
+        "habilidades": "Cursed_body; Damp; Water_absorb"
+    },
+    {
+        "pokemon": "Jellicent",
+        "habilidades": "Cursed_body; Damp; Water_absorb"
+    },
+    {
+        "pokemon": "Alomomola",
+        "habilidades": "Healer; Hydration; Regenerator"
+    },
+    {
+        "pokemon": "Joltik",
+        "habilidades": "Compoundeyes; Swarm; Unnerve"
+    },
+    {
+        "pokemon": "Galvantula",
+        "habilidades": "Compoundeyes; Swarm; Unnerve"
+    },
+    {
+        "pokemon": "Ferroseed",
+        "habilidades": "Iron_barbs"
+    },
+    {
+        "pokemon": "Ferrothorn",
+        "habilidades": "Anticipation; Iron_barbs"
+    },
+    {
+        "pokemon": "Klink",
+        "habilidades": "Clear_body; Minus; Plus"
+    },
+    {
+        "pokemon": "Charizard",
+        "habilidades": "Blaze; Solar_power"
+    },
+    {
+        "pokemon": "Poliwag",
+        "habilidades": "Damp; Swift_swim; Water_absorb"
+    },
+    {
+        "pokemon": "Klang",
+        "habilidades": "Clear_body; Minus; Plus"
+    },
+    {
+        "pokemon": "Klinklang",
+        "habilidades": "Clear_body; Minus; Plus"
+    },
+    {
+        "pokemon": "Tynamo",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Eelektrik",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Eelektross",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Elgyem",
+        "habilidades": "Analytic; Synchronize; Telepathy"
+    },
+    {
+        "pokemon": "Beheeyem",
+        "habilidades": "Analytic; Synchronize; Telepathy"
+    },
+    {
+        "pokemon": "Litwick",
+        "habilidades": "Flame_body; Flash_fire; Infiltrator"
+    },
+    {
+        "pokemon": "Lampent",
+        "habilidades": "Flame_body; Flash_fire; Infiltrator"
+    },
+    {
+        "pokemon": "Chandelure",
+        "habilidades": "Flame_body; Flash_fire; Infiltrator"
+    },
+    {
+        "pokemon": "Poliwhirl",
+        "habilidades": "Damp; Swift_swim; Water_absorb"
+    },
+    {
+        "pokemon": "Axew",
+        "habilidades": "Mold_breaker; Rivalry; Unnerve"
+    },
+    {
+        "pokemon": "Fraxure",
+        "habilidades": "Mold_breaker; Rivalry; Unnerve"
+    },
+    {
+        "pokemon": "Haxorus",
+        "habilidades": "Mold_breaker; Rivalry; Unnerve"
+    },
+    {
+        "pokemon": "Cubchoo",
+        "habilidades": "Rattled; Slush_rush; Snow_cloak"
+    },
+    {
+        "pokemon": "Beartic",
+        "habilidades": "Slush_rush; Snow_cloak; Swift_swim"
+    },
+    {
+        "pokemon": "Cryogonal",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Shelmet",
+        "habilidades": "Hydration; Overcoat; Shell_armor"
+    },
+    {
+        "pokemon": "Accelgor",
+        "habilidades": "Hydration; Sticky_hold; Unburden"
+    },
+    {
+        "pokemon": "Stunfisk",
+        "habilidades": "Limber; Sand_veil; Static"
+    },
+    {
+        "pokemon": "Mienfoo",
+        "habilidades": "Inner_focus; Reckless; Regenerator"
+    },
+    {
+        "pokemon": "Poliwrath",
+        "habilidades": "Damp; Swift_swim; Water_absorb"
+    },
+    {
+        "pokemon": "Mienshao",
+        "habilidades": "Inner_focus; Reckless; Regenerator"
+    },
+    {
+        "pokemon": "Druddigon",
+        "habilidades": "Mold_breaker; Rough_skin; Sheer_force"
+    },
+    {
+        "pokemon": "Golett",
+        "habilidades": "Iron_fist; Klutz; No_guard"
+    },
+    {
+        "pokemon": "Golurk",
+        "habilidades": "Iron_fist; Klutz; No_guard"
+    },
+    {
+        "pokemon": "Pawniard",
+        "habilidades": "Defiant; Inner_focus; Pressure"
+    },
+    {
+        "pokemon": "Bisharp",
+        "habilidades": "Defiant; Inner_focus; Pressure"
+    },
+    {
+        "pokemon": "Bouffalant",
+        "habilidades": "Reckless; Sap_sipper; Soundproof"
+    },
+    {
+        "pokemon": "Rufflet",
+        "habilidades": "Hustle; Keen_eye; Sheer_force"
+    },
+    {
+        "pokemon": "Braviary",
+        "habilidades": "Defiant; Keen_eye; Sheer_force"
+    },
+    {
+        "pokemon": "Vullaby",
+        "habilidades": "Big_pecks; Overcoat; Weak_armor"
+    },
+    {
+        "pokemon": "Abra",
+        "habilidades": "Inner_focus; Magic_guard; Synchronize"
+    },
+    {
+        "pokemon": "Mandibuzz",
+        "habilidades": "Big_pecks; Overcoat; Weak_armor"
+    },
+    {
+        "pokemon": "Heatmor",
+        "habilidades": "Flash_fire; Gluttony; White_smoke"
+    },
+    {
+        "pokemon": "Durant",
+        "habilidades": "Hustle; Swarm; Truant"
+    },
+    {
+        "pokemon": "Deino",
+        "habilidades": "Hustle"
+    },
+    {
+        "pokemon": "Zweilous",
+        "habilidades": "Hustle"
+    },
+    {
+        "pokemon": "Hydreigon",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Larvesta",
+        "habilidades": "Flame_body; Swarm"
+    },
+    {
+        "pokemon": "Volcarona",
+        "habilidades": "Flame_body; Swarm"
+    },
+    {
+        "pokemon": "Cobalion",
+        "habilidades": "Justified"
+    },
+    {
+        "pokemon": "Terrakion",
+        "habilidades": "Justified"
+    },
+    {
+        "pokemon": "Kadabra",
+        "habilidades": "Inner_focus; Magic_guard; Synchronize"
+    },
+    {
+        "pokemon": "Virizion",
+        "habilidades": "Justified"
+    },
+    {
+        "pokemon": "Tornadus",
+        "habilidades": "Defiant; Prankster; Regenerator"
+    },
+    {
+        "pokemon": "Thundurus",
+        "habilidades": "Defiant; Prankster; Volt_absorb"
+    },
+    {
+        "pokemon": "Reshiram",
+        "habilidades": "Turboblaze"
+    },
+    {
+        "pokemon": "Zekrom",
+        "habilidades": "Teravolt"
+    },
+    {
+        "pokemon": "Landorus",
+        "habilidades": "Intimidate; Sand_force; Sheer_force"
+    },
+    {
+        "pokemon": "Kyurem",
+        "habilidades": "Pressure; Teravolt; Turboblaze"
+    },
+    {
+        "pokemon": "Keldeo",
+        "habilidades": "Justified"
+    },
+    {
+        "pokemon": "Meloetta",
+        "habilidades": "Serene_grace"
+    },
+    {
+        "pokemon": "Genesect",
+        "habilidades": "Download"
+    },
+    {
+        "pokemon": "Alakazam",
+        "habilidades": "Inner_focus; Magic_guard; Synchronize"
+    },
+    {
+        "pokemon": "Chespin",
+        "habilidades": "Bulletproof; Overgrow"
+    },
+    {
+        "pokemon": "Quilladin",
+        "habilidades": "Bulletproof; Overgrow"
+    },
+    {
+        "pokemon": "Chesnaught",
+        "habilidades": "Bulletproof; Overgrow"
+    },
+    {
+        "pokemon": "Fennekin",
+        "habilidades": "Blaze; Magician"
+    },
+    {
+        "pokemon": "Braixen",
+        "habilidades": "Blaze; Magician"
+    },
+    {
+        "pokemon": "Delphox",
+        "habilidades": "Blaze; Magician"
+    },
+    {
+        "pokemon": "Froakie",
+        "habilidades": "Protean; Torrent"
+    },
+    {
+        "pokemon": "Frogadier",
+        "habilidades": "Protean; Torrent"
+    },
+    {
+        "pokemon": "Greninja",
+        "habilidades": "Battle_bond; Protean; Torrent"
+    },
+    {
+        "pokemon": "Bunnelby",
+        "habilidades": "Cheek_pouch; Huge_power; Pickup"
+    },
+    {
+        "pokemon": "Machop",
+        "habilidades": "Guts; No_guard; Steadfast"
+    },
+    {
+        "pokemon": "Diggersby",
+        "habilidades": "Cheek_pouch; Huge_power; Pickup"
+    },
+    {
+        "pokemon": "Fletchling",
+        "habilidades": "Big_pecks; Gale_wings"
+    },
+    {
+        "pokemon": "Fletchinder",
+        "habilidades": "Flame_body; Gale_wings"
+    },
+    {
+        "pokemon": "Talonflame",
+        "habilidades": "Flame_body; Gale_wings"
+    },
+    {
+        "pokemon": "Scatterbug",
+        "habilidades": "Compoundeyes; Friend_guard; Shield_dust"
+    },
+    {
+        "pokemon": "Spewpa",
+        "habilidades": "Friend_guard; Shed_skin"
+    },
+    {
+        "pokemon": "Vivillon",
+        "habilidades": "Compoundeyes; Friend_guard; Shield_dust"
+    },
+    {
+        "pokemon": "Litleo",
+        "habilidades": "Moxie; Rivalry; Unnerve"
+    },
+    {
+        "pokemon": "Pyroar",
+        "habilidades": "Moxie; Rivalry; Unnerve"
+    },
+    {
+        "pokemon": "Flab\u00e9b\u00e9",
+        "habilidades": "Flower_veil; Symbiosis"
+    },
+    {
+        "pokemon": "Machoke",
+        "habilidades": "Guts; No_guard; Steadfast"
+    },
+    {
+        "pokemon": "Floette",
+        "habilidades": "Flower_veil; Symbiosis"
+    },
+    {
+        "pokemon": "Florges",
+        "habilidades": "Flower_veil; Symbiosis"
+    },
+    {
+        "pokemon": "Skiddo",
+        "habilidades": "Grass_pelt; Sap_sipper"
+    },
+    {
+        "pokemon": "Gogoat",
+        "habilidades": "Grass_pelt; Sap_sipper"
+    },
+    {
+        "pokemon": "Pancham",
+        "habilidades": "Iron_fist; Mold_breaker; Scrappy"
+    },
+    {
+        "pokemon": "Pangoro",
+        "habilidades": "Iron_fist; Mold_breaker; Scrappy"
+    },
+    {
+        "pokemon": "Furfrou",
+        "habilidades": "Fur_coat"
+    },
+    {
+        "pokemon": "Espurr",
+        "habilidades": "Infiltrator; Keen_eye; Own_tempo"
+    },
+    {
+        "pokemon": "Meowstic",
+        "habilidades": "Competitive; Infiltrator; Keen_eye; Prankster"
+    },
+    {
+        "pokemon": "Honedge",
+        "habilidades": "No_guard"
+    },
+    {
+        "pokemon": "Machamp",
+        "habilidades": "Guts; No_guard; Steadfast"
+    },
+    {
+        "pokemon": "Doublade",
+        "habilidades": "No_guard"
+    },
+    {
+        "pokemon": "Aegislash",
+        "habilidades": "Stance_change"
+    },
+    {
+        "pokemon": "Spritzee",
+        "habilidades": "Aroma_veil; Healer"
+    },
+    {
+        "pokemon": "Aromatisse",
+        "habilidades": "Aroma_veil; Healer"
+    },
+    {
+        "pokemon": "Swirlix",
+        "habilidades": "Sweet_veil; Unburden"
+    },
+    {
+        "pokemon": "Slurpuff",
+        "habilidades": "Sweet_veil; Unburden"
+    },
+    {
+        "pokemon": "Inkay",
+        "habilidades": "Contrary; Infiltrator; Suction_cups"
+    },
+    {
+        "pokemon": "Malamar",
+        "habilidades": "Contrary; Infiltrator; Suction_cups"
+    },
+    {
+        "pokemon": "Binacle",
+        "habilidades": "Pickpocket; Sniper; Tough_claws"
+    },
+    {
+        "pokemon": "Barbaracle",
+        "habilidades": "Pickpocket; Sniper; Tough_claws"
+    },
+    {
+        "pokemon": "Bellsprout",
+        "habilidades": "Chlorophyll; Gluttony"
+    },
+    {
+        "pokemon": "Skrelp",
+        "habilidades": "Adaptability; Poison_point; Poison_touch"
+    },
+    {
+        "pokemon": "Dragalge",
+        "habilidades": "Adaptability; Poison_point; Poison_touch"
+    },
+    {
+        "pokemon": "Clauncher",
+        "habilidades": "Mega_launcher"
+    },
+    {
+        "pokemon": "Clawitzer",
+        "habilidades": "Mega_launcher"
+    },
+    {
+        "pokemon": "Helioptile",
+        "habilidades": "Dry_skin; Sand_veil; Solar_power"
+    },
+    {
+        "pokemon": "Heliolisk",
+        "habilidades": "Dry_skin; Sand_veil; Solar_power"
+    },
+    {
+        "pokemon": "Tyrunt",
+        "habilidades": "Strong_jaw; Sturdy"
+    },
+    {
+        "pokemon": "Tyrantrum",
+        "habilidades": "Rock_head; Strong_jaw"
+    },
+    {
+        "pokemon": "Amaura",
+        "habilidades": "Refrigerate; Snow_warning"
+    },
+    {
+        "pokemon": "Aurorus",
+        "habilidades": "Refrigerate; Snow_warning"
+    },
+    {
+        "pokemon": "Squirtle",
+        "habilidades": "Rain_dish; Torrent"
+    },
+    {
+        "pokemon": "Weepinbell",
+        "habilidades": "Chlorophyll; Gluttony"
+    },
+    {
+        "pokemon": "Sylveon",
+        "habilidades": "Cute_charm; Pixilate"
+    },
+    {
+        "pokemon": "Hawlucha",
+        "habilidades": "Limber; Mold_breaker; Unburden"
+    },
+    {
+        "pokemon": "Dedenne",
+        "habilidades": "Cheek_pouch; Pickup; Plus"
+    },
+    {
+        "pokemon": "Carbink",
+        "habilidades": "Clear_body; Sturdy"
+    },
+    {
+        "pokemon": "Goomy",
+        "habilidades": "Gooey; Hydration; Sap_sipper"
+    },
+    {
+        "pokemon": "Sliggoo",
+        "habilidades": "Gooey; Hydration; Sap_sipper"
+    },
+    {
+        "pokemon": "Goodra",
+        "habilidades": "Gooey; Hydration; Sap_sipper"
+    },
+    {
+        "pokemon": "Klefki",
+        "habilidades": "Magician; Prankster"
+    },
+    {
+        "pokemon": "Phantump",
+        "habilidades": "Frisk; Harvest; Natural_cure"
+    },
+    {
+        "pokemon": "Trevenant",
+        "habilidades": "Frisk; Harvest; Natural_cure"
+    },
+    {
+        "pokemon": "Victreebel",
+        "habilidades": "Chlorophyll; Gluttony"
+    },
+    {
+        "pokemon": "Pumpkaboo",
+        "habilidades": "Frisk; Insomnia; Pickup"
+    },
+    {
+        "pokemon": "Gourgeist",
+        "habilidades": "Frisk; Insomnia; Pickup"
+    },
+    {
+        "pokemon": "Bergmite",
+        "habilidades": "Ice_body; Own_tempo; Sturdy"
+    },
+    {
+        "pokemon": "Avalugg",
+        "habilidades": "Ice_body; Own_tempo; Sturdy"
+    },
+    {
+        "pokemon": "Noibat",
+        "habilidades": "Frisk; Infiltrator; Telepathy"
+    },
+    {
+        "pokemon": "Noivern",
+        "habilidades": "Frisk; Infiltrator; Telepathy"
+    },
+    {
+        "pokemon": "Xerneas",
+        "habilidades": "Fairy_aura"
+    },
+    {
+        "pokemon": "Yveltal",
+        "habilidades": "Dark_aura"
+    },
+    {
+        "pokemon": "Zygarde",
+        "habilidades": "Aura_break; Power_construct"
+    },
+    {
+        "pokemon": "Diancie",
+        "habilidades": "Clear_body"
+    },
+    {
+        "pokemon": "Tentacool",
+        "habilidades": "Clear_body; Liquid_ooze; Rain_dish"
+    },
+    {
+        "pokemon": "Hoopa",
+        "habilidades": "Magician"
+    },
+    {
+        "pokemon": "Volcanion",
+        "habilidades": "Water_absorb"
+    },
+    {
+        "pokemon": "Rowlet",
+        "habilidades": "Long_reach; Overgrow"
+    },
+    {
+        "pokemon": "Dartrix",
+        "habilidades": "Long_reach; Overgrow"
+    },
+    {
+        "pokemon": "Decidueye",
+        "habilidades": "Long_reach; Overgrow"
+    },
+    {
+        "pokemon": "Litten",
+        "habilidades": "Blaze; Intimidate"
+    },
+    {
+        "pokemon": "Torracat",
+        "habilidades": "Blaze; Intimidate"
+    },
+    {
+        "pokemon": "Incineroar",
+        "habilidades": "Blaze; Intimidate"
+    },
+    {
+        "pokemon": "Popplio",
+        "habilidades": "Liquid_voice; Torrent"
+    },
+    {
+        "pokemon": "Brionne",
+        "habilidades": "Liquid_voice; Torrent"
+    },
+    {
+        "pokemon": "Tentacruel",
+        "habilidades": "Clear_body; Liquid_ooze; Rain_dish"
+    },
+    {
+        "pokemon": "Primarina",
+        "habilidades": "Liquid_voice; Torrent"
+    },
+    {
+        "pokemon": "Pikipek",
+        "habilidades": "Keen_eye; Pickup; Skill_link"
+    },
+    {
+        "pokemon": "Trumbeak",
+        "habilidades": "Keen_eye; Pickup; Skill_link"
+    },
+    {
+        "pokemon": "Toucannon",
+        "habilidades": "Keen_eye; Sheer_force; Skill_link"
+    },
+    {
+        "pokemon": "Yungoos",
+        "habilidades": "Adaptability; Stakeout; Strong_jaw"
+    },
+    {
+        "pokemon": "Gumshoos",
+        "habilidades": "Adaptability; Stakeout; Strong_jaw"
+    },
+    {
+        "pokemon": "Grubbin",
+        "habilidades": "Swarm"
+    },
+    {
+        "pokemon": "Charjabug",
+        "habilidades": "Battery"
+    },
+    {
+        "pokemon": "Vikavolt",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Crabrawler",
+        "habilidades": "Anger_point; Hyper_cutter; Iron_fist"
+    },
+    {
+        "pokemon": "Geodude",
+        "habilidades": "Galvanize; Magnet_pull; Rock_head; Sand_veil; Sturdy"
+    },
+    {
+        "pokemon": "Crabominable",
+        "habilidades": "Anger_point; Hyper_cutter; Iron_fist"
+    },
+    {
+        "pokemon": "Oricorio",
+        "habilidades": "Dancer"
+    },
+    {
+        "pokemon": "Cutiefly",
+        "habilidades": "Honey_gather; Shield_dust; Sweet_veil"
+    },
+    {
+        "pokemon": "Ribombee",
+        "habilidades": "Honey_gather; Shield_dust; Sweet_veil"
+    },
+    {
+        "pokemon": "Rockruff",
+        "habilidades": "Keen_eye; Steadfast; Vital_spirit"
+    },
+    {
+        "pokemon": "Lycanroc",
+        "habilidades": "Keen_eye; No_guard; Sand_rush; Steadfast; Vital_spirit"
+    },
+    {
+        "pokemon": "Wishiwashi",
+        "habilidades": "Schooling"
+    },
+    {
+        "pokemon": "Mareanie",
+        "habilidades": "Limber; Merciless; Regenerator"
+    },
+    {
+        "pokemon": "Toxapex",
+        "habilidades": "Limber; Merciless; Regenerator"
+    },
+    {
+        "pokemon": "Mudbray",
+        "habilidades": "Inner_focus; Own_tempo; Stamina"
+    },
+    {
+        "pokemon": "Graveler",
+        "habilidades": "Galvanize; Magnet_pull; Rock_head; Sand_veil; Sturdy"
+    },
+    {
+        "pokemon": "Mudsdale",
+        "habilidades": "Inner_focus; Own_tempo; Stamina"
+    },
+    {
+        "pokemon": "Dewpider",
+        "habilidades": "Water_absorb; Water_bubble"
+    },
+    {
+        "pokemon": "Araquanid",
+        "habilidades": "Water_absorb; Water_bubble"
+    },
+    {
+        "pokemon": "Fomantis",
+        "habilidades": "Contrary; Leaf_guard"
+    },
+    {
+        "pokemon": "Lurantis",
+        "habilidades": "Contrary; Leaf_guard"
+    },
+    {
+        "pokemon": "Morelull",
+        "habilidades": "Effect_spore; Illuminate; Rain_dish"
+    },
+    {
+        "pokemon": "Shiinotic",
+        "habilidades": "Effect_spore; Illuminate; Rain_dish"
+    },
+    {
+        "pokemon": "Salandit",
+        "habilidades": "Corrosion; Oblivious"
+    },
+    {
+        "pokemon": "Salazzle",
+        "habilidades": "Corrosion; Oblivious"
+    },
+    {
+        "pokemon": "Stufful",
+        "habilidades": "Cute_charm; Fluffy; Klutz"
+    },
+    {
+        "pokemon": "Golem",
+        "habilidades": "Galvanize; Magnet_pull; Rock_head; Sand_veil; Sturdy"
+    },
+    {
+        "pokemon": "Bewear",
+        "habilidades": "Fluffy; Klutz; Unnerve"
+    },
+    {
+        "pokemon": "Bounsweet",
+        "habilidades": "Leaf_guard; Oblivious; Sweet_veil"
+    },
+    {
+        "pokemon": "Steenee",
+        "habilidades": "Leaf_guard; Oblivious; Sweet_veil"
+    },
+    {
+        "pokemon": "Tsareena",
+        "habilidades": "Leaf_guard; Queenly_majesty; Sweet_veil"
+    },
+    {
+        "pokemon": "Comfey",
+        "habilidades": "Flower_veil; Natural_cure; Triage"
+    },
+    {
+        "pokemon": "Oranguru",
+        "habilidades": "Inner_focus; Symbiosis; Telepathy"
+    },
+    {
+        "pokemon": "Passimian",
+        "habilidades": "Defiant; Receiver"
+    },
+    {
+        "pokemon": "Wimpod",
+        "habilidades": "Wimp_out"
+    },
+    {
+        "pokemon": "Golisopod",
+        "habilidades": "Emergency_exit"
+    },
+    {
+        "pokemon": "Sandygast",
+        "habilidades": "Sand_veil; Water_compaction"
+    },
+    {
+        "pokemon": "Ponyta",
+        "habilidades": "Flame_body; Flash_fire; Run_away"
+    },
+    {
+        "pokemon": "Palossand",
+        "habilidades": "Sand_veil; Water_compaction"
+    },
+    {
+        "pokemon": "Pyukumuku",
+        "habilidades": "Innards_out; Unaware"
+    },
+    {
+        "pokemon": "Type: Null",
+        "habilidades": "Battle_armor"
+    },
+    {
+        "pokemon": "Silvally",
+        "habilidades": "Rks_system"
+    },
+    {
+        "pokemon": "Minior",
+        "habilidades": "Shields_down"
+    },
+    {
+        "pokemon": "Komala",
+        "habilidades": "Comatose"
+    },
+    {
+        "pokemon": "Turtonator",
+        "habilidades": "Shell_armor"
+    },
+    {
+        "pokemon": "Togedemaru",
+        "habilidades": "Iron_barbs; Lightningrod; Sturdy"
+    },
+    {
+        "pokemon": "Mimikyu",
+        "habilidades": "Disguise"
+    },
+    {
+        "pokemon": "Bruxish",
+        "habilidades": "Dazzling; Strong_jaw; Wonder_skin"
+    },
+    {
+        "pokemon": "Rapidash",
+        "habilidades": "Flame_body; Flash_fire; Run_away"
+    },
+    {
+        "pokemon": "Drampa",
+        "habilidades": "Berserk; Cloud_nine; Sap_sipper"
+    },
+    {
+        "pokemon": "Dhelmise",
+        "habilidades": "Steelworker"
+    },
+    {
+        "pokemon": "Jangmo-o",
+        "habilidades": "Bulletproof; Overcoat; Soundproof"
+    },
+    {
+        "pokemon": "Hakamo-o",
+        "habilidades": "Bulletproof; Overcoat; Soundproof"
+    },
+    {
+        "pokemon": "Kommo-o",
+        "habilidades": "Bulletproof; Overcoat; Soundproof"
+    },
+    {
+        "pokemon": "Tapu Koko",
+        "habilidades": "Electric_surge; Telepathy"
+    },
+    {
+        "pokemon": "Tapu Lele",
+        "habilidades": "Psychic_surge; Telepathy"
+    },
+    {
+        "pokemon": "Tapu Bulu",
+        "habilidades": "Grassy_surge; Telepathy"
+    },
+    {
+        "pokemon": "Tapu Fini",
+        "habilidades": "Misty_surge; Telepathy"
+    },
+    {
+        "pokemon": "Cosmog",
+        "habilidades": "Unaware"
+    },
+    {
+        "pokemon": "Slowpoke",
+        "habilidades": "Oblivious; Own_tempo; Regenerator"
+    },
+    {
+        "pokemon": "Cosmoem",
+        "habilidades": "Sturdy"
+    },
+    {
+        "pokemon": "Solgaleo",
+        "habilidades": "Full_metal_body"
+    },
+    {
+        "pokemon": "Lunala",
+        "habilidades": "Shadow_shield"
+    },
+    {
+        "pokemon": "Nihilego",
+        "habilidades": "Beast_boost"
+    },
+    {
+        "pokemon": "Buzzwole",
+        "habilidades": "Beast_boost"
+    },
+    {
+        "pokemon": "Pheromosa",
+        "habilidades": "Beast_boost"
+    },
+    {
+        "pokemon": "Xurkitree",
+        "habilidades": "Beast_boost"
+    },
+    {
+        "pokemon": "Celesteela",
+        "habilidades": "Beast_boost"
+    },
+    {
+        "pokemon": "Kartana",
+        "habilidades": "Beast_boost"
+    },
+    {
+        "pokemon": "Guzzlord",
+        "habilidades": "Beast_boost"
+    },
+    {
+        "pokemon": "Wartortle",
+        "habilidades": "Rain_dish; Torrent"
+    },
+    {
+        "pokemon": "Slowbro",
+        "habilidades": "Oblivious; Own_tempo; Regenerator"
+    },
+    {
+        "pokemon": "Necrozma",
+        "habilidades": "Prism_armor"
+    },
+    {
+        "pokemon": "Magearna",
+        "habilidades": "Soul_heart"
+    },
+    {
+        "pokemon": "Magnemite",
+        "habilidades": "Analytic; Magnet_pull; Sturdy"
+    },
+    {
+        "pokemon": "Magneton",
+        "habilidades": "Analytic; Magnet_pull; Sturdy"
+    },
+    {
+        "pokemon": "Farfetch'd",
+        "habilidades": "Defiant; Inner_focus; Keen_eye"
+    },
+    {
+        "pokemon": "Doduo",
+        "habilidades": "Early_bird; Run_away; Tangled_feet"
+    },
+    {
+        "pokemon": "Dodrio",
+        "habilidades": "Early_bird; Run_away; Tangled_feet"
+    },
+    {
+        "pokemon": "Seel",
+        "habilidades": "Hydration; Ice_body; Thick_fat"
+    },
+    {
+        "pokemon": "Dewgong",
+        "habilidades": "Hydration; Ice_body; Thick_fat"
+    },
+    {
+        "pokemon": "Grimer",
+        "habilidades": "Gluttony; Poison_touch; Power_of_alchemy; Stench; Sticky_hold"
+    },
+    {
+        "pokemon": "Muk",
+        "habilidades": "Gluttony; Poison_touch; Power_of_alchemy; Stench; Sticky_hold"
+    },
+    {
+        "pokemon": "Blastoise",
+        "habilidades": "Rain_dish; Torrent"
+    },
+    {
+        "pokemon": "Shellder",
+        "habilidades": "Overcoat; Shell_armor; Skill_link"
+    },
+    {
+        "pokemon": "Cloyster",
+        "habilidades": "Overcoat; Shell_armor; Skill_link"
+    },
+    {
+        "pokemon": "Gastly",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Haunter",
+        "habilidades": "Levitate"
+    },
+    {
+        "pokemon": "Gengar",
+        "habilidades": "Cursed_body"
+    },
+    {
+        "pokemon": "Onix",
+        "habilidades": "Rock_head; Sturdy; Weak_armor"
+    },
+    {
+        "pokemon": "Drowzee",
+        "habilidades": "Forewarn; Inner_focus; Insomnia"
+    },
+    {
+        "pokemon": "Hypno",
+        "habilidades": "Forewarn; Inner_focus; Insomnia"
+    },
+    {
+        "pokemon": "Krabby",
+        "habilidades": "Hyper_cutter; Sheer_force; Shell_armor"
+    },
+    {
+        "pokemon": "Kingler",
+        "habilidades": "Hyper_cutter; Sheer_force; Shell_armor"
+    }
+]

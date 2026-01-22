@@ -1,0 +1,3306 @@
+[
+    {
+        "produtor": "Aniplex",
+        "num_animes": "372"
+    },
+    {
+        "produtor": "Lantis",
+        "num_animes": "360"
+    },
+    {
+        "produtor": "TV Tokyo",
+        "num_animes": "336"
+    },
+    {
+        "produtor": "Bandai Visual",
+        "num_animes": "308"
+    },
+    {
+        "produtor": "Movic",
+        "num_animes": "229"
+    },
+    {
+        "produtor": "Sotsu",
+        "num_animes": "216"
+    },
+    {
+        "produtor": "Pony Canyon",
+        "num_animes": "213"
+    },
+    {
+        "produtor": "Dentsu",
+        "num_animes": "209"
+    },
+    {
+        "produtor": "AT-X",
+        "num_animes": "199"
+    },
+    {
+        "produtor": "Fuji TV",
+        "num_animes": "195"
+    },
+    {
+        "produtor": "Kadokawa Shoten",
+        "num_animes": "178"
+    },
+    {
+        "produtor": "TBS",
+        "num_animes": "176"
+    },
+    {
+        "produtor": "KlockWorx",
+        "num_animes": "174"
+    },
+    {
+        "produtor": "DAX Production",
+        "num_animes": "165"
+    },
+    {
+        "produtor": "Shueisha",
+        "num_animes": "162"
+    },
+    {
+        "produtor": "Kodansha",
+        "num_animes": "149"
+    },
+    {
+        "produtor": "Mainichi Broadcasting System",
+        "num_animes": "145"
+    },
+    {
+        "produtor": "Starchild Records",
+        "num_animes": "143"
+    },
+    {
+        "produtor": "Media Factory",
+        "num_animes": "137"
+    },
+    {
+        "produtor": "Genco",
+        "num_animes": "129"
+    },
+    {
+        "produtor": "NHK",
+        "num_animes": "105"
+    },
+    {
+        "produtor": "Showgate",
+        "num_animes": "105"
+    },
+    {
+        "produtor": "VAP",
+        "num_animes": "104"
+    },
+    {
+        "produtor": "Geneon Universal Entertainment",
+        "num_animes": "101"
+    },
+    {
+        "produtor": "TV Asahi",
+        "num_animes": "100"
+    },
+    {
+        "produtor": "Frontier Works",
+        "num_animes": "100"
+    },
+    {
+        "produtor": "Sony Music Entertainment",
+        "num_animes": "92"
+    },
+    {
+        "produtor": "flying DOG",
+        "num_animes": "92"
+    },
+    {
+        "produtor": "Nihon Ad Systems",
+        "num_animes": "89"
+    },
+    {
+        "produtor": "Nippon Television Network",
+        "num_animes": "80"
+    },
+    {
+        "produtor": "Magic Capsule",
+        "num_animes": "80"
+    },
+    {
+        "produtor": "Shochiku",
+        "num_animes": "79"
+    },
+    {
+        "produtor": "Studio Jack",
+        "num_animes": "79"
+    },
+    {
+        "produtor": "Half H.P Studio",
+        "num_animes": "72"
+    },
+    {
+        "produtor": "Pink Pineapple",
+        "num_animes": "71"
+    },
+    {
+        "produtor": "Square Enix",
+        "num_animes": "71"
+    },
+    {
+        "produtor": "Toho",
+        "num_animes": "70"
+    },
+    {
+        "produtor": "Shogakukan Productions",
+        "num_animes": "68"
+    },
+    {
+        "produtor": "TV Tokyo Music",
+        "num_animes": "68"
+    },
+    {
+        "produtor": "Tokyo MX",
+        "num_animes": "68"
+    },
+    {
+        "produtor": "Bushiroad",
+        "num_animes": "67"
+    },
+    {
+        "produtor": "Good Smile Company",
+        "num_animes": "64"
+    },
+    {
+        "produtor": "Tohokushinsha Film Corporation",
+        "num_animes": "62"
+    },
+    {
+        "produtor": "Rakuonsha",
+        "num_animes": "60"
+    },
+    {
+        "produtor": "ASCII Media Works",
+        "num_animes": "60"
+    },
+    {
+        "produtor": "Warner Bros.",
+        "num_animes": "60"
+    },
+    {
+        "produtor": "TOHO animation",
+        "num_animes": "60"
+    },
+    {
+        "produtor": "Nippon Columbia",
+        "num_animes": "54"
+    },
+    {
+        "produtor": "Bandai",
+        "num_animes": "50"
+    },
+    {
+        "produtor": "NBCUniversal Entertainment Japan",
+        "num_animes": "49"
+    },
+    {
+        "produtor": "Victor Entertainment",
+        "num_animes": "48"
+    },
+    {
+        "produtor": "Avex Pictures",
+        "num_animes": "48"
+    },
+    {
+        "produtor": "Yomiko Advertising",
+        "num_animes": "47"
+    },
+    {
+        "produtor": "Yomiuri Telecasting",
+        "num_animes": "47"
+    },
+    {
+        "produtor": "Pioneer LDC",
+        "num_animes": "46"
+    },
+    {
+        "produtor": "Avex Entertainment",
+        "num_animes": "45"
+    },
+    {
+        "produtor": "Shogakukan",
+        "num_animes": "44"
+    },
+    {
+        "produtor": "Sony Music Communications",
+        "num_animes": "44"
+    },
+    {
+        "produtor": "Marvelous",
+        "num_animes": "43"
+    },
+    {
+        "produtor": "Happinet Pictures",
+        "num_animes": "43"
+    },
+    {
+        "produtor": "Asatsu DK",
+        "num_animes": "43"
+    },
+    {
+        "produtor": "Hakuhodo DY Music &amp; Pictures",
+        "num_animes": "42"
+    },
+    {
+        "produtor": "BS11",
+        "num_animes": "39"
+    },
+    {
+        "produtor": "Milky Animation Label",
+        "num_animes": "39"
+    },
+    {
+        "produtor": "Asmik Ace Entertainment",
+        "num_animes": "38"
+    },
+    {
+        "produtor": "Asahi Broadcasting",
+        "num_animes": "38"
+    },
+    {
+        "produtor": "King Records",
+        "num_animes": "38"
+    },
+    {
+        "produtor": "Ultra Super Pictures",
+        "num_animes": "37"
+    },
+    {
+        "produtor": "Bandai Namco Entertainment",
+        "num_animes": "36"
+    },
+    {
+        "produtor": "MAGES.",
+        "num_animes": "35"
+    },
+    {
+        "produtor": "Memory-Tech",
+        "num_animes": "34"
+    },
+    {
+        "produtor": "Atelier Musa",
+        "num_animes": "34"
+    },
+    {
+        "produtor": "Houbunsha",
+        "num_animes": "33"
+    },
+    {
+        "produtor": "Earth Star Entertainment",
+        "num_animes": "33"
+    },
+    {
+        "produtor": "WOWOW",
+        "num_animes": "32"
+    },
+    {
+        "produtor": "Fuji Pacific Music Publishing",
+        "num_animes": "32"
+    },
+    {
+        "produtor": "Studio Mausu",
+        "num_animes": "31"
+    },
+    {
+        "produtor": "Kadokawa Pictures Japan",
+        "num_animes": "31"
+    },
+    {
+        "produtor": "Nitroplus",
+        "num_animes": "30"
+    },
+    {
+        "produtor": "Sega",
+        "num_animes": "30"
+    },
+    {
+        "produtor": "Sony PCL",
+        "num_animes": "29"
+    },
+    {
+        "produtor": "Production I.G",
+        "num_animes": "29"
+    },
+    {
+        "produtor": "Tencent Animation",
+        "num_animes": "29"
+    },
+    {
+        "produtor": "RAY",
+        "num_animes": "28"
+    },
+    {
+        "produtor": "Hakuhodo DY Media Partners",
+        "num_animes": "28"
+    },
+    {
+        "produtor": "Tokuma Shoten",
+        "num_animes": "27"
+    },
+    {
+        "produtor": "Toshiba Entertainment",
+        "num_animes": "27"
+    },
+    {
+        "produtor": "Nagoya TV Housou",
+        "num_animes": "27"
+    },
+    {
+        "produtor": "Dream Creation",
+        "num_animes": "27"
+    },
+    {
+        "produtor": "DIVE II Entertainment",
+        "num_animes": "27"
+    },
+    {
+        "produtor": "AIC",
+        "num_animes": "26"
+    },
+    {
+        "produtor": "Delfi Sound",
+        "num_animes": "26"
+    },
+    {
+        "produtor": "Kadokawa",
+        "num_animes": "26"
+    },
+    {
+        "produtor": "Sanrio",
+        "num_animes": "25"
+    },
+    {
+        "produtor": "Dynamic Planning",
+        "num_animes": "25"
+    },
+    {
+        "produtor": "Hakusensha",
+        "num_animes": "25"
+    },
+    {
+        "produtor": "GANSIS",
+        "num_animes": "25"
+    },
+    {
+        "produtor": "Toei Video",
+        "num_animes": "24"
+    },
+    {
+        "produtor": "Kyoraku Industrial Holdings",
+        "num_animes": "24"
+    },
+    {
+        "produtor": "Docomo Anime Store",
+        "num_animes": "24"
+    },
+    {
+        "produtor": "Notes",
+        "num_animes": "23"
+    },
+    {
+        "produtor": "Glovision",
+        "num_animes": "23"
+    },
+    {
+        "produtor": "GDH",
+        "num_animes": "23"
+    },
+    {
+        "produtor": "MediaNet",
+        "num_animes": "23"
+    },
+    {
+        "produtor": "TMS Entertainment",
+        "num_animes": "23"
+    },
+    {
+        "produtor": "Sotsu Music Publishing",
+        "num_animes": "23"
+    },
+    {
+        "produtor": "Rondo Robe",
+        "num_animes": "22"
+    },
+    {
+        "produtor": "Sakura Create",
+        "num_animes": "22"
+    },
+    {
+        "produtor": "Animax",
+        "num_animes": "22"
+    },
+    {
+        "produtor": "Yomiuri Advertising",
+        "num_animes": "22"
+    },
+    {
+        "produtor": "Kadokawa Media House",
+        "num_animes": "22"
+    },
+    {
+        "produtor": "Lawson",
+        "num_animes": "22"
+    },
+    {
+        "produtor": "Animation Do",
+        "num_animes": "21"
+    },
+    {
+        "produtor": "Imagica",
+        "num_animes": "21"
+    },
+    {
+        "produtor": "Dwango",
+        "num_animes": "21"
+    },
+    {
+        "produtor": "Kids Station",
+        "num_animes": "21"
+    },
+    {
+        "produtor": "d-rights",
+        "num_animes": "21"
+    },
+    {
+        "produtor": "Kansai Telecasting",
+        "num_animes": "21"
+    },
+    {
+        "produtor": "Enterbrain",
+        "num_animes": "20"
+    },
+    {
+        "produtor": "Akita Shoten",
+        "num_animes": "20"
+    },
+    {
+        "produtor": "KSS",
+        "num_animes": "20"
+    },
+    {
+        "produtor": "BS Fuji",
+        "num_animes": "20"
+    },
+    {
+        "produtor": "Broccoli",
+        "num_animes": "19"
+    },
+    {
+        "produtor": "Hobby Japan",
+        "num_animes": "19"
+    },
+    {
+        "produtor": "Bandai Namco Games",
+        "num_animes": "19"
+    },
+    {
+        "produtor": "Youmex",
+        "num_animes": "19"
+    },
+    {
+        "produtor": "Tokyo Movie Shinsha",
+        "num_animes": "19"
+    },
+    {
+        "produtor": "Crunchyroll SC Anime Fund",
+        "num_animes": "19"
+    },
+    {
+        "produtor": "Tencent Penguin Pictures",
+        "num_animes": "19"
+    },
+    {
+        "produtor": "Kitty Films",
+        "num_animes": "18"
+    },
+    {
+        "produtor": "Digital Works",
+        "num_animes": "17"
+    },
+    {
+        "produtor": "Ichijinsha",
+        "num_animes": "17"
+    },
+    {
+        "produtor": "ABC Animation",
+        "num_animes": "17"
+    },
+    {
+        "produtor": "Studio Nue",
+        "num_animes": "16"
+    },
+    {
+        "produtor": "NTT Docomo",
+        "num_animes": "16"
+    },
+    {
+        "produtor": "Grooove",
+        "num_animes": "16"
+    },
+    {
+        "produtor": "Gakken",
+        "num_animes": "16"
+    },
+    {
+        "produtor": "Nichion",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "Marvelous AQL",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "Audio Tanaka",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "YTV",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "Sammy",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "Infinite",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "Discovery",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "Lawson HMV Entertainment",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "Sony Pictures Entertainment",
+        "num_animes": "15"
+    },
+    {
+        "produtor": "Animate Film",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "Group TAC",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "Fujimi Shobo",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "Q-Tec",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "NichiNare",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "Kinoshita Group Holdings",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "Animatic",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "bilibili",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "comico",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "Medicos Entertainment",
+        "num_animes": "14"
+    },
+    {
+        "produtor": "Banpresto",
+        "num_animes": "13"
+    },
+    {
+        "produtor": "Studio Tulip",
+        "num_animes": "13"
+    },
+    {
+        "produtor": "OB Planning",
+        "num_animes": "13"
+    },
+    {
+        "produtor": "Toranoana",
+        "num_animes": "13"
+    },
+    {
+        "produtor": "Cygames",
+        "num_animes": "13"
+    },
+    {
+        "produtor": "East Japan Marketing &amp; Communications",
+        "num_animes": "12"
+    },
+    {
+        "produtor": "SKY Perfect Well Think",
+        "num_animes": "12"
+    },
+    {
+        "produtor": "Furyu",
+        "num_animes": "12"
+    },
+    {
+        "produtor": "Mag Garden",
+        "num_animes": "12"
+    },
+    {
+        "produtor": "Pony Canyon Enterprise",
+        "num_animes": "12"
+    },
+    {
+        "produtor": "Hal Film Maker",
+        "num_animes": "12"
+    },
+    {
+        "produtor": "China Literature Limited",
+        "num_animes": "12"
+    },
+    {
+        "produtor": "Yahoo! Japan",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "Beyond C.",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "Takeshobo",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "Big West",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "Cospa",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "Green Bunny",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "Tezuka Productions",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "i0+",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "Anime Consortium Japan",
+        "num_animes": "11"
+    },
+    {
+        "produtor": "Visual Art's",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "chara-ani.com",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "MS Pictures",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "m.o.e.",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "BeSTACK",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "Trinity Sound",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "Trans Arts",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "GYAO!",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "81 Produce",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "On-Lead",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "Amuse",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "Contents Seed",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "iQIYI",
+        "num_animes": "10"
+    },
+    {
+        "produtor": "PRA",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "SME Visual Works",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "HoriPro",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "SoftX",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "SoftBank Creative Corp.",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "Bandai Channel",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "Sogo Vision",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "Toshiba EMI",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "Toy's Factory",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "Smiral Animation",
+        "num_animes": "9"
+    },
+    {
+        "produtor": "Futabasha",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Magic Bus",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "BIGLOBE",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Capcom",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "CBC",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Cyclone Graphics inc",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Bandai Namco Live Creative",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Marubeni",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Dream Force",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Koei",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Cosmic Ray",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Mellow Head",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "T.O Entertainment",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "A-Sketch",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Fields",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "LTD.",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Yomiuri TV Enterprise",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "DMM.com",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Kadokawa Contents Gate",
+        "num_animes": "8"
+    },
+    {
+        "produtor": "Index",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Chrono Gear Creative",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Kinyosha",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Barnum Studio",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Hiroshima Television",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Konami",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Ashi Production",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Nintendo",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Graphinica",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "DeNA",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Ai Addiction",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "gimik",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Daiichikosho",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Yaoqi",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Emon",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Kanetsu Co.",
+        "num_animes": "7"
+    },
+    {
+        "produtor": "Jumondo",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Overlap",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Toshiba Digital Frontiers",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "AMG MUSIC",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "TV Osaka",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Jinnan Studio",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Japan Home Video",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Toei Animation",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Directions",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "TYO",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Artmic",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "D3",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Studio Fantasia",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Atlus",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Fuji Creative",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "LTD",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "5pb.",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Orange",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Just Pro",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "CBS",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "I Will",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Mobcast",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Kanon Sound",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "Haoliners Animation League",
+        "num_animes": "6"
+    },
+    {
+        "produtor": "OLM",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "GAGA",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "BS-TBS",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Mary Jane",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Active",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Bee Train",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Viz Media",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Exit Tunes",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Bouncy",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Flex Comix",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "A-Line",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Daiichi Shokai CO.",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Bushiroad Music",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Lucent Pictures Entertainment",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Shounen Gahousha",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Tatsunoko Production",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "White Bear",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Age Global Networks",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Omnibus Japan",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Tokuma Japan",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Techno Sound",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "CyberConnect2",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Tokuma Japan Communications",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "My Theater D.D.",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "KBS",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "BOOTLEG",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "DMM pictures",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Warner Music Japan",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Tate Anime",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "Virgin Babylon Records",
+        "num_animes": "5"
+    },
+    {
+        "produtor": "feng",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "WAO World",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Sunny Side Up",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Marine Entertainment",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "CoMix Wave Films",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Tokyu Recreation",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "G&amp;G Entertainment",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Studio Pastoral",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Shelty",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Slowcurve",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Studio Moriken",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Soft Garage",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Dentsu Tec",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Nelvana",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Three Fat Samurai",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Madoka Partners",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Music Ray'n",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Madhouse",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "ZERO-A",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "LandQ studios",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "BMG Japan",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Asahi Shimbun",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Tokyo Theatres",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Romantica club !!",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Silky\u2019s",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Front Line",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Ryukyu Asahi Broadcasting",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Gigno Systems",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Miracle Bus",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Amber Film Works",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "TAP",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Idea Factory",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Hoods Entertainment",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Tokai Television",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "DLE",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "ZIZ Entertainment (ZIZ)",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Studio CHANT",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Robot Communications",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Studio Pierrot",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "TC Entertainment",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Twin Engine",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "501st JOINT FIGHTER WING",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Nikkatsu",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Sound Team Don Juan",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Pazzy Entertainment",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "EXA International",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "BS Japan",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Shizuoka Broadcasting System",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Being",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "AQUAPLUS",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Nippon Television Music",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Radio Osaka",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Ltd.",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "F.M.F",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Code",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Sun TV",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "EDGE",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "LIDENFILMS",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Children's Playground Entertainment",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Sumitomo",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Pierrot Plus",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Egg Firm",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Kokusai Eigasha",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "Studio Take Off",
+        "num_animes": "4"
+    },
+    {
+        "produtor": "The Answer Studio",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Mainichi Shimbun",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "RCC Chugoku Broadcasting",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "NEC Avenue",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Bulls Eye",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Studio Kelmadick",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Bee Media",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Project IS",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Aoni Entertainment",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "T-Rex",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Trinet Entertainment",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Sol Blade",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Teichiku Entertainment",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Four Some",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Project Eureka AO",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Network",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Bungeishunjuu",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Toppan Printing",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Kinoshita Koumuten",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "SOEISHINSHA",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Himajin Planning",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Age",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Studio Kyuuma",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Trilogy Future Studio",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "KENMedia",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Natural High",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "BEAM Entertainment",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Shingeki no Kyojin Team",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Heewon Entertainment",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Vega Entertainment",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Tsuburaya Productions",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Studio Izena",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Universal Pictures Japan",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Gree",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Brave Hearts",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Agent 21",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "JP Room",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Tablier Communication",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Nippon Ichi Software",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Imagin",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Walt Disney Studios",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Asahi Production",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "C2C",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "famima.com",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Evil Line Records",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Craftar",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Gainax",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Nintendo of America",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Studio LAN",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Miracle Robo",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "JapanAnime",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Assez Finaud Fabric",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Fujiko F. Fujio Pro",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Chugai Mining Co.",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Cromea",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Enoki Films",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "EMI",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "NHK-BS2",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Koei Tecmo Games",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Level-5",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Zack Promotion",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Dai Nippon Printing",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Hulu",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Sapporo Television Broadcasting",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Miyagi Television Broadcasting",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Shizuoka Daiichi Television",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Chukyo TV Broadcasting",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Fukuoka Broadcasting System",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Production Ace",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "XFLAG Pictures",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "NTT Plala",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "KLab",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Shogakukan Music &amp; Digital Entertainment",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "TV Aichi",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Marui Group",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "TYO Animations",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Media Rings",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Studio Core",
+        "num_animes": "3"
+    },
+    {
+        "produtor": "Seikaisha",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Enlight Pictures",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Nihon Falcom",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Daiei",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Studio Comet",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Kimi To Boku Production Partners",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Opera House",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Daume",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Studio Gram",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Konami Digital Entertainment",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Anime Antenna Iinkai",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Valkyria",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Cammot",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Studio Tron",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Synergy Japan",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "CherryLips",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Public &amp; Basic",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "E&amp;G Films",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Hakoniwa Academy Student Council",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Darts",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Media Bank",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Voyager Entertainment",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Oh! Production",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "StudioRF Inc.",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Apollon",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Hero Communication",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Kitty Media",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "DiC Entertainment",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "BS NTV",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Sanctuary",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "AnimEigo",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Polygram Japan",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Yamamura Animation",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Inc.",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Ginga Ya",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Nelke Planning",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Tokyo Kids",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "K-Factory",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "I was a Ballerina",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Nihon Eizo",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "NuTech Digital",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "G-mode",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "AC Create",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "NOTTV",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Mad Box",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "JM Animation",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Alchemist",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Milky Cartoon",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Marza Animation Planet",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Dentsu Razorfish",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "SUBARU",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Iwatobi High School Swimming Club",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "TMS-Kyokuchi",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Pashmina",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "SEDIC International",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Mushi Production",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Datam Polystar",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Tsukuru no Mori",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Studio Kikan",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Nihikime no Dozeu",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Big Bang",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Forecast Communications",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "HeART-BIT",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "NAZ",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Plum",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "USEN",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Sunrise",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Eye Move",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Sankyo Planning",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Studio GOONEYS",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "TV Setouchi",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "BIGFACE",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Hiroshi Planning",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Fujishouji",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Audio Highs",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Shirogumi",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Knack Productions",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "On The Run",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Bandai Namco Pictures",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Colored-Pencil Animation Design",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Milestone Music Publishing",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Duckbill Entertainment",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Shanghai Tiantan Culture &amp; Media",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "NADA Holdings",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Hobi Animation",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Epicross",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Telecom Animation Film",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "U-NEXT",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "TV Saitama",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Kadokawa Media (Taiwan)",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Tose",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Yuhodo",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "ANIK",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "JTB Entertainment",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Greenwood",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Takara Tomy A.R.T.S",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Shinchosha",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Nishinippon Broadcasting",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Lastrum Music",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "MMDGP",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Bandai Namco Rights Marketing",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Dear Stage inc.",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Studio NOIX",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "CREi",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "XFLAG",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Hakuhodo",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Kakao Japan",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "OLE-M",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "AZ Creative",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "LINE Corporation",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Top Marshal",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Khara",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Drecom",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "JY Animation",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Studio Hibari",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Liverpool",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Radix",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "INCS toenter",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "4Kids Entertainment",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Medicrie",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Hipland Music Corporation",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Picante Circus",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Suiseisha",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Soyuzmultfilm",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Blue Eyes",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Animac",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Yoon's Color",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Jam",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Kyoto Animation",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Picture Magic",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "J.C.Staff",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Raku High Student Council",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Project Railgun",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Nozomi Entertainment",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Primastea",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Innocent Grey",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Cotton Doll",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Xebec",
+        "num_animes": "2"
+    },
+    {
+        "produtor": "Studio Mir",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Indeprox",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "ING",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio Ghibli",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "The Berich",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Pixy",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "12 Diary Holders",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "indigo line",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Inu x Boku SS Production Partners",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Nippon Cultural Broadcasting",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "PPP",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio Saki Makura",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Oz",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Gakken Eigakyoku",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Hot Bear",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Shuuhei Morita",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "M\u00f6bius Tone",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Ai ga areba Daijobu",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Natsuiro Kiseki Production Partners",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Sav! The World Productions",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Right Gauge",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Dwango Music Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Saban Brands",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Volks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Jormungand Production Partners",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Actas",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Tasogare Otome\u00d7Amnesia Production Partners",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Dongyang Animation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Planet",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Viki",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "tsuritama partners",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "MK Pictures",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Myung Films",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Queen Bee",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Fanworks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Peter Pan Creation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Aniplex of America",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Po10tial",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Visual Vision",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Rironsha",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Media Do",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio elle",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Keisei Electric Railway",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Advance Syakujii",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Remic",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Image Kei",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "WField",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Senran Kagura Partners",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Animatsu Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Project No Name",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "UNLIMITED Partners",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio Blanc",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Venus Vangard",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "BS-i",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "SPO Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kenji Studio",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Solid Vox",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Academy Productions",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Nomad",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio Zealot",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Lune Pictures",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Angelfish",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Aubec",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Felix Film",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Xing",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Pencil",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "GEN Productions",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "North Stars Pictures",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Lucky Paradise",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "3xCube",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Wit Studio",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Meruhensha",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio Deen",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "I-move",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "1st PLACE",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Diomedea",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Arcturus",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Hokkaido Azmacy",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Hokkaido Cultural Broadcasting",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Telescreen BV",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "FOREST Hunting One",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "QREAZY",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "DandeLion Animation Studio LLC",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Trans Cosmos",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Production GoodBook",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Comic Umenohone",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Sentai Filmworks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "ILCA",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Top-Insight International Co.",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Palm Studio",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "White Fox",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Beat Frog",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Gentosha Comics",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Nexon",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Meiji Seika",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Yellow Film",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Ministry of the Navy",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Harappa",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Saban Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Hobibox",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Free-Will",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Quaras",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Annapuru",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "AIR AGENCY",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Diabolik Lovers MB Project",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "C &amp; I entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Yumeta Company",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Trigger",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "eBooK Initiative Japan CO.",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kino Production",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "ensky",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Fujio Production",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Adores",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Heroz",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Penta Show Studios",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "RAB Aomori Broadcasting",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "TEAM Entertainment Inc.",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Trick Block",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Plus One",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Chippai",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Chiba TV",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Fuji&amp;gumi Games",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Japan Sleeve",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Azumaker",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "CyberAgent",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "project lights",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Audio Planning U",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Shin-Ei Animation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Sanyo Bussan",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Zexcs",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "BeeWorks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Tencent Japan",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Bishop",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kobunsha",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "CIC",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Shochiku Music Publishing",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Highlights Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Links",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Digital Frontier",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "RightTracks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Amgakuin",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Steve N' Steven",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "COLOPL",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "KDDI",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Chukong Technologies",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Sunrise Music Publishing",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "NHK Enterprises",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Wargaming Japan",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Gen'ei",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Ishimori Pro",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Quick Corporation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "PrimeTime",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "World Cosplay Summit",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Orchid Seed",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Stardust Promotion",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "PansonWorks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Jidaigeki Channel",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Shufunotomo",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Coamix",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Parco",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "e-notion",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Quatre Stella",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kaeruotoko Shokai",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kadokawa Daiei Studio",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kotobukiya",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "China Animation Characters",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "NHN PlayArt",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Ima Group",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Rakuten",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Walt Disney Japan",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "KEN ON",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "D.N.dreampartners",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Yomiuri Shimbun",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Pb Animation Co. Ltd.",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Asgard",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kujou-kun no Bonnou wo Mimamoru-kai",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "DJI",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Donuts",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kyotoma",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Melonbooks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Live Viewing Japan",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Neft Film",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "W-Toon Studio",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "DMM.futureworks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Gzbrain",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Cocoro Free",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Tosho Printing",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "AKABEiSOFT2",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Abema TV",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Moonbell",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "ONEMUSIC",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "NewGin",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Aquamarine",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Universal Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Mitsubishi",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Panasonic Digital Contents",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "D-techno",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "CloverWorks",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Spacey Music Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "A-Craft",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Tohan Corporation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Yamasa",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Muse Communication Co.",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Yoshimoto Creative Agency",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "D.A.S.T.",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Shanghai Jump Network Technology",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kawade Shobo Shinsha",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio A-CAT",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "D &amp; D Pictures",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Benesse Corporation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Ki/oon Music",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Tavac",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Frencel",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Jay Zone Comic",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Tele-Cartoon Japan",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Universal Studios",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Hoso Seisaku Doga",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Design Factory",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Life Work",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Production Reed",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Amino",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio Wombat",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Minami Machi Bugyousho",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Kiyosumi High School Mahjong Club",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Topcraft",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "San-X",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Rikuentai",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Walkers Company",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Sakura Production",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "International Digital Artist",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Triangle Staff",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "TAKI Corporation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Sugar Boy",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio Flag",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Casio Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Hisashishi Videos",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "TOMY Company",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Usagi Ou",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Zyc",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Ajia-Do",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Phoenix Entertainment",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Echo",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Digiturbo",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "AG-ONE",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Animaruya",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Shaft",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "SynergySP",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "ZOOM ENTERPRISE",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Think Corporation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "KMMJ Studios",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Purple Cow Studio Japan",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Visual 80",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Grouper Productions",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Hasbro",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio G-1Neo",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Jade Animation",
+        "num_animes": "1"
+    },
+    {
+        "produtor": "Studio Zain",
+        "num_animes": "1"
+    }
+]

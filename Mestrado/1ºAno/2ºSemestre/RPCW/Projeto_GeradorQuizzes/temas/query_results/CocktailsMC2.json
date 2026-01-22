@@ -1,0 +1,1734 @@
+[
+    {
+        "nome": "A1",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "ABC",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Abilene",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Acapulco",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Ace",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "ACID",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Adam",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Addison",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Affair",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Affinity",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Afterglow",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Afternoon",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "After sex",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "A. J.",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Alexander",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Algonquin",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Allegheny",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Almeria",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Apello",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Applecar",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Artillery",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "AT&T",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Autodaf\u00e9",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Avalon",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Aviation",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "B-52",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "B-53",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Balmoral",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Barracuda",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Bellini",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Bible Belt",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Big Red",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Bijou",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Blackthorn",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Bloody Mary",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Bluebird",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Blue Lagoon",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Bob Marley",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Boomerang",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Bora Bora",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Boston Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Boxcar",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Brain Fart",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Bramble",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Brigadier",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Broadside",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Brooklyn Cocktail",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Bubble Gum",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Buccaneer",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "Bumble Bee",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Cafe Savoy",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Caipirinha",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Caipirissima",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Campari Beer",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "Casa Blanca",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Casino",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Casino Royale",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Cherry Rum",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Chicago Fizz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Chocolate Drink",
+        "tipo": "Cocoa"
+    },
+    {
+        "nome": "Chocolate Milk",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Citrus Coke",
+        "tipo": "Soft Drink / Soda"
+    },
+    {
+        "nome": "City Slicker",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Clove Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Clover Club",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Coffee-Vodka",
+        "tipo": "Homemade Liqueur"
+    },
+    {
+        "nome": "Coffee Liqueur Cocktail",
+        "tipo": "Homemade Liqueur"
+    },
+    {
+        "nome": "Coke and Drops",
+        "tipo": "Soft Drink / Soda"
+    },
+    {
+        "nome": "Corn n Oil",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Corpse Reviver",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Cosmopolitan",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Cream Soda",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Creme de Menthe",
+        "tipo": "Homemade Liqueur"
+    },
+    {
+        "nome": "Cuba Libra",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Cuba Libre",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Daiquiri",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Damned if you do",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Danbooka",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Dark and Stormy",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Dark Caipirinha",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Darkwood Sling",
+        "tipo": "Soft Drink / Soda"
+    },
+    {
+        "nome": "Death in the Afternoon",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Derby",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Diesel",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "Dirty Martini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Dirty Nipple",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Downshift",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Dragonfly",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Drinking Chocolate",
+        "tipo": "Cocoa"
+    },
+    {
+        "nome": "Dry Martini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Dry Rob Roy",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Dubonnet Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Duchamp's Punch",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Egg-Nog - Classic Cooked",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Egg Cream",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Egg Nog #4",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Egg Nog - Healthy",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Elderflower Caipirinha",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Empell\u00f3n Cocina's Fat-Washed Mezcal",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "English Highball",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "English Rose Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Espresso Martini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Espresso Rumtini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Fahrenheit 5000",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Figgy Thyme",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Flaming Dr. Pepper",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Flaming Lamborghini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Flander's Flake-Out",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Flying Dutchman",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Flying Scotchman",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Foxy Lady",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Frapp\u00e9",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Freddy Kruger",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "French 75",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "French Connection",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "French Martini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "French Negroni",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Frisco Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Fros\u00e9",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Frozen Daiquiri",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Frozen Mint Daiquiri",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Frozen Pineapple Daiquiri",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Fruit Cooler",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Fruit Flip-Flop",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Fruit Shake",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Funk and Soul",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Fuzzy Asshole",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Gagliardo",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "GG",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gimlet",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Gin Cooler",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gin Daisy",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gin Fizz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gin Rickey",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Gin Sling",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gin Smash",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gin Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gin Squirt",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gin Swizzle",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gin Toddy",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Gluehwein",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Godchild",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Godfather",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Godmother",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Golden dream",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Grand Blue",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Grasshopper",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Grass Skirt",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Green Goblin",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "Greyhound",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Grim Reaper",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Grizzly Bear",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Halloween Punch",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Happy Skipper",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Harvey Wallbanger",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Havana Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Hawaiian Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "H.D.",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Hemingway Special",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Herbal flame",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Highland Fling Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Holloween Punch",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Homemade Kahlua",
+        "tipo": "Homemade Liqueur"
+    },
+    {
+        "nome": "Honey Bee",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Horse's Neck",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Hot Chocolate to Die for",
+        "tipo": "Cocoa"
+    },
+    {
+        "nome": "Hot Creamy Bush",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Hot Toddy",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Hunter's Moon",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Iced Coffee",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Iced Coffee Fillip",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Ice Pick",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Imperial Cocktail",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Imperial Fizz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Ipamena",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Irish Coffee",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Irish Cream Cocktail",
+        "tipo": "Homemade Liqueur"
+    },
+    {
+        "nome": "Irish Curdling Cow",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Irish Russian",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "Irish Spring",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Jackhammer",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Jack Rose Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Jack's Vanilla Coke",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Jamaica Kiss",
+        "tipo": "Milk / Float / Shake"
+    },
+    {
+        "nome": "Jamaican Coffee",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Jam Donut",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Japanese Fizz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Jello shots",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Jelly Bean",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Jewel Of The Nile",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Jitterbug",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "John Collins",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Just a Moonmint",
+        "tipo": "Milk / Float / Shake"
+    },
+    {
+        "nome": "Kamikaze",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Karsk",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Kentucky B And B",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Kentucky Colonel",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Kill the cold Smoothie",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Kioki Coffee",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Kir",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Kir Royale",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Kiss me Quick",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Kiwi Lemon",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Kiwi Papaya Smoothie",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Kool-Aid Shot",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Kool-Aid Slammer",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Kool First Aid",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Kurant Tea",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Lady Love Fizz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Lassi - A South Indian Drink",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Lassi - Mango",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Lassi - Sweet",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Lassi Khara",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Lassi Raita",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Lazy Coconut Paloma",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Lemon Drop",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Lemon Shot",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Lemouroudji",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Limeade Cocktail",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Limona Corona",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "Loch Lomond",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "London Town",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Lone Tree Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Lone Tree Cooler",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Long Island Iced Tea",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Long Island Tea",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Long vodka",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Lord And Lady",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Lunch Box",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "Mai Tai",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Manhattan",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Margarita",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Martinez 2",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Martini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Mary Pickford",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Masala Chai",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Melya",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Miami Vice",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Michelada",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Midnight Manx",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Midnight Mint",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Mimosa",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Mint Julep",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Mocha-Berry",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Mojito",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Mojito Extra",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Monkey Gland",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Monkey Wrench",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Moranguito",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Moscow Mule",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Mother's Milk",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Mudslinger",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Mulled Wine",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Munich Mule",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "National Aquarium",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Negroni",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "New York Lemonade",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "New York Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Nuked Hot Chocolate",
+        "tipo": "Cocoa"
+    },
+    {
+        "nome": "Nutty Irishman",
+        "tipo": "Milk / Float / Shake"
+    },
+    {
+        "nome": "Oatmeal Cookie",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Old Fashioned",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Old Pal",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Orangeade",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Orange Crush",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Orange Oasis",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Orange Push-up",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Orange Rosemary Collins",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Orange Scented Hot Chocolate",
+        "tipo": "Cocoa"
+    },
+    {
+        "nome": "Orange Whip",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Oreo Mudslide",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Orgasm",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Owen's Grandmother's Revenge",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Paloma",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Paradise",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Passion Fruit Martini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Pegu Club",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Penicillin",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Pina Colada",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Pineapple Gingerale Smoothie",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Pineapple Paloma",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Pink Gin",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Pink Lady",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Pink Moon",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Pink Panty Pulldowns",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Pink Penocha",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Pisco Sour",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Planter's Punch",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Popped cherry",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Poppy Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Port And Starboard",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Porto flip",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Port Wine Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Port Wine Flip",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Pure Passion",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Pysch Vitamin Light",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Quaker's Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Quarter Deck Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Queen Bee",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Queen Charlotte",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Queen Elizabeth",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Quentin",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Quick-sand",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Quick F**K",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Radioactive Long Island Iced Tea",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Radler",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rail Splitter",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Raspberry Cooler",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Raspberry Julep",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Red Snapper",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Rose Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rosemary Blue",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Royal Bitch",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Royal Fizz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Royal Flush",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Royal Gin Fizz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Ruby Tuesday",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Rum Cobbler",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rum Cooler",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rum Milk Punch",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rum Old-fashioned",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rum Punch",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Rum Runner",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Rum Screwdriver",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rum Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rum Toddy",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Russian Spring Punch",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Rusty Nail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Salty Dog",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "San Francisco Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Sangria",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Sazerac",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Scooter",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Scotch Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Screwdriver",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Sea breeze",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Shark Attack",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Sherry Eggnog",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Sherry Flip",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Shot-gun",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Sidecar",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Smut",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Snowball",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Snowday",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Sol Y Sombra",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Space Odyssey",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Spice 75",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Spritz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Stinger",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Stone Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Sweet Bananas",
+        "tipo": "Milk / Float / Shake"
+    },
+    {
+        "nome": "Sweet Sangria",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Sweet Tooth",
+        "tipo": "Milk / Float / Shake"
+    },
+    {
+        "nome": "Talos Coffee",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Tennesee Mud",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Tequila Fizz",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Tequila Slammer",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Tequila Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Tequila Sunrise",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Tequila Surprise",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Texas Rattlesnake",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Texas Sling",
+        "tipo": "Milk / Float / Shake"
+    },
+    {
+        "nome": "Thai Coffee",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Thai Iced Coffee",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "Thai Iced Tea",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "The Galah",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "The Jimmy Conway",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "The Last Word",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "The Laverstoke",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "The Philosopher",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Thriller",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Tia-Maria",
+        "tipo": "Homemade Liqueur"
+    },
+    {
+        "nome": "Tipperary",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Tomato Tang",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Tom Collins",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Turf Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Turkeyball",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Tuxedo Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Valencia Cocktail",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Vampiro",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Van Vleet",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Vermouth Cassis",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Vesper",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Vesuvio",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Veteran",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Victor",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Victory Collins",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Vodka And Tonic",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Vodka Fizz",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Vodka Martini",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Vodka Russian",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Waikiki Beachcomber",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Whiskey Sour",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Whisky Mac",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Whitecap Margarita",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "White Lady",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "White Russian",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "White Wine Sangria",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Wine Cooler",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Wine Punch",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Winter Paloma",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Winter Rita",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "Yellow Bird",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Yoghurt Cooler",
+        "tipo": "Other/Unknown"
+    },
+    {
+        "nome": "Zambeer",
+        "tipo": "Soft Drink / Soda"
+    },
+    {
+        "nome": "Zenmeister",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Ziemes Martini Apfelsaft",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Zima Blaster",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "Zimadori Zinger",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Zinger",
+        "tipo": "Soft Drink / Soda"
+    },
+    {
+        "nome": "Zipperhead",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "Zippy's Revenge",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Zizi Coin-coin",
+        "tipo": "Punch / Party Drink"
+    },
+    {
+        "nome": "Zoksel",
+        "tipo": "Soft Drink / Soda"
+    },
+    {
+        "nome": "Zombie",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Zorbatini",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "Zorro",
+        "tipo": "Coffee / Tea"
+    },
+    {
+        "nome": "1-900-FUK-MEUP",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "110 in the shade",
+        "tipo": "Beer Category"
+    },
+    {
+        "nome": "151 Florida Bushwacker",
+        "tipo": "Milk / Float / Shake"
+    },
+    {
+        "nome": "155 Belmont",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "24k nightmare",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "252",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "3-Mile Long Island Iced Tea",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "3 Wise Men",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "410 Gone",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "501 Blue",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "50/50",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "57 Chevy with a White License Plate",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "69 Special",
+        "tipo": "Ordinary Drink"
+    },
+    {
+        "nome": "747",
+        "tipo": "Shot"
+    },
+    {
+        "nome": "747 Drink",
+        "tipo": "Cocktail"
+    },
+    {
+        "nome": "9 1/2 Weeks",
+        "tipo": "Cocktail"
+    }
+]

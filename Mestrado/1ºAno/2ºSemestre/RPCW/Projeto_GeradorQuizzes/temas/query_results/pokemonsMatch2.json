@@ -1,0 +1,3206 @@
+[
+    {
+        "pokemon": "Bulbasaur",
+        "japones": "Fushigidane\u30d5\u30b7\u30ae\u30c0\u30cd"
+    },
+    {
+        "pokemon": "Caterpie",
+        "japones": "Caterpie\u30ad\u30e3\u30bf\u30d4\u30fc"
+    },
+    {
+        "pokemon": "Voltorb",
+        "japones": "Biriridama\u30d3\u30ea\u30ea\u30c0\u30de"
+    },
+    {
+        "pokemon": "Electrode",
+        "japones": "Marumine\u30de\u30eb\u30de\u30a4\u30f3"
+    },
+    {
+        "pokemon": "Exeggcute",
+        "japones": "Tamatama\u30bf\u30de\u30bf\u30de"
+    },
+    {
+        "pokemon": "Exeggutor",
+        "japones": "Nassy\u30ca\u30c3\u30b7\u30fc"
+    },
+    {
+        "pokemon": "Cubone",
+        "japones": "Karakara\u30ab\u30e9\u30ab\u30e9"
+    },
+    {
+        "pokemon": "Marowak",
+        "japones": "Garagara\u30ac\u30e9\u30ac\u30e9"
+    },
+    {
+        "pokemon": "Hitmonlee",
+        "japones": "Sawamular\u30b5\u30ef\u30e0\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Hitmonchan",
+        "japones": "Ebiwalar\u30a8\u30d3\u30ef\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Lickitung",
+        "japones": "Beroringa\u30d9\u30ed\u30ea\u30f3\u30ac"
+    },
+    {
+        "pokemon": "Koffing",
+        "japones": "Dogars\u30c9\u30ac\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Metapod",
+        "japones": "Transel\u30c8\u30e9\u30f3\u30bb\u30eb"
+    },
+    {
+        "pokemon": "Weezing",
+        "japones": "Matadogas\u30de\u30bf\u30c9\u30ac\u30b9"
+    },
+    {
+        "pokemon": "Rhyhorn",
+        "japones": "Sihorn\u30b5\u30a4\u30db\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Rhydon",
+        "japones": "Sidon\u30b5\u30a4\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Chansey",
+        "japones": "Lucky\u30e9\u30c3\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Tangela",
+        "japones": "Monjara\u30e2\u30f3\u30b8\u30e3\u30e9"
+    },
+    {
+        "pokemon": "Kangaskhan",
+        "japones": "Garura\u30ac\u30eb\u30fc\u30e9"
+    },
+    {
+        "pokemon": "Horsea",
+        "japones": "Tattu\u30bf\u30c3\u30c4\u30fc"
+    },
+    {
+        "pokemon": "Seadra",
+        "japones": "Seadra\u30b7\u30fc\u30c9\u30e9"
+    },
+    {
+        "pokemon": "Goldeen",
+        "japones": "Tosakinto\u30c8\u30b5\u30ad\u30f3\u30c8"
+    },
+    {
+        "pokemon": "Seaking",
+        "japones": "Azumao\u30a2\u30ba\u30de\u30aa\u30a6"
+    },
+    {
+        "pokemon": "Butterfree",
+        "japones": "Butterfree\u30d0\u30bf\u30d5\u30ea\u30fc"
+    },
+    {
+        "pokemon": "Staryu",
+        "japones": "Hitodeman\u30d2\u30c8\u30c7\u30de\u30f3"
+    },
+    {
+        "pokemon": "Starmie",
+        "japones": "Starmie\u30b9\u30bf\u30fc\u30df\u30fc"
+    },
+    {
+        "pokemon": "Mr. Mime",
+        "japones": "Barrierd\u30d0\u30ea\u30e4\u30fc\u30c9"
+    },
+    {
+        "pokemon": "Scyther",
+        "japones": "Strike\u30b9\u30c8\u30e9\u30a4\u30af"
+    },
+    {
+        "pokemon": "Jynx",
+        "japones": "Rougela\u30eb\u30fc\u30b8\u30e5\u30e9"
+    },
+    {
+        "pokemon": "Electabuzz",
+        "japones": "Eleboo\u30a8\u30ec\u30d6\u30fc"
+    },
+    {
+        "pokemon": "Magmar",
+        "japones": "Boober\u30d6\u30fc\u30d0\u30fc"
+    },
+    {
+        "pokemon": "Pinsir",
+        "japones": "Kailios\u30ab\u30a4\u30ed\u30b9"
+    },
+    {
+        "pokemon": "Tauros",
+        "japones": "Kentauros\u30b1\u30f3\u30bf\u30ed\u30b9"
+    },
+    {
+        "pokemon": "Magikarp",
+        "japones": "Koiking\u30b3\u30a4\u30ad\u30f3\u30b0"
+    },
+    {
+        "pokemon": "Weedle",
+        "japones": "Beedle\u30d3\u30fc\u30c9\u30eb"
+    },
+    {
+        "pokemon": "Gyarados",
+        "japones": "Gyarados\u30ae\u30e3\u30e9\u30c9\u30b9"
+    },
+    {
+        "pokemon": "Lapras",
+        "japones": "Laplace\u30e9\u30d7\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Ditto",
+        "japones": "Metamon\u30e1\u30bf\u30e2\u30f3"
+    },
+    {
+        "pokemon": "Eevee",
+        "japones": "Eievui\u30a4\u30fc\u30d6\u30a4"
+    },
+    {
+        "pokemon": "Vaporeon",
+        "japones": "Showers\u30b7\u30e3\u30ef\u30fc\u30ba"
+    },
+    {
+        "pokemon": "Jolteon",
+        "japones": "Thunders\u30b5\u30f3\u30c0\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Flareon",
+        "japones": "Booster\u30d6\u30fc\u30b9\u30bf\u30fc"
+    },
+    {
+        "pokemon": "Porygon",
+        "japones": "Porygon\u30dd\u30ea\u30b4\u30f3"
+    },
+    {
+        "pokemon": "Omanyte",
+        "japones": "Omnite\u30aa\u30e0\u30ca\u30a4\u30c8"
+    },
+    {
+        "pokemon": "Omastar",
+        "japones": "Omstar\u30aa\u30e0\u30b9\u30bf\u30fc"
+    },
+    {
+        "pokemon": "Kakuna",
+        "japones": "Cocoon\u30b3\u30af\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Kabuto",
+        "japones": "Kabuto\u30ab\u30d6\u30c8"
+    },
+    {
+        "pokemon": "Kabutops",
+        "japones": "Kabutops\u30ab\u30d6\u30c8\u30d7\u30b9"
+    },
+    {
+        "pokemon": "Aerodactyl",
+        "japones": "Ptera\u30d7\u30c6\u30e9"
+    },
+    {
+        "pokemon": "Snorlax",
+        "japones": "Kabigon\u30ab\u30d3\u30b4\u30f3"
+    },
+    {
+        "pokemon": "Articuno",
+        "japones": "Freezer\u30d5\u30ea\u30fc\u30b6\u30fc"
+    },
+    {
+        "pokemon": "Zapdos",
+        "japones": "Thunder\u30b5\u30f3\u30c0\u30fc"
+    },
+    {
+        "pokemon": "Moltres",
+        "japones": "Fire\u30d5\u30a1\u30a4\u30e4\u30fc"
+    },
+    {
+        "pokemon": "Dratini",
+        "japones": "Miniryu\u30df\u30cb\u30ea\u30e5\u30a6"
+    },
+    {
+        "pokemon": "Dragonair",
+        "japones": "Hakuryu\u30cf\u30af\u30ea\u30e5\u30fc"
+    },
+    {
+        "pokemon": "Dragonite",
+        "japones": "Kairyu\u30ab\u30a4\u30ea\u30e5\u30fc"
+    },
+    {
+        "pokemon": "Beedrill",
+        "japones": "Spear\u30b9\u30d4\u30a2\u30fc"
+    },
+    {
+        "pokemon": "Mewtwo",
+        "japones": "Mewtwo\u30df\u30e5\u30a6\u30c4\u30fc"
+    },
+    {
+        "pokemon": "Mew",
+        "japones": "Mew\u30df\u30e5\u30a6"
+    },
+    {
+        "pokemon": "Chikorita",
+        "japones": "Chicorita\u30c1\u30b3\u30ea\u30fc\u30bf"
+    },
+    {
+        "pokemon": "Bayleef",
+        "japones": "Bayleaf\u30d9\u30a4\u30ea\u30fc\u30d5"
+    },
+    {
+        "pokemon": "Meganium",
+        "japones": "Meganium\u30e1\u30ac\u30cb\u30a6\u30e0"
+    },
+    {
+        "pokemon": "Cyndaquil",
+        "japones": "Hinoarashi\u30d2\u30ce\u30a2\u30e9\u30b7"
+    },
+    {
+        "pokemon": "Quilava",
+        "japones": "Magmarashi\u30de\u30b0\u30de\u30e9\u30b7"
+    },
+    {
+        "pokemon": "Typhlosion",
+        "japones": "Bakphoon\u30d0\u30af\u30d5\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Totodile",
+        "japones": "Waninoko\u30ef\u30cb\u30ce\u30b3"
+    },
+    {
+        "pokemon": "Croconaw",
+        "japones": "Alligates\u30a2\u30ea\u30b2\u30a4\u30c4"
+    },
+    {
+        "pokemon": "Pidgey",
+        "japones": "Poppo\u30dd\u30c3\u30dd"
+    },
+    {
+        "pokemon": "Feraligatr",
+        "japones": "Ordile\u30aa\u30fc\u30c0\u30a4\u30eb"
+    },
+    {
+        "pokemon": "Sentret",
+        "japones": "Otachi\u30aa\u30bf\u30c1"
+    },
+    {
+        "pokemon": "Furret",
+        "japones": "Ootachi\u30aa\u30aa\u30bf\u30c1"
+    },
+    {
+        "pokemon": "Hoothoot",
+        "japones": "Hoho\u30db\u30fc\u30db\u30fc"
+    },
+    {
+        "pokemon": "Noctowl",
+        "japones": "Yorunozuku\u30e8\u30eb\u30ce\u30ba\u30af"
+    },
+    {
+        "pokemon": "Ledyba",
+        "japones": "Rediba\u30ec\u30c7\u30a3\u30d0"
+    },
+    {
+        "pokemon": "Ledian",
+        "japones": "Redian\u30ec\u30c7\u30a3\u30a2\u30f3"
+    },
+    {
+        "pokemon": "Spinarak",
+        "japones": "Itomaru\u30a4\u30c8\u30de\u30eb"
+    },
+    {
+        "pokemon": "Ariados",
+        "japones": "Ariados\u30a2\u30ea\u30a2\u30c9\u30b9"
+    },
+    {
+        "pokemon": "Crobat",
+        "japones": "Crobat\u30af\u30ed\u30d0\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Pidgeotto",
+        "japones": "Pigeon\u30d4\u30b8\u30e7\u30f3"
+    },
+    {
+        "pokemon": "Chinchou",
+        "japones": "Chonchie\u30c1\u30e7\u30f3\u30c1\u30fc"
+    },
+    {
+        "pokemon": "Lanturn",
+        "japones": "Lantern\u30e9\u30f3\u30bf\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Pichu",
+        "japones": "Pichu\u30d4\u30c1\u30e5\u30fc"
+    },
+    {
+        "pokemon": "Cleffa",
+        "japones": "Py\u30d4\u30a3"
+    },
+    {
+        "pokemon": "Igglybuff",
+        "japones": "Pupurin\u30d7\u30d7\u30ea\u30f3"
+    },
+    {
+        "pokemon": "Togepi",
+        "japones": "Togepy\u30c8\u30b2\u30d4\u30fc"
+    },
+    {
+        "pokemon": "Togetic",
+        "japones": "Togechick\u30c8\u30b2\u30c1\u30c3\u30af"
+    },
+    {
+        "pokemon": "Natu",
+        "japones": "Naty\u30cd\u30a4\u30c6\u30a3"
+    },
+    {
+        "pokemon": "Xatu",
+        "japones": "Natio\u30cd\u30a4\u30c6\u30a3\u30aa"
+    },
+    {
+        "pokemon": "Mareep",
+        "japones": "Merriep\u30e1\u30ea\u30fc\u30d7"
+    },
+    {
+        "pokemon": "Pidgeot",
+        "japones": "Pigeot\u30d4\u30b8\u30e7\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Flaaffy",
+        "japones": "Mokoko\u30e2\u30b3\u30b3"
+    },
+    {
+        "pokemon": "Ampharos",
+        "japones": "Denryu\u30c7\u30f3\u30ea\u30e5\u30a6"
+    },
+    {
+        "pokemon": "Bellossom",
+        "japones": "Kireihana\u30ad\u30ec\u30a4\u30cf\u30ca"
+    },
+    {
+        "pokemon": "Marill",
+        "japones": "Maril\u30de\u30ea\u30eb"
+    },
+    {
+        "pokemon": "Azumarill",
+        "japones": "Marilli\u30de\u30ea\u30eb\u30ea"
+    },
+    {
+        "pokemon": "Sudowoodo",
+        "japones": "Usokkie\u30a6\u30bd\u30c3\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Politoed",
+        "japones": "Nyorotono\u30cb\u30e7\u30ed\u30c8\u30ce"
+    },
+    {
+        "pokemon": "Hoppip",
+        "japones": "Hanecco\u30cf\u30cd\u30c3\u30b3"
+    },
+    {
+        "pokemon": "Skiploom",
+        "japones": "Popocco\u30dd\u30dd\u30c3\u30b3"
+    },
+    {
+        "pokemon": "Jumpluff",
+        "japones": "Watacco\u30ef\u30bf\u30c3\u30b3"
+    },
+    {
+        "pokemon": "Rattata",
+        "japones": "Koratta\u30b3\u30e9\u30c3\u30bf"
+    },
+    {
+        "pokemon": "Aipom",
+        "japones": "Eipam\u30a8\u30a4\u30d1\u30e0"
+    },
+    {
+        "pokemon": "Sunkern",
+        "japones": "Himanuts\u30d2\u30de\u30ca\u30c3\u30c4"
+    },
+    {
+        "pokemon": "Sunflora",
+        "japones": "Kimawari\u30ad\u30de\u30ef\u30ea"
+    },
+    {
+        "pokemon": "Yanma",
+        "japones": "Yanyanma\u30e4\u30f3\u30e4\u30f3\u30de"
+    },
+    {
+        "pokemon": "Wooper",
+        "japones": "Upah\u30a6\u30d1\u30fc"
+    },
+    {
+        "pokemon": "Quagsire",
+        "japones": "Nuoh\u30cc\u30aa\u30fc"
+    },
+    {
+        "pokemon": "Espeon",
+        "japones": "Eifie\u30a8\u30fc\u30d5\u30a3"
+    },
+    {
+        "pokemon": "Umbreon",
+        "japones": "Blacky\u30d6\u30e9\u30c3\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Murkrow",
+        "japones": "Yamikarasu\u30e4\u30df\u30ab\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Slowking",
+        "japones": "Yadoking\u30e4\u30c9\u30ad\u30f3\u30b0"
+    },
+    {
+        "pokemon": "Ivysaur",
+        "japones": "Fushigisou\u30d5\u30b7\u30ae\u30bd\u30a6"
+    },
+    {
+        "pokemon": "Raticate",
+        "japones": "Ratta\u30e9\u30c3\u30bf"
+    },
+    {
+        "pokemon": "Misdreavus",
+        "japones": "Muma\u30e0\u30a6\u30de"
+    },
+    {
+        "pokemon": "Unown",
+        "japones": "Unknown\u30a2\u30f3\u30ce\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Wobbuffet",
+        "japones": "Sonans\u30bd\u30fc\u30ca\u30f3\u30b9"
+    },
+    {
+        "pokemon": "Girafarig",
+        "japones": "Kirinriki\u30ad\u30ea\u30f3\u30ea\u30ad"
+    },
+    {
+        "pokemon": "Pineco",
+        "japones": "Kunugidama\u30af\u30cc\u30ae\u30c0\u30de"
+    },
+    {
+        "pokemon": "Forretress",
+        "japones": "Foretos\u30d5\u30a9\u30ec\u30c8\u30b9"
+    },
+    {
+        "pokemon": "Dunsparce",
+        "japones": "Nokocchi\u30ce\u30b3\u30c3\u30c1"
+    },
+    {
+        "pokemon": "Gligar",
+        "japones": "Gliger\u30b0\u30e9\u30a4\u30ac\u30fc"
+    },
+    {
+        "pokemon": "Steelix",
+        "japones": "Haganeil\u30cf\u30ac\u30cd\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Snubbull",
+        "japones": "Bulu\u30d6\u30eb\u30fc"
+    },
+    {
+        "pokemon": "Spearow",
+        "japones": "Onisuzume\u30aa\u30cb\u30b9\u30ba\u30e1"
+    },
+    {
+        "pokemon": "Granbull",
+        "japones": "Granbulu\u30b0\u30e9\u30f3\u30d6\u30eb"
+    },
+    {
+        "pokemon": "Qwilfish",
+        "japones": "Harysen\u30cf\u30ea\u30fc\u30bb\u30f3"
+    },
+    {
+        "pokemon": "Scizor",
+        "japones": "Hassam\u30cf\u30c3\u30b5\u30e0"
+    },
+    {
+        "pokemon": "Shuckle",
+        "japones": "Tsubotsubo\u30c4\u30dc\u30c4\u30dc"
+    },
+    {
+        "pokemon": "Heracross",
+        "japones": "Heracros\u30d8\u30e9\u30af\u30ed\u30b9"
+    },
+    {
+        "pokemon": "Sneasel",
+        "japones": "Nyula\u30cb\u30e5\u30fc\u30e9"
+    },
+    {
+        "pokemon": "Teddiursa",
+        "japones": "Himeguma\u30d2\u30e1\u30b0\u30de"
+    },
+    {
+        "pokemon": "Ursaring",
+        "japones": "Ringuma\u30ea\u30f3\u30b0\u30de"
+    },
+    {
+        "pokemon": "Slugma",
+        "japones": "Magmag\u30de\u30b0\u30de\u30c3\u30b0"
+    },
+    {
+        "pokemon": "Magcargo",
+        "japones": "Magcargot\u30de\u30b0\u30ab\u30eb\u30b4"
+    },
+    {
+        "pokemon": "Fearow",
+        "japones": "Onidrill\u30aa\u30cb\u30c9\u30ea\u30eb"
+    },
+    {
+        "pokemon": "Swinub",
+        "japones": "Urimoo\u30a6\u30ea\u30e0\u30fc"
+    },
+    {
+        "pokemon": "Piloswine",
+        "japones": "Inomoo\u30a4\u30ce\u30e0\u30fc"
+    },
+    {
+        "pokemon": "Corsola",
+        "japones": "Sunnygo\u30b5\u30cb\u30fc\u30b4"
+    },
+    {
+        "pokemon": "Remoraid",
+        "japones": "Teppouo\u30c6\u30c3\u30dd\u30a6\u30aa"
+    },
+    {
+        "pokemon": "Octillery",
+        "japones": "Okutank\u30aa\u30af\u30bf\u30f3"
+    },
+    {
+        "pokemon": "Delibird",
+        "japones": "Delibird\u30c7\u30ea\u30d0\u30fc\u30c9"
+    },
+    {
+        "pokemon": "Mantine",
+        "japones": "Mantain\u30de\u30f3\u30bf\u30a4\u30f3"
+    },
+    {
+        "pokemon": "Skarmory",
+        "japones": "Airmd\u30a8\u30a2\u30fc\u30e0\u30c9"
+    },
+    {
+        "pokemon": "Houndour",
+        "japones": "Delvil\u30c7\u30eb\u30d3\u30eb"
+    },
+    {
+        "pokemon": "Houndoom",
+        "japones": "Hellgar\u30d8\u30eb\u30ac\u30fc"
+    },
+    {
+        "pokemon": "Ekans",
+        "japones": "Arbo\u30a2\u30fc\u30dc"
+    },
+    {
+        "pokemon": "Kingdra",
+        "japones": "Kingdra\u30ad\u30f3\u30b0\u30c9\u30e9"
+    },
+    {
+        "pokemon": "Phanpy",
+        "japones": "Gomazou\u30b4\u30de\u30be\u30a6"
+    },
+    {
+        "pokemon": "Donphan",
+        "japones": "Donfan\u30c9\u30f3\u30d5\u30a1\u30f3"
+    },
+    {
+        "pokemon": "Porygon2",
+        "japones": "Porygon2\u30dd\u30ea\u30b4\u30f3\uff12"
+    },
+    {
+        "pokemon": "Stantler",
+        "japones": "Odoshishi\u30aa\u30c9\u30b7\u30b7"
+    },
+    {
+        "pokemon": "Smeargle",
+        "japones": "Doble\u30c9\u30fc\u30d6\u30eb"
+    },
+    {
+        "pokemon": "Tyrogue",
+        "japones": "Balkie\u30d0\u30eb\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Hitmontop",
+        "japones": "Kapoerer\u30ab\u30dd\u30a8\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Smoochum",
+        "japones": "Muchul\u30e0\u30c1\u30e5\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Elekid",
+        "japones": "Elekid\u30a8\u30ec\u30ad\u30c3\u30c9"
+    },
+    {
+        "pokemon": "Arbok",
+        "japones": "Arbok\u30a2\u30fc\u30dc\u30c3\u30af"
+    },
+    {
+        "pokemon": "Magby",
+        "japones": "Buby\u30d6\u30d3\u30a3"
+    },
+    {
+        "pokemon": "Miltank",
+        "japones": "Miltank\u30df\u30eb\u30bf\u30f3\u30af"
+    },
+    {
+        "pokemon": "Blissey",
+        "japones": "Happinas\u30cf\u30d4\u30ca\u30b9"
+    },
+    {
+        "pokemon": "Raikou",
+        "japones": "Raikou\u30e9\u30a4\u30b3\u30a6"
+    },
+    {
+        "pokemon": "Entei",
+        "japones": "Entei\u30a8\u30f3\u30c6\u30a4"
+    },
+    {
+        "pokemon": "Suicune",
+        "japones": "Suicune\u30b9\u30a4\u30af\u30f3"
+    },
+    {
+        "pokemon": "Larvitar",
+        "japones": "Yogiras\u30e8\u30fc\u30ae\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Pupitar",
+        "japones": "Sanagiras\u30b5\u30ca\u30ae\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Tyranitar",
+        "japones": "Bangiras\u30d0\u30f3\u30ae\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Lugia",
+        "japones": "Lugia\u30eb\u30ae\u30a2"
+    },
+    {
+        "pokemon": "Pikachu",
+        "japones": "Pikachu\u30d4\u30ab\u30c1\u30e5\u30a6"
+    },
+    {
+        "pokemon": "Ho-Oh",
+        "japones": "Houou\u30db\u30a6\u30aa\u30a6"
+    },
+    {
+        "pokemon": "Celebi",
+        "japones": "Celebi\u30bb\u30ec\u30d3\u30a3"
+    },
+    {
+        "pokemon": "Treecko",
+        "japones": "Kimori\u30ad\u30e2\u30ea"
+    },
+    {
+        "pokemon": "Grovyle",
+        "japones": "Juptile\u30b8\u30e5\u30d7\u30c8\u30eb"
+    },
+    {
+        "pokemon": "Sceptile",
+        "japones": "Jukain\u30b8\u30e5\u30ab\u30a4\u30f3"
+    },
+    {
+        "pokemon": "Torchic",
+        "japones": "Achamo\u30a2\u30c1\u30e3\u30e2"
+    },
+    {
+        "pokemon": "Combusken",
+        "japones": "Wakasyamo\u30ef\u30ab\u30b7\u30e3\u30e2"
+    },
+    {
+        "pokemon": "Blaziken",
+        "japones": "Bursyamo\u30d0\u30b7\u30e3\u30fc\u30e2"
+    },
+    {
+        "pokemon": "Mudkip",
+        "japones": "Mizugorou\u30df\u30ba\u30b4\u30ed\u30a6"
+    },
+    {
+        "pokemon": "Marshtomp",
+        "japones": "Numacraw\u30cc\u30de\u30af\u30ed\u30fc"
+    },
+    {
+        "pokemon": "Raichu",
+        "japones": "Raichu\u30e9\u30a4\u30c1\u30e5\u30a6"
+    },
+    {
+        "pokemon": "Swampert",
+        "japones": "Laglarge\u30e9\u30b0\u30e9\u30fc\u30b8"
+    },
+    {
+        "pokemon": "Poochyena",
+        "japones": "Pochiena\u30dd\u30c1\u30a8\u30ca"
+    },
+    {
+        "pokemon": "Mightyena",
+        "japones": "Graena\u30b0\u30e9\u30a8\u30ca"
+    },
+    {
+        "pokemon": "Zigzagoon",
+        "japones": "Jiguzaguma\u30b8\u30b0\u30b6\u30b0\u30de"
+    },
+    {
+        "pokemon": "Linoone",
+        "japones": "Massuguma\u30de\u30c3\u30b9\u30b0\u30de"
+    },
+    {
+        "pokemon": "Wurmple",
+        "japones": "Kemusso\u30b1\u30e0\u30c3\u30bd"
+    },
+    {
+        "pokemon": "Silcoon",
+        "japones": "Karasalis\u30ab\u30e9\u30b5\u30ea\u30b9"
+    },
+    {
+        "pokemon": "Beautifly",
+        "japones": "Agehunt\u30a2\u30b2\u30cf\u30f3\u30c8"
+    },
+    {
+        "pokemon": "Cascoon",
+        "japones": "Mayuld\u30de\u30e6\u30eb\u30c9"
+    },
+    {
+        "pokemon": "Dustox",
+        "japones": "Dokucale\u30c9\u30af\u30b1\u30a4\u30eb"
+    },
+    {
+        "pokemon": "Sandshrew",
+        "japones": "Sand\u30b5\u30f3\u30c9"
+    },
+    {
+        "pokemon": "Lotad",
+        "japones": "Hassboh\u30cf\u30b9\u30dc\u30fc"
+    },
+    {
+        "pokemon": "Lombre",
+        "japones": "Hasubrero\u30cf\u30b9\u30d6\u30ec\u30ed"
+    },
+    {
+        "pokemon": "Ludicolo",
+        "japones": "Runpappa\u30eb\u30f3\u30d1\u30c3\u30d1"
+    },
+    {
+        "pokemon": "Seedot",
+        "japones": "Taneboh\u30bf\u30cd\u30dc\u30fc"
+    },
+    {
+        "pokemon": "Nuzleaf",
+        "japones": "Konohana\u30b3\u30ce\u30cf\u30ca"
+    },
+    {
+        "pokemon": "Shiftry",
+        "japones": "Dirteng\u30c0\u30fc\u30c6\u30f3\u30b0"
+    },
+    {
+        "pokemon": "Taillow",
+        "japones": "Subame\u30b9\u30d0\u30e1"
+    },
+    {
+        "pokemon": "Swellow",
+        "japones": "Ohsubame\u30aa\u30aa\u30b9\u30d0\u30e1"
+    },
+    {
+        "pokemon": "Wingull",
+        "japones": "Camome\u30ad\u30e3\u30e2\u30e1"
+    },
+    {
+        "pokemon": "Pelipper",
+        "japones": "Pelipper\u30da\u30ea\u30c3\u30d1\u30fc"
+    },
+    {
+        "pokemon": "Sandslash",
+        "japones": "Sandpan\u30b5\u30f3\u30c9\u30d1\u30f3"
+    },
+    {
+        "pokemon": "Ralts",
+        "japones": "Ralts\u30e9\u30eb\u30c8\u30b9"
+    },
+    {
+        "pokemon": "Kirlia",
+        "japones": "Kirlia\u30ad\u30eb\u30ea\u30a2"
+    },
+    {
+        "pokemon": "Gardevoir",
+        "japones": "Sirnight\u30b5\u30fc\u30ca\u30a4\u30c8"
+    },
+    {
+        "pokemon": "Surskit",
+        "japones": "Ametama\u30a2\u30e1\u30bf\u30de"
+    },
+    {
+        "pokemon": "Masquerain",
+        "japones": "Amemoth\u30a2\u30e1\u30e2\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Shroomish",
+        "japones": "Kinococo\u30ad\u30ce\u30b3\u30b3"
+    },
+    {
+        "pokemon": "Breloom",
+        "japones": "Kinogassa\u30ad\u30ce\u30ac\u30c3\u30b5"
+    },
+    {
+        "pokemon": "Slakoth",
+        "japones": "Namakero\u30ca\u30de\u30b1\u30ed"
+    },
+    {
+        "pokemon": "Vigoroth",
+        "japones": "Yarukimono\u30e4\u30eb\u30ad\u30e2\u30ce"
+    },
+    {
+        "pokemon": "Slaking",
+        "japones": "Kekking\u30b1\u30c3\u30ad\u30f3\u30b0"
+    },
+    {
+        "pokemon": "Nidoran\u2640",
+        "japones": "Nidoran?\u30cb\u30c9\u30e9\u30f3\u2640"
+    },
+    {
+        "pokemon": "Nincada",
+        "japones": "Tutinin\u30c4\u30c1\u30cb\u30f3"
+    },
+    {
+        "pokemon": "Ninjask",
+        "japones": "Tekkanin\u30c6\u30c3\u30ab\u30cb\u30f3"
+    },
+    {
+        "pokemon": "Shedinja",
+        "japones": "Nukenin\u30cc\u30b1\u30cb\u30f3"
+    },
+    {
+        "pokemon": "Whismur",
+        "japones": "Gonyonyo\u30b4\u30cb\u30e7\u30cb\u30e7"
+    },
+    {
+        "pokemon": "Loudred",
+        "japones": "Dogohmb\u30c9\u30b4\u30fc\u30e0"
+    },
+    {
+        "pokemon": "Exploud",
+        "japones": "Bakuong\u30d0\u30af\u30aa\u30f3\u30b0"
+    },
+    {
+        "pokemon": "Makuhita",
+        "japones": "Makunoshita\u30de\u30af\u30ce\u30b7\u30bf"
+    },
+    {
+        "pokemon": "Hariyama",
+        "japones": "Hariteyama\u30cf\u30ea\u30c6\u30e4\u30de"
+    },
+    {
+        "pokemon": "Azurill",
+        "japones": "Ruriri\u30eb\u30ea\u30ea"
+    },
+    {
+        "pokemon": "Nosepass",
+        "japones": "Nosepass\u30ce\u30ba\u30d1\u30b9"
+    },
+    {
+        "pokemon": "Venusaur",
+        "japones": "Fushigibana\u30d5\u30b7\u30ae\u30d0\u30ca"
+    },
+    {
+        "pokemon": "Nidorina",
+        "japones": "Nidorina\u30cb\u30c9\u30ea\u30fc\u30ca"
+    },
+    {
+        "pokemon": "Skitty",
+        "japones": "Eneco\u30a8\u30cd\u30b3"
+    },
+    {
+        "pokemon": "Delcatty",
+        "japones": "Enekororo\u30a8\u30cd\u30b3\u30ed\u30ed"
+    },
+    {
+        "pokemon": "Sableye",
+        "japones": "Yamirami\u30e4\u30df\u30e9\u30df"
+    },
+    {
+        "pokemon": "Mawile",
+        "japones": "Kucheat\u30af\u30c1\u30fc\u30c8"
+    },
+    {
+        "pokemon": "Aron",
+        "japones": "Cokodora\u30b3\u30b3\u30c9\u30e9"
+    },
+    {
+        "pokemon": "Lairon",
+        "japones": "Kodora\u30b3\u30c9\u30e9"
+    },
+    {
+        "pokemon": "Aggron",
+        "japones": "Bossgodora\u30dc\u30b9\u30b4\u30c9\u30e9"
+    },
+    {
+        "pokemon": "Meditite",
+        "japones": "Asanan\u30a2\u30b5\u30ca\u30f3"
+    },
+    {
+        "pokemon": "Medicham",
+        "japones": "Charem\u30c1\u30e3\u30fc\u30ec\u30e0"
+    },
+    {
+        "pokemon": "Electrike",
+        "japones": "Rakurai\u30e9\u30af\u30e9\u30a4"
+    },
+    {
+        "pokemon": "Nidoqueen",
+        "japones": "Nidoqueen\u30cb\u30c9\u30af\u30a4\u30f3"
+    },
+    {
+        "pokemon": "Manectric",
+        "japones": "Livolt\u30e9\u30a4\u30dc\u30eb\u30c8"
+    },
+    {
+        "pokemon": "Plusle",
+        "japones": "Prasle\u30d7\u30e9\u30b9\u30eb"
+    },
+    {
+        "pokemon": "Minun",
+        "japones": "Minun\u30de\u30a4\u30ca\u30f3"
+    },
+    {
+        "pokemon": "Volbeat",
+        "japones": "Barubeat\u30d0\u30eb\u30d3\u30fc\u30c8"
+    },
+    {
+        "pokemon": "Illumise",
+        "japones": "Illumise\u30a4\u30eb\u30df\u30fc\u30bc"
+    },
+    {
+        "pokemon": "Roselia",
+        "japones": "Roselia\u30ed\u30bc\u30ea\u30a2"
+    },
+    {
+        "pokemon": "Gulpin",
+        "japones": "Gokulin\u30b4\u30af\u30ea\u30f3"
+    },
+    {
+        "pokemon": "Swalot",
+        "japones": "Marunoom\u30de\u30eb\u30ce\u30fc\u30e0"
+    },
+    {
+        "pokemon": "Carvanha",
+        "japones": "Kibanha\u30ad\u30d0\u30cb\u30a2"
+    },
+    {
+        "pokemon": "Sharpedo",
+        "japones": "Samehader\u30b5\u30e1\u30cf\u30c0\u30fc"
+    },
+    {
+        "pokemon": "Nidoran\u2642",
+        "japones": "Nidoran?\u30cb\u30c9\u30e9\u30f3\u2642"
+    },
+    {
+        "pokemon": "Wailmer",
+        "japones": "Hoeruko\u30db\u30a8\u30eb\u30b3"
+    },
+    {
+        "pokemon": "Wailord",
+        "japones": "Whaloh\u30db\u30a8\u30eb\u30aa\u30fc"
+    },
+    {
+        "pokemon": "Numel",
+        "japones": "Donmel\u30c9\u30f3\u30e1\u30eb"
+    },
+    {
+        "pokemon": "Camerupt",
+        "japones": "Bakuuda\u30d0\u30af\u30fc\u30c0"
+    },
+    {
+        "pokemon": "Torkoal",
+        "japones": "Cotoise\u30b3\u30fc\u30bf\u30b9"
+    },
+    {
+        "pokemon": "Spoink",
+        "japones": "Baneboo\u30d0\u30cd\u30d6\u30fc"
+    },
+    {
+        "pokemon": "Grumpig",
+        "japones": "Boopig\u30d6\u30fc\u30d4\u30c3\u30b0"
+    },
+    {
+        "pokemon": "Spinda",
+        "japones": "Patcheel\u30d1\u30c3\u30c1\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Trapinch",
+        "japones": "Nuckrar\u30ca\u30c3\u30af\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Vibrava",
+        "japones": "Vibrava\u30d3\u30d6\u30e9\u30fc\u30d0"
+    },
+    {
+        "pokemon": "Nidorino",
+        "japones": "Nidorino\u30cb\u30c9\u30ea\u30fc\u30ce"
+    },
+    {
+        "pokemon": "Flygon",
+        "japones": "Flygon\u30d5\u30e9\u30a4\u30b4\u30f3"
+    },
+    {
+        "pokemon": "Cacnea",
+        "japones": "Sabonea\u30b5\u30dc\u30cd\u30a2"
+    },
+    {
+        "pokemon": "Cacturne",
+        "japones": "Noctus\u30ce\u30af\u30bf\u30b9"
+    },
+    {
+        "pokemon": "Swablu",
+        "japones": "Tyltto\u30c1\u30eb\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Altaria",
+        "japones": "Tyltalis\u30c1\u30eb\u30bf\u30ea\u30b9"
+    },
+    {
+        "pokemon": "Zangoose",
+        "japones": "Zangoose\u30b6\u30f3\u30b0\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Seviper",
+        "japones": "Habunake\u30cf\u30d6\u30cd\u30fc\u30af"
+    },
+    {
+        "pokemon": "Lunatone",
+        "japones": "Lunatone\u30eb\u30ca\u30c8\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Solrock",
+        "japones": "Solrock\u30bd\u30eb\u30ed\u30c3\u30af"
+    },
+    {
+        "pokemon": "Barboach",
+        "japones": "Dojoach\u30c9\u30b8\u30e7\u30c3\u30c1"
+    },
+    {
+        "pokemon": "Nidoking",
+        "japones": "Nidoking\u30cb\u30c9\u30ad\u30f3\u30b0"
+    },
+    {
+        "pokemon": "Whiscash",
+        "japones": "Namazun\u30ca\u30de\u30ba\u30f3"
+    },
+    {
+        "pokemon": "Corphish",
+        "japones": "Heigani\u30d8\u30a4\u30ac\u30cb"
+    },
+    {
+        "pokemon": "Crawdaunt",
+        "japones": "Shizariger\u30b7\u30b6\u30ea\u30ac\u30fc"
+    },
+    {
+        "pokemon": "Baltoy",
+        "japones": "Yajilon\u30e4\u30b8\u30ed\u30f3"
+    },
+    {
+        "pokemon": "Claydol",
+        "japones": "Nendoll\u30cd\u30f3\u30c9\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Lileep",
+        "japones": "Lilyla\u30ea\u30ea\u30fc\u30e9"
+    },
+    {
+        "pokemon": "Cradily",
+        "japones": "Yuradle\u30e6\u30ec\u30a4\u30c9\u30eb"
+    },
+    {
+        "pokemon": "Anorith",
+        "japones": "Anopth\u30a2\u30ce\u30d7\u30b9"
+    },
+    {
+        "pokemon": "Armaldo",
+        "japones": "Armaldo\u30a2\u30fc\u30de\u30eb\u30c9"
+    },
+    {
+        "pokemon": "Feebas",
+        "japones": "Hinbass\u30d2\u30f3\u30d0\u30b9"
+    },
+    {
+        "pokemon": "Clefairy",
+        "japones": "Pippi\u30d4\u30c3\u30d4"
+    },
+    {
+        "pokemon": "Milotic",
+        "japones": "Milokaross\u30df\u30ed\u30ab\u30ed\u30b9"
+    },
+    {
+        "pokemon": "Castform",
+        "japones": "Powalen\u30dd\u30ef\u30eb\u30f3"
+    },
+    {
+        "pokemon": "Kecleon",
+        "japones": "Kakureon\u30ab\u30af\u30ec\u30aa\u30f3"
+    },
+    {
+        "pokemon": "Shuppet",
+        "japones": "Kagebouzu\u30ab\u30b2\u30dc\u30a6\u30ba"
+    },
+    {
+        "pokemon": "Banette",
+        "japones": "Juppeta\u30b8\u30e5\u30da\u30c3\u30bf"
+    },
+    {
+        "pokemon": "Duskull",
+        "japones": "Yomawaru\u30e8\u30de\u30ef\u30eb"
+    },
+    {
+        "pokemon": "Dusclops",
+        "japones": "Samayouru\u30b5\u30de\u30e8\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Tropius",
+        "japones": "Tropius\u30c8\u30ed\u30d4\u30a6\u30b9"
+    },
+    {
+        "pokemon": "Chimecho",
+        "japones": "Chirean\u30c1\u30ea\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Absol",
+        "japones": "Absol\u30a2\u30d6\u30bd\u30eb"
+    },
+    {
+        "pokemon": "Clefable",
+        "japones": "Pixy\u30d4\u30af\u30b7\u30fc"
+    },
+    {
+        "pokemon": "Wynaut",
+        "japones": "Sohnano\u30bd\u30fc\u30ca\u30ce"
+    },
+    {
+        "pokemon": "Snorunt",
+        "japones": "Yukiwarashi\u30e6\u30ad\u30ef\u30e9\u30b7"
+    },
+    {
+        "pokemon": "Glalie",
+        "japones": "Onigohri\u30aa\u30cb\u30b4\u30fc\u30ea"
+    },
+    {
+        "pokemon": "Spheal",
+        "japones": "Tamazarashi\u30bf\u30de\u30b6\u30e9\u30b7"
+    },
+    {
+        "pokemon": "Sealeo",
+        "japones": "Todoggler\u30c8\u30c9\u30b0\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Walrein",
+        "japones": "Todoseruga\u30c8\u30c9\u30bc\u30eb\u30ac"
+    },
+    {
+        "pokemon": "Clamperl",
+        "japones": "Pearlulu\u30d1\u30fc\u30eb\u30eb"
+    },
+    {
+        "pokemon": "Huntail",
+        "japones": "Huntail\u30cf\u30f3\u30c6\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Gorebyss",
+        "japones": "Sakurabyss\u30b5\u30af\u30e9\u30d3\u30b9"
+    },
+    {
+        "pokemon": "Relicanth",
+        "japones": "Glanth\u30b8\u30fc\u30e9\u30f3\u30b9"
+    },
+    {
+        "pokemon": "Vulpix",
+        "japones": "Rokon\u30ed\u30b3\u30f3"
+    },
+    {
+        "pokemon": "Luvdisc",
+        "japones": "Lovecus\u30e9\u30d6\u30ab\u30b9"
+    },
+    {
+        "pokemon": "Bagon",
+        "japones": "Tatsubay\u30bf\u30c4\u30d9\u30a4"
+    },
+    {
+        "pokemon": "Shelgon",
+        "japones": "Komoruu\u30b3\u30e2\u30eb\u30fc"
+    },
+    {
+        "pokemon": "Salamence",
+        "japones": "Bohmander\u30dc\u30fc\u30de\u30f3\u30c0"
+    },
+    {
+        "pokemon": "Beldum",
+        "japones": "Dumbber\u30c0\u30f3\u30d0\u30eb"
+    },
+    {
+        "pokemon": "Metang",
+        "japones": "Metang\u30e1\u30bf\u30f3\u30b0"
+    },
+    {
+        "pokemon": "Metagross",
+        "japones": "Metagross\u30e1\u30bf\u30b0\u30ed\u30b9"
+    },
+    {
+        "pokemon": "Regirock",
+        "japones": "Regirock\u30ec\u30b8\u30ed\u30c3\u30af"
+    },
+    {
+        "pokemon": "Regice",
+        "japones": "Regice\u30ec\u30b8\u30a2\u30a4\u30b9"
+    },
+    {
+        "pokemon": "Registeel",
+        "japones": "Registeel\u30ec\u30b8\u30b9\u30c1\u30eb"
+    },
+    {
+        "pokemon": "Ninetales",
+        "japones": "Kyukon\u30ad\u30e5\u30a6\u30b3\u30f3"
+    },
+    {
+        "pokemon": "Latias",
+        "japones": "Latias\u30e9\u30c6\u30a3\u30a2\u30b9"
+    },
+    {
+        "pokemon": "Latios",
+        "japones": "Latios\u30e9\u30c6\u30a3\u30aa\u30b9"
+    },
+    {
+        "pokemon": "Kyogre",
+        "japones": "Kyogre\u30ab\u30a4\u30aa\u30fc\u30ac"
+    },
+    {
+        "pokemon": "Groudon",
+        "japones": "Groudon\u30b0\u30e9\u30fc\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Rayquaza",
+        "japones": "Rayquaza\u30ec\u30c3\u30af\u30a6\u30b6"
+    },
+    {
+        "pokemon": "Jirachi",
+        "japones": "Jirachi\u30b8\u30e9\u30fc\u30c1"
+    },
+    {
+        "pokemon": "Deoxys",
+        "japones": "Deoxys\u30c7\u30aa\u30ad\u30b7\u30b9"
+    },
+    {
+        "pokemon": "Turtwig",
+        "japones": "Naetle\u30ca\u30a8\u30c8\u30eb"
+    },
+    {
+        "pokemon": "Grotle",
+        "japones": "Hayashigame\u30cf\u30e4\u30b7\u30ac\u30e1"
+    },
+    {
+        "pokemon": "Torterra",
+        "japones": "Dodaitose\u30c9\u30c0\u30a4\u30c8\u30b9"
+    },
+    {
+        "pokemon": "Jigglypuff",
+        "japones": "Purin\u30d7\u30ea\u30f3"
+    },
+    {
+        "pokemon": "Chimchar",
+        "japones": "Hikozaru\u30d2\u30b3\u30b6\u30eb"
+    },
+    {
+        "pokemon": "Monferno",
+        "japones": "Moukazaru\u30e2\u30a6\u30ab\u30b6\u30eb"
+    },
+    {
+        "pokemon": "Infernape",
+        "japones": "Goukazaru\u30b4\u30a6\u30ab\u30b6\u30eb"
+    },
+    {
+        "pokemon": "Piplup",
+        "japones": "Pochama\u30dd\u30c3\u30c1\u30e3\u30de"
+    },
+    {
+        "pokemon": "Prinplup",
+        "japones": "Pottaishi\u30dd\u30c3\u30bf\u30a4\u30b7"
+    },
+    {
+        "pokemon": "Empoleon",
+        "japones": "Emperte\u30a8\u30f3\u30da\u30eb\u30c8"
+    },
+    {
+        "pokemon": "Starly",
+        "japones": "Mukkuru\u30e0\u30c3\u30af\u30eb"
+    },
+    {
+        "pokemon": "Staravia",
+        "japones": "Mukubird\u30e0\u30af\u30d0\u30fc\u30c9"
+    },
+    {
+        "pokemon": "Staraptor",
+        "japones": "Mukuhawk\u30e0\u30af\u30db\u30fc\u30af"
+    },
+    {
+        "pokemon": "Bidoof",
+        "japones": "Bippa\u30d3\u30c3\u30d1"
+    },
+    {
+        "pokemon": "Charmander",
+        "japones": "Hitokage\u30d2\u30c8\u30ab\u30b2"
+    },
+    {
+        "pokemon": "Wigglytuff",
+        "japones": "Pukurin\u30d7\u30af\u30ea\u30f3"
+    },
+    {
+        "pokemon": "Bibarel",
+        "japones": "Beadaru\u30d3\u30fc\u30c0\u30eb"
+    },
+    {
+        "pokemon": "Kricketot",
+        "japones": "Korobohshi\u30b3\u30ed\u30dc\u30fc\u30b7"
+    },
+    {
+        "pokemon": "Kricketune",
+        "japones": "Korotock\u30b3\u30ed\u30c8\u30c3\u30af"
+    },
+    {
+        "pokemon": "Shinx",
+        "japones": "Kolink\u30b3\u30ea\u30f3\u30af"
+    },
+    {
+        "pokemon": "Luxio",
+        "japones": "Luxio\u30eb\u30af\u30b7\u30aa"
+    },
+    {
+        "pokemon": "Luxray",
+        "japones": "Rentorar\u30ec\u30f3\u30c8\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Budew",
+        "japones": "Subomie\u30b9\u30dc\u30df\u30fc"
+    },
+    {
+        "pokemon": "Roserade",
+        "japones": "Roserade\u30ed\u30ba\u30ec\u30a4\u30c9"
+    },
+    {
+        "pokemon": "Cranidos",
+        "japones": "Zugaidos\u30ba\u30ac\u30a4\u30c9\u30b9"
+    },
+    {
+        "pokemon": "Rampardos",
+        "japones": "Rampald\u30e9\u30e0\u30d1\u30eb\u30c9"
+    },
+    {
+        "pokemon": "Zubat",
+        "japones": "Zubat\u30ba\u30d0\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Shieldon",
+        "japones": "Tatetops\u30bf\u30c6\u30c8\u30d7\u30b9"
+    },
+    {
+        "pokemon": "Bastiodon",
+        "japones": "Torideps\u30c8\u30ea\u30c7\u30d7\u30b9"
+    },
+    {
+        "pokemon": "Burmy",
+        "japones": "Minomucchi\u30df\u30ce\u30e0\u30c3\u30c1"
+    },
+    {
+        "pokemon": "Wormadam",
+        "japones": "Minomadam (kusaki No Mino)\u30df\u30ce\u30de\u30c0\u30e0"
+    },
+    {
+        "pokemon": "Mothim",
+        "japones": "Gamale\u30ac\u30fc\u30e1\u30a4\u30eb"
+    },
+    {
+        "pokemon": "Combee",
+        "japones": "Mitsuhoney\u30df\u30c4\u30cf\u30cb\u30fc"
+    },
+    {
+        "pokemon": "Vespiquen",
+        "japones": "Beequen\u30d3\u30fc\u30af\u30a4\u30f3"
+    },
+    {
+        "pokemon": "Pachirisu",
+        "japones": "Pachirisu\u30d1\u30c1\u30ea\u30b9"
+    },
+    {
+        "pokemon": "Buizel",
+        "japones": "Buoysel\u30d6\u30a4\u30bc\u30eb"
+    },
+    {
+        "pokemon": "Floatzel",
+        "japones": "Floazel\u30d5\u30ed\u30fc\u30bc\u30eb"
+    },
+    {
+        "pokemon": "Golbat",
+        "japones": "Golbat\u30b4\u30eb\u30d0\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Cherubi",
+        "japones": "Cherinbo\u30c1\u30a7\u30ea\u30f3\u30dc"
+    },
+    {
+        "pokemon": "Cherrim",
+        "japones": "Cherrim\u30c1\u30a7\u30ea\u30e0"
+    },
+    {
+        "pokemon": "Shellos",
+        "japones": "Karanakushi\u30ab\u30e9\u30ca\u30af\u30b7"
+    },
+    {
+        "pokemon": "Gastrodon",
+        "japones": "Tritodon\u30c8\u30ea\u30c8\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Ambipom",
+        "japones": "Eteboth\u30a8\u30c6\u30dc\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Drifloon",
+        "japones": "Fuwante\u30d5\u30ef\u30f3\u30c6"
+    },
+    {
+        "pokemon": "Drifblim",
+        "japones": "Fuwaride\u30d5\u30ef\u30e9\u30a4\u30c9"
+    },
+    {
+        "pokemon": "Buneary",
+        "japones": "Mimirol\u30df\u30df\u30ed\u30eb"
+    },
+    {
+        "pokemon": "Lopunny",
+        "japones": "Mimilop\u30df\u30df\u30ed\u30c3\u30d7"
+    },
+    {
+        "pokemon": "Mismagius",
+        "japones": "Mumargi\u30e0\u30a6\u30de\u30fc\u30b8"
+    },
+    {
+        "pokemon": "Oddish",
+        "japones": "Nazonokusa\u30ca\u30be\u30ce\u30af\u30b5"
+    },
+    {
+        "pokemon": "Honchkrow",
+        "japones": "Dongkarasu\u30c9\u30f3\u30ab\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Glameow",
+        "japones": "Nyarmar\u30cb\u30e3\u30eb\u30de\u30fc"
+    },
+    {
+        "pokemon": "Purugly",
+        "japones": "Bunyatto\u30d6\u30cb\u30e3\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Chingling",
+        "japones": "Lisyan\u30ea\u30fc\u30b7\u30e3\u30f3"
+    },
+    {
+        "pokemon": "Stunky",
+        "japones": "Skunpuu\u30b9\u30ab\u30f3\u30d7\u30fc"
+    },
+    {
+        "pokemon": "Skuntank",
+        "japones": "Skutank\u30b9\u30ab\u30bf\u30f3\u30af"
+    },
+    {
+        "pokemon": "Bronzor",
+        "japones": "Dohmirror\u30c9\u30fc\u30df\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Bronzong",
+        "japones": "Dohtakun\u30c9\u30fc\u30bf\u30af\u30f3"
+    },
+    {
+        "pokemon": "Bonsly",
+        "japones": "Usohachi\u30a6\u30bd\u30cf\u30c1"
+    },
+    {
+        "pokemon": "Mime Jr.",
+        "japones": "Manene\u30de\u30cd\u30cd"
+    },
+    {
+        "pokemon": "Gloom",
+        "japones": "Kusaihana\u30af\u30b5\u30a4\u30cf\u30ca"
+    },
+    {
+        "pokemon": "Happiny",
+        "japones": "Pinpuku\u30d4\u30f3\u30d7\u30af"
+    },
+    {
+        "pokemon": "Chatot",
+        "japones": "Perap\u30da\u30e9\u30c3\u30d7"
+    },
+    {
+        "pokemon": "Spiritomb",
+        "japones": "Mikaruge\u30df\u30ab\u30eb\u30b2"
+    },
+    {
+        "pokemon": "Gible",
+        "japones": "Fukamaru\u30d5\u30ab\u30de\u30eb"
+    },
+    {
+        "pokemon": "Gabite",
+        "japones": "Gabite\u30ac\u30d0\u30a4\u30c8"
+    },
+    {
+        "pokemon": "Garchomp",
+        "japones": "Gaburias\u30ac\u30d6\u30ea\u30a2\u30b9"
+    },
+    {
+        "pokemon": "Munchlax",
+        "japones": "Gonbe\u30b4\u30f3\u30d9"
+    },
+    {
+        "pokemon": "Riolu",
+        "japones": "Riolu\u30ea\u30aa\u30eb"
+    },
+    {
+        "pokemon": "Lucario",
+        "japones": "Lucario\u30eb\u30ab\u30ea\u30aa"
+    },
+    {
+        "pokemon": "Hippopotas",
+        "japones": "Hippopotas\u30d2\u30dd\u30dd\u30bf\u30b9"
+    },
+    {
+        "pokemon": "Vileplume",
+        "japones": "Ruffresia\u30e9\u30d5\u30ec\u30b7\u30a2"
+    },
+    {
+        "pokemon": "Hippowdon",
+        "japones": "Kabaldon\u30ab\u30d0\u30eb\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Skorupi",
+        "japones": "Scorupi\u30b9\u30b3\u30eb\u30d4"
+    },
+    {
+        "pokemon": "Drapion",
+        "japones": "Dorapion\u30c9\u30e9\u30d4\u30aa\u30f3"
+    },
+    {
+        "pokemon": "Croagunk",
+        "japones": "Gureggru\u30b0\u30ec\u30c3\u30b0\u30eb"
+    },
+    {
+        "pokemon": "Toxicroak",
+        "japones": "Dokurog\u30c9\u30af\u30ed\u30c3\u30b0"
+    },
+    {
+        "pokemon": "Carnivine",
+        "japones": "Muskippa\u30de\u30b9\u30ad\u30c3\u30d1"
+    },
+    {
+        "pokemon": "Finneon",
+        "japones": "Keikouo\u30b1\u30a4\u30b3\u30a6\u30aa"
+    },
+    {
+        "pokemon": "Lumineon",
+        "japones": "Neolant\u30cd\u30aa\u30e9\u30f3\u30c8"
+    },
+    {
+        "pokemon": "Mantyke",
+        "japones": "Tamanta\u30bf\u30de\u30f3\u30bf"
+    },
+    {
+        "pokemon": "Snover",
+        "japones": "Yukikaburi\u30e6\u30ad\u30ab\u30d6\u30ea"
+    },
+    {
+        "pokemon": "Paras",
+        "japones": "Paras\u30d1\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Abomasnow",
+        "japones": "Yukinooh\u30e6\u30ad\u30ce\u30aa\u30fc"
+    },
+    {
+        "pokemon": "Weavile",
+        "japones": "Manyula\u30de\u30cb\u30e5\u30fc\u30e9"
+    },
+    {
+        "pokemon": "Magnezone",
+        "japones": "Jibacoil\u30b8\u30d0\u30b3\u30a4\u30eb"
+    },
+    {
+        "pokemon": "Lickilicky",
+        "japones": "Berobelt\u30d9\u30ed\u30d9\u30eb\u30c8"
+    },
+    {
+        "pokemon": "Rhyperior",
+        "japones": "Dosidon\u30c9\u30b5\u30a4\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Tangrowth",
+        "japones": "Mojumbo\u30e2\u30b8\u30e3\u30f3\u30dc"
+    },
+    {
+        "pokemon": "Electivire",
+        "japones": "Elekible\u30a8\u30ec\u30ad\u30d6\u30eb"
+    },
+    {
+        "pokemon": "Magmortar",
+        "japones": "Booburn\u30d6\u30fc\u30d0\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Togekiss",
+        "japones": "Togekiss\u30c8\u30b2\u30ad\u30c3\u30b9"
+    },
+    {
+        "pokemon": "Yanmega",
+        "japones": "Megayanma\u30e1\u30ac\u30e4\u30f3\u30de"
+    },
+    {
+        "pokemon": "Parasect",
+        "japones": "Parasect\u30d1\u30e9\u30bb\u30af\u30c8"
+    },
+    {
+        "pokemon": "Leafeon",
+        "japones": "Leafia\u30ea\u30fc\u30d5\u30a3\u30a2"
+    },
+    {
+        "pokemon": "Glaceon",
+        "japones": "Glacia\u30b0\u30ec\u30a4\u30b7\u30a2"
+    },
+    {
+        "pokemon": "Gliscor",
+        "japones": "Glion\u30b0\u30e9\u30a4\u30aa\u30f3"
+    },
+    {
+        "pokemon": "Mamoswine",
+        "japones": "Mammoo\u30de\u30f3\u30e0\u30fc"
+    },
+    {
+        "pokemon": "Porygon-Z",
+        "japones": "Porygon-z\u30dd\u30ea\u30b4\u30f3\uff3a"
+    },
+    {
+        "pokemon": "Gallade",
+        "japones": "Erureido\u30a8\u30eb\u30ec\u30a4\u30c9"
+    },
+    {
+        "pokemon": "Probopass",
+        "japones": "Dainose\u30c0\u30a4\u30ce\u30fc\u30ba"
+    },
+    {
+        "pokemon": "Dusknoir",
+        "japones": "Yonoir\u30e8\u30ce\u30ef\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Froslass",
+        "japones": "Yukimenoko\u30e6\u30ad\u30e1\u30ce\u30b3"
+    },
+    {
+        "pokemon": "Rotom",
+        "japones": "Rotom\u30ed\u30c8\u30e0"
+    },
+    {
+        "pokemon": "Venonat",
+        "japones": "Kongpang\u30b3\u30f3\u30d1\u30f3"
+    },
+    {
+        "pokemon": "Uxie",
+        "japones": "Yuxie\u30e6\u30af\u30b7\u30fc"
+    },
+    {
+        "pokemon": "Mesprit",
+        "japones": "Emrit\u30a8\u30e0\u30ea\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Azelf",
+        "japones": "Agnome\u30a2\u30b0\u30ce\u30e0"
+    },
+    {
+        "pokemon": "Dialga",
+        "japones": "Dialga\u30c7\u30a3\u30a2\u30eb\u30ac"
+    },
+    {
+        "pokemon": "Palkia",
+        "japones": "Palkia\u30d1\u30eb\u30ad\u30a2"
+    },
+    {
+        "pokemon": "Heatran",
+        "japones": "Heatran\u30d2\u30fc\u30c9\u30e9\u30f3"
+    },
+    {
+        "pokemon": "Regigigas",
+        "japones": "Regigigas\u30ec\u30b8\u30ae\u30ac\u30b9"
+    },
+    {
+        "pokemon": "Giratina",
+        "japones": "Giratina (another Forme)\u30ae\u30e9\u30c6\u30a3\u30ca"
+    },
+    {
+        "pokemon": "Cresselia",
+        "japones": "Cresselia\u30af\u30ec\u30bb\u30ea\u30a2"
+    },
+    {
+        "pokemon": "Phione",
+        "japones": "Phione\u30d5\u30a3\u30aa\u30cd"
+    },
+    {
+        "pokemon": "Venomoth",
+        "japones": "Morphon\u30e2\u30eb\u30d5\u30a9\u30f3"
+    },
+    {
+        "pokemon": "Manaphy",
+        "japones": "Manaphy\u30de\u30ca\u30d5\u30a3"
+    },
+    {
+        "pokemon": "Darkrai",
+        "japones": "Darkrai\u30c0\u30fc\u30af\u30e9\u30a4"
+    },
+    {
+        "pokemon": "Shaymin",
+        "japones": "Shaymin (sky Forme)\u30b7\u30a7\u30a4\u30df"
+    },
+    {
+        "pokemon": "Arceus",
+        "japones": "Arceus\u30a2\u30eb\u30bb\u30a6\u30b9"
+    },
+    {
+        "pokemon": "Victini",
+        "japones": "Victini\u30d3\u30af\u30c6\u30a3\u30cb"
+    },
+    {
+        "pokemon": "Snivy",
+        "japones": "Tsutarja\u30c4\u30bf\u30fc\u30b8\u30e3"
+    },
+    {
+        "pokemon": "Servine",
+        "japones": "Janovy\u30b8\u30e3\u30ce\u30d3\u30fc"
+    },
+    {
+        "pokemon": "Serperior",
+        "japones": "Jalorda\u30b8\u30e3\u30ed\u30fc\u30c0"
+    },
+    {
+        "pokemon": "Tepig",
+        "japones": "Pokabu\u30dd\u30ab\u30d6"
+    },
+    {
+        "pokemon": "Pignite",
+        "japones": "Chaoboo\u30c1\u30e3\u30aa\u30d6\u30fc"
+    },
+    {
+        "pokemon": "Charmeleon",
+        "japones": "Lizardo\u30ea\u30b6\u30fc\u30c9"
+    },
+    {
+        "pokemon": "Diglett",
+        "japones": "Digda\u30c7\u30a3\u30b0\u30c0"
+    },
+    {
+        "pokemon": "Emboar",
+        "japones": "Enbuoh\u30a8\u30f3\u30d6\u30aa\u30fc"
+    },
+    {
+        "pokemon": "Oshawott",
+        "japones": "Mijumaru\u30df\u30b8\u30e5\u30de\u30eb"
+    },
+    {
+        "pokemon": "Dewott",
+        "japones": "Futachimaru\u30d5\u30bf\u30c1\u30de\u30eb"
+    },
+    {
+        "pokemon": "Samurott",
+        "japones": "Daikenki\u30c0\u30a4\u30b1\u30f3\u30ad"
+    },
+    {
+        "pokemon": "Patrat",
+        "japones": "Minezumi\u30df\u30cd\u30ba\u30df"
+    },
+    {
+        "pokemon": "Watchog",
+        "japones": "Miruhog\u30df\u30eb\u30db\u30c3\u30b0"
+    },
+    {
+        "pokemon": "Lillipup",
+        "japones": "Yorterrie\u30e8\u30fc\u30c6\u30ea\u30fc"
+    },
+    {
+        "pokemon": "Herdier",
+        "japones": "Herderrie\u30cf\u30fc\u30c7\u30ea\u30a2"
+    },
+    {
+        "pokemon": "Stoutland",
+        "japones": "Mooland\u30e0\u30fc\u30e9\u30f3\u30c9"
+    },
+    {
+        "pokemon": "Purrloin",
+        "japones": "Choroneko\u30c1\u30e7\u30ed\u30cd\u30b3"
+    },
+    {
+        "pokemon": "Dugtrio",
+        "japones": "Dugtrio\u30c0\u30b0\u30c8\u30ea\u30aa"
+    },
+    {
+        "pokemon": "Liepard",
+        "japones": "Lepardas\u30ec\u30d1\u30eb\u30c0\u30b9"
+    },
+    {
+        "pokemon": "Pansage",
+        "japones": "Yanappu\u30e4\u30ca\u30c3\u30d7"
+    },
+    {
+        "pokemon": "Simisage",
+        "japones": "Yanakkie\u30e4\u30ca\u30c3\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Pansear",
+        "japones": "Baoppu\u30d0\u30aa\u30c3\u30d7"
+    },
+    {
+        "pokemon": "Simisear",
+        "japones": "Baokkie\u30d0\u30aa\u30c3\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Panpour",
+        "japones": "Hiyappu\u30d2\u30e4\u30c3\u30d7"
+    },
+    {
+        "pokemon": "Simipour",
+        "japones": "Hiyakkie\u30d2\u30e4\u30c3\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Munna",
+        "japones": "Munna\u30e0\u30f3\u30ca"
+    },
+    {
+        "pokemon": "Musharna",
+        "japones": "Musharna\u30e0\u30b7\u30e3\u30fc\u30ca"
+    },
+    {
+        "pokemon": "Pidove",
+        "japones": "Mamepato\u30de\u30e1\u30d1\u30c8"
+    },
+    {
+        "pokemon": "Meowth",
+        "japones": "Nyarth\u30cb\u30e3\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Tranquill",
+        "japones": "Hatoboh\u30cf\u30c8\u30fc\u30dc\u30fc"
+    },
+    {
+        "pokemon": "Unfezant",
+        "japones": "Kenhallow\u30b1\u30f3\u30db\u30ed\u30a6"
+    },
+    {
+        "pokemon": "Blitzle",
+        "japones": "Shimama\u30b7\u30de\u30de"
+    },
+    {
+        "pokemon": "Zebstrika",
+        "japones": "Zebraika\u30bc\u30d6\u30e9\u30a4\u30ab"
+    },
+    {
+        "pokemon": "Roggenrola",
+        "japones": "Dangoro\u30c0\u30f3\u30b4\u30ed"
+    },
+    {
+        "pokemon": "Boldore",
+        "japones": "Gantle\u30ac\u30f3\u30c8\u30eb"
+    },
+    {
+        "pokemon": "Gigalith",
+        "japones": "Gigaiath\u30ae\u30ac\u30a4\u30a2\u30b9"
+    },
+    {
+        "pokemon": "Woobat",
+        "japones": "Koromori\u30b3\u30ed\u30e2\u30ea"
+    },
+    {
+        "pokemon": "Swoobat",
+        "japones": "Kokoromori\u30b3\u30b3\u30ed\u30e2\u30ea"
+    },
+    {
+        "pokemon": "Drilbur",
+        "japones": "Mogurew\u30e2\u30b0\u30ea\u30e5\u30fc"
+    },
+    {
+        "pokemon": "Persian",
+        "japones": "Persian\u30da\u30eb\u30b7\u30a2\u30f3"
+    },
+    {
+        "pokemon": "Excadrill",
+        "japones": "Doryuzu\u30c9\u30ea\u30e5\u30a6\u30ba"
+    },
+    {
+        "pokemon": "Audino",
+        "japones": "Tabunne\u30bf\u30d6\u30f3\u30cd"
+    },
+    {
+        "pokemon": "Timburr",
+        "japones": "Dokkorer\u30c9\u30c3\u30b3\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Gurdurr",
+        "japones": "Dotekkotsu\u30c9\u30c6\u30c3\u30b3\u30c4"
+    },
+    {
+        "pokemon": "Conkeldurr",
+        "japones": "Roubushin\u30ed\u30fc\u30d6\u30b7\u30f3"
+    },
+    {
+        "pokemon": "Tympole",
+        "japones": "Otamaro\u30aa\u30bf\u30de\u30ed"
+    },
+    {
+        "pokemon": "Palpitoad",
+        "japones": "Gamagaru\u30ac\u30de\u30ac\u30eb"
+    },
+    {
+        "pokemon": "Seismitoad",
+        "japones": "Gamageroge\u30ac\u30de\u30b2\u30ed\u30b2"
+    },
+    {
+        "pokemon": "Throh",
+        "japones": "Nageki\u30ca\u30b2\u30ad"
+    },
+    {
+        "pokemon": "Sawk",
+        "japones": "Dageki\u30c0\u30b2\u30ad"
+    },
+    {
+        "pokemon": "Psyduck",
+        "japones": "Koduck\u30b3\u30c0\u30c3\u30af"
+    },
+    {
+        "pokemon": "Sewaddle",
+        "japones": "Kurumiru\u30af\u30eb\u30df\u30eb"
+    },
+    {
+        "pokemon": "Swadloon",
+        "japones": "Kurumayu\u30af\u30eb\u30de\u30e6"
+    },
+    {
+        "pokemon": "Leavanny",
+        "japones": "Hahakomori\u30cf\u30cf\u30b3\u30e2\u30ea"
+    },
+    {
+        "pokemon": "Venipede",
+        "japones": "Fushide\u30d5\u30b7\u30c7"
+    },
+    {
+        "pokemon": "Whirlipede",
+        "japones": "Wheega\u30db\u30a4\u30fc\u30ac"
+    },
+    {
+        "pokemon": "Scolipede",
+        "japones": "Pendror\u30da\u30f3\u30c9\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Cottonee",
+        "japones": "Monmen\u30e2\u30f3\u30e1\u30f3"
+    },
+    {
+        "pokemon": "Whimsicott",
+        "japones": "Elfuun\u30a8\u30eb\u30d5\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Petilil",
+        "japones": "Churine\u30c1\u30e5\u30ea\u30cd"
+    },
+    {
+        "pokemon": "Lilligant",
+        "japones": "Dredear\u30c9\u30ec\u30c7\u30a3\u30a2"
+    },
+    {
+        "pokemon": "Golduck",
+        "japones": "Golduck\u30b4\u30eb\u30c0\u30c3\u30af"
+    },
+    {
+        "pokemon": "Basculin",
+        "japones": "Bassrao\u30d0\u30b9\u30e9\u30aa"
+    },
+    {
+        "pokemon": "Sandile",
+        "japones": "Meguroco\u30e1\u30b0\u30ed\u30b3"
+    },
+    {
+        "pokemon": "Krokorok",
+        "japones": "Waruvile\u30ef\u30eb\u30d3\u30eb"
+    },
+    {
+        "pokemon": "Krookodile",
+        "japones": "Waruvial\u30ef\u30eb\u30d3\u30a2\u30eb"
+    },
+    {
+        "pokemon": "Darumaka",
+        "japones": "Darumakka\u30c0\u30eb\u30de\u30c3\u30ab"
+    },
+    {
+        "pokemon": "Darmanitan",
+        "japones": "Hihidaruma\u30d2\u30d2\u30c0\u30eb\u30de"
+    },
+    {
+        "pokemon": "Maractus",
+        "japones": "Maracacchi\u30de\u30e9\u30ab\u30c3\u30c1"
+    },
+    {
+        "pokemon": "Dwebble",
+        "japones": "Ishizumai\u30a4\u30b7\u30ba\u30de\u30a4"
+    },
+    {
+        "pokemon": "Crustle",
+        "japones": "Iwapalace\u30a4\u30ef\u30d1\u30ec\u30b9"
+    },
+    {
+        "pokemon": "Scraggy",
+        "japones": "Zuruggu\u30ba\u30eb\u30c3\u30b0"
+    },
+    {
+        "pokemon": "Mankey",
+        "japones": "Mankey\u30de\u30f3\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Scrafty",
+        "japones": "Zuruzukin\u30ba\u30eb\u30ba\u30ad\u30f3"
+    },
+    {
+        "pokemon": "Sigilyph",
+        "japones": "Symboler\u30b7\u30f3\u30dc\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Yamask",
+        "japones": "Desumasu\u30c7\u30b9\u30de\u30b9"
+    },
+    {
+        "pokemon": "Cofagrigus",
+        "japones": "Desukarn\u30c7\u30b9\u30ab\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Tirtouga",
+        "japones": "Protoga\u30d7\u30ed\u30c8\u30fc\u30ac"
+    },
+    {
+        "pokemon": "Carracosta",
+        "japones": "Abagoura\u30a2\u30d0\u30b4\u30fc\u30e9"
+    },
+    {
+        "pokemon": "Archen",
+        "japones": "Archen\u30a2\u30fc\u30b1\u30f3"
+    },
+    {
+        "pokemon": "Archeops",
+        "japones": "Archeos\u30a2\u30fc\u30b1\u30aa\u30b9"
+    },
+    {
+        "pokemon": "Trubbish",
+        "japones": "Yabukuron\u30e4\u30d6\u30af\u30ed\u30f3"
+    },
+    {
+        "pokemon": "Garbodor",
+        "japones": "Dustdas\u30c0\u30b9\u30c8\u30c0\u30b9"
+    },
+    {
+        "pokemon": "Primeape",
+        "japones": "Okorizaru\u30aa\u30b3\u30ea\u30b6\u30eb"
+    },
+    {
+        "pokemon": "Zorua",
+        "japones": "Zorua\u30be\u30ed\u30a2"
+    },
+    {
+        "pokemon": "Zoroark",
+        "japones": "Zoroark\u30be\u30ed\u30a2\u30fc\u30af"
+    },
+    {
+        "pokemon": "Minccino",
+        "japones": "Chillarmy\u30c1\u30e9\u30fc\u30df\u30a3"
+    },
+    {
+        "pokemon": "Cinccino",
+        "japones": "Chillaccino\u30c1\u30e9\u30c1\u30fc\u30ce"
+    },
+    {
+        "pokemon": "Gothita",
+        "japones": "Gothimu\u30b4\u30c1\u30e0"
+    },
+    {
+        "pokemon": "Gothorita",
+        "japones": "Gothimiru\u30b4\u30c1\u30df\u30eb"
+    },
+    {
+        "pokemon": "Gothitelle",
+        "japones": "Gothiruselle\u30b4\u30c1\u30eb\u30bc\u30eb"
+    },
+    {
+        "pokemon": "Solosis",
+        "japones": "Uniran\u30e6\u30cb\u30e9\u30f3"
+    },
+    {
+        "pokemon": "Duosion",
+        "japones": "Doublan\u30c0\u30d6\u30e9\u30f3"
+    },
+    {
+        "pokemon": "Reuniclus",
+        "japones": "Lanculus\u30e9\u30f3\u30af\u30eb\u30b9"
+    },
+    {
+        "pokemon": "Growlithe",
+        "japones": "Gardie\u30ac\u30fc\u30c7\u30a3"
+    },
+    {
+        "pokemon": "Ducklett",
+        "japones": "Koaruhie\u30b3\u30a2\u30eb\u30d2\u30fc"
+    },
+    {
+        "pokemon": "Swanna",
+        "japones": "Swanna\u30b9\u30ef\u30f3\u30ca"
+    },
+    {
+        "pokemon": "Vanillite",
+        "japones": "Vanipeti\u30d0\u30cb\u30d7\u30c3\u30c1"
+    },
+    {
+        "pokemon": "Vanillish",
+        "japones": "Vanirich\u30d0\u30cb\u30ea\u30c3\u30c1"
+    },
+    {
+        "pokemon": "Vanilluxe",
+        "japones": "Baivanilla\u30d0\u30a4\u30d0\u30cb\u30e9"
+    },
+    {
+        "pokemon": "Deerling",
+        "japones": "Shikijika\u30b7\u30ad\u30b8\u30ab"
+    },
+    {
+        "pokemon": "Sawsbuck",
+        "japones": "Mebukijika\u30e1\u30d6\u30ad\u30b8\u30ab"
+    },
+    {
+        "pokemon": "Emolga",
+        "japones": "Emonga\u30a8\u30e2\u30f3\u30ac"
+    },
+    {
+        "pokemon": "Karrablast",
+        "japones": "Kaburumo\u30ab\u30d6\u30eb\u30e2"
+    },
+    {
+        "pokemon": "Escavalier",
+        "japones": "Chevargo\u30b7\u30e5\u30d0\u30eb\u30b4"
+    },
+    {
+        "pokemon": "Arcanine",
+        "japones": "Windie\u30a6\u30a4\u30f3\u30c7\u30a3"
+    },
+    {
+        "pokemon": "Foongus",
+        "japones": "Tamagetake\u30bf\u30de\u30b2\u30bf\u30b1"
+    },
+    {
+        "pokemon": "Amoonguss",
+        "japones": "Morobareru\u30e2\u30ed\u30d0\u30ec\u30eb"
+    },
+    {
+        "pokemon": "Frillish",
+        "japones": "Pururill\u30d7\u30eb\u30ea\u30eb"
+    },
+    {
+        "pokemon": "Jellicent",
+        "japones": "Burungel\u30d6\u30eb\u30f3\u30b2\u30eb"
+    },
+    {
+        "pokemon": "Alomomola",
+        "japones": "Mamanbou\u30de\u30de\u30f3\u30dc\u30a6"
+    },
+    {
+        "pokemon": "Joltik",
+        "japones": "Bachuru\u30d0\u30c1\u30e5\u30eb"
+    },
+    {
+        "pokemon": "Galvantula",
+        "japones": "Dentula\u30c7\u30f3\u30c1\u30e5\u30e9"
+    },
+    {
+        "pokemon": "Ferroseed",
+        "japones": "Tesseed\u30c6\u30c3\u30b7\u30fc\u30c9"
+    },
+    {
+        "pokemon": "Ferrothorn",
+        "japones": "Nutrey\u30ca\u30c3\u30c8\u30ec\u30a4"
+    },
+    {
+        "pokemon": "Klink",
+        "japones": "Giaru\u30ae\u30a2\u30eb"
+    },
+    {
+        "pokemon": "Charizard",
+        "japones": "Lizardon\u30ea\u30b6\u30fc\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Poliwag",
+        "japones": "Nyoromo\u30cb\u30e7\u30ed\u30e2"
+    },
+    {
+        "pokemon": "Klang",
+        "japones": "Gigiaru\u30ae\u30ae\u30a2\u30eb"
+    },
+    {
+        "pokemon": "Klinklang",
+        "japones": "Gigigiaru\u30ae\u30ae\u30ae\u30a2\u30eb"
+    },
+    {
+        "pokemon": "Tynamo",
+        "japones": "Shibishirasu\u30b7\u30d3\u30b7\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Eelektrik",
+        "japones": "Shibibeel\u30b7\u30d3\u30d3\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Eelektross",
+        "japones": "Shibirudon\u30b7\u30d3\u30eb\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Elgyem",
+        "japones": "Ligray\u30ea\u30b0\u30ec\u30fc"
+    },
+    {
+        "pokemon": "Beheeyem",
+        "japones": "Ohbem\u30aa\u30fc\u30d9\u30e0"
+    },
+    {
+        "pokemon": "Litwick",
+        "japones": "Hitomoshi\u30d2\u30c8\u30e2\u30b7"
+    },
+    {
+        "pokemon": "Lampent",
+        "japones": "Lampler\u30e9\u30f3\u30d7\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Chandelure",
+        "japones": "Chandela\u30b7\u30e3\u30f3\u30c7\u30e9"
+    },
+    {
+        "pokemon": "Poliwhirl",
+        "japones": "Nyorozo\u30cb\u30e7\u30ed\u30be"
+    },
+    {
+        "pokemon": "Axew",
+        "japones": "Kibago\u30ad\u30d0\u30b4"
+    },
+    {
+        "pokemon": "Fraxure",
+        "japones": "Onondo\u30aa\u30ce\u30f3\u30c9"
+    },
+    {
+        "pokemon": "Haxorus",
+        "japones": "Ononokus\u30aa\u30ce\u30ce\u30af\u30b9"
+    },
+    {
+        "pokemon": "Cubchoo",
+        "japones": "Kumasyun\u30af\u30de\u30b7\u30e5\u30f3"
+    },
+    {
+        "pokemon": "Beartic",
+        "japones": "Tunbear\u30c4\u30f3\u30d9\u30a2\u30fc"
+    },
+    {
+        "pokemon": "Cryogonal",
+        "japones": "Freegeo\u30d5\u30ea\u30fc\u30b8\u30aa"
+    },
+    {
+        "pokemon": "Shelmet",
+        "japones": "Chobomaki\u30c1\u30e7\u30dc\u30de\u30ad"
+    },
+    {
+        "pokemon": "Accelgor",
+        "japones": "Agilder\u30a2\u30ae\u30eb\u30c0\u30fc"
+    },
+    {
+        "pokemon": "Stunfisk",
+        "japones": "Maggyo\u30de\u30c3\u30ae\u30e7"
+    },
+    {
+        "pokemon": "Mienfoo",
+        "japones": "Kojofu\u30b3\u30b8\u30e7\u30d5\u30fc"
+    },
+    {
+        "pokemon": "Poliwrath",
+        "japones": "Nyorobon\u30cb\u30e7\u30ed\u30dc\u30f3"
+    },
+    {
+        "pokemon": "Mienshao",
+        "japones": "Kojondo\u30b3\u30b8\u30e7\u30f3\u30c9"
+    },
+    {
+        "pokemon": "Druddigon",
+        "japones": "Crimgan\u30af\u30ea\u30e0\u30ac\u30f3"
+    },
+    {
+        "pokemon": "Golett",
+        "japones": "Gobit\u30b4\u30d3\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Golurk",
+        "japones": "Goloog\u30b4\u30eb\u30fc\u30b0"
+    },
+    {
+        "pokemon": "Pawniard",
+        "japones": "Komatana\u30b3\u30de\u30bf\u30ca"
+    },
+    {
+        "pokemon": "Bisharp",
+        "japones": "Kirikizan\u30ad\u30ea\u30ad\u30b6\u30f3"
+    },
+    {
+        "pokemon": "Bouffalant",
+        "japones": "Buffron\u30d0\u30c3\u30d5\u30ed\u30f3"
+    },
+    {
+        "pokemon": "Rufflet",
+        "japones": "Washibon\u30ef\u30b7\u30dc\u30f3"
+    },
+    {
+        "pokemon": "Braviary",
+        "japones": "Warrgle\u30a6\u30a9\u30fc\u30b0\u30eb"
+    },
+    {
+        "pokemon": "Vullaby",
+        "japones": "Valchai\u30d0\u30eb\u30c1\u30e3\u30a4"
+    },
+    {
+        "pokemon": "Abra",
+        "japones": "Casey\u30b1\u30fc\u30b7\u30a3"
+    },
+    {
+        "pokemon": "Mandibuzz",
+        "japones": "Vulgina\u30d0\u30eb\u30b8\u30fc\u30ca"
+    },
+    {
+        "pokemon": "Heatmor",
+        "japones": "Kuitaran\u30af\u30a4\u30bf\u30e9\u30f3"
+    },
+    {
+        "pokemon": "Durant",
+        "japones": "Aiant\u30a2\u30a4\u30a2\u30f3\u30c8"
+    },
+    {
+        "pokemon": "Deino",
+        "japones": "Monozu\u30e2\u30ce\u30ba"
+    },
+    {
+        "pokemon": "Zweilous",
+        "japones": "Dihead\u30b8\u30d8\u30c3\u30c9"
+    },
+    {
+        "pokemon": "Hydreigon",
+        "japones": "Sazandora\u30b5\u30b6\u30f3\u30c9\u30e9"
+    },
+    {
+        "pokemon": "Larvesta",
+        "japones": "Merlarva\u30e1\u30e9\u30eb\u30d0"
+    },
+    {
+        "pokemon": "Volcarona",
+        "japones": "Ulgamoth\u30a6\u30eb\u30ac\u30e2\u30b9"
+    },
+    {
+        "pokemon": "Cobalion",
+        "japones": "Cobalon\u30b3\u30d0\u30eb\u30aa\u30f3"
+    },
+    {
+        "pokemon": "Terrakion",
+        "japones": "Terrakion\u30c6\u30e9\u30ad\u30aa\u30f3"
+    },
+    {
+        "pokemon": "Kadabra",
+        "japones": "Yungerer\u30e6\u30f3\u30b2\u30e9\u30fc"
+    },
+    {
+        "pokemon": "Virizion",
+        "japones": "Virizion\u30d3\u30ea\u30b8\u30aa\u30f3"
+    },
+    {
+        "pokemon": "Tornadus",
+        "japones": "Tornelos (keshin Forme)\u30c8\u30eb\u30cd\u30ed\u30b9"
+    },
+    {
+        "pokemon": "Thundurus",
+        "japones": "Voltolos (keshin Forme)\u30dc\u30eb\u30c8\u30ed\u30b9"
+    },
+    {
+        "pokemon": "Reshiram",
+        "japones": "Reshiram\u30ec\u30b7\u30e9\u30e0"
+    },
+    {
+        "pokemon": "Zekrom",
+        "japones": "Zekrom\u30bc\u30af\u30ed\u30e0"
+    },
+    {
+        "pokemon": "Landorus",
+        "japones": "Landlos (keshin Forme)\u30e9\u30f3\u30c9\u30ed\u30b9"
+    },
+    {
+        "pokemon": "Kyurem",
+        "japones": "Kyurem\u30ad\u30e5\u30ec\u30e0"
+    },
+    {
+        "pokemon": "Keldeo",
+        "japones": "Keldeo (itsumo No Sugata)\u30b1\u30eb\u30c7\u30a3\u30aa"
+    },
+    {
+        "pokemon": "Meloetta",
+        "japones": "Meloetta (step Forme)\u30e1\u30ed\u30a8\u30c3\u30bf"
+    },
+    {
+        "pokemon": "Genesect",
+        "japones": "Genesect\u30b2\u30ce\u30bb\u30af\u30c8"
+    },
+    {
+        "pokemon": "Alakazam",
+        "japones": "Foodin\u30d5\u30fc\u30c7\u30a3\u30f3"
+    },
+    {
+        "pokemon": "Chespin",
+        "japones": "Harimaron\u30cf\u30ea\u30de\u30ed\u30f3"
+    },
+    {
+        "pokemon": "Quilladin",
+        "japones": "Hariborg\u30cf\u30ea\u30dc\u30fc\u30b0"
+    },
+    {
+        "pokemon": "Chesnaught",
+        "japones": "Brigarron\u30d6\u30ea\u30ac\u30ed\u30f3"
+    },
+    {
+        "pokemon": "Fennekin",
+        "japones": "Fokko\u30d5\u30a9\u30c3\u30b3"
+    },
+    {
+        "pokemon": "Braixen",
+        "japones": "Tairenar\u30c6\u30fc\u30eb\u30ca\u30fc"
+    },
+    {
+        "pokemon": "Delphox",
+        "japones": "Mahoxy\u30de\u30d5\u30a9\u30af\u30b7\u30fc"
+    },
+    {
+        "pokemon": "Froakie",
+        "japones": "Keromatsu\u30b1\u30ed\u30de\u30c4"
+    },
+    {
+        "pokemon": "Frogadier",
+        "japones": "Gekogashira\u30b2\u30b3\u30ac\u30b7\u30e9"
+    },
+    {
+        "pokemon": "Greninja",
+        "japones": "Gekkouga\u30b2\u30c3\u30b3\u30a6\u30ac"
+    },
+    {
+        "pokemon": "Bunnelby",
+        "japones": "Horubee\u30db\u30eb\u30d3\u30fc"
+    },
+    {
+        "pokemon": "Machop",
+        "japones": "Wanriky\u30ef\u30f3\u30ea\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Diggersby",
+        "japones": "Horudo\u30db\u30eb\u30fc\u30c9"
+    },
+    {
+        "pokemon": "Fletchling",
+        "japones": "Yayakoma\u30e4\u30e4\u30b3\u30de"
+    },
+    {
+        "pokemon": "Fletchinder",
+        "japones": "Hinoyakoma\u30d2\u30ce\u30e4\u30b3\u30de"
+    },
+    {
+        "pokemon": "Talonflame",
+        "japones": "Fiarrow\u30d5\u30a1\u30a4\u30a2\u30ed\u30fc"
+    },
+    {
+        "pokemon": "Scatterbug",
+        "japones": "Kofukimushi\u30b3\u30d5\u30ad\u30e0\u30b7"
+    },
+    {
+        "pokemon": "Spewpa",
+        "japones": "Kofuurai\u30b3\u30d5\u30fc\u30e9\u30a4"
+    },
+    {
+        "pokemon": "Vivillon",
+        "japones": "Viviyon\u30d3\u30d3\u30e8\u30f3"
+    },
+    {
+        "pokemon": "Litleo",
+        "japones": "Shishiko\u30b7\u30b7\u30b3"
+    },
+    {
+        "pokemon": "Pyroar",
+        "japones": "Kaenjishi\u30ab\u30a8\u30f3\u30b8\u30b7"
+    },
+    {
+        "pokemon": "Flab\u00e9b\u00e9",
+        "japones": "Flabebe\u30d5\u30e9\u30d9\u30d9"
+    },
+    {
+        "pokemon": "Machoke",
+        "japones": "Goriky\u30b4\u30fc\u30ea\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Floette",
+        "japones": "Floette\u30d5\u30e9\u30a8\u30c3\u30c6"
+    },
+    {
+        "pokemon": "Florges",
+        "japones": "Florges\u30d5\u30e9\u30fc\u30b8\u30a7\u30b9"
+    },
+    {
+        "pokemon": "Skiddo",
+        "japones": "Meecle\u30e1\u30a7\u30fc\u30af\u30eb"
+    },
+    {
+        "pokemon": "Gogoat",
+        "japones": "Gogoat\u30b4\u30fc\u30b4\u30fc\u30c8"
+    },
+    {
+        "pokemon": "Pancham",
+        "japones": "Yancham\u30e4\u30f3\u30c1\u30e3\u30e0"
+    },
+    {
+        "pokemon": "Pangoro",
+        "japones": "Goronda\u30b4\u30ed\u30f3\u30c0"
+    },
+    {
+        "pokemon": "Furfrou",
+        "japones": "Trimmien\u30c8\u30ea\u30df\u30a2\u30f3"
+    },
+    {
+        "pokemon": "Espurr",
+        "japones": "Nyasper\u30cb\u30e3\u30b9\u30d1\u30fc"
+    },
+    {
+        "pokemon": "Meowstic",
+        "japones": "Nyaonix\u30cb\u30e3\u30aa\u30cb\u30af\u30b9"
+    },
+    {
+        "pokemon": "Honedge",
+        "japones": "Hitotsuki\u30d2\u30c8\u30c4\u30ad"
+    },
+    {
+        "pokemon": "Machamp",
+        "japones": "Kairiky\u30ab\u30a4\u30ea\u30ad\u30fc"
+    },
+    {
+        "pokemon": "Doublade",
+        "japones": "Nidangill\u30cb\u30c0\u30f3\u30ae\u30eb"
+    },
+    {
+        "pokemon": "Aegislash",
+        "japones": "Gillgard\u30ae\u30eb\u30ac\u30eb\u30c9"
+    },
+    {
+        "pokemon": "Spritzee",
+        "japones": "Shushupu\u30b7\u30e5\u30b7\u30e5\u30d7"
+    },
+    {
+        "pokemon": "Aromatisse",
+        "japones": "Frefuwan\u30d5\u30ec\u30d5\u30ef\u30f3"
+    },
+    {
+        "pokemon": "Swirlix",
+        "japones": "Peroppafu\u30da\u30ed\u30c3\u30d1\u30d5"
+    },
+    {
+        "pokemon": "Slurpuff",
+        "japones": "Peroream\u30da\u30ed\u30ea\u30fc\u30e0"
+    },
+    {
+        "pokemon": "Inkay",
+        "japones": "Maaiika\u30de\u30fc\u30a4\u30fc\u30ab"
+    },
+    {
+        "pokemon": "Malamar",
+        "japones": "Calamanero\u30ab\u30e9\u30de\u30cd\u30ed"
+    },
+    {
+        "pokemon": "Binacle",
+        "japones": "Kametete\u30ab\u30e1\u30c6\u30c6"
+    },
+    {
+        "pokemon": "Barbaracle",
+        "japones": "Gamenodes\u30ac\u30e1\u30ce\u30c7\u30b9"
+    },
+    {
+        "pokemon": "Bellsprout",
+        "japones": "Madatsubomi\u30de\u30c0\u30c4\u30dc\u30df"
+    },
+    {
+        "pokemon": "Skrelp",
+        "japones": "Kuzumo\u30af\u30ba\u30e2\u30fc"
+    },
+    {
+        "pokemon": "Dragalge",
+        "japones": "Dramidoro\u30c9\u30e9\u30df\u30c9\u30ed"
+    },
+    {
+        "pokemon": "Clauncher",
+        "japones": "Udeppou\u30a6\u30c7\u30c3\u30dd\u30a6"
+    },
+    {
+        "pokemon": "Clawitzer",
+        "japones": "Bloster\u30d6\u30ed\u30b9\u30bf\u30fc"
+    },
+    {
+        "pokemon": "Helioptile",
+        "japones": "Erikiteru\u30a8\u30ea\u30ad\u30c6\u30eb"
+    },
+    {
+        "pokemon": "Heliolisk",
+        "japones": "Elezard\u30a8\u30ec\u30b6\u30fc\u30c9"
+    },
+    {
+        "pokemon": "Tyrunt",
+        "japones": "Chigoras\u30c1\u30b4\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Tyrantrum",
+        "japones": "Gachigoras\u30ac\u30c1\u30b4\u30e9\u30b9"
+    },
+    {
+        "pokemon": "Amaura",
+        "japones": "Amarus\u30a2\u30de\u30eb\u30b9"
+    },
+    {
+        "pokemon": "Aurorus",
+        "japones": "Amaruruga\u30a2\u30de\u30eb\u30eb\u30ac"
+    },
+    {
+        "pokemon": "Squirtle",
+        "japones": "Zenigame\u30bc\u30cb\u30ac\u30e1"
+    },
+    {
+        "pokemon": "Weepinbell",
+        "japones": "Utsudon\u30a6\u30c4\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Sylveon",
+        "japones": "Nymphia\u30cb\u30f3\u30d5\u30a3\u30a2"
+    },
+    {
+        "pokemon": "Hawlucha",
+        "japones": "Luchabull\u30eb\u30c1\u30e3\u30d6\u30eb"
+    },
+    {
+        "pokemon": "Dedenne",
+        "japones": "Dedenne\u30c7\u30c7\u30f3\u30cd"
+    },
+    {
+        "pokemon": "Carbink",
+        "japones": "Melecie\u30e1\u30ec\u30b7\u30fc"
+    },
+    {
+        "pokemon": "Goomy",
+        "japones": "Numera\u30cc\u30e1\u30e9"
+    },
+    {
+        "pokemon": "Sliggoo",
+        "japones": "Numeil\u30cc\u30e1\u30a4\u30eb"
+    },
+    {
+        "pokemon": "Goodra",
+        "japones": "Numelgon\u30cc\u30e1\u30eb\u30b4\u30f3"
+    },
+    {
+        "pokemon": "Klefki",
+        "japones": "Cleffy\u30af\u30ec\u30c3\u30d5\u30a3"
+    },
+    {
+        "pokemon": "Phantump",
+        "japones": "Bokurei\u30dc\u30af\u30ec\u30fc"
+    },
+    {
+        "pokemon": "Trevenant",
+        "japones": "Ohrot\u30aa\u30fc\u30ed\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Victreebel",
+        "japones": "Utsubot\u30a6\u30c4\u30dc\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Pumpkaboo",
+        "japones": "Bakeccha\u30d0\u30b1\u30c3\u30c1\u30e3"
+    },
+    {
+        "pokemon": "Gourgeist",
+        "japones": "Pumpjin\u30d1\u30f3\u30d7\u30b8\u30f3"
+    },
+    {
+        "pokemon": "Bergmite",
+        "japones": "Kachikohru\u30ab\u30c1\u30b3\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Avalugg",
+        "japones": "Crebase\u30af\u30ec\u30d9\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Noibat",
+        "japones": "Onbat\u30aa\u30f3\u30d0\u30c3\u30c8"
+    },
+    {
+        "pokemon": "Noivern",
+        "japones": "Onvern\u30aa\u30f3\u30d0\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Xerneas",
+        "japones": "Xerneas\u30bc\u30eb\u30cd\u30a2\u30b9"
+    },
+    {
+        "pokemon": "Yveltal",
+        "japones": "Yveltal\u30a4\u30d9\u30eb\u30bf\u30eb"
+    },
+    {
+        "pokemon": "Zygarde",
+        "japones": "Zygarde (10% Forme)\u30b8\u30ac\u30eb\u30c7"
+    },
+    {
+        "pokemon": "Diancie",
+        "japones": "Diancie\u30c7\u30a3\u30a2\u30f3\u30b7\u30fc"
+    },
+    {
+        "pokemon": "Tentacool",
+        "japones": "Menokurage\u30e1\u30ce\u30af\u30e9\u30b2"
+    },
+    {
+        "pokemon": "Hoopa",
+        "japones": "Hoopa (imashimerareshi Hoopa)\u30d5\u30fc\u30d1"
+    },
+    {
+        "pokemon": "Volcanion",
+        "japones": "Volcanion\u30dc\u30eb\u30b1\u30cb\u30aa\u30f3"
+    },
+    {
+        "pokemon": "Rowlet",
+        "japones": "Mokuroh\u30e2\u30af\u30ed\u30fc"
+    },
+    {
+        "pokemon": "Dartrix",
+        "japones": "Fukuthrow\u30d5\u30af\u30b9\u30ed\u30fc"
+    },
+    {
+        "pokemon": "Decidueye",
+        "japones": "Junaiper\u30b8\u30e5\u30ca\u30a4\u30d1\u30fc"
+    },
+    {
+        "pokemon": "Litten",
+        "japones": "Nyabby\u30cb\u30e3\u30d3\u30fc"
+    },
+    {
+        "pokemon": "Torracat",
+        "japones": "Nyaheat\u30cb\u30e3\u30d2\u30fc\u30c8"
+    },
+    {
+        "pokemon": "Incineroar",
+        "japones": "Gaogaen\u30ac\u30aa\u30ac\u30a8\u30f3"
+    },
+    {
+        "pokemon": "Popplio",
+        "japones": "Ashimari\u30a2\u30b7\u30de\u30ea"
+    },
+    {
+        "pokemon": "Brionne",
+        "japones": "Osyamari\u30aa\u30b7\u30e3\u30de\u30ea"
+    },
+    {
+        "pokemon": "Tentacruel",
+        "japones": "Dokukurage\u30c9\u30af\u30af\u30e9\u30b2"
+    },
+    {
+        "pokemon": "Primarina",
+        "japones": "Ashirene\u30a2\u30b7\u30ec\u30fc\u30cc"
+    },
+    {
+        "pokemon": "Pikipek",
+        "japones": "Tsutsukera\u30c4\u30c4\u30b1\u30e9"
+    },
+    {
+        "pokemon": "Trumbeak",
+        "japones": "Kerarappa\u30b1\u30e9\u30e9\u30c3\u30d1"
+    },
+    {
+        "pokemon": "Toucannon",
+        "japones": "Dodekabashi\u30c9\u30c7\u30ab\u30d0\u30b7"
+    },
+    {
+        "pokemon": "Yungoos",
+        "japones": "Youngoose\u30e4\u30f3\u30b0\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Gumshoos",
+        "japones": "Dekagoose\u30c7\u30ab\u30b0\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Grubbin",
+        "japones": "Agojimushi\u30a2\u30b4\u30b8\u30e0\u30b7"
+    },
+    {
+        "pokemon": "Charjabug",
+        "japones": "Dendimushi\u30c7\u30f3\u30c2\u30e0\u30b7"
+    },
+    {
+        "pokemon": "Vikavolt",
+        "japones": "Kuwagannon\u30af\u30ef\u30ac\u30ce\u30f3"
+    },
+    {
+        "pokemon": "Crabrawler",
+        "japones": "Makenkani\u30de\u30b1\u30f3\u30ab\u30cb"
+    },
+    {
+        "pokemon": "Geodude",
+        "japones": "Isitsubute\u30a4\u30b7\u30c4\u30d6\u30c6"
+    },
+    {
+        "pokemon": "Crabominable",
+        "japones": "Kekenkani\u30b1\u30b1\u30f3\u30ab\u30cb"
+    },
+    {
+        "pokemon": "Oricorio",
+        "japones": "Odoridori (pachipachi Style)\u30aa\u30c9\u30ea\u30c9\u30ea"
+    },
+    {
+        "pokemon": "Cutiefly",
+        "japones": "Abuly\u30a2\u30d6\u30ea\u30fc"
+    },
+    {
+        "pokemon": "Ribombee",
+        "japones": "Aburibbon\u30a2\u30d6\u30ea\u30dc\u30f3"
+    },
+    {
+        "pokemon": "Rockruff",
+        "japones": "Iwanko\u30a4\u30ef\u30f3\u30b3"
+    },
+    {
+        "pokemon": "Lycanroc",
+        "japones": "Lugarugan (mahiru No Sugata)\u30eb\u30ac\u30eb\u30ac\u30f3"
+    },
+    {
+        "pokemon": "Wishiwashi",
+        "japones": "Yowashi (tandoku No Sugata)\u30e8\u30ef\u30b7"
+    },
+    {
+        "pokemon": "Mareanie",
+        "japones": "Hidoide\u30d2\u30c9\u30a4\u30c7"
+    },
+    {
+        "pokemon": "Toxapex",
+        "japones": "Dohidoide\u30c9\u30d2\u30c9\u30a4\u30c7"
+    },
+    {
+        "pokemon": "Mudbray",
+        "japones": "Dorobanko\u30c9\u30ed\u30d0\u30f3\u30b3"
+    },
+    {
+        "pokemon": "Graveler",
+        "japones": "Golone\u30b4\u30ed\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Mudsdale",
+        "japones": "Banbadoro\u30d0\u30f3\u30d0\u30c9\u30ed"
+    },
+    {
+        "pokemon": "Dewpider",
+        "japones": "Shizukumo\u30b7\u30ba\u30af\u30e2"
+    },
+    {
+        "pokemon": "Araquanid",
+        "japones": "Onishizukumo\u30aa\u30cb\u30b7\u30ba\u30af\u30e2"
+    },
+    {
+        "pokemon": "Fomantis",
+        "japones": "Karikiri\u30ab\u30ea\u30ad\u30ea"
+    },
+    {
+        "pokemon": "Lurantis",
+        "japones": "Lalantes\u30e9\u30e9\u30f3\u30c6\u30b9"
+    },
+    {
+        "pokemon": "Morelull",
+        "japones": "Nemasyu\u30cd\u30de\u30b7\u30e5"
+    },
+    {
+        "pokemon": "Shiinotic",
+        "japones": "Mashade\u30de\u30b7\u30a7\u30fc\u30c9"
+    },
+    {
+        "pokemon": "Salandit",
+        "japones": "Yatoumori\u30e4\u30c8\u30a6\u30e2\u30ea"
+    },
+    {
+        "pokemon": "Salazzle",
+        "japones": "Ennewt\u30a8\u30f3\u30cb\u30e5\u30fc\u30c8"
+    },
+    {
+        "pokemon": "Stufful",
+        "japones": "Nuikoguma\u30cc\u30a4\u30b3\u30b0\u30de"
+    },
+    {
+        "pokemon": "Golem",
+        "japones": "Golonya\u30b4\u30ed\u30fc\u30cb\u30e3"
+    },
+    {
+        "pokemon": "Bewear",
+        "japones": "Kiteruguma\u30ad\u30c6\u30eb\u30b0\u30de"
+    },
+    {
+        "pokemon": "Bounsweet",
+        "japones": "Amakaji\u30a2\u30de\u30ab\u30b8"
+    },
+    {
+        "pokemon": "Steenee",
+        "japones": "Amamaiko\u30a2\u30de\u30de\u30a4\u30b3"
+    },
+    {
+        "pokemon": "Tsareena",
+        "japones": "Amajo\u30a2\u30de\u30fc\u30b8\u30e7"
+    },
+    {
+        "pokemon": "Comfey",
+        "japones": "Cuwawa\u30ad\u30e5\u30ef\u30ef\u30fc"
+    },
+    {
+        "pokemon": "Oranguru",
+        "japones": "Yareyuutan\u30e4\u30ec\u30e6\u30fc\u30bf\u30f3"
+    },
+    {
+        "pokemon": "Passimian",
+        "japones": "Nagetukesaru\u30ca\u30b2\u30c4\u30b1\u30b5\u30eb"
+    },
+    {
+        "pokemon": "Wimpod",
+        "japones": "Kosokumushi\u30b3\u30bd\u30af\u30e0\u30b7"
+    },
+    {
+        "pokemon": "Golisopod",
+        "japones": "Gusokumusha\u30b0\u30bd\u30af\u30e0\u30b7\u30e3"
+    },
+    {
+        "pokemon": "Sandygast",
+        "japones": "Sunaba\u30b9\u30ca\u30d0\u30a1"
+    },
+    {
+        "pokemon": "Ponyta",
+        "japones": "Ponyta\u30dd\u30cb\u30fc\u30bf"
+    },
+    {
+        "pokemon": "Palossand",
+        "japones": "Sirodethna\u30b7\u30ed\u30c7\u30b9\u30ca"
+    },
+    {
+        "pokemon": "Pyukumuku",
+        "japones": "Namakobushi\u30ca\u30de\u30b3\u30d6\u30b7"
+    },
+    {
+        "pokemon": "Type: Null",
+        "japones": "Type: Null\u30bf\u30a4\u30d7\uff1a\u30cc\u30eb"
+    },
+    {
+        "pokemon": "Silvally",
+        "japones": "Silvady\u30b7\u30eb\u30f4\u30a1\u30c7\u30a3"
+    },
+    {
+        "pokemon": "Minior",
+        "japones": "Meteno\u30e1\u30c6\u30ce"
+    },
+    {
+        "pokemon": "Komala",
+        "japones": "Nekkoara\u30cd\u30c3\u30b3\u30a2\u30e9"
+    },
+    {
+        "pokemon": "Turtonator",
+        "japones": "Bakugames\u30d0\u30af\u30ac\u30e1\u30b9"
+    },
+    {
+        "pokemon": "Togedemaru",
+        "japones": "Togedemaru\u30c8\u30b2\u30c7\u30de\u30eb"
+    },
+    {
+        "pokemon": "Mimikyu",
+        "japones": "Mimikkyu\u30df\u30df\u30c3\u30ad\u30e5"
+    },
+    {
+        "pokemon": "Bruxish",
+        "japones": "Hagigishiri\u30cf\u30ae\u30ae\u30b7\u30ea"
+    },
+    {
+        "pokemon": "Rapidash",
+        "japones": "Gallop\u30ae\u30e3\u30ed\u30c3\u30d7"
+    },
+    {
+        "pokemon": "Drampa",
+        "japones": "Jijilong\u30b8\u30b8\u30fc\u30ed\u30f3"
+    },
+    {
+        "pokemon": "Dhelmise",
+        "japones": "Dadarin\u30c0\u30c0\u30ea\u30f3"
+    },
+    {
+        "pokemon": "Jangmo-o",
+        "japones": "Jyarako\u30b8\u30e3\u30e9\u30b3"
+    },
+    {
+        "pokemon": "Hakamo-o",
+        "japones": "Jyarango\u30b8\u30e3\u30e9\u30f3\u30b4"
+    },
+    {
+        "pokemon": "Kommo-o",
+        "japones": "Jyararanga\u30b8\u30e3\u30e9\u30e9\u30f3\u30ac"
+    },
+    {
+        "pokemon": "Tapu Koko",
+        "japones": "Kapu-kokeko\u30ab\u30d7\u30fb\u30b3\u30b1\u30b3"
+    },
+    {
+        "pokemon": "Tapu Lele",
+        "japones": "Kapu-tetefu\u30ab\u30d7\u30fb\u30c6\u30c6\u30d5"
+    },
+    {
+        "pokemon": "Tapu Bulu",
+        "japones": "Kapu-bulul\u30ab\u30d7\u30fb\u30d6\u30eb\u30eb"
+    },
+    {
+        "pokemon": "Tapu Fini",
+        "japones": "Kapu-rehire\u30ab\u30d7\u30fb\u30ec\u30d2\u30ec"
+    },
+    {
+        "pokemon": "Cosmog",
+        "japones": "Cosmog\u30b3\u30b9\u30e2\u30c3\u30b0"
+    },
+    {
+        "pokemon": "Slowpoke",
+        "japones": "Yadon\u30e4\u30c9\u30f3"
+    },
+    {
+        "pokemon": "Cosmoem",
+        "japones": "Cosmovum\u30b3\u30b9\u30e2\u30a6\u30e0"
+    },
+    {
+        "pokemon": "Solgaleo",
+        "japones": "Solgaleo\u30bd\u30eb\u30ac\u30ec\u30aa"
+    },
+    {
+        "pokemon": "Lunala",
+        "japones": "Lunala\u30eb\u30ca\u30a2\u30fc\u30e9"
+    },
+    {
+        "pokemon": "Nihilego",
+        "japones": "Uturoid\u30a6\u30c4\u30ed\u30a4\u30c9"
+    },
+    {
+        "pokemon": "Buzzwole",
+        "japones": "Massivoon\u30de\u30c3\u30b7\u30d6\u30fc\u30f3"
+    },
+    {
+        "pokemon": "Pheromosa",
+        "japones": "Pheroache\u30d5\u30a7\u30ed\u30fc\u30c1\u30a7"
+    },
+    {
+        "pokemon": "Xurkitree",
+        "japones": "Denjyumoku\u30c7\u30f3\u30b8\u30e5\u30e2\u30af"
+    },
+    {
+        "pokemon": "Celesteela",
+        "japones": "Tekkaguya\u30c6\u30c3\u30ab\u30b0\u30e4"
+    },
+    {
+        "pokemon": "Kartana",
+        "japones": "Kamiturugi\u30ab\u30df\u30c4\u30eb\u30ae"
+    },
+    {
+        "pokemon": "Guzzlord",
+        "japones": "Akuziking\u30a2\u30af\u30b8\u30ad\u30f3\u30b0"
+    },
+    {
+        "pokemon": "Wartortle",
+        "japones": "Kameil\u30ab\u30e1\u30fc\u30eb"
+    },
+    {
+        "pokemon": "Slowbro",
+        "japones": "Yadoran\u30e4\u30c9\u30e9\u30f3"
+    },
+    {
+        "pokemon": "Necrozma",
+        "japones": "Necrozma\u30cd\u30af\u30ed\u30ba\u30de"
+    },
+    {
+        "pokemon": "Magearna",
+        "japones": "Magearna\u30de\u30ae\u30a2\u30ca"
+    },
+    {
+        "pokemon": "Magnemite",
+        "japones": "Coil\u30b3\u30a4\u30eb"
+    },
+    {
+        "pokemon": "Magneton",
+        "japones": "Rarecoil\u30ec\u30a2\u30b3\u30a4\u30eb"
+    },
+    {
+        "pokemon": "Farfetch'd",
+        "japones": "Kamonegi\u30ab\u30e2\u30cd\u30ae"
+    },
+    {
+        "pokemon": "Doduo",
+        "japones": "Dodo\u30c9\u30fc\u30c9\u30fc"
+    },
+    {
+        "pokemon": "Dodrio",
+        "japones": "Dodorio\u30c9\u30fc\u30c9\u30ea\u30aa"
+    },
+    {
+        "pokemon": "Seel",
+        "japones": "Pawou\u30d1\u30a6\u30ef\u30a6"
+    },
+    {
+        "pokemon": "Dewgong",
+        "japones": "Jugon\u30b8\u30e5\u30b4\u30f3"
+    },
+    {
+        "pokemon": "Grimer",
+        "japones": "Betbeter\u30d9\u30c8\u30d9\u30bf\u30fc"
+    },
+    {
+        "pokemon": "Muk",
+        "japones": "Betbeton\u30d9\u30c8\u30d9\u30c8\u30f3"
+    },
+    {
+        "pokemon": "Blastoise",
+        "japones": "Kamex\u30ab\u30e1\u30c3\u30af\u30b9"
+    },
+    {
+        "pokemon": "Shellder",
+        "japones": "Shellder\u30b7\u30a7\u30eb\u30c0\u30fc"
+    },
+    {
+        "pokemon": "Cloyster",
+        "japones": "Parshen\u30d1\u30eb\u30b7\u30a7\u30f3"
+    },
+    {
+        "pokemon": "Gastly",
+        "japones": "Ghos\u30b4\u30fc\u30b9"
+    },
+    {
+        "pokemon": "Haunter",
+        "japones": "Ghost\u30b4\u30fc\u30b9\u30c8"
+    },
+    {
+        "pokemon": "Gengar",
+        "japones": "Gangar\u30b2\u30f3\u30ac\u30fc"
+    },
+    {
+        "pokemon": "Onix",
+        "japones": "Iwark\u30a4\u30ef\u30fc\u30af"
+    },
+    {
+        "pokemon": "Drowzee",
+        "japones": "Sleepe\u30b9\u30ea\u30fc\u30d7"
+    },
+    {
+        "pokemon": "Hypno",
+        "japones": "Sleeper\u30b9\u30ea\u30fc\u30d1\u30fc"
+    },
+    {
+        "pokemon": "Krabby",
+        "japones": "Crab\u30af\u30e9\u30d6"
+    },
+    {
+        "pokemon": "Kingler",
+        "japones": "Kingler\u30ad\u30f3\u30b0\u30e9\u30fc"
+    }
+]

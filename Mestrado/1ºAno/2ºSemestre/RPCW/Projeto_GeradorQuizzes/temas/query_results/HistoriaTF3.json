@@ -1,0 +1,358 @@
+[
+    {
+        "batalha": "Batalha de Alc\u00e1cer Quibir",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Conquista de Ceuta",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Nebulosa",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Azamor",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Valverde",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Gata Pequena",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha de Aljubarrota",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha do Cabo Espichel",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Jigajoga2",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Zeta",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Alc\u00e2ntara",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Batalha de Trancoso",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Cerco de Badajoz",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Cerco de Ceuta",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Montes Claros",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Navas de Tolosa",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Castelo Rodrigo",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Alfarrobeira",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Invis\u00edvel II",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha de Albuera",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Combate de Naulila",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Batalha do Ameixial",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Invis\u00edvel",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Fuentes de O\u00f1oro",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Penada",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha de Asseiceira",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha das Linhas de Elvas",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Abencerragem Candente",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha Naval da Guin\u00e9",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Vit\u00f3ria",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Vulcano",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha de Almoster",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha do Montijo",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Mar Verde",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Ametista Real",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Ciclone II",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha de Salamanca",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Toro",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Jacar\u00e9",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Jove",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Cerco de Elvas",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha dos Atoleiros",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Tridente",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Combate de Campo Maior",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Nivelle",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Chaul",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Impar\u00e1vel",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Abanadela",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Cerco de Lisboa",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Viriato",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Swally",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Batalha do Bu\u00e7aco",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha dos Piren\u00e9us",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Cananor",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha do Sabugal",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Instar",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Ataque a Buba",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha do Cabo Rachado",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha do Salado",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha do Lys",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Batalha de Orthez",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha contra Pate-Onuz",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Badajoz",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Insistir",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha de Alvalade",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Marte",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha Naval de Vila Franca",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Combate de Namaca",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha do Nive",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Diu",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Toulouse",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Jigajoga",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Roli\u00e7a",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha da Salga",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Cerco do Porto",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha do Vimeiro",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o \u00c1guia",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha do Cabo de S\u00e3o Vicente",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha do Porto",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Grifo",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha da Praia da Vit\u00f3ria",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Opera\u00e7\u00e3o Lan\u00e7a afiada",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha de Pernes",
+        "resultado": "Desconhecido"
+    },
+    {
+        "batalha": "Batalha de Vatalandi",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Batalha de Pedroso",
+        "resultado": "Derrota"
+    },
+    {
+        "batalha": "Batalha de Arouca",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de S\u00e3o Mamede",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Ourique",
+        "resultado": "Vit\u00f3ria"
+    },
+    {
+        "batalha": "Batalha de Sacav\u00e9m",
+        "resultado": "Vit\u00f3ria"
+    }
+]

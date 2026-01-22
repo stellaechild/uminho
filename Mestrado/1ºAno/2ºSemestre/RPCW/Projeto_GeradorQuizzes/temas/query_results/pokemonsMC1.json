@@ -1,0 +1,398 @@
+[
+    {
+        "hp": "45",
+        "pokemons": "Bulbasaur; Caterpie; Goldeen; Kakuna; Chikorita; Delibird; Houndour; Smoochum; Elekid; Magby; Torchic; Wurmple; Carvanha; Trapinch; Swablu; Anorith; Bagon; Shinx; Cherubi; Oddish; Chingling; Mantyke; Dusknoir; Snivy; Patrat; Lillipup; Blitzle; Sewaddle; Petilil; Gothita; Solosis; Mienfoo; Pawniard; Fletchling; Spewpa; Honedge; Goomy; Litten; Rockruff; Wishiwashi; Jangmo-o; Haunter"
+    },
+    {
+        "hp": "40",
+        "pokemons": "Voltorb; Koffing; Mr. Mime; Weedle; Pidgey; Ledyba; Spinarak; Natu; Spearow; Slugma; Treecko; Lotad; Seedot; Taillow; Wingull; Surskit; Electrike; Baltoy; Dusclops; Beldum; Starly; Budew; Zubat; Burmy; Riolu; Skorupi; Meowth; Whirlipede; Cottonee; Mankey; Zorua; Klink; Poliwag; Kadabra; Fennekin; Noibat; Tentacool; Geodude; Cutiefly; Fomantis; Morelull"
+    },
+    {
+        "hp": "60",
+        "pokemons": "Electrode; Exeggcute; Marowak; Butterfree; Starmie; Kabutops; Bayleef; Hoothoot; Murkrow; Ivysaur; Misdreavus; Snubbull; Teddiursa; Magcargo; Arbok; Combusken; Raichu; Beautifly; Dustox; Lombre; Swellow; Pelipper; Shroomish; Breloom; Slakoth; Lairon; Medicham; Plusle; Minun; Numel; Spoink; Spinda; Claydol; Kecleon; Metang; Luxio; Roserade; Bastiodon; Wormadam; Pachirisu; Mismagius; Gloom; Snover; Parasect; Probopass; Venonat; Servine; Watchog; Drilbur; Scolipede; Whimsicott; Krokorok; Zoroark; Gothorita; Deerling; Klang; Klinklang; Lampent; Chandelure; Aegislash; Brionne; Ribombee; Shiinotic; Minior; Turtonator; Dodrio; Gengar; Drowzee"
+    },
+    {
+        "hp": "95",
+        "pokemons": "Exeggutor; Gyarados; Quagsire; Umbreon; Slowking; Miltank; Milotic; Clefable; Wynaut; Salamence; Torterra; Samurott; Krookodile; Beartic; Bouffalant; Pangoro; Sylveon; Avalugg; Incineroar; Type: Null; Silvally; Slowbro"
+    },
+    {
+        "hp": "50",
+        "pokemons": "Cubone; Hitmonlee; Hitmonchan; Metapod; Totodile; Cleffa; Pineco; Swinub; Hitmontop; Larvitar; Grovyle; Mudkip; Silcoon; Cascoon; Sandshrew; Azurill; Skitty; Sableye; Mawile; Aron; Roselia; Vibrava; Cacnea; Barboach; Snorunt; Deoxys; Bonsly; Spiritomb; Rotom; Pansage; Pansear; Panpour; Pidove; Tympole; Psyduck; Sandile; Dwebble; Scraggy; Trubbish; Karrablast; Joltik; Litwick; Shelmet; Bellsprout; Skrelp; Clauncher; Carbink; Diancie; Popplio; Mareanie; Toxapex; Ponyta; Magneton; Cloyster"
+    },
+    {
+        "hp": "90",
+        "pokemons": "Lickitung; Articuno; Zapdos; Moltres; Igglybuff; Ampharos; Politoed; Granbull; Ursaring; Phanpy; Donphan; Raikou; Shiftry; Nidoqueen; Lunatone; Solrock; Sealeo; Drifloon; Abomasnow; Palkia; Pignite; Arcanine; Poliwrath; Machamp; Goodra; Oranguru; Slowpoke; Dewgong"
+    },
+    {
+        "hp": "65",
+        "pokemons": "Weezing; Tangela; Jynx; Electabuzz; Magmar; Pinsir; Jolteon; Flareon; Porygon; Beedrill; Croconaw; Xatu; Yanma; Espeon; Gligar; Qwilfish; Fearow; Corsola; Skarmory; Volbeat; Illumise; Absol; Shelgon; Lopunny; Leafeon; Glaceon; Tepig; Herdier; Woobat; Persian; Scrafty; Primeape; Duosion; Eelektrik; Poliwhirl; Mienshao; Bisharp; Dragalge; Weepinbell; Torracat; Komala; Togedemaru; Rapidash; Seel"
+    },
+    {
+        "hp": "80",
+        "pokemons": "Rhyhorn; Seaking; Aerodactyl; Meganium; Heracross; Blaziken; Ludicolo; Vigoroth; Venusaur; Grumpig; Flygon; Glalie; Metagross; Regirock; Regice; Registeel; Latias; Latios; Luxray; Mesprit; Phione; Unfezant; Golduck; Garbodor; Sawsbuck; Cryogonal; Accelgor; Vivillon; Machoke; Victreebel; Hoopa; Volcanion; Tentacruel; Primarina; Toucannon; Golem; Magearna; Grimer"
+    },
+    {
+        "hp": "105",
+        "pokemons": "Rhydon; Kangaskhan; Rayquaza; Conkeldurr; Seismitoad; Darmanitan; Muk"
+    },
+    {
+        "hp": "250",
+        "pokemons": "Chansey"
+    },
+    {
+        "hp": "30",
+        "pokemons": "Horsea; Staryu; Kabuto; Rattata; Sunkern; Nosepass; Meditite; Shieldon; Combee; Venipede; Shellder; Gastly; Krabby"
+    },
+    {
+        "hp": "55",
+        "pokemons": "Seadra; Eevee; Ledian; Togetic; Mareep; Skiploom; Aipom; Wooper; Sneasel; Smeargle; Nidoran\u2640; Huntail; Gorebyss; Turtwig; Staravia; Buizel; Buneary; Oshawott; Roggenrola; Swadloon; Archen; Minccino; Growlithe; Emolga; Frillish; Elgyem; Cubchoo; Larvesta; Alakazam; Bergmite; Trumbeak; Graveler; Sandygast; Pyukumuku; Mimikyu; Hakamo-o; Kingler"
+    },
+    {
+        "hp": "70",
+        "pokemons": "Scyther; Omastar; Ariados; Flaaffy; Marill; Sudowoodo; Girafarig; Scizor; Pupitar; Sceptile; Marshtomp; Mightyena; Nuzleaf; Masquerain; Nidorina; Delcatty; Aggron; Manectric; Gulpin; Sharpedo; Camerupt; Torkoal; Cacturne; Clefairy; Castform; Spheal; Mothim; Vespiquen; Cherrim; Lucario; Drapion; Weavile; Magnezone; Froslass; Venomoth; Darkrai; Boldore; Lilligant; Basculin; Darumaka; Crustle; Gothitelle; Escavalier; Galvantula; Rufflet; Vullaby; Machop; Mudbray; Lurantis; Stufful; Dhelmise; Tapu Koko; Tapu Lele; Tapu Bulu; Tapu Fini"
+    },
+    {
+        "hp": "75",
+        "pokemons": "Tauros; Chinchou; Bellossom; Jumpluff; Sunflora; Raticate; Forretress; Steelix; Octillery; Houndoom; Kingdra; Sandslash; Altaria; Armaldo; Chimecho; Grotle; Golbat; Ambipom; Vileplume; Electivire; Magmortar; Gliscor; Uxie; Azelf; Serperior; Dewott; Simisage; Simisear; Simipour; Zebstrika; Timburr; Palpitoad; Sawk; Leavanny; Maractus; Archeops; Cinccino; Swanna; Beheeyem; Delphox; Furfrou; Oricorio; Golisopod; Kommo-o"
+    },
+    {
+        "hp": "20",
+        "pokemons": "Magikarp; Pichu; Shuckle; Feebas; Duskull; Mime Jr."
+    },
+    {
+        "hp": "130",
+        "pokemons": "Lapras; Vaporeon; Wailmer"
+    },
+    {
+        "hp": "48",
+        "pokemons": "Ditto; Unown; Croagunk; Yungoos; Salandit"
+    },
+    {
+        "hp": "35",
+        "pokemons": "Omanyte; Sentret; Togepi; Hoppip; Remoraid; Ekans; Tyrogue; Pikachu; Poochyena; Clamperl; Paras; Dugtrio; Tynamo; Pikipek; Doduo; Onix"
+    },
+    {
+        "hp": "160",
+        "pokemons": "Snorlax"
+    },
+    {
+        "hp": "41",
+        "pokemons": "Dratini; Purrloin; Froakie"
+    },
+    {
+        "hp": "61",
+        "pokemons": "Dragonair; Ninjask; Nidorino; Quilladin"
+    },
+    {
+        "hp": "91",
+        "pokemons": "Dragonite; Heatran; Cobalion; Terrakion; Virizion; Keldeo"
+    },
+    {
+        "hp": "106",
+        "pokemons": "Mewtwo; Lugia; Ho-Oh"
+    },
+    {
+        "hp": "100",
+        "pokemons": "Mew; Noctowl; Azumarill; Dunsparce; Piloswine; Suicune; Tyranitar; Celebi; Swampert; Swalot; Relicanth; Kyogre; Groudon; Jirachi; Honchkrow; Happiny; Tangrowth; Dialga; Manaphy; Shaymin; Victini; Jellicent; Braviary; Reshiram; Zekrom; Meloetta; Mudsdale; Passimian"
+    },
+    {
+        "hp": "39",
+        "pokemons": "Cyndaquil; Charmander"
+    },
+    {
+        "hp": "58",
+        "pokemons": "Quilava; Gible; Charmeleon; Cofagrigus; Durant; Tyrunt"
+    },
+    {
+        "hp": "78",
+        "pokemons": "Typhlosion; Linoone; Charizard; Talonflame; Florges; Spritzee; Hawlucha; Dartrix; Decidueye; Drampa"
+    },
+    {
+        "hp": "85",
+        "pokemons": "Feraligatr; Furret; Crobat; Mantine; Porygon2; Staraptor; Floatzel; Togekiss; Porygon-Z; Stoutland; Gigalith; Gurdurr; Eelektross; Heatmor; Volcarona; Diggersby; Trevenant; Gourgeist; Noivern; Lycanroc; Palossand; Hypno"
+    },
+    {
+        "hp": "63",
+        "pokemons": "Pidgeotto; Crawdaunt; Stunky"
+    },
+    {
+        "hp": "125",
+        "pokemons": "Lanturn; Kyurem"
+    },
+    {
+        "hp": "83",
+        "pokemons": "Pidgeot; Toxicroak; Xurkitree"
+    },
+    {
+        "hp": "190",
+        "pokemons": "Wobbuffet"
+    },
+    {
+        "hp": "73",
+        "pokemons": "Stantler; Zangoose; Seviper; Ninetales"
+    },
+    {
+        "hp": "255",
+        "pokemons": "Blissey"
+    },
+    {
+        "hp": "115",
+        "pokemons": "Entei; Jigglypuff; Rhyperior"
+    },
+    {
+        "hp": "38",
+        "pokemons": "Zigzagoon; Kirlia; Vulpix; Yamask; Bunnelby; Scatterbug; Dewpider"
+    },
+    {
+        "hp": "28",
+        "pokemons": "Ralts"
+    },
+    {
+        "hp": "68",
+        "pokemons": "Gardevoir; Gabite; Hippopotas; Gallade; Sliggoo; Rowlet; Araquanid; Salazzle; Bruxish"
+    },
+    {
+        "hp": "150",
+        "pokemons": "Slaking; Drifblim; Giratina"
+    },
+    {
+        "hp": "31",
+        "pokemons": "Nincada"
+    },
+    {
+        "hp": "1",
+        "pokemons": "Shedinja"
+    },
+    {
+        "hp": "64",
+        "pokemons": "Whismur; Banette; Monferno; Prinplup; Liepard"
+    },
+    {
+        "hp": "84",
+        "pokemons": "Loudred; Empoleon"
+    },
+    {
+        "hp": "104",
+        "pokemons": "Exploud"
+    },
+    {
+        "hp": "72",
+        "pokemons": "Makuhita; Sigilyph; Zweilous; Greninja; Barbaracle; Tsareena"
+    },
+    {
+        "hp": "144",
+        "pokemons": "Hariyama"
+    },
+    {
+        "hp": "46",
+        "pokemons": "Nidoran\u2642; Axew"
+    },
+    {
+        "hp": "170",
+        "pokemons": "Wailord"
+    },
+    {
+        "hp": "81",
+        "pokemons": "Nidoking"
+    },
+    {
+        "hp": "110",
+        "pokemons": "Whiscash; Walrein; Lickilicky; Mamoswine; Regigigas; Emboar; Excadrill; Reuniclus; Mandibuzz"
+    },
+    {
+        "hp": "43",
+        "pokemons": "Corphish; Luvdisc; Phantump; Cosmog; Cosmoem"
+    },
+    {
+        "hp": "66",
+        "pokemons": "Lileep; Fraxure; Skiddo"
+    },
+    {
+        "hp": "86",
+        "pokemons": "Cradily; Yanmega; Pyroar; Malamar"
+    },
+    {
+        "hp": "44",
+        "pokemons": "Shuppet; Chimchar; Ferroseed; Flab\u00e9b\u00e9; Helioptile; Squirtle"
+    },
+    {
+        "hp": "99",
+        "pokemons": "Tropius"
+    },
+    {
+        "hp": "76",
+        "pokemons": "Infernape; Shellos; Chatot; Munna; Haxorus"
+    },
+    {
+        "hp": "53",
+        "pokemons": "Piplup; Inkay"
+    },
+    {
+        "hp": "59",
+        "pokemons": "Bidoof; Golett; Braixen; Doublade; Pumpkaboo; Kartana; Wartortle"
+    },
+    {
+        "hp": "140",
+        "pokemons": "Wigglytuff"
+    },
+    {
+        "hp": "79",
+        "pokemons": "Bibarel; Tornadus; Thundurus; Blastoise"
+    },
+    {
+        "hp": "37",
+        "pokemons": "Kricketot"
+    },
+    {
+        "hp": "77",
+        "pokemons": "Kricketune; Druddigon; Amaura; Vikavolt"
+    },
+    {
+        "hp": "67",
+        "pokemons": "Cranidos; Bronzong; Swoobat; Pancham; Dedenne"
+    },
+    {
+        "hp": "97",
+        "pokemons": "Rampardos; Crabominable; Celesteela; Necrozma"
+    },
+    {
+        "hp": "111",
+        "pokemons": "Gastrodon"
+    },
+    {
+        "hp": "49",
+        "pokemons": "Glameow; Finneon"
+    },
+    {
+        "hp": "71",
+        "pokemons": "Purugly; Vanilluxe; Genesect; Clawitzer; Pheromosa"
+    },
+    {
+        "hp": "103",
+        "pokemons": "Skuntank; Audino"
+    },
+    {
+        "hp": "57",
+        "pokemons": "Bronzor; Klefki; Charjabug"
+    },
+    {
+        "hp": "108",
+        "pokemons": "Garchomp; Hippowdon"
+    },
+    {
+        "hp": "135",
+        "pokemons": "Munchlax"
+    },
+    {
+        "hp": "74",
+        "pokemons": "Carnivine; Carracosta; Ferrothorn; Floette; Meowstic"
+    },
+    {
+        "hp": "69",
+        "pokemons": "Lumineon; Foongus"
+    },
+    {
+        "hp": "120",
+        "pokemons": "Cresselia; Arceus; Throh; Bewear"
+    },
+    {
+        "hp": "10",
+        "pokemons": "Diglett"
+    },
+    {
+        "hp": "116",
+        "pokemons": "Musharna"
+    },
+    {
+        "hp": "62",
+        "pokemons": "Tranquill; Ducklett; Fletchinder; Litleo; Espurr; Swirlix; Heliolisk"
+    },
+    {
+        "hp": "54",
+        "pokemons": "Tirtouga; Frogadier"
+    },
+    {
+        "hp": "36",
+        "pokemons": "Vanillite"
+    },
+    {
+        "hp": "51",
+        "pokemons": "Vanillish; Comfey"
+    },
+    {
+        "hp": "114",
+        "pokemons": "Amoonguss"
+    },
+    {
+        "hp": "165",
+        "pokemons": "Alomomola"
+    },
+    {
+        "hp": "109",
+        "pokemons": "Stunfisk; Nihilego"
+    },
+    {
+        "hp": "89",
+        "pokemons": "Golurk; Landorus"
+    },
+    {
+        "hp": "25",
+        "pokemons": "Abra; Wimpod; Magnemite"
+    },
+    {
+        "hp": "52",
+        "pokemons": "Deino; Steenee; Farfetch'd"
+    },
+    {
+        "hp": "92",
+        "pokemons": "Hydreigon"
+    },
+    {
+        "hp": "56",
+        "pokemons": "Chespin"
+    },
+    {
+        "hp": "88",
+        "pokemons": "Chesnaught; Gumshoos"
+    },
+    {
+        "hp": "123",
+        "pokemons": "Gogoat; Aurorus"
+    },
+    {
+        "hp": "101",
+        "pokemons": "Aromatisse"
+    },
+    {
+        "hp": "82",
+        "pokemons": "Slurpuff; Tyrantrum"
+    },
+    {
+        "hp": "42",
+        "pokemons": "Binacle; Bounsweet"
+    },
+    {
+        "hp": "126",
+        "pokemons": "Xerneas; Yveltal"
+    },
+    {
+        "hp": "216",
+        "pokemons": "Zygarde"
+    },
+    {
+        "hp": "47",
+        "pokemons": "Grubbin; Crabrawler"
+    },
+    {
+        "hp": "137",
+        "pokemons": "Solgaleo; Lunala"
+    },
+    {
+        "hp": "107",
+        "pokemons": "Buzzwole"
+    },
+    {
+        "hp": "223",
+        "pokemons": "Guzzlord"
+    }
+]

@@ -1,0 +1,1366 @@
+[
+    {
+        "local": "Alameda",
+        "nome": "Wabash Avenue Sour"
+    },
+    {
+        "local": "Anaheim",
+        "nome": "San Fran Soda"
+    },
+    {
+        "local": "Atlanta",
+        "nome": "Cut & Rum"
+    },
+    {
+        "local": "Atlanta",
+        "nome": "Georgia Old Fashioned"
+    },
+    {
+        "local": "Atlanta",
+        "nome": "Pants off Dance off"
+    },
+    {
+        "local": "Atlanta",
+        "nome": "Sidecar"
+    },
+    {
+        "local": "Austin",
+        "nome": "Big and Bright"
+    },
+    {
+        "local": "Austin",
+        "nome": "Bird On"
+    },
+    {
+        "local": "Austin",
+        "nome": "Cafe Creole"
+    },
+    {
+        "local": "Austin",
+        "nome": "Frankie and Johnnie"
+    },
+    {
+        "local": "Austin",
+        "nome": "Heard It Through The Grapevine"
+    },
+    {
+        "local": "Austin",
+        "nome": "II Piacere"
+    },
+    {
+        "local": "Austin",
+        "nome": "Jammie Dodger Fizz"
+    },
+    {
+        "local": "Austin",
+        "nome": "Masataka's Vision"
+    },
+    {
+        "local": "Austin",
+        "nome": "Naughty Nikka"
+    },
+    {
+        "local": "Austin",
+        "nome": "Red Bud Trail"
+    },
+    {
+        "local": "Austin",
+        "nome": "Strike No.3"
+    },
+    {
+        "local": "Austin",
+        "nome": "The House of Duncan"
+    },
+    {
+        "local": "Boston",
+        "nome": "Don't Rock the Boat Punch"
+    },
+    {
+        "local": "Boston",
+        "nome": "Flor de Amaras"
+    },
+    {
+        "local": "Boston",
+        "nome": "Lux Shandy"
+    },
+    {
+        "local": "Boston",
+        "nome": "Space Age Pop"
+    },
+    {
+        "local": "Boston",
+        "nome": "The Great Pumpkin Cocktail"
+    },
+    {
+        "local": "Boston",
+        "nome": "The Pink Pussycat"
+    },
+    {
+        "local": "Boston",
+        "nome": "True Dish"
+    },
+    {
+        "local": "Boston",
+        "nome": "You're Bitter Than That"
+    },
+    {
+        "local": "Brooklyn",
+        "nome": "Esp\u00e8ce de Sazerac"
+    },
+    {
+        "local": "Brooklyn",
+        "nome": "King's Mule"
+    },
+    {
+        "local": "Brooklyn",
+        "nome": "Mack's Apple"
+    },
+    {
+        "local": "Brooklyn",
+        "nome": "Rx Hot Toddy"
+    },
+    {
+        "local": "Carlsbad",
+        "nome": "Italian Riviera Mojito"
+    },
+    {
+        "local": "Charleston",
+        "nome": "The Fall 75"
+    },
+    {
+        "local": "Chicago",
+        "nome": "Cullerton Street"
+    },
+    {
+        "local": "Chicago",
+        "nome": "Farmer's Gold"
+    },
+    {
+        "local": "Chicago",
+        "nome": "Five Star Cocktail"
+    },
+    {
+        "local": "Chicago",
+        "nome": "Goat Town Swizzle"
+    },
+    {
+        "local": "Chicago",
+        "nome": "IPA Mule"
+    },
+    {
+        "local": "Chicago",
+        "nome": "Japonais No.3"
+    },
+    {
+        "local": "Chicago",
+        "nome": "Julia's Child"
+    },
+    {
+        "local": "Chicago",
+        "nome": "La Batida Loca"
+    },
+    {
+        "local": "Chicago",
+        "nome": "No.10"
+    },
+    {
+        "local": "Chicago",
+        "nome": "No3"
+    },
+    {
+        "local": "Chicago",
+        "nome": "Temple of the Moon"
+    },
+    {
+        "local": "Chicago",
+        "nome": "The Fifth Star"
+    },
+    {
+        "local": "Chicago, Ill",
+        "nome": "A Regal Air"
+    },
+    {
+        "local": "Dallas",
+        "nome": "Fizzy Rhubarb Mule"
+    },
+    {
+        "local": "Dallas",
+        "nome": "Nectar of the Amazon"
+    },
+    {
+        "local": "Dallas",
+        "nome": "Peachy Keane"
+    },
+    {
+        "local": "Dallas",
+        "nome": "The French Connection"
+    },
+    {
+        "local": "Denver",
+        "nome": "Holland House"
+    },
+    {
+        "local": "Denver",
+        "nome": "Last Samurai"
+    },
+    {
+        "local": "Denver",
+        "nome": "Long Division"
+    },
+    {
+        "local": "Denver",
+        "nome": "Union Jack"
+    },
+    {
+        "local": "Fort Worth",
+        "nome": "Amaretto Jello Shot, Why Not"
+    },
+    {
+        "local": "Fort Worth",
+        "nome": "Bird to Buck"
+    },
+    {
+        "local": "Houston",
+        "nome": "A Gift from Zara"
+    },
+    {
+        "local": "Houston",
+        "nome": "Bacio Romana"
+    },
+    {
+        "local": "Houston",
+        "nome": "Bitter Valencia"
+    },
+    {
+        "local": "Houston",
+        "nome": "Blind Luck"
+    },
+    {
+        "local": "Houston",
+        "nome": "Clear Intentions"
+    },
+    {
+        "local": "Houston",
+        "nome": "Clearly Bitter"
+    },
+    {
+        "local": "Houston",
+        "nome": "Fiona Graham"
+    },
+    {
+        "local": "Houston",
+        "nome": "Fuji-La"
+    },
+    {
+        "local": "Houston",
+        "nome": "Harms' Way"
+    },
+    {
+        "local": "Houston",
+        "nome": "La Chiara"
+    },
+    {
+        "local": "Houston",
+        "nome": "Land of Valencia"
+    },
+    {
+        "local": "Houston",
+        "nome": "La Perle de Verre"
+    },
+    {
+        "local": "Houston",
+        "nome": "New Beginnings"
+    },
+    {
+        "local": "Houston",
+        "nome": "Palermo Breeze"
+    },
+    {
+        "local": "Houston",
+        "nome": "Radice Amara"
+    },
+    {
+        "local": "Houston",
+        "nome": "Seersucker Sunshine"
+    },
+    {
+        "local": "Houston",
+        "nome": "Shadowcat"
+    },
+    {
+        "local": "Houston",
+        "nome": "Shroud of the Inca"
+    },
+    {
+        "local": "Houston",
+        "nome": "The Callas Cocktail"
+    },
+    {
+        "local": "Houston",
+        "nome": "The Italian Diplomat"
+    },
+    {
+        "local": "Houston",
+        "nome": "The Sparkler"
+    },
+    {
+        "local": "Houston",
+        "nome": "White Tie"
+    },
+    {
+        "local": "Japan",
+        "nome": "Cove"
+    },
+    {
+        "local": "Las Vegas",
+        "nome": "Thyme for Bed"
+    },
+    {
+        "local": "London",
+        "nome": "Duke's Classic Dry Martini"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Bay Shandy"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "California Aurora"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Carrier Pigeon (an Airmail with Pink Pigeon)"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Clover Holiday Cocktail"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Doitashimashie"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "El Mustavo"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Flip the Bird"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Ginger Drop"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Hotaling Old Tom Gin"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Ju-Ju Hurricane"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Kentucky Mai Tai"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "La La Land"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Lovage In The Garden"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Lox, Stock & Two Smoking Barrels"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Lucky No.3"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Mayan Mule"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Mister Gingy"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Motel Nacional"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "On the Flipside"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Winter Season"
+    },
+    {
+        "local": "Los Angeles",
+        "nome": "Winter Swizzle"
+    },
+    {
+        "local": "Los Gatos",
+        "nome": "West Bank"
+    },
+    {
+        "local": "Miami",
+        "nome": "Brazilian Mule Punch"
+    },
+    {
+        "local": "Miami",
+        "nome": "Endless Summer"
+    },
+    {
+        "local": "Miami",
+        "nome": "Lychee & 3"
+    },
+    {
+        "local": "Miami",
+        "nome": "Prata Punch"
+    },
+    {
+        "local": "Miami",
+        "nome": "Slow Ride"
+    },
+    {
+        "local": "Miami",
+        "nome": "Ypioca Chile Punch"
+    },
+    {
+        "local": "Milwaukee",
+        "nome": "The Canevari Cocktail"
+    },
+    {
+        "local": "Nashville",
+        "nome": "Red Hook"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Baile de Verano"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Banana's Froster"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Boko Buku"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Bubbleliciously Delicious"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Cap't of the Seven Seas"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Chilcano (variation)"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Creole Cobbler"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Geaux Geaux Cup"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "King's Snap the Chocolate Out of You"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Nola '75"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Pontchartrain Punch"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Stroll Through the Park"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "Tequila Sunflare"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "The Kings Mule"
+    },
+    {
+        "local": "New Orleans",
+        "nome": "The Naughty & Nice"
+    },
+    {
+        "local": "New York",
+        "nome": "Boomin' Granny"
+    },
+    {
+        "local": "New York",
+        "nome": "Cherry Orchard"
+    },
+    {
+        "local": "New York",
+        "nome": "Conference"
+    },
+    {
+        "local": "New York",
+        "nome": "Daisy Mae"
+    },
+    {
+        "local": "New York",
+        "nome": "Feingold"
+    },
+    {
+        "local": "New York",
+        "nome": "Flamenco"
+    },
+    {
+        "local": "New York",
+        "nome": "Floral Summer"
+    },
+    {
+        "local": "New York",
+        "nome": "Framboise de Pigeon"
+    },
+    {
+        "local": "New York",
+        "nome": "French Maid"
+    },
+    {
+        "local": "New York",
+        "nome": "Heart Breaker"
+    },
+    {
+        "local": "New York",
+        "nome": "Hibiscus Pisco Sour"
+    },
+    {
+        "local": "New York",
+        "nome": "La Maracuja"
+    },
+    {
+        "local": "New York",
+        "nome": "Le Femme Nikita"
+    },
+    {
+        "local": "New York",
+        "nome": "Mango No. 3"
+    },
+    {
+        "local": "New York",
+        "nome": "Match Grip Julep"
+    },
+    {
+        "local": "New York",
+        "nome": "Mott and Mulberry"
+    },
+    {
+        "local": "New York",
+        "nome": "Muddled Mission"
+    },
+    {
+        "local": "New York",
+        "nome": "Negroni Sorbetto"
+    },
+    {
+        "local": "New York",
+        "nome": "Plum Loco"
+    },
+    {
+        "local": "New York",
+        "nome": "Sade's Taboo"
+    },
+    {
+        "local": "New York",
+        "nome": "Sidewinder"
+    },
+    {
+        "local": "New York",
+        "nome": "Solera Sidecar"
+    },
+    {
+        "local": "New York",
+        "nome": "Tea & Sympathy"
+    },
+    {
+        "local": "New York",
+        "nome": "The Double Crown"
+    },
+    {
+        "local": "New York",
+        "nome": "Wooster 53"
+    },
+    {
+        "local": "New York",
+        "nome": "Yuzu Sazerac"
+    },
+    {
+        "local": "New Zealand",
+        "nome": "Mexico Mule"
+    },
+    {
+        "local": "Pacifica",
+        "nome": "La Madrugada"
+    },
+    {
+        "local": "Philadelphia",
+        "nome": "On the Wings of Eagles"
+    },
+    {
+        "local": "Philadelphia",
+        "nome": "The Molino"
+    },
+    {
+        "local": "Phoenix",
+        "nome": "Bay City Shandy"
+    },
+    {
+        "local": "Portland",
+        "nome": "Piedra de sol"
+    },
+    {
+        "local": "Portland",
+        "nome": "The Professor"
+    },
+    {
+        "local": "Sacramento",
+        "nome": "Willow"
+    },
+    {
+        "local": "San Diego",
+        "nome": "The Palace Cellar"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "A Bloody Shame"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "A Botanical Garden"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Above My Pay Grade"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Across The Pond"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Almond Crusta"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "A Love Song"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Amaretto Sour BV-Style"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "A.Nise"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "An Oaxacan Christmas"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Aperitivo Spritz"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Apples & Grapes"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "A Southern Jackass"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "A Tall Tell"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "B-String"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Bakko & Zengo"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Barrel Aged Ginger Negroni"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Bianco Americano"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Bon Voyage Pisco Punch"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Bourbon Crusta"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Buenaventura"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Bunny Poison"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Buster Crusta"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Canary vs. the Coal Mine"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Champagne Sidecar"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Champs \u00c9lys\u00e9es"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Chapman Cobbler"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Charente Royale"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Cherry Bark Martinez"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Classic Lolita"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Cocao Martini"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Cock-tail"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Coffee & Clove"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Cream of the Crop"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Creek Ran Dry"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Creole"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Croatia Firing Squad"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Day For Night"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Delicious in Mauritius"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Delicious Sour"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Dirt Nap"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Double Trouble"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Down the Rabbit Hole"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Drops of Jupiter"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Elgin Elixir"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "End of Winter"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Far From the Tree"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Fortune & Glory"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Fourth Generation"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Full of Bologna"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Gin Made Me Do It"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Gin n' Celery"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Gold Rush"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Green and Gold"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Happiness"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Hippi Hill"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Hophead Old Fashioned"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Hotaling White Manhattan"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "I'm Only Happy when it Rains"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Im(pear)ed Fashioned"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Improved Calvados Cocktail"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "In HINEsight"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "International Mistress"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Iron Fist in a Velvet Glove"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Iron Tonic"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Junipero Jolly"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Just Beet It"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Kentucky Garrigue"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Kind of Fancy"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "King's Medicine"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "King's Toddy"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Little Ground Tapper"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Local Edition Punch"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Lonesome George"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Lux Japanese Lemonade"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Mandrake"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Mauritian Sunrise"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Mayahuel's Revenge"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Mayan Decadence"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Merry Sherry Cobbler"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Monet"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Mother Superior"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Newton's Theory"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Nick & Janae"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Nori & Islay"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Nuestra Julep"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Oaxacan Martini"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "OH Snap!"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "On the Fritz"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Party in the Agave Fields"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Peter Pumpkin"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Phineas Flip"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Pineapple Express"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Pisco Punch (Adaptation by The Comstock Saloon)"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Pisco Sling"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Playa Matalan (Mezcal Negroni)"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Polish Penance"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Port's North Fogcutter Cup"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Prickly Pear Margarita"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Prince of Humbugs"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Pumpkin & Pecan"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Round Pond Aperitif"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Rudolph's Rose"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Sage & Sound"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Sahara Glowing Heart"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "San Francisco Harvest"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "San Francisco Strong (Skrong)"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "San Fran Shandy"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Scotch Joplin"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Second City Sour"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "See You T'Amaro"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Short Round"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Short Round II"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Simply Perfecto"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Sloe & Steady"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Snow Bunny"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Southside Fizz"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Speyside Orchard"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Spring Forward"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Swedish Nightingale"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Tahitian Fix"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Tea Party Cocktail"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The 42nd Round"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Bossa Nova"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Boys of Summer Cup"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Cavalier White Lady"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Chief"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Commissioner's Trophy #3"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Douglas Tilden"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Greatest Punch on Earth"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Happy Place"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Hollinger Manhattan"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The King Merlet Sidecar"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The King's Froth & Frizz"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The King's Medicine"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Last Tango"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Lover's Quarrel"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Nutty Sensation"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Rickenbacker"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Shah's Shandy"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Stand By"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Swedish"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "The Tahoe Toddy"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "T&T"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Under the Sun"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Venetian"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Virgil St."
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Where's the Orgeat?"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Xmas in Juniper"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Yawkey Way"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "You Bet Your Ascot"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "You Go Glen Coco"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "Ypioca Yellow Card"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "10 to 7"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "3AM"
+    },
+    {
+        "local": "San Francisco",
+        "nome": "50/50 Split"
+    },
+    {
+        "local": "San Luis Obispo",
+        "nome": "Potrero Hill"
+    },
+    {
+        "local": "Seattle",
+        "nome": "Luxardo Sour"
+    },
+    {
+        "local": "Seattle",
+        "nome": "Rita's Song"
+    },
+    {
+        "local": "Seattle",
+        "nome": "The Bittered Valley"
+    },
+    {
+        "local": "Seattle",
+        "nome": "The Dry Cruise"
+    },
+    {
+        "local": "Seattle",
+        "nome": "Yes, Queen!"
+    },
+    {
+        "local": "Somerville",
+        "nome": "Basilway Daquiri"
+    },
+    {
+        "local": "Somerville",
+        "nome": "Flight to Peru"
+    },
+    {
+        "local": "Somerville",
+        "nome": "Still Life of a Pineapple"
+    },
+    {
+        "local": "Spain",
+        "nome": "Nara Mule"
+    },
+    {
+        "local": "St. Louis",
+        "nome": "Spanish G&T"
+    },
+    {
+        "local": "St. Louis",
+        "nome": "#106 Cocktail"
+    },
+    {
+        "local": "United Kingdom",
+        "nome": "Dry Mauritian Sour"
+    },
+    {
+        "local": "United Kingdom",
+        "nome": "Fiery Clydesdale"
+    },
+    {
+        "local": "United Kingdom",
+        "nome": "Flip and Flight"
+    },
+    {
+        "local": "United Kingdom",
+        "nome": "Passionate Pigeon"
+    },
+    {
+        "local": "United Kingdom",
+        "nome": "The Pink Aperitivo"
+    },
+    {
+        "local": "United Kingdom",
+        "nome": "The Queen's A Redhead"
+    },
+    {
+        "local": "Washington DC",
+        "nome": "Eat, Drink and Be Cherry"
+    },
+    {
+        "local": "Washington DC",
+        "nome": "Irish Goodbye"
+    },
+    {
+        "local": "Washington DC",
+        "nome": "Neko Colada"
+    },
+    {
+        "local": "Washington DC",
+        "nome": "Nikka Earl Grey"
+    },
+    {
+        "local": "Washington DC",
+        "nome": "Nikka's Golden Cherry"
+    },
+    {
+        "local": "Washington DC",
+        "nome": "\u201cPrepare for Destiny! Where\u2019s my Pizza?\u201d"
+    },
+    {
+        "local": "Westport",
+        "nome": "Brisa del Sur"
+    },
+    {
+        "local": "Westport",
+        "nome": "Chingerito"
+    }
+]

@@ -1,0 +1,1994 @@
+[
+    {
+        "movie_title": "Lock, Stock and Two Smoking Barrels",
+        "directors": "Guy Ritchie"
+    },
+    {
+        "movie_title": "All Your Faces",
+        "directors": "Jeanne Herry"
+    },
+    {
+        "movie_title": "I'm Still Here",
+        "directors": "Walter Salles"
+    },
+    {
+        "movie_title": "The Kid",
+        "directors": "Charlie Chaplin"
+    },
+    {
+        "movie_title": "L\u00e9on: The Professional",
+        "directors": "Luc Besson"
+    },
+    {
+        "movie_title": "Cries and Whispers",
+        "directors": "Ingmar Bergman"
+    },
+    {
+        "movie_title": "What Ever Happened to Baby Jane?",
+        "directors": "Robert Aldrich"
+    },
+    {
+        "movie_title": "There's Still Tomorrow",
+        "directors": "Paola Cortellesi"
+    },
+    {
+        "movie_title": "Taxi Driver",
+        "directors": "Martin Scorsese"
+    },
+    {
+        "movie_title": "The Hunt",
+        "directors": "Thomas Vinterberg"
+    },
+    {
+        "movie_title": "The Legend of 1900",
+        "directors": "Giuseppe Tornatore"
+    },
+    {
+        "movie_title": "The Iron Giant",
+        "directors": "Brad Bird"
+    },
+    {
+        "movie_title": "Raise the Red Lantern",
+        "directors": "Zhang Yimou"
+    },
+    {
+        "movie_title": "Perfect Blue",
+        "directors": "Satoshi Kon"
+    },
+    {
+        "movie_title": "Back to the Future",
+        "directors": "Robert Zemeckis"
+    },
+    {
+        "movie_title": "Monster",
+        "directors": "Hirokazu Kore-eda"
+    },
+    {
+        "movie_title": "Castle in the Sky",
+        "directors": "Hayao Miyazaki"
+    },
+    {
+        "movie_title": "Radical",
+        "directors": "Christopher Zalla"
+    },
+    {
+        "movie_title": "The Hidden Fortress",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "Memoir of a Snail",
+        "directors": "Adam Elliot"
+    },
+    {
+        "movie_title": "The Wolf of Wall Street",
+        "directors": "Martin Scorsese"
+    },
+    {
+        "movie_title": "Mulan",
+        "directors": "Tony Bancroft, Barry Cook"
+    },
+    {
+        "movie_title": "WALL\u00b7E",
+        "directors": "Andrew Stanton"
+    },
+    {
+        "movie_title": "Faust",
+        "directors": "F. W. Murnau"
+    },
+    {
+        "movie_title": "Forgotten Love",
+        "directors": "Micha\u0142 Gazda"
+    },
+    {
+        "movie_title": "The Count of Monte Cristo",
+        "directors": "Matthieu Delaporte, Alexandre de La Patelli\u00e8re"
+    },
+    {
+        "movie_title": "The Thing",
+        "directors": "John Carpenter"
+    },
+    {
+        "movie_title": "The Third Man",
+        "directors": "Carol Reed"
+    },
+    {
+        "movie_title": "Farewell My Concubine",
+        "directors": "Chen Kaige"
+    },
+    {
+        "movie_title": "Star Wars",
+        "directors": "George Lucas"
+    },
+    {
+        "movie_title": "Three Colors: Red",
+        "directors": "Krzysztof Kie\u015blowski"
+    },
+    {
+        "movie_title": "The Postman",
+        "directors": "Michael Radford"
+    },
+    {
+        "movie_title": "The Notebook",
+        "directors": "Nick Cassavetes"
+    },
+    {
+        "movie_title": "Song of the Sea",
+        "directors": "Tomm Moore"
+    },
+    {
+        "movie_title": "Wolf Children",
+        "directors": "Mamoru Hosoda"
+    },
+    {
+        "movie_title": "Scarface",
+        "directors": "Brian De Palma"
+    },
+    {
+        "movie_title": "Chungking Express",
+        "directors": "Wong Kar-wai"
+    },
+    {
+        "movie_title": "Cinema Paradiso",
+        "directors": "Giuseppe Tornatore"
+    },
+    {
+        "movie_title": "The Prestige",
+        "directors": "Christopher Nolan"
+    },
+    {
+        "movie_title": "Paper Moon",
+        "directors": "Peter Bogdanovich"
+    },
+    {
+        "movie_title": "Shutter Island",
+        "directors": "Martin Scorsese"
+    },
+    {
+        "movie_title": "Once Upon a Studio",
+        "directors": "Dan Abraham, Trent Correy"
+    },
+    {
+        "movie_title": "Memories of Murder",
+        "directors": "Bong Joon Ho"
+    },
+    {
+        "movie_title": "TAYLOR SWIFT | THE ERAS TOUR",
+        "directors": "Sam Wrench"
+    },
+    {
+        "movie_title": "The Miracle Worker",
+        "directors": "Arthur Penn"
+    },
+    {
+        "movie_title": "Ran",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "Tae Guk Gi: The Brotherhood of War",
+        "directors": "Kang Je-kyu"
+    },
+    {
+        "movie_title": "The Best of Youth",
+        "directors": "Marco Tullio Giordana"
+    },
+    {
+        "movie_title": "Sanjuro",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "The Deer Hunter",
+        "directors": "Michael Cimino"
+    },
+    {
+        "movie_title": "Guardians of the Galaxy",
+        "directors": "James Gunn"
+    },
+    {
+        "movie_title": "The Wild Robot",
+        "directors": "Chris Sanders"
+    },
+    {
+        "movie_title": "Yojimbo",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "directors": "Peter Jackson"
+    },
+    {
+        "movie_title": "The Grand Budapest Hotel",
+        "directors": "Wes Anderson"
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Two Towers",
+        "directors": "Peter Jackson"
+    },
+    {
+        "movie_title": "Pink Floyd: The Wall",
+        "directors": "Alan Parker"
+    },
+    {
+        "movie_title": "Let Go",
+        "directors": "Josephine Bornebusch"
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Return of the King",
+        "directors": "Peter Jackson"
+    },
+    {
+        "movie_title": "About Time",
+        "directors": "Richard Curtis"
+    },
+    {
+        "movie_title": "Look Back",
+        "directors": "Kiyotaka Oshiyama"
+    },
+    {
+        "movie_title": "Harry Potter and the Deathly Hallows: Part 2",
+        "directors": "David Yates"
+    },
+    {
+        "movie_title": "Grave of the Fireflies",
+        "directors": "Isao Takahata"
+    },
+    {
+        "movie_title": "High and Low",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "Autumn Sonata",
+        "directors": "Ingmar Bergman"
+    },
+    {
+        "movie_title": "Princess Mononoke",
+        "directors": "Hayao Miyazaki"
+    },
+    {
+        "movie_title": "Spirited Away",
+        "directors": "Hayao Miyazaki"
+    },
+    {
+        "movie_title": "Forrest Gump",
+        "directors": "Robert Zemeckis"
+    },
+    {
+        "movie_title": "Gran Torino",
+        "directors": "Clint Eastwood"
+    },
+    {
+        "movie_title": "Scenes from a Marriage",
+        "directors": "Ingmar Bergman"
+    },
+    {
+        "movie_title": "Tokyo Godfathers",
+        "directors": "Satoshi Kon"
+    },
+    {
+        "movie_title": "Counterattack",
+        "directors": "Chava Cartas"
+    },
+    {
+        "movie_title": "Mirror",
+        "directors": "Andrei Tarkovsky"
+    },
+    {
+        "movie_title": "Stalker",
+        "directors": "Andrei Tarkovsky"
+    },
+    {
+        "movie_title": "American Beauty",
+        "directors": "Sam Mendes"
+    },
+    {
+        "movie_title": "The Pursuit of Happyness",
+        "directors": "Gabriele Muccino"
+    },
+    {
+        "movie_title": "Paperman",
+        "directors": "John Kahrs"
+    },
+    {
+        "movie_title": "Up",
+        "directors": "Pete Docter"
+    },
+    {
+        "movie_title": "Batman: The Dark Knight Returns, Part 2",
+        "directors": "Jay Oliva"
+    },
+    {
+        "movie_title": "The Departed",
+        "directors": "Martin Scorsese"
+    },
+    {
+        "movie_title": "Harakiri",
+        "directors": "Masaki Kobayashi"
+    },
+    {
+        "movie_title": "Prisoners",
+        "directors": "Denis Villeneuve"
+    },
+    {
+        "movie_title": "Ugetsu",
+        "directors": "Kenji Mizoguchi"
+    },
+    {
+        "movie_title": "The 400 Blows",
+        "directors": "Fran\u00e7ois Truffaut"
+    },
+    {
+        "movie_title": "Coraline",
+        "directors": "Henry Selick"
+    },
+    {
+        "movie_title": "Akira",
+        "directors": "Katsuhiro Otomo"
+    },
+    {
+        "movie_title": "The Tale of The Princess Kaguya",
+        "directors": "Isao Takahata"
+    },
+    {
+        "movie_title": "Citizen Kane",
+        "directors": "Orson Welles"
+    },
+    {
+        "movie_title": "Inside Out",
+        "directors": "Pete Docter"
+    },
+    {
+        "movie_title": "A Man Escaped",
+        "directors": "Robert Bresson"
+    },
+    {
+        "movie_title": "Dallas Buyers Club",
+        "directors": "Jean-Marc Vall\u00e9e"
+    },
+    {
+        "movie_title": "Army of Shadows",
+        "directors": "Jean-Pierre Melville"
+    },
+    {
+        "movie_title": "The Dark Knight",
+        "directors": "Christopher Nolan"
+    },
+    {
+        "movie_title": "Interstellar",
+        "directors": "Christopher Nolan"
+    },
+    {
+        "movie_title": "Raging Bull",
+        "directors": "Martin Scorsese"
+    },
+    {
+        "movie_title": "Rope",
+        "directors": "Alfred Hitchcock"
+    },
+    {
+        "movie_title": "A Brighter Summer Day",
+        "directors": "Edward Yang"
+    },
+    {
+        "movie_title": "Miracle in Cell No. 7",
+        "directors": "Lee Hwan-kyung, Mehmet Ada \u00d6ztekin"
+    },
+    {
+        "movie_title": "It's a Wonderful Life",
+        "directors": "Frank Capra"
+    },
+    {
+        "movie_title": "Dancer in the Dark",
+        "directors": "Lars von Trier"
+    },
+    {
+        "movie_title": "A Bronx Tale",
+        "directors": "Robert De Niro"
+    },
+    {
+        "movie_title": "Tel chi el tel\u00f9n",
+        "directors": "Arturo Brachetti"
+    },
+    {
+        "movie_title": "Freedom Writers",
+        "directors": "Richard LaGravenese"
+    },
+    {
+        "movie_title": "Woman in the Dunes",
+        "directors": "Hiroshi Teshigahara"
+    },
+    {
+        "movie_title": "Inglourious Basterds",
+        "directors": "Quentin Tarantino"
+    },
+    {
+        "movie_title": "The Battle of Algiers",
+        "directors": "Gillo Pontecorvo"
+    },
+    {
+        "movie_title": "We Are the Nobles",
+        "directors": "Gary Alazraki"
+    },
+    {
+        "movie_title": "Tokyo Story",
+        "directors": "Yasujir\u014d Ozu"
+    },
+    {
+        "movie_title": "Justice League: The Flashpoint Paradox",
+        "directors": "Jay Oliva"
+    },
+    {
+        "movie_title": "Castaway on the Moon",
+        "directors": "Lee Hae-jun"
+    },
+    {
+        "movie_title": "Neon Genesis Evangelion: The End of Evangelion",
+        "directors": "Hideaki Anno, Kazuya Tsurumaki"
+    },
+    {
+        "movie_title": "A Clockwork Orange",
+        "directors": "Stanley Kubrick"
+    },
+    {
+        "movie_title": "The Empire Strikes Back",
+        "directors": "Irvin Kershner"
+    },
+    {
+        "movie_title": "Return of the Jedi",
+        "directors": "Richard Marquand"
+    },
+    {
+        "movie_title": "Metropolis",
+        "directors": "Fritz Lang"
+    },
+    {
+        "movie_title": "Am\u00e9lie",
+        "directors": "Jean-Pierre Jeunet"
+    },
+    {
+        "movie_title": "Dilwale Dulhania Le Jayenge",
+        "directors": "Aditya Chopra"
+    },
+    {
+        "movie_title": "Nights of Cabiria",
+        "directors": "Federico Fellini"
+    },
+    {
+        "movie_title": "The Red Shoes",
+        "directors": "Emeric Pressburger, Michael Powell"
+    },
+    {
+        "movie_title": "The Elephant Man",
+        "directors": "David Lynch"
+    },
+    {
+        "movie_title": "Braveheart",
+        "directors": "Mel Gibson"
+    },
+    {
+        "movie_title": "Persepolis",
+        "directors": "Marjane Satrapi, Vincent Paronnaud"
+    },
+    {
+        "movie_title": "Divorce Italian Style",
+        "directors": "Pietro Germi"
+    },
+    {
+        "movie_title": "The Shop Around the Corner",
+        "directors": "Ernst Lubitsch"
+    },
+    {
+        "movie_title": "The Wages of Fear",
+        "directors": "Henri-Georges Clouzot"
+    },
+    {
+        "movie_title": "3 Idiots",
+        "directors": "Rajkumar Hirani"
+    },
+    {
+        "movie_title": "Late Spring",
+        "directors": "Yasujir\u014d Ozu"
+    },
+    {
+        "movie_title": "Sansho the Bailiff",
+        "directors": "Kenji Mizoguchi"
+    },
+    {
+        "movie_title": "The Imitation Game",
+        "directors": "Morten Tyldum"
+    },
+    {
+        "movie_title": "Dead Poets Society",
+        "directors": "Peter Weir"
+    },
+    {
+        "movie_title": "La Maison en Petits Cubes",
+        "directors": "Kunio Katou"
+    },
+    {
+        "movie_title": "Ivan Vasilyevich Changes His Profession",
+        "directors": "Leonid Gaidai"
+    },
+    {
+        "movie_title": "My Friends",
+        "directors": "Mario Monicelli"
+    },
+    {
+        "movie_title": "Innocent Voices",
+        "directors": "Luis Mandoki"
+    },
+    {
+        "movie_title": "Gone Girl",
+        "directors": "David Fincher"
+    },
+    {
+        "movie_title": "North by Northwest",
+        "directors": "Alfred Hitchcock"
+    },
+    {
+        "movie_title": "Children of Heaven",
+        "directors": "Majid Majidi"
+    },
+    {
+        "movie_title": "Prayers for Bobby",
+        "directors": "Russell Mulcahy"
+    },
+    {
+        "movie_title": "Rebecca",
+        "directors": "Alfred Hitchcock"
+    },
+    {
+        "movie_title": "Werckmeister Harmonies",
+        "directors": "B\u00e9la Tarr"
+    },
+    {
+        "movie_title": "The Cabinet of Dr. Caligari",
+        "directors": "Robert Wiene"
+    },
+    {
+        "movie_title": "The Way He Looks",
+        "directors": "Daniel Ribeiro"
+    },
+    {
+        "movie_title": "The Godfather",
+        "directors": "Francis Ford Coppola"
+    },
+    {
+        "movie_title": "Some Like It Hot",
+        "directors": "Billy Wilder"
+    },
+    {
+        "movie_title": "Kill Bill: Vol. 1",
+        "directors": "Quentin Tarantino"
+    },
+    {
+        "movie_title": "The Godfather Part II",
+        "directors": "Francis Ford Coppola"
+    },
+    {
+        "movie_title": "Il Sorpasso",
+        "directors": "Dino Risi"
+    },
+    {
+        "movie_title": "Mary and Max",
+        "directors": "Adam Elliot"
+    },
+    {
+        "movie_title": "When Marnie Was There",
+        "directors": "Hiromasa Yonebayashi"
+    },
+    {
+        "movie_title": "Big Deal on Madonna Street",
+        "directors": "Mario Monicelli"
+    },
+    {
+        "movie_title": "Whiplash",
+        "directors": "Damien Chazelle"
+    },
+    {
+        "movie_title": "Children of Paradise",
+        "directors": "Marcel Carn\u00e9"
+    },
+    {
+        "movie_title": "Nobody Knows",
+        "directors": "Hirokazu Kore-eda"
+    },
+    {
+        "movie_title": "Come and See",
+        "directors": "Elem Klimov"
+    },
+    {
+        "movie_title": "The Secret in Their Eyes",
+        "directors": "Juan Jos\u00e9 Campanella"
+    },
+    {
+        "movie_title": "Yi Yi",
+        "directors": "Edward Yang"
+    },
+    {
+        "movie_title": "Hope",
+        "directors": "Lee Joon-ik"
+    },
+    {
+        "movie_title": "My Name Is Khan",
+        "directors": "Karan Johar"
+    },
+    {
+        "movie_title": "Investigation of a Citizen Above Suspicion",
+        "directors": "Elio Petri"
+    },
+    {
+        "movie_title": "Room",
+        "directors": "Lenny Abrahamson"
+    },
+    {
+        "movie_title": "Mommy",
+        "directors": "Xavier Dolan"
+    },
+    {
+        "movie_title": "Wild Tales",
+        "directors": "Dami\u00e1n Szifron"
+    },
+    {
+        "movie_title": "Inception",
+        "directors": "Christopher Nolan"
+    },
+    {
+        "movie_title": "The Silence of the Lambs",
+        "directors": "Jonathan Demme"
+    },
+    {
+        "movie_title": "The Shawshank Redemption",
+        "directors": "Frank Darabont"
+    },
+    {
+        "movie_title": "Amadeus",
+        "directors": "Milo\u0161 Forman"
+    },
+    {
+        "movie_title": "Apocalypse Now",
+        "directors": "Francis Ford Coppola"
+    },
+    {
+        "movie_title": "Terminator 2: Judgment Day",
+        "directors": "James Cameron"
+    },
+    {
+        "movie_title": "Hachi: A Dog's Tale",
+        "directors": "Lasse Hallstr\u00f6m"
+    },
+    {
+        "movie_title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "directors": "Katsuichi Nakayama, Mahiro Maeda, Hideaki Anno, Kazuya Tsurumaki"
+    },
+    {
+        "movie_title": "The Apartment",
+        "directors": "Billy Wilder"
+    },
+    {
+        "movie_title": "Love Exposure",
+        "directors": "Sion Sono"
+    },
+    {
+        "movie_title": "Casablanca",
+        "directors": "Michael Curtiz"
+    },
+    {
+        "movie_title": "Limelight",
+        "directors": "Charlie Chaplin"
+    },
+    {
+        "movie_title": "The Circus",
+        "directors": "Charlie Chaplin"
+    },
+    {
+        "movie_title": "The Handmaiden",
+        "directors": "Park Chan-wook"
+    },
+    {
+        "movie_title": "Le Trou",
+        "directors": "Jacques Becker"
+    },
+    {
+        "movie_title": "The Exterminating Angel",
+        "directors": "Luis Bu\u00f1uel"
+    },
+    {
+        "movie_title": "Winter Light",
+        "directors": "Ingmar Bergman"
+    },
+    {
+        "movie_title": "Me Before You",
+        "directors": "Thea Sharrock"
+    },
+    {
+        "movie_title": "Avengers: Endgame",
+        "directors": "Anthony Russo, Joe Russo"
+    },
+    {
+        "movie_title": "Avengers: Infinity War",
+        "directors": "Anthony Russo, Joe Russo"
+    },
+    {
+        "movie_title": "Close-Up",
+        "directors": "Abbas Kiarostami"
+    },
+    {
+        "movie_title": "Young Frankenstein",
+        "directors": "Mel Brooks"
+    },
+    {
+        "movie_title": "Rome, Open City",
+        "directors": "Roberto Rossellini"
+    },
+    {
+        "movie_title": "Modern Times",
+        "directors": "Charlie Chaplin"
+    },
+    {
+        "movie_title": "The Treasure of the Sierra Madre",
+        "directors": "John Huston"
+    },
+    {
+        "movie_title": "The Second Mother",
+        "directors": "Anna Muylaert"
+    },
+    {
+        "movie_title": "Once Upon a Time in America",
+        "directors": "Sergio Leone"
+    },
+    {
+        "movie_title": "The Night of the Hunter",
+        "directors": "Charles Laughton"
+    },
+    {
+        "movie_title": "Doctor Who: The Day of the Doctor",
+        "directors": "Nick Hurran"
+    },
+    {
+        "movie_title": "La La Land",
+        "directors": "Damien Chazelle"
+    },
+    {
+        "movie_title": "The Cameraman",
+        "directors": "Edward Sedgwick, Buster Keaton"
+    },
+    {
+        "movie_title": "To Live",
+        "directors": "Zhang Yimou"
+    },
+    {
+        "movie_title": "Puss in Boots: The Last Wish",
+        "directors": "Joel Crawford"
+    },
+    {
+        "movie_title": "The Boy and the Beast",
+        "directors": "Mamoru Hosoda"
+    },
+    {
+        "movie_title": "The Greatest Showman",
+        "directors": "Michael Gracey"
+    },
+    {
+        "movie_title": "Barry Lyndon",
+        "directors": "Stanley Kubrick"
+    },
+    {
+        "movie_title": "Vincent",
+        "directors": "Tim Burton"
+    },
+    {
+        "movie_title": "Hacksaw Ridge",
+        "directors": "Mel Gibson"
+    },
+    {
+        "movie_title": "Spider-Man: Into the Spider-Verse",
+        "directors": "Peter Ramsey, Rodney Rothman, Bob Persichetti"
+    },
+    {
+        "movie_title": "Jurassic Park",
+        "directors": "Steven Spielberg"
+    },
+    {
+        "movie_title": "Unforgiven",
+        "directors": "Clint Eastwood"
+    },
+    {
+        "movie_title": "Little Women",
+        "directors": "Greta Gerwig"
+    },
+    {
+        "movie_title": "Captain Fantastic",
+        "directors": "Matt Ross"
+    },
+    {
+        "movie_title": "Lion",
+        "directors": "Garth Davis"
+    },
+    {
+        "movie_title": "Once Upon a Time in the West",
+        "directors": "Sergio Leone"
+    },
+    {
+        "movie_title": "Cruella",
+        "directors": "Craig Gillespie"
+    },
+    {
+        "movie_title": "Loving Vincent",
+        "directors": "DK Welchman, Hugh Welchman"
+    },
+    {
+        "movie_title": "Seven Samurai",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "Scooby-Doo! and Kiss: Rock and Roll Mystery",
+        "directors": "Tony Cervone, Spike Brandt"
+    },
+    {
+        "movie_title": "Alien",
+        "directors": "Ridley Scott"
+    },
+    {
+        "movie_title": "Regular Show: The Movie",
+        "directors": "J.G. Quintel"
+    },
+    {
+        "movie_title": "Coco",
+        "directors": "Lee Unkrich"
+    },
+    {
+        "movie_title": "Ford v Ferrari",
+        "directors": "James Mangold"
+    },
+    {
+        "movie_title": "Three Billboards Outside Ebbing, Missouri",
+        "directors": "Martin McDonagh"
+    },
+    {
+        "movie_title": "Dangal",
+        "directors": "Nitesh Tiwari"
+    },
+    {
+        "movie_title": "Top Gun: Maverick",
+        "directors": "Joseph Kosinski"
+    },
+    {
+        "movie_title": "Sing Street",
+        "directors": "John Carney"
+    },
+    {
+        "movie_title": "The Truman Show",
+        "directors": "Peter Weir"
+    },
+    {
+        "movie_title": "Your Name.",
+        "directors": "Makoto Shinkai"
+    },
+    {
+        "movie_title": "Witness for the Prosecution",
+        "directors": "Billy Wilder"
+    },
+    {
+        "movie_title": "Dou kyu sei \u2013 Classmates",
+        "directors": "Shoko Nakamura"
+    },
+    {
+        "movie_title": "Throne of Blood",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "Whisper of the Heart",
+        "directors": "Yoshifumi Kondo"
+    },
+    {
+        "movie_title": "Red Beard",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "A Silent Voice: The Movie",
+        "directors": "Naoko Yamada"
+    },
+    {
+        "movie_title": "In This Corner of the World",
+        "directors": "Sunao Katabuchi"
+    },
+    {
+        "movie_title": "Ikiru",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "Eternal Sunshine of the Spotless Mind",
+        "directors": "Michel Gondry"
+    },
+    {
+        "movie_title": "Hidden Figures",
+        "directors": "Theodore Melfi"
+    },
+    {
+        "movie_title": "Perfect Strangers",
+        "directors": "Paolo Genovese"
+    },
+    {
+        "movie_title": "Three Men and a Leg",
+        "directors": "Massimo Venier, Aldo Baglio, Giovanni Storti, Giacomo Poretti"
+    },
+    {
+        "movie_title": "\u201cThe Shorts\u201d by Aldo, Giovanni and Giacomo",
+        "directors": "Arturo Brachetti"
+    },
+    {
+        "movie_title": "The Cranes Are Flying",
+        "directors": "Mikhail Kalatozov"
+    },
+    {
+        "movie_title": "Das Boot",
+        "directors": "Wolfgang Petersen"
+    },
+    {
+        "movie_title": "12 Angry Men",
+        "directors": "Sidney Lumet"
+    },
+    {
+        "movie_title": "Kill Bill: Vol. 2",
+        "directors": "Quentin Tarantino"
+    },
+    {
+        "movie_title": "Along with the Gods: The Two Worlds",
+        "directors": "Kim Yong-hwa"
+    },
+    {
+        "movie_title": "Call Me by Your Name",
+        "directors": "Luca Guadagnino"
+    },
+    {
+        "movie_title": "Piper",
+        "directors": "Alan Barillaro"
+    },
+    {
+        "movie_title": "Bo Burnham: Make Happy",
+        "directors": "Christopher Storer, Bo Burnham"
+    },
+    {
+        "movie_title": "Gifted",
+        "directors": "Marc Webb"
+    },
+    {
+        "movie_title": "A Dog's Will",
+        "directors": "Guel Arraes"
+    },
+    {
+        "movie_title": "A Street Cat Named Bob",
+        "directors": "Roger Spottiswoode"
+    },
+    {
+        "movie_title": "La Strada",
+        "directors": "Federico Fellini"
+    },
+    {
+        "movie_title": "La Haine",
+        "directors": "Mathieu Kassovitz"
+    },
+    {
+        "movie_title": "Wonder",
+        "directors": "Stephen Chbosky"
+    },
+    {
+        "movie_title": "La Notte",
+        "directors": "Michelangelo Antonioni"
+    },
+    {
+        "movie_title": "The Invisible Guest",
+        "directors": "Oriol Paulo"
+    },
+    {
+        "movie_title": "Kill Bill: The Whole Bloody Affair",
+        "directors": "Quentin Tarantino"
+    },
+    {
+        "movie_title": "8\u00bd",
+        "directors": "Federico Fellini"
+    },
+    {
+        "movie_title": "A Special Day",
+        "directors": "Ettore Scola"
+    },
+    {
+        "movie_title": "We All Loved Each Other So Much",
+        "directors": "Ettore Scola"
+    },
+    {
+        "movie_title": "The Pianist",
+        "directors": "Roman Polanski"
+    },
+    {
+        "movie_title": "Schindler's List",
+        "directors": "Steven Spielberg"
+    },
+    {
+        "movie_title": "Bohemian Rhapsody",
+        "directors": "Bryan Singer"
+    },
+    {
+        "movie_title": "Vertigo",
+        "directors": "Alfred Hitchcock"
+    },
+    {
+        "movie_title": "Where Hands Touch",
+        "directors": "Amma Asante"
+    },
+    {
+        "movie_title": "The Good, the Bad and the Ugly",
+        "directors": "Sergio Leone"
+    },
+    {
+        "movie_title": "Bingo: The King of the Mornings",
+        "directors": "Daniel Rezende"
+    },
+    {
+        "movie_title": "Pride & Prejudice",
+        "directors": "Joe Wright"
+    },
+    {
+        "movie_title": "A Taxi Driver",
+        "directors": "Jang Hoon"
+    },
+    {
+        "movie_title": "La Dolce Vita",
+        "directors": "Federico Fellini"
+    },
+    {
+        "movie_title": "Flipped",
+        "directors": "Rob Reiner"
+    },
+    {
+        "movie_title": "Wolfwalkers",
+        "directors": "Ross Stewart, Tomm Moore"
+    },
+    {
+        "movie_title": "Life in a Year",
+        "directors": "Mitja Okorn"
+    },
+    {
+        "movie_title": "Guardians of the Galaxy Vol. 3",
+        "directors": "James Gunn"
+    },
+    {
+        "movie_title": "Love, Simon",
+        "directors": "Greg Berlanti"
+    },
+    {
+        "movie_title": "A Beautiful Mind",
+        "directors": "Ron Howard"
+    },
+    {
+        "movie_title": "In a Heartbeat",
+        "directors": "Beth David, Esteban Bravo"
+    },
+    {
+        "movie_title": "Bad Genius",
+        "directors": "Nattawut Poonpiriya"
+    },
+    {
+        "movie_title": "Scooby-Doo! Camp Scare",
+        "directors": "Ethan Spaulding"
+    },
+    {
+        "movie_title": "Palmer",
+        "directors": "Fisher Stevens"
+    },
+    {
+        "movie_title": "Remi, Nobody's Boy",
+        "directors": "Antoine Blossier"
+    },
+    {
+        "movie_title": "Incendies",
+        "directors": "Denis Villeneuve"
+    },
+    {
+        "movie_title": "The Hate U Give",
+        "directors": "George Tillman Jr."
+    },
+    {
+        "movie_title": "Ayla: The Daughter of War",
+        "directors": "Can Ulkay"
+    },
+    {
+        "movie_title": "Joker",
+        "directors": "Todd Phillips"
+    },
+    {
+        "movie_title": "Maquia: When the Promised Flower Blooms",
+        "directors": "Mari Okada"
+    },
+    {
+        "movie_title": "Mamma Roma",
+        "directors": "Pier Paolo Pasolini"
+    },
+    {
+        "movie_title": "Ordet",
+        "directors": "Carl Theodor Dreyer"
+    },
+    {
+        "movie_title": "Ron's Gone Wrong",
+        "directors": "Jean-Philippe Vine, Sarah Smith"
+    },
+    {
+        "movie_title": "Forgotten",
+        "directors": "Jang Hang-jun"
+    },
+    {
+        "movie_title": "Good Will Hunting",
+        "directors": "Gus Van Sant"
+    },
+    {
+        "movie_title": "It's Such a Beautiful Day",
+        "directors": "Don Hertzfeldt"
+    },
+    {
+        "movie_title": "The Seventh Seal",
+        "directors": "Ingmar Bergman"
+    },
+    {
+        "movie_title": "Green Book",
+        "directors": "Peter Farrelly"
+    },
+    {
+        "movie_title": "The Boy Who Harnessed the Wind",
+        "directors": "Chiwetel Ejiofor"
+    },
+    {
+        "movie_title": "Howl's Moving Castle",
+        "directors": "Hayao Miyazaki"
+    },
+    {
+        "movie_title": "Parasite",
+        "directors": "Bong Joon Ho"
+    },
+    {
+        "movie_title": "The Green Mile",
+        "directors": "Frank Darabont"
+    },
+    {
+        "movie_title": "Where Is The Friend's House?",
+        "directors": "Abbas Kiarostami"
+    },
+    {
+        "movie_title": "Reservoir Dogs",
+        "directors": "Quentin Tarantino"
+    },
+    {
+        "movie_title": "The Help",
+        "directors": "Tate Taylor"
+    },
+    {
+        "movie_title": "The Mitchells vs. the Machines",
+        "directors": "Mike Rianda"
+    },
+    {
+        "movie_title": "Dragon Ball Super: Broly",
+        "directors": "Tatsuya Nagamine"
+    },
+    {
+        "movie_title": "I Want to Eat Your Pancreas",
+        "directors": "Shinichiro Ushijima"
+    },
+    {
+        "movie_title": "Shoplifters",
+        "directors": "Hirokazu Kore-eda"
+    },
+    {
+        "movie_title": "My Hero Academia: Two Heroes",
+        "directors": "Kenji Nagasaki"
+    },
+    {
+        "movie_title": "Soul",
+        "directors": "Pete Docter"
+    },
+    {
+        "movie_title": "Klaus",
+        "directors": "Sergio Pablos"
+    },
+    {
+        "movie_title": "One Flew Over the Cuckoo's Nest",
+        "directors": "Milo\u0161 Forman"
+    },
+    {
+        "movie_title": "Death Note Relight 1: Visions of a God",
+        "directors": "Tetsuro Araki"
+    },
+    {
+        "movie_title": "Jojo Rabbit",
+        "directors": "Taika Waititi"
+    },
+    {
+        "movie_title": "Bicycle Thieves",
+        "directors": "Vittorio De Sica"
+    },
+    {
+        "movie_title": "Capernaum",
+        "directors": "Nadine Labaki"
+    },
+    {
+        "movie_title": "Along with the Gods: The Last 49 Days",
+        "directors": "Kim Yong-hwa"
+    },
+    {
+        "movie_title": "Love Hurts",
+        "directors": "Fernando Sari\u00f1ana"
+    },
+    {
+        "movie_title": "Dial M for Murder",
+        "directors": "Alfred Hitchcock"
+    },
+    {
+        "movie_title": "Just Mercy",
+        "directors": "Destin Daniel Cretton"
+    },
+    {
+        "movie_title": "A Dog's Journey",
+        "directors": "Gail Mancuso"
+    },
+    {
+        "movie_title": "The Art of Racing in the Rain",
+        "directors": "Simon Curtis"
+    },
+    {
+        "movie_title": "Casino",
+        "directors": "Martin Scorsese"
+    },
+    {
+        "movie_title": "El Infierno",
+        "directors": "Luis Estrada"
+    },
+    {
+        "movie_title": "Black Beauty",
+        "directors": "Ashley Avis"
+    },
+    {
+        "movie_title": "Five Feet Apart",
+        "directors": "Justin Baldoni"
+    },
+    {
+        "movie_title": "The Witch: Part 1. The Subversion",
+        "directors": "Park Hoon-jung"
+    },
+    {
+        "movie_title": "1917",
+        "directors": "Sam Mendes"
+    },
+    {
+        "movie_title": "Portrait of a Lady on Fire",
+        "directors": "C\u00e9line Sciamma"
+    },
+    {
+        "movie_title": "KONOSUBA \u2013 God's blessing on this wonderful world! Legend of Crimson",
+        "directors": "Takaomi Kanasaki"
+    },
+    {
+        "movie_title": "Violet Evergarden: The Movie",
+        "directors": "Taichi Ishidate"
+    },
+    {
+        "movie_title": "Steven Universe: The Movie",
+        "directors": "Rebecca Sugar"
+    },
+    {
+        "movie_title": "On My Skin",
+        "directors": "Alessio Cremonini"
+    },
+    {
+        "movie_title": "Psycho",
+        "directors": "Alfred Hitchcock"
+    },
+    {
+        "movie_title": "Rashomon",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "Invisible Life",
+        "directors": "Karim A\u00efnouz"
+    },
+    {
+        "movie_title": "Fight Club",
+        "directors": "David Fincher"
+    },
+    {
+        "movie_title": "Wish Dragon",
+        "directors": "Chris Appelhans"
+    },
+    {
+        "movie_title": "Believe Me: The Abduction of Lisa McVey",
+        "directors": "Jim Donovan"
+    },
+    {
+        "movie_title": "No manches, Frida 2: para\u00edso destruido",
+        "directors": "Nacho G. Velilla"
+    },
+    {
+        "movie_title": "Guillermo del Toro's Pinocchio",
+        "directors": "Guillermo del Toro, Mark Gustafson"
+    },
+    {
+        "movie_title": "Hamilton",
+        "directors": "Thomas Kail"
+    },
+    {
+        "movie_title": "The Great War",
+        "directors": "Mario Monicelli"
+    },
+    {
+        "movie_title": "Toto, Peppino, and the Hussy",
+        "directors": "Camillo Mastrocinque"
+    },
+    {
+        "movie_title": "Rear Window",
+        "directors": "Alfred Hitchcock"
+    },
+    {
+        "movie_title": "Weathering with You",
+        "directors": "Makoto Shinkai"
+    },
+    {
+        "movie_title": "Taylor Swift: Reputation Stadium Tour",
+        "directors": "Paul Dugdale"
+    },
+    {
+        "movie_title": "Spider-Man: Across the Spider-Verse",
+        "directors": "Justin K. Thompson, Kemp Powers, Joaquim Dos Santos"
+    },
+    {
+        "movie_title": "Rascal Does Not Dream of a Dreaming Girl",
+        "directors": "Soichi Masui"
+    },
+    {
+        "movie_title": "An Egg Rescue",
+        "directors": "Rodolfo Riva Palacio Alatriste, Gabriel Riva Palacio Alatriste"
+    },
+    {
+        "movie_title": "Kitbull",
+        "directors": "Rosana Sullivan"
+    },
+    {
+        "movie_title": "Better Days",
+        "directors": "Derek Tsang Kwok-Cheung"
+    },
+    {
+        "movie_title": "Pather Panchali",
+        "directors": "Satyajit Ray"
+    },
+    {
+        "movie_title": "The Lives of Others",
+        "directors": "Florian Henckel von Donnersmarck"
+    },
+    {
+        "movie_title": "I'm No Longer Here",
+        "directors": "Luis Fernando Fr\u00edas de la Parra"
+    },
+    {
+        "movie_title": "My Hero Academia: Heroes Rising",
+        "directors": "Kenji Nagasaki"
+    },
+    {
+        "movie_title": "The Great Escape",
+        "directors": "John Sturges"
+    },
+    {
+        "movie_title": "To Kill a Mockingbird",
+        "directors": "Robert Mulligan"
+    },
+    {
+        "movie_title": "Titanic",
+        "directors": "James Cameron"
+    },
+    {
+        "movie_title": "City of God",
+        "directors": "Fernando Meirelles"
+    },
+    {
+        "movie_title": "Sunset Boulevard",
+        "directors": "Billy Wilder"
+    },
+    {
+        "movie_title": "Full Metal Jacket",
+        "directors": "Stanley Kubrick"
+    },
+    {
+        "movie_title": "The Father",
+        "directors": "Florian Zeller"
+    },
+    {
+        "movie_title": "A Separation",
+        "directors": "Asghar Farhadi"
+    },
+    {
+        "movie_title": "The Matrix",
+        "directors": "Lilly Wachowski, Lana Wachowski"
+    },
+    {
+        "movie_title": "Togo",
+        "directors": "Ericson Core"
+    },
+    {
+        "movie_title": "Dragon Ball Super: Super Hero",
+        "directors": "Tetsuro Kodama"
+    },
+    {
+        "movie_title": "Veintea\u00f1era, divorciada y fant\u00e1stica",
+        "directors": "No\u00e9 Santill\u00e1n-L\u00f3pez"
+    },
+    {
+        "movie_title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+        "directors": "Haruka Fujita"
+    },
+    {
+        "movie_title": "Downfall",
+        "directors": "Oliver Hirschbiegel"
+    },
+    {
+        "movie_title": "Wild Strawberries",
+        "directors": "Ingmar Bergman"
+    },
+    {
+        "movie_title": "Nobody",
+        "directors": "Ilya Naishuller"
+    },
+    {
+        "movie_title": "Justice League Dark: Apokolips War",
+        "directors": "Matt Peters, Christina Sotta"
+    },
+    {
+        "movie_title": "2001: A Space Odyssey",
+        "directors": "Stanley Kubrick"
+    },
+    {
+        "movie_title": "The Legend of Hei",
+        "directors": "MTJJ"
+    },
+    {
+        "movie_title": "My Mom Is a Character 3",
+        "directors": "Susana Garcia"
+    },
+    {
+        "movie_title": "Flamin' Hot",
+        "directors": "Eva Longoria"
+    },
+    {
+        "movie_title": "Trainspotting",
+        "directors": "Danny Boyle"
+    },
+    {
+        "movie_title": "The Usual Suspects",
+        "directors": "Bryan Singer"
+    },
+    {
+        "movie_title": "Clouds",
+        "directors": "Justin Baldoni"
+    },
+    {
+        "movie_title": "Given",
+        "directors": "Hikaru Yamaguchi"
+    },
+    {
+        "movie_title": "Spider-Man: No Way Home",
+        "directors": "Jon Watts"
+    },
+    {
+        "movie_title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "directors": "Haruo Sotozaki"
+    },
+    {
+        "movie_title": "Life Is Beautiful",
+        "directors": "Roberto Benigni"
+    },
+    {
+        "movie_title": "How to Train Your Dragon: Homecoming",
+        "directors": "Tim Johnson"
+    },
+    {
+        "movie_title": "Catch Me If You Can",
+        "directors": "Steven Spielberg"
+    },
+    {
+        "movie_title": "Me Against You: Mr. S's Vendetta",
+        "directors": "Gianluca Leuzzi"
+    },
+    {
+        "movie_title": "Requiem for a Dream",
+        "directors": "Darren Aronofsky"
+    },
+    {
+        "movie_title": "Dedicated to my ex",
+        "directors": "Jorge Ulloa"
+    },
+    {
+        "movie_title": "Josee, the Tiger and the Fish",
+        "directors": "Kotaro Tamura"
+    },
+    {
+        "movie_title": "On the Waterfront",
+        "directors": "Elia Kazan"
+    },
+    {
+        "movie_title": "Out of the Clear Blue Sky",
+        "directors": "Pepe Boj\u00f3rquez"
+    },
+    {
+        "movie_title": "Paris, Texas",
+        "directors": "Wim Wenders"
+    },
+    {
+        "movie_title": "La Jet\u00e9e",
+        "directors": "Chris Marker"
+    },
+    {
+        "movie_title": "New Gods: Nezha Reborn",
+        "directors": "Zhao Ji"
+    },
+    {
+        "movie_title": "Mortal Kombat Legends: Scorpion's Revenge",
+        "directors": "Ethan Spaulding"
+    },
+    {
+        "movie_title": "Ben-Hur",
+        "directors": "William Wyler"
+    },
+    {
+        "movie_title": "Central Station",
+        "directors": "Walter Salles"
+    },
+    {
+        "movie_title": "Impossible Things",
+        "directors": "Ernesto Contreras"
+    },
+    {
+        "movie_title": "A Whisker Away",
+        "directors": "Junichi Sato, Tomotaka Shibayama"
+    },
+    {
+        "movie_title": "Oldboy",
+        "directors": "Park Chan-wook"
+    },
+    {
+        "movie_title": "Harry Potter and the Philosopher's Stone",
+        "directors": "Chris Columbus"
+    },
+    {
+        "movie_title": "The Cure",
+        "directors": "Peter Horton"
+    },
+    {
+        "movie_title": "Harry Potter and the Prisoner of Azkaban",
+        "directors": "Alfonso Cuar\u00f3n"
+    },
+    {
+        "movie_title": "Sound of Freedom",
+        "directors": "Alejandro Monteverde"
+    },
+    {
+        "movie_title": "El mesero",
+        "directors": "Ra\u00fal Mart\u00ednez"
+    },
+    {
+        "movie_title": "Aliens",
+        "directors": "James Cameron"
+    },
+    {
+        "movie_title": "Pulp Fiction",
+        "directors": "Quentin Tarantino"
+    },
+    {
+        "movie_title": "Django Unchained",
+        "directors": "Quentin Tarantino"
+    },
+    {
+        "movie_title": "Dune: Part Two",
+        "directors": "Denis Villeneuve"
+    },
+    {
+        "movie_title": "The Shining",
+        "directors": "Stanley Kubrick"
+    },
+    {
+        "movie_title": "Gabriel's Inferno",
+        "directors": "Tosca Musk"
+    },
+    {
+        "movie_title": "No Country for Old Men",
+        "directors": "Joel Coen, Ethan Coen"
+    },
+    {
+        "movie_title": "Transformers One",
+        "directors": "Josh Cooley"
+    },
+    {
+        "movie_title": "Thirteen Lives",
+        "directors": "Ron Howard"
+    },
+    {
+        "movie_title": "Million Dollar Baby",
+        "directors": "Clint Eastwood"
+    },
+    {
+        "movie_title": "Primal: Tales of Savagery",
+        "directors": "Genndy Tartakovsky"
+    },
+    {
+        "movie_title": "All About Eve",
+        "directors": "Joseph L. Mankiewicz"
+    },
+    {
+        "movie_title": "Gabriel's Inferno: Part II",
+        "directors": "Tosca Musk"
+    },
+    {
+        "movie_title": "Miraculous World: Shanghai - The Legend of Ladydragon",
+        "directors": "Thomas Astruc"
+    },
+    {
+        "movie_title": "American History X",
+        "directors": "Tony Kaye"
+    },
+    {
+        "movie_title": "There Will Be Blood",
+        "directors": "Paul Thomas Anderson"
+    },
+    {
+        "movie_title": "Elite Squad",
+        "directors": "Jos\u00e9 Padilha"
+    },
+    {
+        "movie_title": "Simone: Woman of the Century",
+        "directors": "Olivier Dahan"
+    },
+    {
+        "movie_title": "The Sixth Sense",
+        "directors": "M. Night Shyamalan"
+    },
+    {
+        "movie_title": "Like Stars on Earth",
+        "directors": "Aamir Khan"
+    },
+    {
+        "movie_title": "V for Vendetta",
+        "directors": "James McTeigue"
+    },
+    {
+        "movie_title": "Miraculous World: New York, United HeroeZ",
+        "directors": "Thomas Astruc"
+    },
+    {
+        "movie_title": "Before Sunrise",
+        "directors": "Richard Linklater"
+    },
+    {
+        "movie_title": "Gabriel's Inferno: Part III",
+        "directors": "Tosca Musk"
+    },
+    {
+        "movie_title": "Sword Art Online the Movie \u2013 Progressive \u2013 Aria of a Starless Night",
+        "directors": "Ayako Kono"
+    },
+    {
+        "movie_title": "12 Years a Slave",
+        "directors": "Steve McQueen"
+    },
+    {
+        "movie_title": "Purple Hearts",
+        "directors": "Elizabeth Allen Rosenbaum"
+    },
+    {
+        "movie_title": "GoodFellas",
+        "directors": "Martin Scorsese"
+    },
+    {
+        "movie_title": "Memento",
+        "directors": "Christopher Nolan"
+    },
+    {
+        "movie_title": "Gone with the Wind",
+        "directors": "Victor Fleming"
+    },
+    {
+        "movie_title": "Lucy Shimmers and the Prince of Peace",
+        "directors": "Rob Diamond"
+    },
+    {
+        "movie_title": "The Intouchables",
+        "directors": "\u00c9ric Toledano, Olivier Nakache"
+    },
+    {
+        "movie_title": "Young Woman and the Sea",
+        "directors": "Joachim R\u00f8nning"
+    },
+    {
+        "movie_title": "A Trip to the Moon",
+        "directors": "Georges M\u00e9li\u00e8s"
+    },
+    {
+        "movie_title": "CODA",
+        "directors": "Si\u00e2n Heder"
+    },
+    {
+        "movie_title": "Grand Illusion",
+        "directors": "Jean Renoir"
+    },
+    {
+        "movie_title": "Blade Runner",
+        "directors": "Ridley Scott"
+    },
+    {
+        "movie_title": "The Passion of Joan of Arc",
+        "directors": "Carl Theodor Dreyer"
+    },
+    {
+        "movie_title": "Paper Lives",
+        "directors": "Can Ulkay"
+    },
+    {
+        "movie_title": "Amarcord",
+        "directors": "Federico Fellini"
+    },
+    {
+        "movie_title": "Zack Snyder's Justice League",
+        "directors": "Zack Snyder"
+    },
+    {
+        "movie_title": "Green Snake",
+        "directors": "Amp Wong"
+    },
+    {
+        "movie_title": "Persona",
+        "directors": "Ingmar Bergman"
+    },
+    {
+        "movie_title": "In the Name of the Father",
+        "directors": "Jim Sheridan"
+    },
+    {
+        "movie_title": "The Young and the Damned",
+        "directors": "Luis Bu\u00f1uel"
+    },
+    {
+        "movie_title": "Roman Holiday",
+        "directors": "William Wyler"
+    },
+    {
+        "movie_title": "Se7en",
+        "directors": "David Fincher"
+    },
+    {
+        "movie_title": "Nausica\u00e4 of the Valley of the Wind",
+        "directors": "Hayao Miyazaki"
+    },
+    {
+        "movie_title": "Jujutsu Kaisen 0",
+        "directors": "Sunghoo Park"
+    },
+    {
+        "movie_title": "Black Clover: Sword of the Wizard King",
+        "directors": "Ayataka Tanemura"
+    },
+    {
+        "movie_title": "Silenced",
+        "directors": "Hwang Dong-hyuk"
+    },
+    {
+        "movie_title": "The Quintessential Quintuplets Movie",
+        "directors": "Masato Jimbo"
+    },
+    {
+        "movie_title": "Judgment at Nuremberg",
+        "directors": "Stanley Kramer"
+    },
+    {
+        "movie_title": "Flow",
+        "directors": "Gints Zilbalodis"
+    },
+    {
+        "movie_title": "Bo Burnham: Inside",
+        "directors": "Bo Burnham"
+    },
+    {
+        "movie_title": "Diabolique",
+        "directors": "Henri-Georges Clouzot"
+    },
+    {
+        "movie_title": "Chinatown",
+        "directors": "Roman Polanski"
+    },
+    {
+        "movie_title": "Don't Look Now... We're Being Shot At!",
+        "directors": "G\u00e9rard Oury"
+    },
+    {
+        "movie_title": "Ultraman: Rising",
+        "directors": "Shannon Tindle"
+    },
+    {
+        "movie_title": "Far from the Tree",
+        "directors": "Natalie Nourigat"
+    },
+    {
+        "movie_title": "M",
+        "directors": "Fritz Lang"
+    },
+    {
+        "movie_title": "Umberto D.",
+        "directors": "Vittorio De Sica"
+    },
+    {
+        "movie_title": "Robot Dreams",
+        "directors": "Pablo Berger"
+    },
+    {
+        "movie_title": "My Neighbor Totoro",
+        "directors": "Hayao Miyazaki"
+    },
+    {
+        "movie_title": "Rocco and His Brothers",
+        "directors": "Luchino Visconti"
+    },
+    {
+        "movie_title": "In the Mood for Love",
+        "directors": "Wong Kar-wai"
+    },
+    {
+        "movie_title": "Raiders of the Lost Ark",
+        "directors": "Steven Spielberg"
+    },
+    {
+        "movie_title": "20th Century Girl",
+        "directors": "Bang Woo-ri"
+    },
+    {
+        "movie_title": "Saving Private Ryan",
+        "directors": "Steven Spielberg"
+    },
+    {
+        "movie_title": "The Lion King",
+        "directors": "Roger Allers, Rob Minkoff"
+    },
+    {
+        "movie_title": "Toy Story",
+        "directors": "John Lasseter"
+    },
+    {
+        "movie_title": "Singin' in the Rain",
+        "directors": "Stanley Donen, Gene Kelly"
+    },
+    {
+        "movie_title": "Oppenheimer",
+        "directors": "Christopher Nolan"
+    },
+    {
+        "movie_title": "Andrei Rublev",
+        "directors": "Andrei Tarkovsky"
+    },
+    {
+        "movie_title": "City Lights",
+        "directors": "Charlie Chaplin"
+    },
+    {
+        "movie_title": "Society of the Snow",
+        "directors": "J.A. Bayona"
+    },
+    {
+        "movie_title": "The Great Dictator",
+        "directors": "Charlie Chaplin"
+    },
+    {
+        "movie_title": "Suzume",
+        "directors": "Makoto Shinkai"
+    },
+    {
+        "movie_title": "My Father's Violin",
+        "directors": "Anda\u00e7 Haznedaro\u011flu"
+    },
+    {
+        "movie_title": "Michael Jackson's Thriller",
+        "directors": "John Landis"
+    },
+    {
+        "movie_title": "Hotarubi no Mori e",
+        "directors": "Takahiro Omori"
+    },
+    {
+        "movie_title": "The Sting",
+        "directors": "George Roy Hill"
+    },
+    {
+        "movie_title": "Red, White & Royal Blue",
+        "directors": "Matthew L\u00f3pez"
+    },
+    {
+        "movie_title": "Ghost in the Shell",
+        "directors": "Mamoru Oshii"
+    },
+    {
+        "movie_title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "directors": "Stanley Kubrick"
+    },
+    {
+        "movie_title": "For a Few Dollars More",
+        "directors": "Sergio Leone"
+    },
+    {
+        "movie_title": "My Way",
+        "directors": "Kang Je-kyu"
+    },
+    {
+        "movie_title": "Dogman",
+        "directors": "Luc Besson"
+    },
+    {
+        "movie_title": "Lawrence of Arabia",
+        "directors": "David Lean"
+    },
+    {
+        "movie_title": "Heat",
+        "directors": "Michael Mann"
+    },
+    {
+        "movie_title": "The General",
+        "directors": "Clyde Bruckman, Buster Keaton"
+    },
+    {
+        "movie_title": "Nimona",
+        "directors": "Nick Bruno, Troy Quane"
+    },
+    {
+        "movie_title": "The Gold Rush",
+        "directors": "Charlie Chaplin"
+    },
+    {
+        "movie_title": "Beyond the Universe",
+        "directors": "Diego Freitas"
+    },
+    {
+        "movie_title": "Bound by Honor",
+        "directors": "Taylor Hackford"
+    },
+    {
+        "movie_title": "Paths of Glory",
+        "directors": "Stanley Kubrick"
+    },
+    {
+        "movie_title": "Dersu Uzala",
+        "directors": "Akira Kurosawa"
+    },
+    {
+        "movie_title": "Gladiator",
+        "directors": "Ridley Scott"
+    },
+    {
+        "movie_title": "Sherlock Jr.",
+        "directors": "Buster Keaton"
+    },
+    {
+        "movie_title": "The Boy, the Mole, the Fox and the Horse",
+        "directors": "Peter Baynton, Charlie Mackesy"
+    },
+    {
+        "movie_title": "Double Indemnity",
+        "directors": "Billy Wilder"
+    }
+]

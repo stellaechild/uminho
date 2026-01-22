@@ -1,0 +1,2354 @@
+[
+    {
+        "classificacao": "Seed Pok\u00e9mon",
+        "pokemons": "Bulbasaur; Sunkern; Ivysaur; Venusaur"
+    },
+    {
+        "classificacao": "Worm Pok\u00e9mon",
+        "pokemons": "Caterpie; Wurmple"
+    },
+    {
+        "classificacao": "Ball Pok\u00e9mon",
+        "pokemons": "Voltorb; Electrode"
+    },
+    {
+        "classificacao": "Egg Pok\u00e9mon",
+        "pokemons": "Exeggcute; Chansey"
+    },
+    {
+        "classificacao": "Coconut Pok\u00e9mon",
+        "pokemons": "Exeggutor"
+    },
+    {
+        "classificacao": "Lonely Pok\u00e9mon",
+        "pokemons": "Cubone"
+    },
+    {
+        "classificacao": "Bone Keeper Pok\u00e9mon",
+        "pokemons": "Marowak"
+    },
+    {
+        "classificacao": "Kicking Pok\u00e9mon",
+        "pokemons": "Hitmonlee"
+    },
+    {
+        "classificacao": "Punching Pok\u00e9mon",
+        "pokemons": "Hitmonchan"
+    },
+    {
+        "classificacao": "Licking Pok\u00e9mon",
+        "pokemons": "Lickitung; Lickilicky"
+    },
+    {
+        "classificacao": "Poison Gas Pok\u00e9mon",
+        "pokemons": "Koffing; Weezing"
+    },
+    {
+        "classificacao": "Cocoon Pok\u00e9mon",
+        "pokemons": "Metapod; Kakuna; Silcoon; Cascoon"
+    },
+    {
+        "classificacao": "Spikes Pok\u00e9mon",
+        "pokemons": "Rhyhorn"
+    },
+    {
+        "classificacao": "Drill Pok\u00e9mon",
+        "pokemons": "Rhydon; Nidoqueen; Nidoking; Rhyperior"
+    },
+    {
+        "classificacao": "Vine Pok\u00e9mon",
+        "pokemons": "Tangela; Tangrowth"
+    },
+    {
+        "classificacao": "Parent Pok\u00e9mon",
+        "pokemons": "Kangaskhan"
+    },
+    {
+        "classificacao": "Dragon Pok\u00e9mon",
+        "pokemons": "Horsea; Seadra; Dratini; Dragonair; Dragonite; Kingdra; Salamence; Goodra"
+    },
+    {
+        "classificacao": "Goldfish Pok\u00e9mon",
+        "pokemons": "Goldeen; Seaking"
+    },
+    {
+        "classificacao": "Butterfly Pok\u00e9mon",
+        "pokemons": "Butterfree; Beautifly"
+    },
+    {
+        "classificacao": "Starshape Pok\u00e9mon",
+        "pokemons": "Staryu"
+    },
+    {
+        "classificacao": "Mysterious Pok\u00e9mon",
+        "pokemons": "Starmie"
+    },
+    {
+        "classificacao": "Barrier Pok\u00e9mon",
+        "pokemons": "Mr. Mime"
+    },
+    {
+        "classificacao": "Mantis Pok\u00e9mon",
+        "pokemons": "Scyther"
+    },
+    {
+        "classificacao": "Humanshape Pok\u00e9mon",
+        "pokemons": "Jynx"
+    },
+    {
+        "classificacao": "Electric Pok\u00e9mon",
+        "pokemons": "Electabuzz; Zapdos; Elekid"
+    },
+    {
+        "classificacao": "Spitfire Pok\u00e9mon",
+        "pokemons": "Magmar"
+    },
+    {
+        "classificacao": "Stagbeetle Pok\u00e9mon",
+        "pokemons": "Pinsir"
+    },
+    {
+        "classificacao": "Wild Bull Pok\u00e9mon",
+        "pokemons": "Tauros"
+    },
+    {
+        "classificacao": "Fish Pok\u00e9mon",
+        "pokemons": "Magikarp; Feebas"
+    },
+    {
+        "classificacao": "Hairy Pok\u00e9mon",
+        "pokemons": "Weedle"
+    },
+    {
+        "classificacao": "Atrocious Pok\u00e9mon",
+        "pokemons": "Gyarados"
+    },
+    {
+        "classificacao": "Transport Pok\u00e9mon",
+        "pokemons": "Lapras"
+    },
+    {
+        "classificacao": "Transform Pok\u00e9mon",
+        "pokemons": "Ditto"
+    },
+    {
+        "classificacao": "Evolution Pok\u00e9mon",
+        "pokemons": "Eevee"
+    },
+    {
+        "classificacao": "Bubble Jet Pok\u00e9mon",
+        "pokemons": "Vaporeon"
+    },
+    {
+        "classificacao": "Lightning Pok\u00e9mon",
+        "pokemons": "Jolteon; Electrike"
+    },
+    {
+        "classificacao": "Flame Pok\u00e9mon",
+        "pokemons": "Flareon; Moltres; Infernape; Charmeleon; Charizard"
+    },
+    {
+        "classificacao": "Virtual Pok\u00e9mon",
+        "pokemons": "Porygon; Porygon2; Porygon-Z"
+    },
+    {
+        "classificacao": "Spiral Pok\u00e9mon",
+        "pokemons": "Omanyte; Omastar"
+    },
+    {
+        "classificacao": "Shellfish Pok\u00e9mon",
+        "pokemons": "Kabuto; Kabutops; Blastoise"
+    },
+    {
+        "classificacao": "Fossil Pok\u00e9mon",
+        "pokemons": "Aerodactyl"
+    },
+    {
+        "classificacao": "Sleeping Pok\u00e9mon",
+        "pokemons": "Snorlax"
+    },
+    {
+        "classificacao": "Freeze Pok\u00e9mon",
+        "pokemons": "Articuno"
+    },
+    {
+        "classificacao": "Poison Bee Pok\u00e9mon",
+        "pokemons": "Beedrill"
+    },
+    {
+        "classificacao": "Genetic Pok\u00e9mon",
+        "pokemons": "Mewtwo"
+    },
+    {
+        "classificacao": "New Species Pok\u00e9mon",
+        "pokemons": "Mew"
+    },
+    {
+        "classificacao": "Leaf Pok\u00e9mon",
+        "pokemons": "Chikorita; Bayleef"
+    },
+    {
+        "classificacao": "Herb Pok\u00e9mon",
+        "pokemons": "Meganium"
+    },
+    {
+        "classificacao": "Fire Mouse Pok\u00e9mon",
+        "pokemons": "Cyndaquil"
+    },
+    {
+        "classificacao": "Volcano Pok\u00e9mon",
+        "pokemons": "Quilava; Typhlosion; Entei"
+    },
+    {
+        "classificacao": "Big Jaw Pok\u00e9mon",
+        "pokemons": "Totodile; Croconaw; Feraligatr"
+    },
+    {
+        "classificacao": "Tiny Bird Pok\u00e9mon",
+        "pokemons": "Pidgey; Spearow"
+    },
+    {
+        "classificacao": "Scout Pok\u00e9mon",
+        "pokemons": "Sentret; Patrat"
+    },
+    {
+        "classificacao": "Long Body Pok\u00e9mon",
+        "pokemons": "Furret"
+    },
+    {
+        "classificacao": "Owl Pok\u00e9mon",
+        "pokemons": "Hoothoot; Noctowl"
+    },
+    {
+        "classificacao": "Five Star Pok\u00e9mon",
+        "pokemons": "Ledyba; Ledian"
+    },
+    {
+        "classificacao": "String Spit Pok\u00e9mon",
+        "pokemons": "Spinarak"
+    },
+    {
+        "classificacao": "Long Leg Pok\u00e9mon",
+        "pokemons": "Ariados"
+    },
+    {
+        "classificacao": "Bat Pok\u00e9mon",
+        "pokemons": "Crobat; Zubat; Golbat; Woobat"
+    },
+    {
+        "classificacao": "Bird Pok\u00e9mon",
+        "pokemons": "Pidgeotto; Pidgeot"
+    },
+    {
+        "classificacao": "Angler Pok\u00e9mon",
+        "pokemons": "Chinchou"
+    },
+    {
+        "classificacao": "Light Pok\u00e9mon",
+        "pokemons": "Lanturn; Ampharos"
+    },
+    {
+        "classificacao": "Tiny Mouse Pok\u00e9mon",
+        "pokemons": "Pichu"
+    },
+    {
+        "classificacao": "Star Shape Pok\u00e9mon",
+        "pokemons": "Cleffa"
+    },
+    {
+        "classificacao": "Balloon Pok\u00e9mon",
+        "pokemons": "Igglybuff; Qwilfish; Jigglypuff; Wigglytuff; Drifloon"
+    },
+    {
+        "classificacao": "Spike Ball Pok\u00e9mon",
+        "pokemons": "Togepi"
+    },
+    {
+        "classificacao": "Happiness Pok\u00e9mon",
+        "pokemons": "Togetic; Blissey"
+    },
+    {
+        "classificacao": "Little Bird Pok\u00e9mon",
+        "pokemons": "Natu"
+    },
+    {
+        "classificacao": "Mystic Pok\u00e9mon",
+        "pokemons": "Xatu; Flygon"
+    },
+    {
+        "classificacao": "Wool Pok\u00e9mon",
+        "pokemons": "Mareep; Flaaffy"
+    },
+    {
+        "classificacao": "Flower Pok\u00e9mon",
+        "pokemons": "Bellossom; Vileplume; Bellsprout"
+    },
+    {
+        "classificacao": "Aquamouse Pok\u00e9mon",
+        "pokemons": "Marill"
+    },
+    {
+        "classificacao": "Aquarabbit Pok\u00e9mon",
+        "pokemons": "Azumarill"
+    },
+    {
+        "classificacao": "Imitation Pok\u00e9mon",
+        "pokemons": "Sudowoodo"
+    },
+    {
+        "classificacao": "Frog Pok\u00e9mon",
+        "pokemons": "Politoed"
+    },
+    {
+        "classificacao": "Cottonweed Pok\u00e9mon",
+        "pokemons": "Hoppip; Skiploom; Jumpluff"
+    },
+    {
+        "classificacao": "Mouse Pok\u00e9mon",
+        "pokemons": "Rattata; Raticate; Pikachu; Raichu; Sandshrew; Sandslash"
+    },
+    {
+        "classificacao": "Long Tail Pok\u00e9mon",
+        "pokemons": "Aipom; Ambipom"
+    },
+    {
+        "classificacao": "Sun Pok\u00e9mon",
+        "pokemons": "Sunflora; Espeon; Volcarona"
+    },
+    {
+        "classificacao": "Clear Wing Pok\u00e9mon",
+        "pokemons": "Yanma"
+    },
+    {
+        "classificacao": "Water Fish Pok\u00e9mon",
+        "pokemons": "Wooper; Quagsire"
+    },
+    {
+        "classificacao": "Moonlight Pok\u00e9mon",
+        "pokemons": "Umbreon"
+    },
+    {
+        "classificacao": "Darkness Pok\u00e9mon",
+        "pokemons": "Murkrow; Sableye"
+    },
+    {
+        "classificacao": "Royal Pok\u00e9mon",
+        "pokemons": "Slowking; Pyroar"
+    },
+    {
+        "classificacao": "Screech Pok\u00e9mon",
+        "pokemons": "Misdreavus"
+    },
+    {
+        "classificacao": "Symbol Pok\u00e9mon",
+        "pokemons": "Unown"
+    },
+    {
+        "classificacao": "Patient Pok\u00e9mon",
+        "pokemons": "Wobbuffet"
+    },
+    {
+        "classificacao": "Long Neck Pok\u00e9mon",
+        "pokemons": "Girafarig"
+    },
+    {
+        "classificacao": "Bagworm Pok\u00e9mon",
+        "pokemons": "Pineco; Forretress; Burmy; Wormadam"
+    },
+    {
+        "classificacao": "Land Snake Pok\u00e9mon",
+        "pokemons": "Dunsparce"
+    },
+    {
+        "classificacao": "Flyscorpion Pok\u00e9mon",
+        "pokemons": "Gligar"
+    },
+    {
+        "classificacao": "Iron Snake Pok\u00e9mon",
+        "pokemons": "Steelix"
+    },
+    {
+        "classificacao": "Fairy Pok\u00e9mon",
+        "pokemons": "Snubbull; Granbull; Clefairy; Clefable; Floette"
+    },
+    {
+        "classificacao": "Pincer Pok\u00e9mon",
+        "pokemons": "Scizor; Kingler"
+    },
+    {
+        "classificacao": "Mold Pok\u00e9mon",
+        "pokemons": "Shuckle"
+    },
+    {
+        "classificacao": "Singlehorn Pok\u00e9mon",
+        "pokemons": "Heracross"
+    },
+    {
+        "classificacao": "Sharp Claw Pok\u00e9mon",
+        "pokemons": "Sneasel; Weavile"
+    },
+    {
+        "classificacao": "Little Bear Pok\u00e9mon",
+        "pokemons": "Teddiursa"
+    },
+    {
+        "classificacao": "Hibernator Pok\u00e9mon",
+        "pokemons": "Ursaring"
+    },
+    {
+        "classificacao": "Lava Pok\u00e9mon",
+        "pokemons": "Slugma; Magcargo"
+    },
+    {
+        "classificacao": "Beak Pok\u00e9mon",
+        "pokemons": "Fearow"
+    },
+    {
+        "classificacao": "Pig Pok\u00e9mon",
+        "pokemons": "Swinub"
+    },
+    {
+        "classificacao": "Swine Pok\u00e9mon",
+        "pokemons": "Piloswine"
+    },
+    {
+        "classificacao": "Coral Pok\u00e9mon",
+        "pokemons": "Corsola"
+    },
+    {
+        "classificacao": "Jet Pok\u00e9mon",
+        "pokemons": "Remoraid; Octillery"
+    },
+    {
+        "classificacao": "Delivery Pok\u00e9mon",
+        "pokemons": "Delibird"
+    },
+    {
+        "classificacao": "Kite Pok\u00e9mon",
+        "pokemons": "Mantine; Mantyke"
+    },
+    {
+        "classificacao": "Armor Bird Pok\u00e9mon",
+        "pokemons": "Skarmory"
+    },
+    {
+        "classificacao": "Dark Pok\u00e9mon",
+        "pokemons": "Houndour; Houndoom"
+    },
+    {
+        "classificacao": "Snake Pok\u00e9mon",
+        "pokemons": "Ekans"
+    },
+    {
+        "classificacao": "Long Nose Pok\u00e9mon",
+        "pokemons": "Phanpy"
+    },
+    {
+        "classificacao": "Armor Pok\u00e9mon",
+        "pokemons": "Donphan; Tyranitar"
+    },
+    {
+        "classificacao": "Big Horn Pok\u00e9mon",
+        "pokemons": "Stantler"
+    },
+    {
+        "classificacao": "Painter Pok\u00e9mon",
+        "pokemons": "Smeargle"
+    },
+    {
+        "classificacao": "Scuffle Pok\u00e9mon",
+        "pokemons": "Tyrogue"
+    },
+    {
+        "classificacao": "Handstand Pok\u00e9mon",
+        "pokemons": "Hitmontop"
+    },
+    {
+        "classificacao": "Kiss Pok\u00e9mon",
+        "pokemons": "Smoochum"
+    },
+    {
+        "classificacao": "Cobra Pok\u00e9mon",
+        "pokemons": "Arbok"
+    },
+    {
+        "classificacao": "Live Coal Pok\u00e9mon",
+        "pokemons": "Magby"
+    },
+    {
+        "classificacao": "Milk Cow Pok\u00e9mon",
+        "pokemons": "Miltank"
+    },
+    {
+        "classificacao": "Thunder Pok\u00e9mon",
+        "pokemons": "Raikou"
+    },
+    {
+        "classificacao": "Aurora Pok\u00e9mon",
+        "pokemons": "Suicune"
+    },
+    {
+        "classificacao": "Rock Skin Pok\u00e9mon",
+        "pokemons": "Larvitar"
+    },
+    {
+        "classificacao": "Hard Shell Pok\u00e9mon",
+        "pokemons": "Pupitar"
+    },
+    {
+        "classificacao": "Diving Pok\u00e9mon",
+        "pokemons": "Lugia"
+    },
+    {
+        "classificacao": "Rainbow Pok\u00e9mon",
+        "pokemons": "Ho-Oh"
+    },
+    {
+        "classificacao": "Time Travel Pok\u00e9mon",
+        "pokemons": "Celebi"
+    },
+    {
+        "classificacao": "Wood Gecko Pok\u00e9mon",
+        "pokemons": "Treecko; Grovyle"
+    },
+    {
+        "classificacao": "Forest Pok\u00e9mon",
+        "pokemons": "Sceptile"
+    },
+    {
+        "classificacao": "Chick Pok\u00e9mon",
+        "pokemons": "Torchic"
+    },
+    {
+        "classificacao": "Young Fowl Pok\u00e9mon",
+        "pokemons": "Combusken"
+    },
+    {
+        "classificacao": "Blaze Pok\u00e9mon",
+        "pokemons": "Blaziken"
+    },
+    {
+        "classificacao": "Mud Fish Pok\u00e9mon",
+        "pokemons": "Mudkip; Marshtomp; Swampert"
+    },
+    {
+        "classificacao": "Bite Pok\u00e9mon",
+        "pokemons": "Poochyena; Mightyena"
+    },
+    {
+        "classificacao": "Tiny Racoon Pok\u00e9mon",
+        "pokemons": "Zigzagoon"
+    },
+    {
+        "classificacao": "Rush Pok\u00e9mon",
+        "pokemons": "Linoone"
+    },
+    {
+        "classificacao": "Poison Moth Pok\u00e9mon",
+        "pokemons": "Dustox; Venomoth"
+    },
+    {
+        "classificacao": "Water Weed Pok\u00e9mon",
+        "pokemons": "Lotad"
+    },
+    {
+        "classificacao": "Jolly Pok\u00e9mon",
+        "pokemons": "Lombre"
+    },
+    {
+        "classificacao": "Carefree Pok\u00e9mon",
+        "pokemons": "Ludicolo"
+    },
+    {
+        "classificacao": "Acorn Pok\u00e9mon",
+        "pokemons": "Seedot"
+    },
+    {
+        "classificacao": "Wily Pok\u00e9mon",
+        "pokemons": "Nuzleaf"
+    },
+    {
+        "classificacao": "Wickid Pok\u00e9mon",
+        "pokemons": "Shiftry"
+    },
+    {
+        "classificacao": "TinySwallow Pok\u00e9mon",
+        "pokemons": "Taillow"
+    },
+    {
+        "classificacao": "Swallow Pok\u00e9mon",
+        "pokemons": "Swellow"
+    },
+    {
+        "classificacao": "Seagull Pok\u00e9mon",
+        "pokemons": "Wingull"
+    },
+    {
+        "classificacao": "Water Bird Pok\u00e9mon",
+        "pokemons": "Pelipper; Ducklett"
+    },
+    {
+        "classificacao": "Feeling Pok\u00e9mon",
+        "pokemons": "Ralts"
+    },
+    {
+        "classificacao": "Emotion Pok\u00e9mon",
+        "pokemons": "Kirlia; Mesprit"
+    },
+    {
+        "classificacao": "Embrace Pok\u00e9mon",
+        "pokemons": "Gardevoir"
+    },
+    {
+        "classificacao": "Pond Skater Pok\u00e9mon",
+        "pokemons": "Surskit"
+    },
+    {
+        "classificacao": "Eyeball Pok\u00e9mon",
+        "pokemons": "Masquerain"
+    },
+    {
+        "classificacao": "Mushroom Pok\u00e9mon",
+        "pokemons": "Shroomish; Breloom; Paras; Parasect; Foongus; Amoonguss"
+    },
+    {
+        "classificacao": "Slacker Pok\u00e9mon",
+        "pokemons": "Slakoth"
+    },
+    {
+        "classificacao": "Wild Monkey Pok\u00e9mon",
+        "pokemons": "Vigoroth"
+    },
+    {
+        "classificacao": "Lazy Pok\u00e9mon",
+        "pokemons": "Slaking"
+    },
+    {
+        "classificacao": "Poison Pin Pok\u00e9mon",
+        "pokemons": "Nidoran\u2640; Nidorina; Nidoran\u2642; Nidorino"
+    },
+    {
+        "classificacao": "Trainee Pok\u00e9mon",
+        "pokemons": "Nincada"
+    },
+    {
+        "classificacao": "Ninja Pok\u00e9mon",
+        "pokemons": "Ninjask; Greninja"
+    },
+    {
+        "classificacao": "Shed Pok\u00e9mon",
+        "pokemons": "Shedinja"
+    },
+    {
+        "classificacao": "Whisper Pok\u00e9mon",
+        "pokemons": "Whismur"
+    },
+    {
+        "classificacao": "Big Voice Pok\u00e9mon",
+        "pokemons": "Loudred"
+    },
+    {
+        "classificacao": "Loud Noise Pok\u00e9mon",
+        "pokemons": "Exploud"
+    },
+    {
+        "classificacao": "Guts Pok\u00e9mon",
+        "pokemons": "Makuhita"
+    },
+    {
+        "classificacao": "Arm Thrust Pok\u00e9mon",
+        "pokemons": "Hariyama"
+    },
+    {
+        "classificacao": "Polka Dot Pok\u00e9mon",
+        "pokemons": "Azurill"
+    },
+    {
+        "classificacao": "Compass Pok\u00e9mon",
+        "pokemons": "Nosepass; Probopass"
+    },
+    {
+        "classificacao": "Kitten Pok\u00e9mon",
+        "pokemons": "Skitty"
+    },
+    {
+        "classificacao": "Prim Pok\u00e9mon",
+        "pokemons": "Delcatty"
+    },
+    {
+        "classificacao": "Deceiver Pok\u00e9mon",
+        "pokemons": "Mawile"
+    },
+    {
+        "classificacao": "Iron Armor Pok\u00e9mon",
+        "pokemons": "Aron; Lairon; Aggron"
+    },
+    {
+        "classificacao": "Meditate Pok\u00e9mon",
+        "pokemons": "Meditite; Medicham"
+    },
+    {
+        "classificacao": "Discharge Pok\u00e9mon",
+        "pokemons": "Manectric"
+    },
+    {
+        "classificacao": "Cheering Pok\u00e9mon",
+        "pokemons": "Plusle; Minun"
+    },
+    {
+        "classificacao": "Firefly Pok\u00e9mon",
+        "pokemons": "Volbeat; Illumise"
+    },
+    {
+        "classificacao": "Thorn Pok\u00e9mon",
+        "pokemons": "Roselia"
+    },
+    {
+        "classificacao": "Stomach Pok\u00e9mon",
+        "pokemons": "Gulpin"
+    },
+    {
+        "classificacao": "Poison Bag Pok\u00e9mon",
+        "pokemons": "Swalot"
+    },
+    {
+        "classificacao": "Savage Pok\u00e9mon",
+        "pokemons": "Carvanha"
+    },
+    {
+        "classificacao": "Brutal Pok\u00e9mon",
+        "pokemons": "Sharpedo; Hydreigon"
+    },
+    {
+        "classificacao": "Ball Whale Pok\u00e9mon",
+        "pokemons": "Wailmer"
+    },
+    {
+        "classificacao": "Float Whale Pok\u00e9mon",
+        "pokemons": "Wailord"
+    },
+    {
+        "classificacao": "Numb Pok\u00e9mon",
+        "pokemons": "Numel"
+    },
+    {
+        "classificacao": "Eruption Pok\u00e9mon",
+        "pokemons": "Camerupt"
+    },
+    {
+        "classificacao": "Coal Pok\u00e9mon",
+        "pokemons": "Torkoal"
+    },
+    {
+        "classificacao": "Bounce Pok\u00e9mon",
+        "pokemons": "Spoink"
+    },
+    {
+        "classificacao": "Manipulate Pok\u00e9mon",
+        "pokemons": "Grumpig; Gothorita"
+    },
+    {
+        "classificacao": "Spot Panda Pok\u00e9mon",
+        "pokemons": "Spinda"
+    },
+    {
+        "classificacao": "Ant Pit Pok\u00e9mon",
+        "pokemons": "Trapinch"
+    },
+    {
+        "classificacao": "Vibration Pok\u00e9mon",
+        "pokemons": "Vibrava; Palpitoad; Seismitoad"
+    },
+    {
+        "classificacao": "Cactus Pok\u00e9mon",
+        "pokemons": "Cacnea; Maractus"
+    },
+    {
+        "classificacao": "Scarecrow Pok\u00e9mon",
+        "pokemons": "Cacturne"
+    },
+    {
+        "classificacao": "Cotton Bird Pok\u00e9mon",
+        "pokemons": "Swablu"
+    },
+    {
+        "classificacao": "Humming Pok\u00e9mon",
+        "pokemons": "Altaria"
+    },
+    {
+        "classificacao": "Cat Ferret Pok\u00e9mon",
+        "pokemons": "Zangoose"
+    },
+    {
+        "classificacao": "Fang Snake Pok\u00e9mon",
+        "pokemons": "Seviper"
+    },
+    {
+        "classificacao": "Meteorite Pok\u00e9mon",
+        "pokemons": "Lunatone; Solrock"
+    },
+    {
+        "classificacao": "Whiskers Pok\u00e9mon",
+        "pokemons": "Barboach; Whiscash"
+    },
+    {
+        "classificacao": "Ruffian Pok\u00e9mon",
+        "pokemons": "Corphish"
+    },
+    {
+        "classificacao": "Rogue Pok\u00e9mon",
+        "pokemons": "Crawdaunt"
+    },
+    {
+        "classificacao": "Clay Doll Pok\u00e9mon",
+        "pokemons": "Baltoy; Claydol"
+    },
+    {
+        "classificacao": "Sea Lily Pok\u00e9mon",
+        "pokemons": "Lileep"
+    },
+    {
+        "classificacao": "Barnacle Pok\u00e9mon",
+        "pokemons": "Cradily"
+    },
+    {
+        "classificacao": "Old Shrimp Pok\u00e9mon",
+        "pokemons": "Anorith"
+    },
+    {
+        "classificacao": "Plate Pok\u00e9mon",
+        "pokemons": "Armaldo"
+    },
+    {
+        "classificacao": "Tender Pok\u00e9mon",
+        "pokemons": "Milotic"
+    },
+    {
+        "classificacao": "Weather Pok\u00e9mon",
+        "pokemons": "Castform"
+    },
+    {
+        "classificacao": "Color Swap Pok\u00e9mon",
+        "pokemons": "Kecleon"
+    },
+    {
+        "classificacao": "Puppet Pok\u00e9mon",
+        "pokemons": "Shuppet"
+    },
+    {
+        "classificacao": "Marionette Pok\u00e9mon",
+        "pokemons": "Banette"
+    },
+    {
+        "classificacao": "Requiem Pok\u00e9mon",
+        "pokemons": "Duskull"
+    },
+    {
+        "classificacao": "Beckon Pok\u00e9mon",
+        "pokemons": "Dusclops"
+    },
+    {
+        "classificacao": "Fruit Pok\u00e9mon",
+        "pokemons": "Tropius; Bounsweet; Steenee; Tsareena"
+    },
+    {
+        "classificacao": "Wind Chime Pok\u00e9mon",
+        "pokemons": "Chimecho"
+    },
+    {
+        "classificacao": "Disaster Pok\u00e9mon",
+        "pokemons": "Absol"
+    },
+    {
+        "classificacao": "Bright Pok\u00e9mon",
+        "pokemons": "Wynaut"
+    },
+    {
+        "classificacao": "Snow Hat Pok\u00e9mon",
+        "pokemons": "Snorunt"
+    },
+    {
+        "classificacao": "Face Pok\u00e9mon",
+        "pokemons": "Glalie"
+    },
+    {
+        "classificacao": "Clap Pok\u00e9mon",
+        "pokemons": "Spheal"
+    },
+    {
+        "classificacao": "Ball Roll Pok\u00e9mon",
+        "pokemons": "Sealeo"
+    },
+    {
+        "classificacao": "Ice Break Pok\u00e9mon",
+        "pokemons": "Walrein"
+    },
+    {
+        "classificacao": "Bivalve Pok\u00e9mon",
+        "pokemons": "Clamperl; Shellder; Cloyster"
+    },
+    {
+        "classificacao": "Deep Sea Pok\u00e9mon",
+        "pokemons": "Huntail"
+    },
+    {
+        "classificacao": "South Sea Pok\u00e9mon",
+        "pokemons": "Gorebyss"
+    },
+    {
+        "classificacao": "Longevity Pok\u00e9mon",
+        "pokemons": "Relicanth"
+    },
+    {
+        "classificacao": "Fox Pok\u00e9mon",
+        "pokemons": "Vulpix; Ninetales; Fennekin; Braixen; Delphox"
+    },
+    {
+        "classificacao": "Rendezvous Pok\u00e9mon",
+        "pokemons": "Luvdisc"
+    },
+    {
+        "classificacao": "Rock Head Pok\u00e9mon",
+        "pokemons": "Bagon"
+    },
+    {
+        "classificacao": "Endurance Pok\u00e9mon",
+        "pokemons": "Shelgon"
+    },
+    {
+        "classificacao": "Iron Ball Pok\u00e9mon",
+        "pokemons": "Beldum"
+    },
+    {
+        "classificacao": "Iron Claw Pok\u00e9mon",
+        "pokemons": "Metang"
+    },
+    {
+        "classificacao": "Iron Leg Pok\u00e9mon",
+        "pokemons": "Metagross"
+    },
+    {
+        "classificacao": "Rock Peak Pok\u00e9mon",
+        "pokemons": "Regirock"
+    },
+    {
+        "classificacao": "Iceberg Pok\u00e9mon",
+        "pokemons": "Regice; Avalugg"
+    },
+    {
+        "classificacao": "Iron Pok\u00e9mon",
+        "pokemons": "Registeel"
+    },
+    {
+        "classificacao": "Eon Pok\u00e9mon",
+        "pokemons": "Latias; Latios"
+    },
+    {
+        "classificacao": "Sea Basin Pok\u00e9mon",
+        "pokemons": "Kyogre"
+    },
+    {
+        "classificacao": "Continent Pok\u00e9mon",
+        "pokemons": "Groudon; Torterra"
+    },
+    {
+        "classificacao": "Sky High Pok\u00e9mon",
+        "pokemons": "Rayquaza"
+    },
+    {
+        "classificacao": "Wish Pok\u00e9mon",
+        "pokemons": "Jirachi"
+    },
+    {
+        "classificacao": "DNA Pok\u00e9mon",
+        "pokemons": "Deoxys"
+    },
+    {
+        "classificacao": "Tiny Leaf Pok\u00e9mon",
+        "pokemons": "Turtwig"
+    },
+    {
+        "classificacao": "Grove Pok\u00e9mon",
+        "pokemons": "Grotle"
+    },
+    {
+        "classificacao": "Chimp Pok\u00e9mon",
+        "pokemons": "Chimchar"
+    },
+    {
+        "classificacao": "Playful Pok\u00e9mon",
+        "pokemons": "Monferno; Pancham"
+    },
+    {
+        "classificacao": "Penguin Pok\u00e9mon",
+        "pokemons": "Piplup; Prinplup"
+    },
+    {
+        "classificacao": "Emperor Pok\u00e9mon",
+        "pokemons": "Empoleon"
+    },
+    {
+        "classificacao": "Starling Pok\u00e9mon",
+        "pokemons": "Starly; Staravia"
+    },
+    {
+        "classificacao": "Predator Pok\u00e9mon",
+        "pokemons": "Staraptor"
+    },
+    {
+        "classificacao": "Plump Mouse Pok\u00e9mon",
+        "pokemons": "Bidoof"
+    },
+    {
+        "classificacao": "Lizard Pok\u00e9mon",
+        "pokemons": "Charmander"
+    },
+    {
+        "classificacao": "Beaver Pok\u00e9mon",
+        "pokemons": "Bibarel"
+    },
+    {
+        "classificacao": "Cricket Pok\u00e9mon",
+        "pokemons": "Kricketot; Kricketune"
+    },
+    {
+        "classificacao": "Flash Pok\u00e9mon",
+        "pokemons": "Shinx"
+    },
+    {
+        "classificacao": "Spark Pok\u00e9mon",
+        "pokemons": "Luxio"
+    },
+    {
+        "classificacao": "Gleam Eyes Pok\u00e9mon",
+        "pokemons": "Luxray"
+    },
+    {
+        "classificacao": "Bud Pok\u00e9mon",
+        "pokemons": "Budew"
+    },
+    {
+        "classificacao": "Bouquet Pok\u00e9mon",
+        "pokemons": "Roserade"
+    },
+    {
+        "classificacao": "Head Butt Pok\u00e9mon",
+        "pokemons": "Cranidos; Rampardos"
+    },
+    {
+        "classificacao": "Shield Pok\u00e9mon",
+        "pokemons": "Shieldon; Bastiodon"
+    },
+    {
+        "classificacao": "Moth Pok\u00e9mon",
+        "pokemons": "Mothim"
+    },
+    {
+        "classificacao": "Tiny Bee Pok\u00e9mon",
+        "pokemons": "Combee"
+    },
+    {
+        "classificacao": "Beehive Pok\u00e9mon",
+        "pokemons": "Vespiquen"
+    },
+    {
+        "classificacao": "EleSquirrel Pok\u00e9mon",
+        "pokemons": "Pachirisu"
+    },
+    {
+        "classificacao": "Sea Weasel Pok\u00e9mon",
+        "pokemons": "Buizel; Floatzel"
+    },
+    {
+        "classificacao": "Cherry Pok\u00e9mon",
+        "pokemons": "Cherubi"
+    },
+    {
+        "classificacao": "Blossom Pok\u00e9mon",
+        "pokemons": "Cherrim"
+    },
+    {
+        "classificacao": "Sea Slug Pok\u00e9mon",
+        "pokemons": "Shellos; Gastrodon"
+    },
+    {
+        "classificacao": "Blimp Pok\u00e9mon",
+        "pokemons": "Drifblim"
+    },
+    {
+        "classificacao": "Rabbit Pok\u00e9mon",
+        "pokemons": "Buneary; Lopunny"
+    },
+    {
+        "classificacao": "Magical Pok\u00e9mon",
+        "pokemons": "Mismagius"
+    },
+    {
+        "classificacao": "Weed Pok\u00e9mon",
+        "pokemons": "Oddish; Gloom"
+    },
+    {
+        "classificacao": "Big Boss Pok\u00e9mon",
+        "pokemons": "Honchkrow"
+    },
+    {
+        "classificacao": "Catty Pok\u00e9mon",
+        "pokemons": "Glameow"
+    },
+    {
+        "classificacao": "Tiger Cat Pok\u00e9mon",
+        "pokemons": "Purugly"
+    },
+    {
+        "classificacao": "Bell Pok\u00e9mon",
+        "pokemons": "Chingling"
+    },
+    {
+        "classificacao": "Skunk Pok\u00e9mon",
+        "pokemons": "Stunky; Skuntank"
+    },
+    {
+        "classificacao": "Bronze Pok\u00e9mon",
+        "pokemons": "Bronzor"
+    },
+    {
+        "classificacao": "Bronze Bell Pok\u00e9mon",
+        "pokemons": "Bronzong"
+    },
+    {
+        "classificacao": "Bonsai Pok\u00e9mon",
+        "pokemons": "Bonsly"
+    },
+    {
+        "classificacao": "Mime Pok\u00e9mon",
+        "pokemons": "Mime Jr."
+    },
+    {
+        "classificacao": "Playhouse Pok\u00e9mon",
+        "pokemons": "Happiny"
+    },
+    {
+        "classificacao": "Music Note Pok\u00e9mon",
+        "pokemons": "Chatot"
+    },
+    {
+        "classificacao": "Forbidden Pok\u00e9mon",
+        "pokemons": "Spiritomb"
+    },
+    {
+        "classificacao": "Land Shark Pok\u00e9mon",
+        "pokemons": "Gible"
+    },
+    {
+        "classificacao": "Cave Pok\u00e9mon",
+        "pokemons": "Gabite; Druddigon"
+    },
+    {
+        "classificacao": "Mach Pok\u00e9mon",
+        "pokemons": "Garchomp"
+    },
+    {
+        "classificacao": "Big Eater Pok\u00e9mon",
+        "pokemons": "Munchlax"
+    },
+    {
+        "classificacao": "Emanation Pok\u00e9mon",
+        "pokemons": "Riolu"
+    },
+    {
+        "classificacao": "Aura Pok\u00e9mon",
+        "pokemons": "Lucario"
+    },
+    {
+        "classificacao": "Hippo Pok\u00e9mon",
+        "pokemons": "Hippopotas"
+    },
+    {
+        "classificacao": "Heavyweight Pok\u00e9mon",
+        "pokemons": "Hippowdon"
+    },
+    {
+        "classificacao": "Scorpion Pok\u00e9mon",
+        "pokemons": "Skorupi"
+    },
+    {
+        "classificacao": "Ogre Scorp Pok\u00e9mon",
+        "pokemons": "Drapion"
+    },
+    {
+        "classificacao": "Toxic Mouth Pok\u00e9mon",
+        "pokemons": "Croagunk; Toxicroak"
+    },
+    {
+        "classificacao": "Bug Catcher Pok\u00e9mon",
+        "pokemons": "Carnivine"
+    },
+    {
+        "classificacao": "Wing Fish Pok\u00e9mon",
+        "pokemons": "Finneon"
+    },
+    {
+        "classificacao": "Neon Pok\u00e9mon",
+        "pokemons": "Lumineon"
+    },
+    {
+        "classificacao": "Frosted Tree Pok\u00e9mon",
+        "pokemons": "Snover; Abomasnow"
+    },
+    {
+        "classificacao": "Magnet Area Pok\u00e9mon",
+        "pokemons": "Magnezone"
+    },
+    {
+        "classificacao": "Thunderbolt Pok\u00e9mon",
+        "pokemons": "Electivire; Zebstrika"
+    },
+    {
+        "classificacao": "Blast Pok\u00e9mon",
+        "pokemons": "Magmortar"
+    },
+    {
+        "classificacao": "Jubilee Pok\u00e9mon",
+        "pokemons": "Togekiss"
+    },
+    {
+        "classificacao": "Ogre Darner Pok\u00e9mon",
+        "pokemons": "Yanmega"
+    },
+    {
+        "classificacao": "Verdant Pok\u00e9mon",
+        "pokemons": "Leafeon"
+    },
+    {
+        "classificacao": "Fresh Snow Pok\u00e9mon",
+        "pokemons": "Glaceon; Vanillite"
+    },
+    {
+        "classificacao": "Fang Scorp Pok\u00e9mon",
+        "pokemons": "Gliscor"
+    },
+    {
+        "classificacao": "Twin Tusk Pok\u00e9mon",
+        "pokemons": "Mamoswine"
+    },
+    {
+        "classificacao": "Blade Pok\u00e9mon",
+        "pokemons": "Gallade"
+    },
+    {
+        "classificacao": "Gripper Pok\u00e9mon",
+        "pokemons": "Dusknoir"
+    },
+    {
+        "classificacao": "Snow Land Pok\u00e9mon",
+        "pokemons": "Froslass"
+    },
+    {
+        "classificacao": "Plasma Pok\u00e9mon",
+        "pokemons": "Rotom"
+    },
+    {
+        "classificacao": "Insect Pok\u00e9mon",
+        "pokemons": "Venonat"
+    },
+    {
+        "classificacao": "Knowledge Pok\u00e9mon",
+        "pokemons": "Uxie"
+    },
+    {
+        "classificacao": "Willpower Pok\u00e9mon",
+        "pokemons": "Azelf"
+    },
+    {
+        "classificacao": "Temporal Pok\u00e9mon",
+        "pokemons": "Dialga"
+    },
+    {
+        "classificacao": "Spatial Pok\u00e9mon",
+        "pokemons": "Palkia"
+    },
+    {
+        "classificacao": "Lava Dome Pok\u00e9mon",
+        "pokemons": "Heatran"
+    },
+    {
+        "classificacao": "Colossal Pok\u00e9mon",
+        "pokemons": "Regigigas"
+    },
+    {
+        "classificacao": "Renegade Pok\u00e9mon",
+        "pokemons": "Giratina"
+    },
+    {
+        "classificacao": "Lunar Pok\u00e9mon",
+        "pokemons": "Cresselia"
+    },
+    {
+        "classificacao": "Sea Drifter Pok\u00e9mon",
+        "pokemons": "Phione"
+    },
+    {
+        "classificacao": "Seafaring Pok\u00e9mon",
+        "pokemons": "Manaphy"
+    },
+    {
+        "classificacao": "Pitch-Black Pok\u00e9mon",
+        "pokemons": "Darkrai"
+    },
+    {
+        "classificacao": "Gratitude Pok\u00e9mon",
+        "pokemons": "Shaymin"
+    },
+    {
+        "classificacao": "Alpha Pok\u00e9mon",
+        "pokemons": "Arceus"
+    },
+    {
+        "classificacao": "Victory Pok\u00e9mon",
+        "pokemons": "Victini"
+    },
+    {
+        "classificacao": "Grass Snake Pok\u00e9mon",
+        "pokemons": "Snivy; Servine"
+    },
+    {
+        "classificacao": "Regal Pok\u00e9mon",
+        "pokemons": "Serperior"
+    },
+    {
+        "classificacao": "Fire Pig Pok\u00e9mon",
+        "pokemons": "Tepig; Pignite"
+    },
+    {
+        "classificacao": "Mole Pok\u00e9mon",
+        "pokemons": "Diglett; Dugtrio; Drilbur"
+    },
+    {
+        "classificacao": "Mega Fire Pig Pok\u00e9mon",
+        "pokemons": "Emboar"
+    },
+    {
+        "classificacao": "Sea Otter Pok\u00e9mon",
+        "pokemons": "Oshawott"
+    },
+    {
+        "classificacao": "Discipline Pok\u00e9mon",
+        "pokemons": "Dewott"
+    },
+    {
+        "classificacao": "Formidable Pok\u00e9mon",
+        "pokemons": "Samurott"
+    },
+    {
+        "classificacao": "Lookout Pok\u00e9mon",
+        "pokemons": "Watchog"
+    },
+    {
+        "classificacao": "Puppy Pok\u00e9mon",
+        "pokemons": "Lillipup; Growlithe; Rockruff"
+    },
+    {
+        "classificacao": "Loyal Dog Pok\u00e9mon",
+        "pokemons": "Herdier"
+    },
+    {
+        "classificacao": "Big-Hearted Pok\u00e9mon",
+        "pokemons": "Stoutland"
+    },
+    {
+        "classificacao": "Devious Pok\u00e9mon",
+        "pokemons": "Purrloin"
+    },
+    {
+        "classificacao": "Cruel Pok\u00e9mon",
+        "pokemons": "Liepard"
+    },
+    {
+        "classificacao": "Grass Monkey Pok\u00e9mon",
+        "pokemons": "Pansage"
+    },
+    {
+        "classificacao": "Thorn Monkey Pok\u00e9mon",
+        "pokemons": "Simisage"
+    },
+    {
+        "classificacao": "High Temp Pok\u00e9mon",
+        "pokemons": "Pansear"
+    },
+    {
+        "classificacao": "Ember Pok\u00e9mon",
+        "pokemons": "Simisear; Fletchinder"
+    },
+    {
+        "classificacao": "Spray Pok\u00e9mon",
+        "pokemons": "Panpour"
+    },
+    {
+        "classificacao": "Geyser Pok\u00e9mon",
+        "pokemons": "Simipour"
+    },
+    {
+        "classificacao": "Dream Eater Pok\u00e9mon",
+        "pokemons": "Munna"
+    },
+    {
+        "classificacao": "Drowsing Pok\u00e9mon",
+        "pokemons": "Musharna; Komala"
+    },
+    {
+        "classificacao": "Tiny Pigeon Pok\u00e9mon",
+        "pokemons": "Pidove"
+    },
+    {
+        "classificacao": "Scratch Cat Pok\u00e9mon",
+        "pokemons": "Meowth"
+    },
+    {
+        "classificacao": "Wild Pigeon Pok\u00e9mon",
+        "pokemons": "Tranquill"
+    },
+    {
+        "classificacao": "Proud Pok\u00e9mon",
+        "pokemons": "Unfezant"
+    },
+    {
+        "classificacao": "Electrified Pok\u00e9mon",
+        "pokemons": "Blitzle"
+    },
+    {
+        "classificacao": "Mantle Pok\u00e9mon",
+        "pokemons": "Roggenrola"
+    },
+    {
+        "classificacao": "Ore Pok\u00e9mon",
+        "pokemons": "Boldore"
+    },
+    {
+        "classificacao": "Compressed Pok\u00e9mon",
+        "pokemons": "Gigalith"
+    },
+    {
+        "classificacao": "Courting Pok\u00e9mon",
+        "pokemons": "Swoobat"
+    },
+    {
+        "classificacao": "Classy Cat Pok\u00e9mon",
+        "pokemons": "Persian"
+    },
+    {
+        "classificacao": "Subterrene Pok\u00e9mon",
+        "pokemons": "Excadrill"
+    },
+    {
+        "classificacao": "Hearing Pok\u00e9mon",
+        "pokemons": "Audino"
+    },
+    {
+        "classificacao": "Muscular Pok\u00e9mon",
+        "pokemons": "Timburr; Gurdurr; Conkeldurr"
+    },
+    {
+        "classificacao": "Tadpole Pok\u00e9mon",
+        "pokemons": "Tympole; Poliwag; Poliwhirl; Poliwrath"
+    },
+    {
+        "classificacao": "Judo Pok\u00e9mon",
+        "pokemons": "Throh"
+    },
+    {
+        "classificacao": "Karate Pok\u00e9mon",
+        "pokemons": "Sawk"
+    },
+    {
+        "classificacao": "Duck Pok\u00e9mon",
+        "pokemons": "Psyduck; Golduck"
+    },
+    {
+        "classificacao": "Sewing Pok\u00e9mon",
+        "pokemons": "Sewaddle"
+    },
+    {
+        "classificacao": "Leaf-Wrapped Pok\u00e9mon",
+        "pokemons": "Swadloon"
+    },
+    {
+        "classificacao": "Nurturing Pok\u00e9mon",
+        "pokemons": "Leavanny"
+    },
+    {
+        "classificacao": "Centipede Pok\u00e9mon",
+        "pokemons": "Venipede"
+    },
+    {
+        "classificacao": "Curlipede Pok\u00e9mon",
+        "pokemons": "Whirlipede"
+    },
+    {
+        "classificacao": "Megapede Pok\u00e9mon",
+        "pokemons": "Scolipede"
+    },
+    {
+        "classificacao": "Cotton Puff Pok\u00e9mon",
+        "pokemons": "Cottonee"
+    },
+    {
+        "classificacao": "Windveiled Pok\u00e9mon",
+        "pokemons": "Whimsicott"
+    },
+    {
+        "classificacao": "Bulb Pok\u00e9mon",
+        "pokemons": "Petilil"
+    },
+    {
+        "classificacao": "Flowering Pok\u00e9mon",
+        "pokemons": "Lilligant"
+    },
+    {
+        "classificacao": "Hostile Pok\u00e9mon",
+        "pokemons": "Basculin; Zweilous"
+    },
+    {
+        "classificacao": "Desert Croc Pok\u00e9mon",
+        "pokemons": "Sandile; Krokorok"
+    },
+    {
+        "classificacao": "Intimidation Pok\u00e9mon",
+        "pokemons": "Krookodile"
+    },
+    {
+        "classificacao": "Zen Charm Pok\u00e9mon",
+        "pokemons": "Darumaka"
+    },
+    {
+        "classificacao": "Blazing Pok\u00e9mon",
+        "pokemons": "Darmanitan"
+    },
+    {
+        "classificacao": "Rock Inn Pok\u00e9mon",
+        "pokemons": "Dwebble"
+    },
+    {
+        "classificacao": "Stone Home Pok\u00e9mon",
+        "pokemons": "Crustle"
+    },
+    {
+        "classificacao": "Shedding Pok\u00e9mon",
+        "pokemons": "Scraggy"
+    },
+    {
+        "classificacao": "Pig Monkey Pok\u00e9mon",
+        "pokemons": "Mankey; Primeape"
+    },
+    {
+        "classificacao": "Hoodlum Pok\u00e9mon",
+        "pokemons": "Scrafty"
+    },
+    {
+        "classificacao": "Avianoid Pok\u00e9mon",
+        "pokemons": "Sigilyph"
+    },
+    {
+        "classificacao": "Spirit Pok\u00e9mon",
+        "pokemons": "Yamask"
+    },
+    {
+        "classificacao": "Coffin Pok\u00e9mon",
+        "pokemons": "Cofagrigus"
+    },
+    {
+        "classificacao": "Prototurtle Pok\u00e9mon",
+        "pokemons": "Tirtouga; Carracosta"
+    },
+    {
+        "classificacao": "First Bird Pok\u00e9mon",
+        "pokemons": "Archen; Archeops"
+    },
+    {
+        "classificacao": "Trash Bag Pok\u00e9mon",
+        "pokemons": "Trubbish"
+    },
+    {
+        "classificacao": "Trash Heap Pok\u00e9mon",
+        "pokemons": "Garbodor"
+    },
+    {
+        "classificacao": "Tricky Fox Pok\u00e9mon",
+        "pokemons": "Zorua"
+    },
+    {
+        "classificacao": "Illusion Fox Pok\u00e9mon",
+        "pokemons": "Zoroark"
+    },
+    {
+        "classificacao": "Chinchilla Pok\u00e9mon",
+        "pokemons": "Minccino"
+    },
+    {
+        "classificacao": "Scarf Pok\u00e9mon",
+        "pokemons": "Cinccino"
+    },
+    {
+        "classificacao": "Fixation Pok\u00e9mon",
+        "pokemons": "Gothita"
+    },
+    {
+        "classificacao": "Astral Body Pok\u00e9mon",
+        "pokemons": "Gothitelle"
+    },
+    {
+        "classificacao": "Cell Pok\u00e9mon",
+        "pokemons": "Solosis"
+    },
+    {
+        "classificacao": "Mitosis Pok\u00e9mon",
+        "pokemons": "Duosion"
+    },
+    {
+        "classificacao": "Multiplying Pok\u00e9mon",
+        "pokemons": "Reuniclus"
+    },
+    {
+        "classificacao": "White Bird Pok\u00e9mon",
+        "pokemons": "Swanna"
+    },
+    {
+        "classificacao": "Icy Snow Pok\u00e9mon",
+        "pokemons": "Vanillish"
+    },
+    {
+        "classificacao": "Snowstorm Pok\u00e9mon",
+        "pokemons": "Vanilluxe"
+    },
+    {
+        "classificacao": "Season Pok\u00e9mon",
+        "pokemons": "Deerling; Sawsbuck"
+    },
+    {
+        "classificacao": "Sky Squirrel Pok\u00e9mon",
+        "pokemons": "Emolga"
+    },
+    {
+        "classificacao": "Clamping Pok\u00e9mon",
+        "pokemons": "Karrablast"
+    },
+    {
+        "classificacao": "Cavalry Pok\u00e9mon",
+        "pokemons": "Escavalier"
+    },
+    {
+        "classificacao": "Legendary Pok\u00e9mon",
+        "pokemons": "Arcanine"
+    },
+    {
+        "classificacao": "Floating Pok\u00e9mon",
+        "pokemons": "Frillish; Jellicent"
+    },
+    {
+        "classificacao": "Caring Pok\u00e9mon",
+        "pokemons": "Alomomola"
+    },
+    {
+        "classificacao": "Attaching Pok\u00e9mon",
+        "pokemons": "Joltik"
+    },
+    {
+        "classificacao": "EleSpider Pok\u00e9mon",
+        "pokemons": "Galvantula"
+    },
+    {
+        "classificacao": "Thorn Seed Pok\u00e9mon",
+        "pokemons": "Ferroseed"
+    },
+    {
+        "classificacao": "Thorn Pod Pok\u00e9mon",
+        "pokemons": "Ferrothorn"
+    },
+    {
+        "classificacao": "Gear Pok\u00e9mon",
+        "pokemons": "Klink; Klang; Klinklang"
+    },
+    {
+        "classificacao": "EleFish Pok\u00e9mon",
+        "pokemons": "Tynamo; Eelektrik; Eelektross"
+    },
+    {
+        "classificacao": "Cerebral Pok\u00e9mon",
+        "pokemons": "Elgyem; Beheeyem"
+    },
+    {
+        "classificacao": "Candle Pok\u00e9mon",
+        "pokemons": "Litwick"
+    },
+    {
+        "classificacao": "Lamp Pok\u00e9mon",
+        "pokemons": "Lampent"
+    },
+    {
+        "classificacao": "Luring Pok\u00e9mon",
+        "pokemons": "Chandelure"
+    },
+    {
+        "classificacao": "Tusk Pok\u00e9mon",
+        "pokemons": "Axew"
+    },
+    {
+        "classificacao": "Axe Jaw Pok\u00e9mon",
+        "pokemons": "Fraxure; Haxorus"
+    },
+    {
+        "classificacao": "Chill Pok\u00e9mon",
+        "pokemons": "Cubchoo"
+    },
+    {
+        "classificacao": "Freezing Pok\u00e9mon",
+        "pokemons": "Beartic"
+    },
+    {
+        "classificacao": "Crystallizing Pok\u00e9mon",
+        "pokemons": "Cryogonal"
+    },
+    {
+        "classificacao": "Snail Pok\u00e9mon",
+        "pokemons": "Shelmet"
+    },
+    {
+        "classificacao": "Shell Out Pok\u00e9mon",
+        "pokemons": "Accelgor"
+    },
+    {
+        "classificacao": "Trap Pok\u00e9mon",
+        "pokemons": "Stunfisk"
+    },
+    {
+        "classificacao": "Martial Arts Pok\u00e9mon",
+        "pokemons": "Mienfoo; Mienshao"
+    },
+    {
+        "classificacao": "Automaton Pok\u00e9mon",
+        "pokemons": "Golett; Golurk"
+    },
+    {
+        "classificacao": "Sharp Blade Pok\u00e9mon",
+        "pokemons": "Pawniard"
+    },
+    {
+        "classificacao": "Sword Blade Pok\u00e9mon",
+        "pokemons": "Bisharp"
+    },
+    {
+        "classificacao": "Bash Buffalo Pok\u00e9mon",
+        "pokemons": "Bouffalant"
+    },
+    {
+        "classificacao": "Eaglet Pok\u00e9mon",
+        "pokemons": "Rufflet"
+    },
+    {
+        "classificacao": "Valiant Pok\u00e9mon",
+        "pokemons": "Braviary"
+    },
+    {
+        "classificacao": "Diapered Pok\u00e9mon",
+        "pokemons": "Vullaby"
+    },
+    {
+        "classificacao": "Psi Pok\u00e9mon",
+        "pokemons": "Abra; Kadabra; Alakazam"
+    },
+    {
+        "classificacao": "Bone Vulture Pok\u00e9mon",
+        "pokemons": "Mandibuzz"
+    },
+    {
+        "classificacao": "Anteater Pok\u00e9mon",
+        "pokemons": "Heatmor"
+    },
+    {
+        "classificacao": "Iron Ant Pok\u00e9mon",
+        "pokemons": "Durant"
+    },
+    {
+        "classificacao": "Irate Pok\u00e9mon",
+        "pokemons": "Deino"
+    },
+    {
+        "classificacao": "Torch Pok\u00e9mon",
+        "pokemons": "Larvesta"
+    },
+    {
+        "classificacao": "Iron Will Pok\u00e9mon",
+        "pokemons": "Cobalion"
+    },
+    {
+        "classificacao": "Cavern Pok\u00e9mon",
+        "pokemons": "Terrakion"
+    },
+    {
+        "classificacao": "Grassland Pok\u00e9mon",
+        "pokemons": "Virizion"
+    },
+    {
+        "classificacao": "Cyclone Pok\u00e9mon",
+        "pokemons": "Tornadus"
+    },
+    {
+        "classificacao": "Bolt Strike Pok\u00e9mon",
+        "pokemons": "Thundurus"
+    },
+    {
+        "classificacao": "Vast White Pok\u00e9mon",
+        "pokemons": "Reshiram"
+    },
+    {
+        "classificacao": "Deep Black Pok\u00e9mon",
+        "pokemons": "Zekrom"
+    },
+    {
+        "classificacao": "Abundance Pok\u00e9mon",
+        "pokemons": "Landorus"
+    },
+    {
+        "classificacao": "Boundary Pok\u00e9mon",
+        "pokemons": "Kyurem"
+    },
+    {
+        "classificacao": "Colt Pok\u00e9mon",
+        "pokemons": "Keldeo"
+    },
+    {
+        "classificacao": "Melody Pok\u00e9mon",
+        "pokemons": "Meloetta"
+    },
+    {
+        "classificacao": "Paleozoic Pok\u00e9mon",
+        "pokemons": "Genesect"
+    },
+    {
+        "classificacao": "Spiky Nut Pok\u00e9mon",
+        "pokemons": "Chespin"
+    },
+    {
+        "classificacao": "Spiny Armor Pok\u00e9mon",
+        "pokemons": "Quilladin; Chesnaught"
+    },
+    {
+        "classificacao": "Bubble Frog Pok\u00e9mon",
+        "pokemons": "Froakie; Frogadier"
+    },
+    {
+        "classificacao": "Digging Pok\u00e9mon",
+        "pokemons": "Bunnelby; Diggersby"
+    },
+    {
+        "classificacao": "Superpower Pok\u00e9mon",
+        "pokemons": "Machop; Machoke; Machamp"
+    },
+    {
+        "classificacao": "Tiny Robin Pok\u00e9mon",
+        "pokemons": "Fletchling"
+    },
+    {
+        "classificacao": "Scorching Pok\u00e9mon",
+        "pokemons": "Talonflame"
+    },
+    {
+        "classificacao": "Scatterdust Pok\u00e9mon",
+        "pokemons": "Scatterbug; Spewpa"
+    },
+    {
+        "classificacao": "Scale Pok\u00e9mon",
+        "pokemons": "Vivillon"
+    },
+    {
+        "classificacao": "Lion Cub Pok\u00e9mon",
+        "pokemons": "Litleo"
+    },
+    {
+        "classificacao": "Single Bloom Pok\u00e9mon",
+        "pokemons": "Flab\u00e9b\u00e9"
+    },
+    {
+        "classificacao": "Garden Pok\u00e9mon",
+        "pokemons": "Florges"
+    },
+    {
+        "classificacao": "Mount Pok\u00e9mon",
+        "pokemons": "Skiddo; Gogoat"
+    },
+    {
+        "classificacao": "Daunting Pok\u00e9mon",
+        "pokemons": "Pangoro"
+    },
+    {
+        "classificacao": "Poodle Pok\u00e9mon",
+        "pokemons": "Furfrou"
+    },
+    {
+        "classificacao": "Restraint Pok\u00e9mon",
+        "pokemons": "Espurr"
+    },
+    {
+        "classificacao": "Constraint Pok\u00e9mon",
+        "pokemons": "Meowstic"
+    },
+    {
+        "classificacao": "Sword Pok\u00e9mon",
+        "pokemons": "Honedge; Doublade"
+    },
+    {
+        "classificacao": "Royal Sword Pok\u00e9mon",
+        "pokemons": "Aegislash"
+    },
+    {
+        "classificacao": "Perfume Pok\u00e9mon",
+        "pokemons": "Spritzee"
+    },
+    {
+        "classificacao": "Fragrance Pok\u00e9mon",
+        "pokemons": "Aromatisse"
+    },
+    {
+        "classificacao": "Cotton Candy Pok\u00e9mon",
+        "pokemons": "Swirlix"
+    },
+    {
+        "classificacao": "Meringue Pok\u00e9mon",
+        "pokemons": "Slurpuff"
+    },
+    {
+        "classificacao": "Revolving Pok\u00e9mon",
+        "pokemons": "Inkay"
+    },
+    {
+        "classificacao": "Overturning Pok\u00e9mon",
+        "pokemons": "Malamar"
+    },
+    {
+        "classificacao": "Two-Handed Pok\u00e9mon",
+        "pokemons": "Binacle"
+    },
+    {
+        "classificacao": "Collective Pok\u00e9mon",
+        "pokemons": "Barbaracle"
+    },
+    {
+        "classificacao": "Mock Kelp Pok\u00e9mon",
+        "pokemons": "Skrelp; Dragalge"
+    },
+    {
+        "classificacao": "Water Gun Pok\u00e9mon",
+        "pokemons": "Clauncher"
+    },
+    {
+        "classificacao": "Howitzer Pok\u00e9mon",
+        "pokemons": "Clawitzer"
+    },
+    {
+        "classificacao": "Generator Pok\u00e9mon",
+        "pokemons": "Helioptile; Heliolisk"
+    },
+    {
+        "classificacao": "Royal Heir Pok\u00e9mon",
+        "pokemons": "Tyrunt"
+    },
+    {
+        "classificacao": "Despot Pok\u00e9mon",
+        "pokemons": "Tyrantrum"
+    },
+    {
+        "classificacao": "Tundra Pok\u00e9mon",
+        "pokemons": "Amaura; Aurorus"
+    },
+    {
+        "classificacao": "Tiny Turtle Pok\u00e9mon",
+        "pokemons": "Squirtle"
+    },
+    {
+        "classificacao": "Flycatcher Pok\u00e9mon",
+        "pokemons": "Weepinbell; Victreebel"
+    },
+    {
+        "classificacao": "Intertwining Pok\u00e9mon",
+        "pokemons": "Sylveon"
+    },
+    {
+        "classificacao": "Wrestling Pok\u00e9mon",
+        "pokemons": "Hawlucha"
+    },
+    {
+        "classificacao": "Antenna Pok\u00e9mon",
+        "pokemons": "Dedenne"
+    },
+    {
+        "classificacao": "Jewel Pok\u00e9mon",
+        "pokemons": "Carbink; Diancie"
+    },
+    {
+        "classificacao": "Soft Tissue Pok\u00e9mon",
+        "pokemons": "Goomy; Sliggoo"
+    },
+    {
+        "classificacao": "Key Ring Pok\u00e9mon",
+        "pokemons": "Klefki"
+    },
+    {
+        "classificacao": "Stump Pok\u00e9mon",
+        "pokemons": "Phantump"
+    },
+    {
+        "classificacao": "Elder Tree Pok\u00e9mon",
+        "pokemons": "Trevenant"
+    },
+    {
+        "classificacao": "Pumpkin Pok\u00e9mon",
+        "pokemons": "Pumpkaboo; Gourgeist"
+    },
+    {
+        "classificacao": "Ice Chunk Pok\u00e9mon",
+        "pokemons": "Bergmite"
+    },
+    {
+        "classificacao": "Sound Wave Pok\u00e9mon",
+        "pokemons": "Noibat; Noivern"
+    },
+    {
+        "classificacao": "Life Pok\u00e9mon",
+        "pokemons": "Xerneas"
+    },
+    {
+        "classificacao": "Destruction Pok\u00e9mon",
+        "pokemons": "Yveltal"
+    },
+    {
+        "classificacao": "Order Pok\u00e9mon",
+        "pokemons": "Zygarde"
+    },
+    {
+        "classificacao": "Jellyfish Pok\u00e9mon",
+        "pokemons": "Tentacool; Tentacruel"
+    },
+    {
+        "classificacao": "Mischief Pok\u00e9mon (Confined)Djinn Pok\u00e9monn (Unbound)",
+        "pokemons": "Hoopa"
+    },
+    {
+        "classificacao": "Steam Pok\u00e9mon",
+        "pokemons": "Volcanion"
+    },
+    {
+        "classificacao": "Grass Quill Pok\u00e9mon",
+        "pokemons": "Rowlet"
+    },
+    {
+        "classificacao": "Blade Quill Pok\u00e9mon",
+        "pokemons": "Dartrix"
+    },
+    {
+        "classificacao": "Arrow Quill Pok\u00e9mon",
+        "pokemons": "Decidueye"
+    },
+    {
+        "classificacao": "Fire Cat Pok\u00e9mon",
+        "pokemons": "Litten; Torracat"
+    },
+    {
+        "classificacao": "Heel Pok\u00e9mon",
+        "pokemons": "Incineroar"
+    },
+    {
+        "classificacao": "Sea Lion Pok\u00e9mon",
+        "pokemons": "Popplio; Seel; Dewgong"
+    },
+    {
+        "classificacao": "Pop Star Pok\u00e9mon",
+        "pokemons": "Brionne"
+    },
+    {
+        "classificacao": "Soloist Pok\u00e9mon",
+        "pokemons": "Primarina"
+    },
+    {
+        "classificacao": "Woodpecker Pok\u00e9mon",
+        "pokemons": "Pikipek"
+    },
+    {
+        "classificacao": "Bugle Beak Pok\u00e9mon",
+        "pokemons": "Trumbeak"
+    },
+    {
+        "classificacao": "Cannon Pok\u00e9mon",
+        "pokemons": "Toucannon"
+    },
+    {
+        "classificacao": "Loitering Pok\u00e9mon",
+        "pokemons": "Yungoos"
+    },
+    {
+        "classificacao": "Stakeout Pok\u00e9mon",
+        "pokemons": "Gumshoos"
+    },
+    {
+        "classificacao": "Larva Pok\u00e9mon",
+        "pokemons": "Grubbin"
+    },
+    {
+        "classificacao": "Battery Pok\u00e9mon",
+        "pokemons": "Charjabug"
+    },
+    {
+        "classificacao": "Stag Beetle Pok\u00e9mon",
+        "pokemons": "Vikavolt"
+    },
+    {
+        "classificacao": "Boxing Pok\u00e9mon",
+        "pokemons": "Crabrawler"
+    },
+    {
+        "classificacao": "Rock Pok\u00e9mon",
+        "pokemons": "Geodude; Graveler"
+    },
+    {
+        "classificacao": "Woolly Crab Pok\u00e9mon",
+        "pokemons": "Crabominable"
+    },
+    {
+        "classificacao": "Dancing Pok\u00e9mon",
+        "pokemons": "Oricorio"
+    },
+    {
+        "classificacao": "Bee Fly Pok\u00e9mon",
+        "pokemons": "Cutiefly; Ribombee"
+    },
+    {
+        "classificacao": "Wolf Pok\u00e9mon",
+        "pokemons": "Lycanroc"
+    },
+    {
+        "classificacao": "Small Fry Pok\u00e9mon",
+        "pokemons": "Wishiwashi"
+    },
+    {
+        "classificacao": "Brutal Star Pok\u00e9mon",
+        "pokemons": "Mareanie; Toxapex"
+    },
+    {
+        "classificacao": "Donkey Pok\u00e9mon",
+        "pokemons": "Mudbray"
+    },
+    {
+        "classificacao": "Draft Horse Pok\u00e9mon",
+        "pokemons": "Mudsdale"
+    },
+    {
+        "classificacao": "Water Bubble Pok\u00e9mon",
+        "pokemons": "Dewpider; Araquanid"
+    },
+    {
+        "classificacao": "Sickle Grass Pok\u00e9mon",
+        "pokemons": "Fomantis"
+    },
+    {
+        "classificacao": "Bloom Sickle Pok\u00e9mon",
+        "pokemons": "Lurantis"
+    },
+    {
+        "classificacao": "Illuminating Pok\u00e9mon",
+        "pokemons": "Morelull; Shiinotic"
+    },
+    {
+        "classificacao": "Toxic Lizard Pok\u00e9mon",
+        "pokemons": "Salandit; Salazzle"
+    },
+    {
+        "classificacao": "Flailing Pok\u00e9mon",
+        "pokemons": "Stufful"
+    },
+    {
+        "classificacao": "Megaton Pok\u00e9mon",
+        "pokemons": "Golem"
+    },
+    {
+        "classificacao": "Strong Arm Pok\u00e9mon",
+        "pokemons": "Bewear"
+    },
+    {
+        "classificacao": "Posy Picker Pok\u00e9mon",
+        "pokemons": "Comfey"
+    },
+    {
+        "classificacao": "Sage Pok\u00e9mon",
+        "pokemons": "Oranguru"
+    },
+    {
+        "classificacao": "Teamwork Pok\u00e9mon",
+        "pokemons": "Passimian"
+    },
+    {
+        "classificacao": "Turn Tail Pok\u00e9mon",
+        "pokemons": "Wimpod"
+    },
+    {
+        "classificacao": "Hard Scale Pok\u00e9mon",
+        "pokemons": "Golisopod"
+    },
+    {
+        "classificacao": "Sand Heap Pok\u00e9mon",
+        "pokemons": "Sandygast"
+    },
+    {
+        "classificacao": "Fire Horse Pok\u00e9mon",
+        "pokemons": "Ponyta; Rapidash"
+    },
+    {
+        "classificacao": "Sand Castle Pok\u00e9mon",
+        "pokemons": "Palossand"
+    },
+    {
+        "classificacao": "Sea Cucumber Pok\u00e9mon",
+        "pokemons": "Pyukumuku"
+    },
+    {
+        "classificacao": "Synthetic Pok\u00e9mon",
+        "pokemons": "Type: Null; Silvally"
+    },
+    {
+        "classificacao": "Meteor Pok\u00e9mon",
+        "pokemons": "Minior"
+    },
+    {
+        "classificacao": "Blast Turtle Pok\u00e9mon",
+        "pokemons": "Turtonator"
+    },
+    {
+        "classificacao": "Roly-Poly Pok\u00e9mon",
+        "pokemons": "Togedemaru"
+    },
+    {
+        "classificacao": "Disguise Pok\u00e9mon",
+        "pokemons": "Mimikyu"
+    },
+    {
+        "classificacao": "Gnash Teeth Pok\u00e9mon",
+        "pokemons": "Bruxish"
+    },
+    {
+        "classificacao": "Placid Pok\u00e9mon",
+        "pokemons": "Drampa"
+    },
+    {
+        "classificacao": "Sea Creeper Pok\u00e9mon",
+        "pokemons": "Dhelmise"
+    },
+    {
+        "classificacao": "Scaly Pok\u00e9mon",
+        "pokemons": "Jangmo-o; Hakamo-o; Kommo-o"
+    },
+    {
+        "classificacao": "Land Spirit Pok\u00e9mon",
+        "pokemons": "Tapu Koko; Tapu Lele; Tapu Bulu; Tapu Fini"
+    },
+    {
+        "classificacao": "Nebula Pok\u00e9mon",
+        "pokemons": "Cosmog"
+    },
+    {
+        "classificacao": "Dopey Pok\u00e9mon",
+        "pokemons": "Slowpoke"
+    },
+    {
+        "classificacao": "Protostar Pok\u00e9mon",
+        "pokemons": "Cosmoem"
+    },
+    {
+        "classificacao": "Sunne Pok\u00e9mon",
+        "pokemons": "Solgaleo"
+    },
+    {
+        "classificacao": "Moone Pok\u00e9mon",
+        "pokemons": "Lunala"
+    },
+    {
+        "classificacao": "Parasite Pok\u00e9mon",
+        "pokemons": "Nihilego"
+    },
+    {
+        "classificacao": "Swollen Pok\u00e9mon",
+        "pokemons": "Buzzwole"
+    },
+    {
+        "classificacao": "Lissome Pok\u00e9mon",
+        "pokemons": "Pheromosa"
+    },
+    {
+        "classificacao": "Glowing Pok\u00e9mon",
+        "pokemons": "Xurkitree"
+    },
+    {
+        "classificacao": "Launch Pok\u00e9mon",
+        "pokemons": "Celesteela"
+    },
+    {
+        "classificacao": "Drawn Sword Pok\u00e9mon",
+        "pokemons": "Kartana"
+    },
+    {
+        "classificacao": "Junkivore Pok\u00e9mon",
+        "pokemons": "Guzzlord"
+    },
+    {
+        "classificacao": "Turtle Pok\u00e9mon",
+        "pokemons": "Wartortle"
+    },
+    {
+        "classificacao": "Hermit Crab Pok\u00e9mon",
+        "pokemons": "Slowbro"
+    },
+    {
+        "classificacao": "Prism Pok\u00e9mon",
+        "pokemons": "Necrozma"
+    },
+    {
+        "classificacao": "Artificial Pok\u00e9mon",
+        "pokemons": "Magearna"
+    },
+    {
+        "classificacao": "Magnet Pok\u00e9mon",
+        "pokemons": "Magnemite; Magneton"
+    },
+    {
+        "classificacao": "Wild Duck Pok\u00e9mon",
+        "pokemons": "Farfetch'd"
+    },
+    {
+        "classificacao": "Twin Bird Pok\u00e9mon",
+        "pokemons": "Doduo"
+    },
+    {
+        "classificacao": "Triple Bird Pok\u00e9mon",
+        "pokemons": "Dodrio"
+    },
+    {
+        "classificacao": "Sludge Pok\u00e9mon",
+        "pokemons": "Grimer; Muk"
+    },
+    {
+        "classificacao": "Gas Pok\u00e9mon",
+        "pokemons": "Gastly; Haunter"
+    },
+    {
+        "classificacao": "Shadow Pok\u00e9mon",
+        "pokemons": "Gengar"
+    },
+    {
+        "classificacao": "Rock Snake Pok\u00e9mon",
+        "pokemons": "Onix"
+    },
+    {
+        "classificacao": "Hypnosis Pok\u00e9mon",
+        "pokemons": "Drowzee; Hypno"
+    },
+    {
+        "classificacao": "River Crab Pok\u00e9mon",
+        "pokemons": "Krabby"
+    }
+]

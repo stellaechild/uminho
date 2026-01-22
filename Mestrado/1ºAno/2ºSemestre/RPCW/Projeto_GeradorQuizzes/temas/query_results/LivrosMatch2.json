@@ -1,0 +1,1030 @@
+[
+    {
+        "bookTitle": "'Salem's Lot",
+        "authorName": "Stephen King"
+    },
+    {
+        "bookTitle": "1984",
+        "authorName": "George Orwell"
+    },
+    {
+        "bookTitle": "A Child Called \"It\"",
+        "authorName": "Dave Pelzer"
+    },
+    {
+        "bookTitle": "A Clash of Kings",
+        "authorName": "George R.R. Martin"
+    },
+    {
+        "bookTitle": "A Clockwork Orange",
+        "authorName": "Anthony Burgess"
+    },
+    {
+        "bookTitle": "A Confederacy of Dunces",
+        "authorName": "John Kennedy Toole"
+    },
+    {
+        "bookTitle": "A Feast for Crows",
+        "authorName": "George R.R. Martin"
+    },
+    {
+        "bookTitle": "A Fine Balance",
+        "authorName": "Rohinton Mistry"
+    },
+    {
+        "bookTitle": "A Game of Thrones",
+        "authorName": "George R.R. Martin"
+    },
+    {
+        "bookTitle": "A Light in the Attic",
+        "authorName": "Shel Silverstein"
+    },
+    {
+        "bookTitle": "A Separate Peace",
+        "authorName": "John Knowles"
+    },
+    {
+        "bookTitle": "A Short History of Nearly Everything",
+        "authorName": "Bill Bryson"
+    },
+    {
+        "bookTitle": "A Storm of Swords",
+        "authorName": "George R.R. Martin"
+    },
+    {
+        "bookTitle": "A Streetcar Named Desire",
+        "authorName": "Tennessee Williams"
+    },
+    {
+        "bookTitle": "A Thousand Splendid Suns",
+        "authorName": "Khaled Hosseini"
+    },
+    {
+        "bookTitle": "A Tree Grows in Brooklyn",
+        "authorName": "Betty Smith"
+    },
+    {
+        "bookTitle": "A Walk to Remember",
+        "authorName": "Nicholas Sparks"
+    },
+    {
+        "bookTitle": "A Wrinkle in Time",
+        "authorName": "Madeleine L'Engle"
+    },
+    {
+        "bookTitle": "Alice in Wonderland",
+        "authorName": "Jane Carruth"
+    },
+    {
+        "bookTitle": "All Quiet on the Western Front",
+        "authorName": "Erich Maria Remarque"
+    },
+    {
+        "bookTitle": "All the Light We Cannot See",
+        "authorName": "Anthony Doerr"
+    },
+    {
+        "bookTitle": "American Gods",
+        "authorName": "Neil Gaiman"
+    },
+    {
+        "bookTitle": "Angela's Ashes",
+        "authorName": "Frank McCourt"
+    },
+    {
+        "bookTitle": "Animal Farm",
+        "authorName": "George Orwell"
+    },
+    {
+        "bookTitle": "Anna Karenina",
+        "authorName": "Leo Tolstoy"
+    },
+    {
+        "bookTitle": "Are You There God? It's Me, Margaret",
+        "authorName": "Judy Blume"
+    },
+    {
+        "bookTitle": "Artemis Fowl",
+        "authorName": "Eoin Colfer"
+    },
+    {
+        "bookTitle": "Atlas Shrugged",
+        "authorName": "Ayn Rand"
+    },
+    {
+        "bookTitle": "Atonement",
+        "authorName": "Ian McEwan"
+    },
+    {
+        "bookTitle": "Bel Canto",
+        "authorName": "Ann Patchett"
+    },
+    {
+        "bookTitle": "Beloved",
+        "authorName": "Toni Morrison"
+    },
+    {
+        "bookTitle": "Blindness",
+        "authorName": "Jos\u00e9 Saramago"
+    },
+    {
+        "bookTitle": "Blood Promise",
+        "authorName": "Richelle Mead"
+    },
+    {
+        "bookTitle": "Blood River: A Journey to Africa's Broken Heart",
+        "authorName": "Tim Butcher"
+    },
+    {
+        "bookTitle": "Bridge to Terabithia",
+        "authorName": "Katherine Paterson"
+    },
+    {
+        "bookTitle": "Bridget Jones's Diary",
+        "authorName": "Helen Fielding"
+    },
+    {
+        "bookTitle": "Cat's Cradle",
+        "authorName": "Kurt Vonnegut Jr."
+    },
+    {
+        "bookTitle": "Catch-22",
+        "authorName": "Joseph Heller"
+    },
+    {
+        "bookTitle": "Charlie and the Chocolate Factory",
+        "authorName": "Roald Dahl"
+    },
+    {
+        "bookTitle": "Charlotte's Web",
+        "authorName": "E.B. White"
+    },
+    {
+        "bookTitle": "Clockwork Princess",
+        "authorName": "Cassandra Clare"
+    },
+    {
+        "bookTitle": "Cloud Atlas",
+        "authorName": "David Mitchell"
+    },
+    {
+        "bookTitle": "Cold Mountain",
+        "authorName": "Charles Frazier"
+    },
+    {
+        "bookTitle": "Coraline",
+        "authorName": "Neil Gaiman"
+    },
+    {
+        "bookTitle": "Crown of Midnight",
+        "authorName": "Sarah J. Maas"
+    },
+    {
+        "bookTitle": "Dark Lover",
+        "authorName": "J.R. Ward"
+    },
+    {
+        "bookTitle": "David Copperfield",
+        "authorName": "Charles Dickens"
+    },
+    {
+        "bookTitle": "Death of a Salesman",
+        "authorName": "Arthur Miller"
+    },
+    {
+        "bookTitle": "Delirium",
+        "authorName": "Lauren Oliver"
+    },
+    {
+        "bookTitle": "Different Seasons",
+        "authorName": "Stephen King"
+    },
+    {
+        "bookTitle": "Divergent",
+        "authorName": "Veronica Roth"
+    },
+    {
+        "bookTitle": "Divine Secrets of the Ya-Ya Sisterhood",
+        "authorName": "Rebecca Wells"
+    },
+    {
+        "bookTitle": "Do Androids Dream of Electric Sheep?",
+        "authorName": "Philip K. Dick"
+    },
+    {
+        "bookTitle": "Doctor Zhivago",
+        "authorName": "Boris Pasternak"
+    },
+    {
+        "bookTitle": "Don Quixote",
+        "authorName": "Miguel de Cervantes Saavedra"
+    },
+    {
+        "bookTitle": "Dragonfly in Amber",
+        "authorName": "Diana Gabaldon"
+    },
+    {
+        "bookTitle": "Dune",
+        "authorName": "Frank Herbert"
+    },
+    {
+        "bookTitle": "East of Eden",
+        "authorName": "John Steinbeck"
+    },
+    {
+        "bookTitle": "Eat, Pray, Love",
+        "authorName": "Elizabeth Gilbert"
+    },
+    {
+        "bookTitle": "Eldest",
+        "authorName": "Christopher Paolini"
+    },
+    {
+        "bookTitle": "Eleanor & Park",
+        "authorName": "Rainbow Rowell"
+    },
+    {
+        "bookTitle": "Ella Enchanted",
+        "authorName": "Gail Carson Levine"
+    },
+    {
+        "bookTitle": "Ender's Game",
+        "authorName": "Orson Scott Card"
+    },
+    {
+        "bookTitle": "Eragon",
+        "authorName": "Christopher Paolini"
+    },
+    {
+        "bookTitle": "Everything Is Illuminated",
+        "authorName": "Jonathan Safran Foer"
+    },
+    {
+        "bookTitle": "Extremely Loud & Incredibly Close",
+        "authorName": "Jonathan Safran Foer"
+    },
+    {
+        "bookTitle": "Fahrenheit 451",
+        "authorName": "Ray Bradbury"
+    },
+    {
+        "bookTitle": "Fight Club",
+        "authorName": "Chuck Palahniuk"
+    },
+    {
+        "bookTitle": "Franny and Zooey",
+        "authorName": "J.D. Salinger"
+    },
+    {
+        "bookTitle": "Fried Green Tomatoes at the Whistle Stop Cafe",
+        "authorName": "Fannie Flagg"
+    },
+    {
+        "bookTitle": "Girl with a Pearl Earring",
+        "authorName": "Tracy Chevalier"
+    },
+    {
+        "bookTitle": "Gone Girl",
+        "authorName": "Gillian Flynn"
+    },
+    {
+        "bookTitle": "Gone with the Wind",
+        "authorName": "Margaret Mitchell"
+    },
+    {
+        "bookTitle": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+        "authorName": "Terry Pratchett"
+    },
+    {
+        "bookTitle": "Great Expectations",
+        "authorName": "Charles Dickens"
+    },
+    {
+        "bookTitle": "Hamlet",
+        "authorName": "William Shakespeare"
+    },
+    {
+        "bookTitle": "Harry Potter and the Chamber of Secrets",
+        "authorName": "J.K. Rowling"
+    },
+    {
+        "bookTitle": "Harry Potter and the Goblet of Fire",
+        "authorName": "J.K. Rowling"
+    },
+    {
+        "bookTitle": "Harry Potter and the Half-Blood Prince",
+        "authorName": "J.K. Rowling"
+    },
+    {
+        "bookTitle": "Harry Potter and the Order of the Phoenix",
+        "authorName": "J.K. Rowling"
+    },
+    {
+        "bookTitle": "Harry Potter and the Prisoner of Azkaban",
+        "authorName": "J.K. Rowling"
+    },
+    {
+        "bookTitle": "Harry Potter and the Sorcerer's Stone",
+        "authorName": "J.K. Rowling"
+    },
+    {
+        "bookTitle": "His Dark Materials",
+        "authorName": "Philip Pullman"
+    },
+    {
+        "bookTitle": "Holes",
+        "authorName": "Louis Sachar"
+    },
+    {
+        "bookTitle": "Howl's Moving Castle",
+        "authorName": "Diana Wynne Jones"
+    },
+    {
+        "bookTitle": "I Know This Much Is True",
+        "authorName": "Wally Lamb"
+    },
+    {
+        "bookTitle": "I Know Why the Caged Bird Sings",
+        "authorName": "Maya Angelou"
+    },
+    {
+        "bookTitle": "I, Claudius",
+        "authorName": "Robert Graves"
+    },
+    {
+        "bookTitle": "In Cold Blood",
+        "authorName": "Truman Capote"
+    },
+    {
+        "bookTitle": "Inferno",
+        "authorName": "Dante Alighieri"
+    },
+    {
+        "bookTitle": "Infinite Jest",
+        "authorName": "David Foster Wallace"
+    },
+    {
+        "bookTitle": "Inkheart",
+        "authorName": "Cornelia Funke"
+    },
+    {
+        "bookTitle": "Interview with the Vampire",
+        "authorName": "Anne Rice"
+    },
+    {
+        "bookTitle": "Into the Wild",
+        "authorName": "Jon Krakauer"
+    },
+    {
+        "bookTitle": "Invisible Man",
+        "authorName": "Ralph Ellison"
+    },
+    {
+        "bookTitle": "Island of the Blue Dolphins",
+        "authorName": "Scott O'Dell"
+    },
+    {
+        "bookTitle": "It",
+        "authorName": "Stephen King"
+    },
+    {
+        "bookTitle": "Jonathan Livingston Seagull",
+        "authorName": "Richard Bach"
+    },
+    {
+        "bookTitle": "Jonathan Strange & Mr Norrell",
+        "authorName": "Susanna Clarke"
+    },
+    {
+        "bookTitle": "Jurassic Park",
+        "authorName": "Michael Crichton"
+    },
+    {
+        "bookTitle": "Kafka on the Shore",
+        "authorName": "Haruki Murakami"
+    },
+    {
+        "bookTitle": "Life of Pi",
+        "authorName": "Yann Martel"
+    },
+    {
+        "bookTitle": "Like Water for Chocolate",
+        "authorName": "Laura Esquivel"
+    },
+    {
+        "bookTitle": "Lolita",
+        "authorName": "Vladimir Nabokov"
+    },
+    {
+        "bookTitle": "Lonesome Dove",
+        "authorName": "Larry McMurtry"
+    },
+    {
+        "bookTitle": "Looking for Alaska",
+        "authorName": "John Green"
+    },
+    {
+        "bookTitle": "Love in the Time of Cholera",
+        "authorName": "Gabriel Garc\u00eda M\u00e1rquez"
+    },
+    {
+        "bookTitle": "Matilda",
+        "authorName": "Roald Dahl"
+    },
+    {
+        "bookTitle": "Me Before You",
+        "authorName": "Jojo Moyes"
+    },
+    {
+        "bookTitle": "Me Talk Pretty One Day",
+        "authorName": "David Sedaris"
+    },
+    {
+        "bookTitle": "Middlesex",
+        "authorName": "Jeffrey Eugenides"
+    },
+    {
+        "bookTitle": "Midnight in the Garden of Good and Evil",
+        "authorName": "John Berendt"
+    },
+    {
+        "bookTitle": "Midnight's Children",
+        "authorName": "Salman Rushdie"
+    },
+    {
+        "bookTitle": "Misery",
+        "authorName": "Stephen King"
+    },
+    {
+        "bookTitle": "Moby-Dick or, the Whale",
+        "authorName": "Herman Melville"
+    },
+    {
+        "bookTitle": "My Sister's Keeper",
+        "authorName": "Jodi Picoult"
+    },
+    {
+        "bookTitle": "Neuromancer",
+        "authorName": "William Gibson"
+    },
+    {
+        "bookTitle": "Never Let Me Go",
+        "authorName": "Kazuo Ishiguro"
+    },
+    {
+        "bookTitle": "Neverwhere",
+        "authorName": "Neil Gaiman"
+    },
+    {
+        "bookTitle": "Number the Stars",
+        "authorName": "Lois Lowry"
+    },
+    {
+        "bookTitle": "Of Mice and Men",
+        "authorName": "John Steinbeck"
+    },
+    {
+        "bookTitle": "Oliver Twist",
+        "authorName": "Charles Dickens"
+    },
+    {
+        "bookTitle": "On the Road",
+        "authorName": "Jack Kerouac"
+    },
+    {
+        "bookTitle": "One Hundred Years of Solitude",
+        "authorName": "Gabriel Garc\u00eda M\u00e1rquez"
+    },
+    {
+        "bookTitle": "Outlander",
+        "authorName": "Diana Gabaldon"
+    },
+    {
+        "bookTitle": "Paper Towns",
+        "authorName": "John Green"
+    },
+    {
+        "bookTitle": "Paradise Lost",
+        "authorName": "John Milton"
+    },
+    {
+        "bookTitle": "Perfume: The Story of a Murderer",
+        "authorName": "Patrick S\u00fcskind"
+    },
+    {
+        "bookTitle": "Pippi Longstocking",
+        "authorName": "Astrid Lindgren"
+    },
+    {
+        "bookTitle": "Rebecca",
+        "authorName": "Daphne du Maurier"
+    },
+    {
+        "bookTitle": "Room",
+        "authorName": "Emma Donoghue"
+    },
+    {
+        "bookTitle": "Roots: The Saga of an American Family",
+        "authorName": "Alex Haley"
+    },
+    {
+        "bookTitle": "Schindler's List",
+        "authorName": "Thomas Keneally"
+    },
+    {
+        "bookTitle": "Shantaram",
+        "authorName": "Gregory David Roberts"
+    },
+    {
+        "bookTitle": "She's Come Undone",
+        "authorName": "Wally Lamb"
+    },
+    {
+        "bookTitle": "Slaughterhouse-Five",
+        "authorName": "Kurt Vonnegut Jr."
+    },
+    {
+        "bookTitle": "Snow Falling on Cedars",
+        "authorName": "David Guterson"
+    },
+    {
+        "bookTitle": "Snow Flower and the Secret Fan",
+        "authorName": "Lisa See"
+    },
+    {
+        "bookTitle": "Sophie's Choice",
+        "authorName": "William Styron"
+    },
+    {
+        "bookTitle": "Sophie's World",
+        "authorName": "Jostein Gaarder"
+    },
+    {
+        "bookTitle": "Speak",
+        "authorName": "Laurie Halse Anderson"
+    },
+    {
+        "bookTitle": "Stardust",
+        "authorName": "Neil Gaiman"
+    },
+    {
+        "bookTitle": "Stargirl",
+        "authorName": "Jerry Spinelli"
+    },
+    {
+        "bookTitle": "Stranger in a Strange Land",
+        "authorName": "Robert A. Heinlein"
+    },
+    {
+        "bookTitle": "The Adventures of Tom Sawyer",
+        "authorName": "Mark Twain"
+    },
+    {
+        "bookTitle": "The Age of Innocence",
+        "authorName": "Edith Wharton"
+    },
+    {
+        "bookTitle": "The Alchemist",
+        "authorName": "Paulo Coelho"
+    },
+    {
+        "bookTitle": "The Amazing Adventures of Kavalier & Clay",
+        "authorName": "Michael Chabon"
+    },
+    {
+        "bookTitle": "The Amber Spyglass",
+        "authorName": "Philip Pullman"
+    },
+    {
+        "bookTitle": "The Angel Experiment",
+        "authorName": "James Patterson"
+    },
+    {
+        "bookTitle": "The BFG",
+        "authorName": "Roald Dahl"
+    },
+    {
+        "bookTitle": "The Book Thief",
+        "authorName": "Markus Zusak"
+    },
+    {
+        "bookTitle": "The Boy in the Striped Pajamas",
+        "authorName": "John Boyne"
+    },
+    {
+        "bookTitle": "The Cat in the Hat",
+        "authorName": "Dr. Seuss"
+    },
+    {
+        "bookTitle": "The Catcher in the Rye",
+        "authorName": "J.D. Salinger"
+    },
+    {
+        "bookTitle": "The Chosen",
+        "authorName": "Chaim Potok"
+    },
+    {
+        "bookTitle": "The Clan of the Cave Bear",
+        "authorName": "Jean M. Auel"
+    },
+    {
+        "bookTitle": "The Color Purple",
+        "authorName": "Alice Walker"
+    },
+    {
+        "bookTitle": "The Complete Maus",
+        "authorName": "Art Spiegelman"
+    },
+    {
+        "bookTitle": "The Complete Sherlock Holmes",
+        "authorName": "Arthur Conan Doyle"
+    },
+    {
+        "bookTitle": "The Crucible",
+        "authorName": "Arthur Miller"
+    },
+    {
+        "bookTitle": "The Curious Incident of the Dog in the Night-Time",
+        "authorName": "Mark Haddon"
+    },
+    {
+        "bookTitle": "The Da Vinci Code",
+        "authorName": "Dan Brown"
+    },
+    {
+        "bookTitle": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
+        "authorName": "Erik Larson"
+    },
+    {
+        "bookTitle": "The Diary of a Young Girl",
+        "authorName": "Anne Frank"
+    },
+    {
+        "bookTitle": "The Divine Comedy",
+        "authorName": "Dante Alighieri"
+    },
+    {
+        "bookTitle": "The English Patient",
+        "authorName": "Michael Ondaatje"
+    },
+    {
+        "bookTitle": "The Exorcist",
+        "authorName": "William Peter Blatty"
+    },
+    {
+        "bookTitle": "The Eye of the World",
+        "authorName": "Robert Jordan"
+    },
+    {
+        "bookTitle": "The Fellowship of the Ring",
+        "authorName": "J.R.R. Tolkien"
+    },
+    {
+        "bookTitle": "The Final Empire",
+        "authorName": "Brandon Sanderson"
+    },
+    {
+        "bookTitle": "The Five People You Meet in Heaven",
+        "authorName": "Mitch Albom"
+    },
+    {
+        "bookTitle": "The Girl Who Kicked the Hornet's Nest",
+        "authorName": "Stieg Larsson"
+    },
+    {
+        "bookTitle": "The Girl Who Played with Fire",
+        "authorName": "Stieg Larsson"
+    },
+    {
+        "bookTitle": "The Girl with the Dragon Tattoo",
+        "authorName": "Stieg Larsson"
+    },
+    {
+        "bookTitle": "The Giver",
+        "authorName": "Lois Lowry"
+    },
+    {
+        "bookTitle": "The Golden Compass",
+        "authorName": "Philip Pullman"
+    },
+    {
+        "bookTitle": "The Good Earth",
+        "authorName": "Pearl S. Buck"
+    },
+    {
+        "bookTitle": "The Grapes of Wrath",
+        "authorName": "John Steinbeck"
+    },
+    {
+        "bookTitle": "The Great Gatsby",
+        "authorName": "F. Scott Fitzgerald"
+    },
+    {
+        "bookTitle": "The Guernsey Literary and Potato Peel Pie Society",
+        "authorName": "Mary Ann Shaffer"
+    },
+    {
+        "bookTitle": "The Handmaid's Tale",
+        "authorName": "Margaret Atwood"
+    },
+    {
+        "bookTitle": "The Hobbit, or There and Back Again",
+        "authorName": "J.R.R. Tolkien"
+    },
+    {
+        "bookTitle": "The Hound of the Baskervilles",
+        "authorName": "Arthur Conan Doyle"
+    },
+    {
+        "bookTitle": "The House of the Spirits",
+        "authorName": "Isabel Allende"
+    },
+    {
+        "bookTitle": "The Hunger Games Trilogy Boxset",
+        "authorName": "Suzanne Collins"
+    },
+    {
+        "bookTitle": "The Joy Luck Club",
+        "authorName": "Amy Tan"
+    },
+    {
+        "bookTitle": "The Kite Runner",
+        "authorName": "Khaled Hosseini"
+    },
+    {
+        "bookTitle": "The Last Battle",
+        "authorName": "C.S. Lewis"
+    },
+    {
+        "bookTitle": "The Last Song",
+        "authorName": "Nicholas Sparks"
+    },
+    {
+        "bookTitle": "The Lightning Thief",
+        "authorName": "Rick Riordan"
+    },
+    {
+        "bookTitle": "The Lion, the Witch and the Wardrobe",
+        "authorName": "C.S. Lewis"
+    },
+    {
+        "bookTitle": "The Little Prince",
+        "authorName": "Antoine de Saint-Exup\u00e9ry"
+    },
+    {
+        "bookTitle": "The Lorax",
+        "authorName": "Dr. Seuss"
+    },
+    {
+        "bookTitle": "The Lord of the Rings",
+        "authorName": "J.R.R. Tolkien"
+    },
+    {
+        "bookTitle": "The Lovely Bones",
+        "authorName": "Alice Sebold"
+    },
+    {
+        "bookTitle": "The Martian",
+        "authorName": "Andy Weir"
+    },
+    {
+        "bookTitle": "The Martian Chronicles",
+        "authorName": "Ray Bradbury"
+    },
+    {
+        "bookTitle": "The Mists of Avalon",
+        "authorName": "Marion Zimmer Bradley"
+    },
+    {
+        "bookTitle": "The Name of the Rose",
+        "authorName": "Umberto Eco"
+    },
+    {
+        "bookTitle": "The Name of the Wind",
+        "authorName": "Patrick Rothfuss"
+    },
+    {
+        "bookTitle": "The Neverending Story",
+        "authorName": "Michael Ende"
+    },
+    {
+        "bookTitle": "The Old Man and the Sea",
+        "authorName": "Ernest Hemingway"
+    },
+    {
+        "bookTitle": "The Once and Future King",
+        "authorName": "T.H. White"
+    },
+    {
+        "bookTitle": "The Other Boleyn Girl",
+        "authorName": "Philippa Gregory"
+    },
+    {
+        "bookTitle": "The Outsiders",
+        "authorName": "S.E. Hinton"
+    },
+    {
+        "bookTitle": "The Plague",
+        "authorName": "Albert Camus"
+    },
+    {
+        "bookTitle": "The Poisonwood Bible",
+        "authorName": "Barbara Kingsolver"
+    },
+    {
+        "bookTitle": "The Power of One",
+        "authorName": "Bryce Courtenay"
+    },
+    {
+        "bookTitle": "The Prince",
+        "authorName": "Niccol\u00f2 Machiavelli"
+    },
+    {
+        "bookTitle": "The Reader",
+        "authorName": "Bernhard Schlink"
+    },
+    {
+        "bookTitle": "The Red Tent",
+        "authorName": "Anita Diamant"
+    },
+    {
+        "bookTitle": "The Remains of the Day",
+        "authorName": "Kazuo Ishiguro"
+    },
+    {
+        "bookTitle": "The Road",
+        "authorName": "Cormac McCarthy"
+    },
+    {
+        "bookTitle": "The Secret Garden",
+        "authorName": "Frances Hodgson Burnett"
+    },
+    {
+        "bookTitle": "The Secret History",
+        "authorName": "Donna Tartt"
+    },
+    {
+        "bookTitle": "The Secret Life of Bees",
+        "authorName": "Sue Monk Kidd"
+    },
+    {
+        "bookTitle": "The Shack",
+        "authorName": "William Paul Young"
+    },
+    {
+        "bookTitle": "The Shadow of the Wind",
+        "authorName": "Carlos Ruiz Zaf\u00f3n"
+    },
+    {
+        "bookTitle": "The Shining",
+        "authorName": "Stephen King"
+    },
+    {
+        "bookTitle": "The Shipping News",
+        "authorName": "Annie Proulx"
+    },
+    {
+        "bookTitle": "The Silence of the Lambs",
+        "authorName": "Thomas Harris"
+    },
+    {
+        "bookTitle": "The Silmarillion",
+        "authorName": "J.R.R. Tolkien"
+    },
+    {
+        "bookTitle": "The Stand",
+        "authorName": "Stephen King"
+    },
+    {
+        "bookTitle": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "authorName": "Robert Louis Stevenson"
+    },
+    {
+        "bookTitle": "The Stranger",
+        "authorName": "Albert Camus"
+    },
+    {
+        "bookTitle": "The Subtle Knife",
+        "authorName": "Philip Pullman"
+    },
+    {
+        "bookTitle": "The Things They Carried",
+        "authorName": "Tim O'Brien"
+    },
+    {
+        "bookTitle": "The Time Traveler's Wife",
+        "authorName": "Audrey Niffenegger"
+    },
+    {
+        "bookTitle": "The Titan's Curse",
+        "authorName": "Rick Riordan"
+    },
+    {
+        "bookTitle": "The Trial",
+        "authorName": "Franz Kafka"
+    },
+    {
+        "bookTitle": "The Unbearable Lightness of Being",
+        "authorName": "Milan Kundera"
+    },
+    {
+        "bookTitle": "The Vampire Lestat",
+        "authorName": "Anne Rice"
+    },
+    {
+        "bookTitle": "The Velveteen Rabbit",
+        "authorName": "Margery Williams Bianco"
+    },
+    {
+        "bookTitle": "The Very Hungry Caterpillar",
+        "authorName": "Eric Carle"
+    },
+    {
+        "bookTitle": "The Wind in the Willows",
+        "authorName": "Kenneth Grahame"
+    },
+    {
+        "bookTitle": "The Wind-Up Bird Chronicle",
+        "authorName": "Haruki Murakami"
+    },
+    {
+        "bookTitle": "The Witches",
+        "authorName": "Roald Dahl"
+    },
+    {
+        "bookTitle": "The Wonderful Wizard of Oz",
+        "authorName": "L. Frank Baum"
+    },
+    {
+        "bookTitle": "The World According to Garp",
+        "authorName": "John Irving"
+    },
+    {
+        "bookTitle": "Their Eyes Were Watching God",
+        "authorName": "Zora Neale Hurston"
+    },
+    {
+        "bookTitle": "Throne of Glass",
+        "authorName": "Sarah J. Maas"
+    },
+    {
+        "bookTitle": "To Kill a Mockingbird",
+        "authorName": "Harper Lee"
+    },
+    {
+        "bookTitle": "To the Lighthouse",
+        "authorName": "Virginia Woolf"
+    },
+    {
+        "bookTitle": "Tote M\u00e4dchen l\u00fcgen nicht",
+        "authorName": "Jay Asher"
+    },
+    {
+        "bookTitle": "Treasure Island",
+        "authorName": "Robert Louis Stevenson"
+    },
+    {
+        "bookTitle": "Tuck Everlasting",
+        "authorName": "Natalie Babbitt"
+    },
+    {
+        "bookTitle": "Twilight",
+        "authorName": "Stephenie Meyer"
+    },
+    {
+        "bookTitle": "Ulysses",
+        "authorName": "James Joyce"
+    },
+    {
+        "bookTitle": "V for Vendetta",
+        "authorName": "Alan Moore"
+    },
+    {
+        "bookTitle": "Watchmen",
+        "authorName": "Alan Moore"
+    },
+    {
+        "bookTitle": "Water for Elephants",
+        "authorName": "Sara Gruen"
+    },
+    {
+        "bookTitle": "Watership Down",
+        "authorName": "Richard Adams"
+    },
+    {
+        "bookTitle": "Where the Red Fern Grows",
+        "authorName": "Wilson Rawls"
+    },
+    {
+        "bookTitle": "Where the Wild Things Are",
+        "authorName": "Maurice Sendak"
+    },
+    {
+        "bookTitle": "Wicked: The Life and Times of the Wicked Witch of the West",
+        "authorName": "Gregory Maguire"
+    },
+    {
+        "bookTitle": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values",
+        "authorName": "Robert M. Pirsig"
+    }
+]
