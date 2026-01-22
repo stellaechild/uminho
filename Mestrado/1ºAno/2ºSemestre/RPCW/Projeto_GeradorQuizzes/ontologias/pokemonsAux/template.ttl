@@ -1,0 +1,576 @@
+@prefix : <http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon/> .
+
+<http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#BomContra
+:BomContra rdf:type owl:ObjectProperty ;
+           rdfs:subPropertyOf :contraElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#ExcelenteContra
+:ExcelenteContra rdf:type owl:ObjectProperty ;
+                 rdfs:subPropertyOf :contraElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#MauContra
+:MauContra rdf:type owl:ObjectProperty ;
+           rdfs:subPropertyOf :contraElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#MuitoBomContra
+:MuitoBomContra rdf:type owl:ObjectProperty ;
+                rdfs:subPropertyOf :contraElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#MuitoMauContra
+:MuitoMauContra rdf:type owl:ObjectProperty ;
+                rdfs:subPropertyOf :contraElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#NormalBomContra
+:NormalBomContra rdf:type owl:ObjectProperty ;
+                 rdfs:subPropertyOf :contraElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#NormalContra
+:NormalContra rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf :contraElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#NormalMauContra
+:NormalMauContra rdf:type owl:ObjectProperty ;
+                 rdfs:subPropertyOf :contraElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#contraElemento
+:contraElemento rdf:type owl:ObjectProperty ;
+                rdfs:domain :Pokémon ;
+                rdfs:range :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temAbilidade
+:temAbilidade rdf:type owl:ObjectProperty ;
+              owl:inverseOf :éAbilidadeDe ;
+              rdfs:domain :Pokémon ;
+              rdfs:range :Abilidade .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temAtaque
+:temAtaque rdf:type owl:ObjectProperty ;
+           rdfs:domain :Pokémon ;
+           rdfs:range :Ataque .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temAtaqueEspecial
+:temAtaqueEspecial rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf :temAtaque ;
+                   rdfs:domain :Pokémon ;
+                   rdfs:range :AtaqueEspecial .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temAtaqueNormal
+:temAtaqueNormal rdf:type owl:ObjectProperty ;
+                 rdfs:subPropertyOf :temAtaque ;
+                 rdfs:domain :Pokémon ;
+                 rdfs:range :AtaqueNormal .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temClassificação
+:temClassificação rdf:type owl:ObjectProperty ;
+                  rdfs:domain :Pokémon ;
+                  rdfs:range :Classificação .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temDefesa
+:temDefesa rdf:type owl:ObjectProperty ;
+           rdfs:domain :Pokémon ;
+           rdfs:range :Defesa .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temDefesaEspecial
+:temDefesaEspecial rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf :temDefesa ;
+                   rdfs:domain :Pokémon ;
+                   rdfs:range :DefesaEspecial .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temDefesaNormal
+:temDefesaNormal rdf:type owl:ObjectProperty ;
+                 rdfs:subPropertyOf :temDefesa ;
+                 rdfs:domain :Pokémon ;
+                 rdfs:range :DefesaNormal .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temElemento
+:temElemento rdf:type owl:ObjectProperty ;
+             rdfs:domain :Pokémon ;
+             rdfs:range :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temElemento1
+:temElemento1 rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf :temElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temElemento2
+:temElemento2 rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf :temElemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temExperiênciaParaCrescimento
+:temExperiênciaParaCrescimento rdf:type owl:ObjectProperty ;
+                               rdfs:domain :Pokémon ;
+                               rdfs:range :ExperiênciaParaCrescimento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temFelicidade
+:temFelicidade rdf:type owl:ObjectProperty ;
+               rdfs:domain :Pokémon ;
+               rdfs:range :Felicidade .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temGeração
+:temGeração rdf:type owl:ObjectProperty ;
+            rdfs:domain :Pokémon ;
+            rdfs:range :Geração .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temHP
+:temHP rdf:type owl:ObjectProperty ;
+       rdfs:domain :Pokémon ;
+       rdfs:range :HP .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temPassosDeOvo
+:temPassosDeOvo rdf:type owl:ObjectProperty ;
+                rdfs:domain :Pokémon ;
+                rdfs:range :PassosChocarOvo .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temPercentagemMacho
+:temPercentagemMacho rdf:type owl:ObjectProperty ;
+                     rdfs:domain :Pokémon ;
+                     rdfs:range :PercentagemMacho .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temTaxaDeCaptura
+:temTaxaDeCaptura rdf:type owl:ObjectProperty ;
+                  rdfs:domain :Pokémon ;
+                  rdfs:range :TaxaDeCaptura .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temVelocidade
+:temVelocidade rdf:type owl:ObjectProperty ;
+               rdfs:domain :Pokémon ;
+               rdfs:range :Velocidade .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#éAbilidadeDe
+:éAbilidadeDe rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#experiênciaCrescimento
+:experiênciaCrescimento rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#númeroGeração
+:númeroGeração rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#taxaCaptura
+:taxaCaptura rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temAltura
+:temAltura rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temAtaque
+:temAtaque rdf:type owl:DatatypeProperty ;
+           rdfs:subPropertyOf :temAtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temAtributoBase
+:temAtributoBase rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temClassificação
+:temClassificação rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temDefesa
+:temDefesa rdf:type owl:DatatypeProperty ;
+           rdfs:subPropertyOf :temAtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temFelicidade
+:temFelicidade rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf :temAtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temHP
+:temHP rdf:type owl:DatatypeProperty ;
+       rdfs:subPropertyOf :temAtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temNome
+:temNome rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temNomeJaponês
+:temNomeJaponês rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temPassosChocarOvo
+:temPassosChocarOvo rdf:type owl:DatatypeProperty ;
+                    rdfs:subPropertyOf :temAtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temPercentagemMacho
+:temPercentagemMacho rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temPeso
+:temPeso rdf:type owl:DatatypeProperty .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#temVelocidade
+:temVelocidade rdf:type owl:DatatypeProperty ;
+               rdfs:subPropertyOf :temAtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#éLendário
+:éLendário rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Abilidade
+:Abilidade rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Ataque
+:Ataque rdf:type owl:Class ;
+        rdfs:subClassOf :AtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#AtaqueEspecial
+:AtaqueEspecial rdf:type owl:Class ;
+                rdfs:subClassOf :Ataque .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#AtaqueNormal
+:AtaqueNormal rdf:type owl:Class ;
+              rdfs:subClassOf :Ataque .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#AtributoBase
+:AtributoBase rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Classificação
+:Classificação rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Defesa
+:Defesa rdf:type owl:Class ;
+        rdfs:subClassOf :AtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#DefesaEspecial
+:DefesaEspecial rdf:type owl:Class ;
+                rdfs:subClassOf :Defesa .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#DefesaNormal
+:DefesaNormal rdf:type owl:Class ;
+              rdfs:subClassOf :Defesa .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Elemento
+:Elemento rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#ExperiênciaParaCrescimento
+:ExperiênciaParaCrescimento rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Felicidade
+:Felicidade rdf:type owl:Class ;
+            rdfs:subClassOf :AtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Geração
+:Geração rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#HP
+:HP rdf:type owl:Class ;
+    rdfs:subClassOf :AtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#PassosChocarOvo
+:PassosChocarOvo rdf:type owl:Class ;
+                 rdfs:subClassOf :AtributoBase .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#PercentagemMacho
+:PercentagemMacho rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Pokémon
+:Pokémon rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#TaxaDeCaptura
+:TaxaDeCaptura rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Tipo1
+:Tipo1 rdf:type owl:Class ;
+       rdfs:subClassOf :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Tipo2
+:Tipo2 rdf:type owl:Class ;
+       rdfs:subClassOf :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Velocidade
+:Velocidade rdf:type owl:Class ;
+            rdfs:subClassOf :AtributoBase .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Bug
+:Bug rdf:type owl:NamedIndividual ,
+              :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Chlorophyll
+:Chlorophyll rdf:type owl:NamedIndividual ,
+                      :Abilidade .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Dark
+:Dark rdf:type owl:NamedIndividual ,
+               :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Dragon
+:Dragon rdf:type owl:NamedIndividual ,
+                 :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Electric
+:Electric rdf:type owl:NamedIndividual ,
+                   :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Fairy
+:Fairy rdf:type owl:NamedIndividual ,
+                :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Fight
+:Fight rdf:type owl:NamedIndividual ,
+                :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Fire
+:Fire rdf:type owl:NamedIndividual ,
+               :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Flying
+:Flying rdf:type owl:NamedIndividual ,
+                 :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Ghost
+:Ghost rdf:type owl:NamedIndividual ,
+                :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Grass
+:Grass rdf:type owl:NamedIndividual ,
+                :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Ground
+:Ground rdf:type owl:NamedIndividual ,
+                 :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Ice
+:Ice rdf:type owl:NamedIndividual ,
+              :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Normal
+:Normal rdf:type owl:NamedIndividual ,
+                 :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Overgrow
+:Overgrow rdf:type owl:NamedIndividual ,
+                   :Abilidade .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Poison
+:Poison rdf:type owl:NamedIndividual ,
+                 :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Psychic
+:Psychic rdf:type owl:NamedIndividual ,
+                  :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Rock
+:Rock rdf:type owl:NamedIndividual ,
+               :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Steel
+:Steel rdf:type owl:NamedIndividual ,
+                :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#Water
+:Water rdf:type owl:NamedIndividual ,
+                :Elemento .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#ataque_1
+:ataque_1 rdf:type owl:NamedIndividual ,
+                   :Ataque ;
+          :temAtaque 49 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#ataque_2
+:ataque_2 rdf:type owl:NamedIndividual ,
+                   :Ataque ;
+          :temAtaque 65 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#classificação_1
+:classificação_1 rdf:type owl:NamedIndividual ,
+                          :Classificação ;
+                 :temClassificação "Seed Pokémon" .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#defesa_1
+:defesa_1 rdf:type owl:NamedIndividual ,
+                   :Defesa ;
+          :temDefesa 49 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#defesa_2
+:defesa_2 rdf:type owl:NamedIndividual ,
+                   :Defesa ;
+          :temDefesa 65 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#experiência_crescimento_1
+:experiência_crescimento_1 rdf:type owl:NamedIndividual ,
+                                    :ExperiênciaParaCrescimento ;
+                           :experiênciaCrescimento 1059860 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#felicidade_1
+:felicidade_1 rdf:type owl:NamedIndividual ,
+                       :Felicidade ;
+              :temFelicidade 70 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#geração_1
+:geração_1 rdf:type owl:NamedIndividual ;
+           :númeroGeração 1 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#passos_1
+:passos_1 rdf:type owl:NamedIndividual ,
+                   :PassosChocarOvo ;
+          :temPassosChocarOvo 5120 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#percentagem_macho_1
+:percentagem_macho_1 rdf:type owl:NamedIndividual ,
+                              :PercentagemMacho ;
+                     :temPercentagemMacho 88.1 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#taxa_captura_1
+:taxa_captura_1 rdf:type owl:NamedIndividual ,
+                         :TaxaDeCaptura ;
+                :taxaCaptura 45 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#velocidade_1
+:velocidade_1 rdf:type owl:NamedIndividual ;
+              :temVelocidade 45 .
+
+
+###  http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#1
+<http://www.semanticweb.org/yunzhu/ontologies/2025/pokemon#1> rdf:type owl:NamedIndividual ,
+                                                                       :Pokémon ;
+                                                              :ExcelenteContra :Fire ,
+                                                                               :Flying ;
+                                                              :MauContra :Electric ,
+                                                                         :Fairy ,
+                                                                         :Fight ,
+                                                                         :Water ;
+                                                              :MuitoBomContra :Ice ,
+                                                                              :Psychic ;
+                                                              :MuitoMauContra :Grass ;
+                                                              :NormalContra :Bug ,
+                                                                            :Dark ,
+                                                                            :Dragon ,
+                                                                            :Ghost ,
+                                                                            :Ground ,
+                                                                            :Normal ,
+                                                                            :Poison ,
+                                                                            :Rock ,
+                                                                            :Steel ;
+                                                              :temAbilidade :Chlorophyll ,
+                                                                            :Overgrow ;
+                                                              :temAtaqueEspecial :ataque_2 ;
+                                                              :temAtaqueNormal :ataque_1 ;
+                                                              :temDefesaEspecial :defesa_2 ;
+                                                              :temDefesaNormal :defesa_1 ;
+                                                              :temElemento1 :Grass ;
+                                                              :temElemento2 :Poison ;
+                                                              :temExperiênciaParaCrescimento :experiência_crescimento_1 ;
+                                                              :temGeração :geração_1 ;
+                                                              :temPassosDeOvo :passos_1 ;
+                                                              :temPercentagemMacho :percentagem_macho_1 ;
+                                                              :temTaxaDeCaptura :taxa_captura_1 ;
+                                                              :temVelocidade :velocidade_1 ;
+                                                              :temAltura 0.7 ;
+                                                              :temNome "Bulbasaur" ;
+                                                              :temNomeJaponês "Fushigidaneフシギダネ" ;
+                                                              :temPeso 6.9 ;
+                                                              :éLendário "false"^^xsd:boolean .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

@@ -1,0 +1,198 @@
+@prefix : <http://www.semanticweb.org/books/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/books/> .
+
+<http://www.semanticweb.org/books> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/books#hasPublished
+:hasPublished rdf:type owl:ObjectProperty ;
+              owl:inverseOf :publishedBy ;
+              rdfs:domain :Publisher ;
+              rdfs:range :Book .
+
+
+###  http://www.semanticweb.org/books#hasWritten
+:hasWritten rdf:type owl:ObjectProperty ;
+            owl:inverseOf :writtenBy ;
+            rdfs:domain :Author ;
+            rdfs:range :Book ,
+                       :Series .
+
+
+###  http://www.semanticweb.org/books#writtenBy
+:writtenBy rdf:type owl:ObjectProperty ;
+           rdfs:domain :Book ;
+           rdfs:range :Author .
+
+
+###  http://www.semanticweb.org/books/appearsIn
+:appearsIn rdf:type owl:ObjectProperty ;
+           owl:inverseOf :hasCharacter ;
+           rdfs:domain :Character ;
+           rdfs:range :Book ,
+                      :Series .
+
+
+###  http://www.semanticweb.org/books/awardedBy
+:awardedBy rdf:type owl:ObjectProperty ;
+           owl:inverseOf :hasAwards ;
+           rdfs:domain :Award ;
+           rdfs:range :Book .
+
+
+###  http://www.semanticweb.org/books/containsBook
+:containsBook rdf:type owl:ObjectProperty ;
+              owl:inverseOf :partOfSeries ;
+              rdfs:domain :Series ;
+              rdfs:range :Book .
+
+
+###  http://www.semanticweb.org/books/hasAwards
+:hasAwards rdf:type owl:ObjectProperty ,
+                    owl:AsymmetricProperty ,
+                    owl:IrreflexiveProperty ;
+           rdfs:domain :Book ;
+           rdfs:range :Award .
+
+
+###  http://www.semanticweb.org/books/hasBook
+:hasBook rdf:type owl:ObjectProperty ;
+         owl:inverseOf :hasGenre ;
+         rdfs:domain :Genre ;
+         rdfs:range :Book ,
+                    :Series .
+
+
+###  http://www.semanticweb.org/books/hasCharacter
+:hasCharacter rdf:type owl:ObjectProperty ;
+              rdfs:domain :Book ,
+                          :Series ;
+              rdfs:range :Character .
+
+
+###  http://www.semanticweb.org/books/hasGenre
+:hasGenre rdf:type owl:ObjectProperty ,
+                   owl:TransitiveProperty ,
+                   owl:IrreflexiveProperty ;
+          rdfs:domain :Book ,
+                      :Series ;
+          rdfs:range :Genre .
+
+
+###  http://www.semanticweb.org/books/partOfSeries
+:partOfSeries rdf:type owl:ObjectProperty ;
+              rdfs:domain :Book ;
+              rdfs:range :Series .
+
+
+###  http://www.semanticweb.org/books/publishedBy
+:publishedBy rdf:type owl:ObjectProperty ;
+             rdfs:domain :Book ;
+             rdfs:range :Publisher .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/books#name
+:name rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Award ,
+                  :Genre ,
+                  :Person ,
+                  :Publisher ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/books/numberOfPages
+:numberOfPages rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Book ;
+               rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/books/publishedIn
+:publishedIn rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Book ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/books/title
+:title rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Book ,
+                   :Series ;
+       rdfs:range xsd:string .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/books/Author
+:Author rdf:type owl:Class ;
+        rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/books/Award
+:Award rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/books/Book
+:Book rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/books/Character
+:Character rdf:type owl:Class ;
+           rdfs:subClassOf :Person .
+
+
+###  http://www.semanticweb.org/books/Genre
+:Genre rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/books/Person
+:Person rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/books/Publisher
+:Publisher rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/books/Series
+:Series rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/books#Harry_Potter
+:Harry_Potter rdf:type owl:NamedIndividual ,
+                       :Series ;
+              :containsBook :Harry_Potter_and_the_Order_of_the_Phoenix ;
+              :title "Harry Potter" .
+
+
+###  http://www.semanticweb.org/books#jk_rowling
+:jk_rowling rdf:type owl:NamedIndividual ,
+                     :Author ;
+            :name "J.K. Rowling" .
+
+
+###  http://www.semanticweb.org/books/Harry_Potter_and_the_Order_of_the_Phoenix
+:Harry_Potter_and_the_Order_of_the_Phoenix rdf:type owl:NamedIndividual ,
+                                                    :Book ;
+                                           :partOfSeries :Harry_Potter ;
+                                           :numberOfPages 870 ;
+                                           :publishedIn "06/21/03" ;
+                                           :title "Harry Potter and the Order of the Phoenix" .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
