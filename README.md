@@ -25,7 +25,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 
 - (15) [Sistemas Operativos](https://github.com/stellaechild/uminho/tree/main/Licenciatura/2ºAno/Sistemas%20Operativos)
 
-- (19) [Otica]
+- (19) [Otica](https://github.com/stellaechild/uminho/tree/main/Licenciatura/2%C2%BAAno/%C3%93tica)
 
 
 ### **3º Ano - 1º Semestre**
@@ -55,7 +55,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 ## <a id="mestrado"> </a> **Mestrado**
 
 ### **1º Ano - 1º Semestre**
-- (10) [ADI]()
+- (10) [ADI](https://github.com/AN-DRE4/DadosAprendizagemAutomatica)
   
 - (10) [CP]()
   
@@ -66,13 +66,13 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 - (13) [ASCN]()
 
 ### **1º Ano - 2º Semestre** 
-- (18) [RPCW]()
+- (18) [RPCW](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/RPCW)
   
-- (16) [EG]()
+- (16) [EG](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/EG)
   
-- (13) [SPLN]()
+- (13) [SPLN](https://github.com/stellaechild/Projeto-SPLN)
   
-- (14) [PCF]()
+- (14) [PCF]
 
 ### **2º Ano - 1º Semestre** 
 - (16) [PEI]() - projeto privado para empresas OmniumAI/MyPharma
