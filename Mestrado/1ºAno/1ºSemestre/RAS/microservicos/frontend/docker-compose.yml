@@ -1,0 +1,11 @@
+version: '3'
+services:
+  frontend:
+    build: ./
+    ports:
+      - 80:80
+    volumes:
+      - .:/src
+    environment:
+      - PORT=80
+      - TZ=Europe/Lisbon
