@@ -1,0 +1,411 @@
+{
+	"info": {
+		"_postman_id": "ef00c076-f4a3-4ec7-9d01-a6a72330649e",
+		"name": "PROBUM",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31981249"
+	},
+	"item": [
+		{
+			"name": "Registar Docente",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "// {\r\n//     \"name\": \"O Docente\",\r\n//     \"email\": \"D@gmail.com\",\r\n//     \"password\": \"1234\",\r\n//     \"numero\": \"D123R6\"\r\n// }\r\n{\r\n    \"name\": \"O Docente2\",\r\n    \"email\": \"D2@gmail.com\",\r\n    \"password\": \"1234\",\r\n    \"numero\": \"2D123R6\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/registar/docente",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"registar",
+						"docente"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Registar Técnico",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"O Tecnico\",\r\n    \"email\": \"T@gmail.com\",\r\n    \"password\": \"1234\",\r\n    \"numero\": \"T1\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/registar/tecnico",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"registar",
+						"tecnico"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Registar Aluno",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "// {\r\n//     \"name\": \"O Aluno\",\r\n//     \"email\": \"A@gmail.com\",\r\n//     \"password\": \"1234\",\r\n//     \"numero\": \"A492U3\"\r\n// }\r\n{\r\n    \"name\": \"O Aluno2\",\r\n    \"email\": \"A2@gmail.com\",\r\n    \"password\": \"1234\",\r\n    \"numero\": \"2A492U3\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/registar/aluno",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"registar",
+						"aluno"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						},
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Listar Utilizadores",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8000/users/listar/utilizadores",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"listar",
+						"utilizadores"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"new_D@gmail.com\",\r\n    \"password\": \"5678\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/login",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Decode User",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"token\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IkE0OTJVMyIsImV4cCI6MTcwMzg2OTc2MSwic3ViIjoiQUBnbWFpbC5jb207MiJ9.jRAs504LUekEuVRQLVnuaPFpkm97K4rfLSnNMgTRuw0\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/user",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"user"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Editar email",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"old_email\": \"D@gmail.com\",\r\n    \"new_email\": \"new_D@gmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/editar/email",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"editar",
+						"email"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Editar password",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"new_D@gmail.com\",\r\n    \"old_password\": \"1234\",\r\n    \"new_password\": \"5678\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/editar/password",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"editar",
+						"password"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Verificar Docentes",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"emails\": [\"D@gmail.com\", \"D2@gmail.com\"]\r\n}\r\n// {\r\n//     \"emails\": [\"D@gmail.com\"]\r\n// }\r\n// {\r\n//     \"emails\": [\"D@gmail.com\", \"D3@gmail.com\"]\r\n// }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/verificar/docentes",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"verificar",
+						"docentes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Verificar ValidaInicial",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "// {\r\n//     \"emails\": [\"D@gmail.com\", \"D2@gmail.com\"]\r\n// }\r\n// {\r\n//     \"emails\": [\"D@gmail.com\"]\r\n// }\r\n{\r\n    \"emails\": [\"A@gmail.com\"]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/verificar/validainicial",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"verificar",
+						"validainicial"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Pedir Info Alunos",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"numeros\": [\"A492U3\", \"2A492U3\"]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/pedirInfoAlunos",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"pedirInfoAlunos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Acede Informações",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"numero\": \"A492U3\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:8000/users/acedeInformacoes",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"users",
+						"acedeInformacoes"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,46 @@
+[
+    {
+      "model": "users.Utilizador",
+      "pk": 1,
+      "fields": {
+        "name": "tecnico",
+        "email": "tecnico@gmail.com",
+        "password": "pbkdf2_sha256$720000$Hpbdvm9MMz7jKRbdPamBrz$4Vtw+mv4bPOykxGzxgejA+WTvdREle7egOnUnjfbB6Q=",
+        "numero": "ddw112",
+        "role": 3
+      }
+    },
+    {
+        "model": "users.Utilizador",
+        "pk": 2,
+        "fields": {
+          "name": "tecnico2",
+          "email": "tecnico2@gmail.com",
+          "password": "pbkdf2_sha256$720000$Hpbdvm9MMz7jKRbdPamBrz$4Vtw+mv4bPOykxGzxgejA+WTvdREle7egOnUnjfbB6Q=",
+          "numero": "ddw223",
+          "role": 3
+        }
+    },
+    {
+        "model": "users.Utilizador",
+        "pk": 3,
+        "fields": {
+          "name": "docente",
+          "email": "docente@gmail.com",
+          "password": "pbkdf2_sha256$720000$Hpbdvm9MMz7jKRbdPamBrz$4Vtw+mv4bPOykxGzxgejA+WTvdREle7egOnUnjfbB6Q=",
+          "numero": "D123",
+          "role": 1
+        }
+    },
+    {
+        "model": "users.Utilizador",
+        "pk": 4,
+        "fields": {
+          "name": "aluno",
+          "email": "aluno@gmail.com",
+          "password": "pbkdf2_sha256$720000$Hpbdvm9MMz7jKRbdPamBrz$4Vtw+mv4bPOykxGzxgejA+WTvdREle7egOnUnjfbB6Q=",
+          "numero": "A123",
+          "role": 2
+        }
+    }
+  ]
