@@ -57,11 +57,11 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
 ### **1º Ano - 1º Semestre**
 - (10) [ADI](https://github.com/AN-DRE4/DadosAprendizagemAutomatica)
   
-- (10) [CP]()
+- (10) [CP](https://github.com/stellaechild/CPar-202324)
   
-- (15) [RAS]()
+- (15) [RAS](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/RAS)
   
-- (16) [ESR]()
+- (16) [ESR](https://github.com/stellaechild/uminho/upload/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/ESR)
   
 - (13) [ASCN](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/ASCN)
 
@@ -72,7 +72,7 @@ Repositório de todos os projetos realizados no decorrer da [Licenciatura](#lice
   
 - (13) [SPLN](https://github.com/stellaechild/Projeto-SPLN)
   
-- (14) [PCF](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/1%C2%BASemestre/PCF)
+- (14) [PCF](https://github.com/stellaechild/uminho/tree/main/Mestrado/1%C2%BAAno/2%C2%BASemestre/PCF)
 
 ### **2º Ano - 1º Semestre** 
 - (16) [PEI]() - projeto privado para empresas OmniumAI/MyPharma
